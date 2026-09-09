@@ -1,6 +1,33 @@
 {
-  "input": 228,
-  "effects": 104,
-  "no_effect": 124,
-  "missing": 0
+  "input": 1125,
+  "effects": 524,
+  "no_effect": 601,
+  "missing": 0,
+  "by_exam": {
+    "111": {
+      "input": 224,
+      "effects": 102,
+      "no_effect": 122
+    },
+    "112": {
+      "input": 227,
+      "effects": 104,
+      "no_effect": 123
+    },
+    "113": {
+      "input": 221,
+      "effects": 110,
+      "no_effect": 111
+    },
+    "114": {
+      "input": 225,
+      "effects": 104,
+      "no_effect": 121
+    },
+    "115": {
+      "input": 228,
+      "effects": 104,
+      "no_effect": 124
+    }
+  }
 }

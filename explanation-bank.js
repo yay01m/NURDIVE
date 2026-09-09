@@ -17,15 +17,13 @@ QUESTION_BANK.forEach(q=>{
   q.explanationNeedsReview=!entry||entry.record.status==='UNKNOWN';
   q.explanation=entry?(entry.record.status==='UNKNOWN'?'【解説の一部は不明】○×と採点は厚生労働省の公式正答に基づきます。':''):q.answersOnly?'公式正答のみ表示しています。解説は準備中です。':'解説を確認できません。';
   q.notes=entry?entry.record.choice_explanations.map(c=>c.explanation):q.answersOnly?q.choices.map(()=>''):[];
-  q.explanationSources=entry?entry.sources:[];
   q.hasExplanation=Boolean(entry);
 });
 // Apply final publication decisions before app.js captures any game pools.
 const rejectedQuestionIds=new Set(window.RECARE_REJECTED_QUESTION_IDS||[]);
 QUESTION_BANK=QUESTION_BANK.filter(q=>!rejectedQuestionIds.has(q.id)&&(q.hasExplanation||q.answersOnly));
 window.REQUIRED_BANK=QUESTION_BANK.filter(q=>q.questionType==='必修問題');
-const examDocumentUrls=new Set(window.OFFICIAL_QUESTIONS.flatMap(q=>[q.source.url,q.answer_source.url]));
 function explanationReferences(q){
   if(!q.hasExplanation)return '';
-  return `<aside class="explanation-sources"><p>学習用AI解説（非公式）</p>${q.explanationSources.filter(s=>!examDocumentUrls.has(s.url)&&!s.title.includes("看護師国家試験")).map(s=>`<a href="${escapeQuestionText(s.url)}" target="_blank" rel="noopener noreferrer">${escapeQuestionText(s.title)}</a>`).join('')}</aside>`;
+  return '<p class="explanation-sources">学習用AI解説（非公式）</p>';
 }

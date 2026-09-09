@@ -26,9 +26,9 @@ const {chromium}=require('C:/Users/sa1j0/.cache/codex-runtimes/codex-primary-run
  await page.evaluate(()=>{
    for(const q of fullBank){
      const holder=document.createElement('div');holder.innerHTML=explanationReferences(q);
-     for(const link of holder.querySelectorAll('a'))if(examDocumentUrls.has(link.href))throw Error('Exam PDF reference: '+q.id);
+     if(holder.querySelector('a'))throw Error('Reference link remains: '+q.id);
    }
-   QUESTION_BANK=[fullBank.find(q=>q.exam===115&&q.explanationSources.length)];reset();
+   QUESTION_BANK=[fullBank.find(q=>q.exam===115&&q.hasExplanation)];reset();
    QUESTION_BANK[0].acceptedAnswerSets[0].forEach(select);submit();
    if(el.sourceBadge.querySelector('a'))throw Error('Exam PDF after submission');
    showTitle();
@@ -47,7 +47,7 @@ const {chromium}=require('C:/Users/sa1j0/.cache/codex-runtimes/codex-primary-run
    assert.equal(await page.evaluate(()=>el.sourceBadge.querySelectorAll('a').length),0);
    if(exam!=='115'){
      const pending=await page.evaluate(()=>{QUESTION_BANK[0].acceptedAnswerSets[0].forEach(select);submit();return {score:state.score,answersOnly:QUESTION_BANK[0].answersOnly,explanation:QUESTION_BANK[0].explanation,simulator:QUESTION_BANK[0].simulatorStatus,hasExplanation:QUESTION_BANK[0].hasExplanation,notes:QUESTION_BANK[0].notes}});
-     assert.equal(pending.score,1);assert(pending.answersOnly);if(pending.hasExplanation){assert(pending.notes.every(n=>n.trim()));assert.equal(await page.evaluate(()=>el.detailBox.querySelector('summary').textContent),'選択肢ごとの解説');}else{assert(pending.explanation.includes('準備中'));}assert.equal(pending.simulator,'pending');
+     assert.equal(pending.score,1);assert(pending.answersOnly);if(pending.hasExplanation){assert(pending.notes.every(n=>n.trim()));assert.equal(await page.evaluate(()=>el.detailBox.querySelector('summary').textContent),'選択肢ごとの解説');}else{assert(pending.explanation.includes('準備中'));}assert(['effect','none'].includes(pending.simulator));
    }
    await page.evaluate(()=>showTitle());
  }

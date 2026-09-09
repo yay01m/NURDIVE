@@ -14,3 +14,6 @@ button,input,select,textarea{font-family:inherit}button{transition:transform .18
 @media(max-width:760px){.side-panel .case-meta{grid-column:1 / -1;grid-template-columns:2fr 1fr 1fr;width:100%;min-width:0}.side-panel .case-meta div{min-width:0;padding:8px 2px}.source-badge a{color:inherit;text-underline-offset:2px}.question-body h1,.choice>span:last-child{white-space:pre-line}}
 
 #feedbackText{white-space:pre-line}.explanation-sources{margin-top:16px;border-top:1px solid #cbdad5;padding-top:10px;font-size:12px}.explanation-sources a{display:block;color:#17675b;margin:8px 0;overflow-wrap:anywhere}
+.how-panel{position:fixed;z-index:100;width:min(640px,calc(100% - 32px));max-height:calc(100dvh - 32px);overflow-y:auto;overscroll-behavior:contain;border-radius:12px;padding:28px}.how-panel h2{font-size:22px;padding-right:20px}.how-panel h3{font-size:15px;margin:24px 0 8px}.usage-notice p{font-size:13px;line-height:1.9;margin:0 0 14px;color:#304b50}.how-btn{line-height:1.6}.how-panel>button{cursor:pointer}
+
+.title-account-actions{display:flex;flex-wrap:wrap;gap:10px;margin-top:12px}.title-account-actions .title-ranking-btn{margin-top:0}

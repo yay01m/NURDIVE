@@ -6,6 +6,7 @@ ROOT = Path(__file__).resolve().parents[1]
 
 def build():
     questions = json.loads((ROOT / 'data/questions.json').read_text(encoding='utf-8'))
+    questions += json.loads((ROOT / 'data/additional_questions.json').read_text(encoding='utf-8'))
     profiles = json.loads((ROOT / 'data/simulator-profiles.json').read_text(encoding='utf-8'))
     excluded = json.loads((ROOT / 'data/simulator-no-effect.json').read_text(encoding='utf-8'))
     ids = {q['id'] for q in questions}
@@ -20,6 +21,15 @@ def build():
         assert item['id'] in ids and item['id'] not in decisions, item['id']
         assert item['reason']
         decisions[item['id']] = dict(mode='none', reason=item['reason'])
+    for file in sorted((ROOT / 'data').glob('additional-simulator-*.json')):
+        for item in json.loads(file.read_text(encoding='utf-8-sig')):
+            id_ = item['id']
+            assert id_ in ids and id_ not in decisions, id_
+            assert item['mode'] in ('effect', 'none') and item['reason'], id_
+            if item['mode'] == 'effect':
+                assert item['kind'] in ('disease', 'condition', 'symptom'), id_
+                assert item['name'] and item['detail'] and item['classes'], id_
+            decisions[id_] = {k: v for k, v in item.items() if k != 'id'}
     assert set(decisions) == ids, sorted(ids - set(decisions))
     for q in questions:
         entry = decisions[q['id']]
@@ -35,7 +45,7 @@ const decisions=__DECISIONS__;
 for(const q of QUESTION_BANK){
  const p=decisions[q.id];
  const matches=p&&p.question===q.question&&JSON.stringify(p.choices)===JSON.stringify(q.choices);
- q.simulatorStatus=q.publication_mode==='official_answers_only'?'pending':(!matches?'needs_mapping_review':p.mode);
+ q.simulatorStatus=!matches?'needs_mapping_review':p.mode;
  q.effect={...q.effect,disease:false,avatarClasses:''};
  if(matches&&p.mode==='effect') q.effect={...q.effect,name:p.name,detail:p.detail,disease:true,avatarClasses:p.classes,kind:p.kind,source:p.source};
 }
@@ -44,7 +54,11 @@ window.RECARE_SIMULATOR_DECISIONS=decisions;
 '''
     (ROOT / 'disease-simulator.js').write_text(code.replace('__DECISIONS__', json.dumps(decisions, ensure_ascii=False, separators=(',', ':'))), encoding='utf-8')
     report = dict(input=len(ids), effects=sum(x['mode']=='effect' for x in decisions.values()),
-                  no_effect=len(excluded), missing=0)
+                  no_effect=sum(x['mode']=='none' for x in decisions.values()), missing=0,
+                  by_exam={exam: dict(input=sum(q['exam']==exam for q in questions),
+                      effects=sum(q['exam']==exam and decisions[q['id']]['mode']=='effect' for q in questions),
+                      no_effect=sum(q['exam']==exam and decisions[q['id']]['mode']=='none' for q in questions))
+                      for exam in sorted({q['exam'] for q in questions})})
     (ROOT / 'data/simulator-coverage.json').write_text(json.dumps(report, indent=2)+'\n', encoding='utf-8')
     print(json.dumps(report))
 

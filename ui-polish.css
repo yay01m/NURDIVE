@@ -1,0 +1,69 @@
+/* Shared finishing layer: readable type, consistent controls and compact mobile layouts. */
+:root{--ui-focus:#0b8f81}
+button,a,input,select,textarea,summary{-webkit-tap-highlight-color:transparent}
+button:focus-visible,a:focus-visible,summary:focus-visible{outline:3px solid var(--ui-focus);outline-offset:4px}
+button:disabled{cursor:not-allowed}
+input,select,textarea{font-size:16px!important}
+.title-screen :focus-visible,.auth-gate :focus-visible{outline-color:#a7f4df}
+.title-top{gap:20px;align-items:center;letter-spacing:.12em}
+.title-top .title-account-actions{margin:0;margin-left:auto;flex-wrap:nowrap;flex-shrink:0}
+.title-account-actions .title-ranking-btn{font-size:12px;min-height:44px;padding:10px 16px;width:auto;white-space:nowrap}
+.title-top>span:last-of-type{display:none}
+.title-content{padding:36px 0 44px;align-items:start;gap:48px;grid-template-columns:minmax(0,1.12fr) minmax(0,.88fr)}
+.title-copy{min-width:0}.title-copy h1{font-size:clamp(70px,8.5vw,120px);margin-top:24px}
+.title-visual{align-self:start;position:sticky;top:100px;margin-top:70px}
+.title-lead{font-size:14px;line-height:1.9}.title-jp{margin:20px 0}
+.welcome-user{font-family:inherit;font-size:12px;font-weight:500;line-height:1.6;letter-spacing:0;color:#b1cdca}
+.question-source{margin-top:20px}.category-picker{font-size:12px;gap:12px;flex-wrap:wrap}
+.category-picker select{min-width:0;max-width:100%;font-size:14px!important;min-height:44px}
+.year-publication-note{color:#a6c4c0;font-size:12px;line-height:1.8}
+.premium-setup{grid-template-columns:repeat(3,minmax(0,1fr));gap:10px;margin-top:20px}
+.mode-card{min-width:0;min-height:72px;padding:14px 12px}.mode-card b{font-size:13px}.mode-card small{font-size:11px;margin-top:6px;color:#b0ceca}
+.title-metrics{margin:20px 0}.title-metric span{font-size:10px;color:#aac6c3}.title-metric b{font-size:22px}
+.title-actions{display:grid;grid-template-columns:minmax(0,1fr);gap:10px;margin-top:24px}
+.start-btn{width:100%;min-width:0;min-height:64px;font-size:16px}.start-btn small{font-size:10px}
+.how-btn{min-height:44px;padding:12px 18px;font-size:13px}
+.daily-challenge{padding:20px;gap:14px;margin-top:24px}.daily-challenge h2{font-size:18px}.daily-challenge button{min-height:48px;font-size:14px}
+.official-pdf-library summary{color:#b0eee1}.official-pdf-library{margin-top:16px}
+.title-footer{gap:12px;flex-wrap:wrap;line-height:1.8;letter-spacing:.05em;font-size:10px}
+.last-result{font-size:11px;line-height:1.6;gap:12px}
+/* The simulator shortcut belongs to the active game only. */
+body:has(#titleScreen:not([hidden])) #anatomyJump,body:has(#authGate) #anatomyJump,body:has(#mypage:not([hidden])) #anatomyJump,body:has(#reportModal:not([hidden])) #anatomyJump{display:none!important}
+#anatomyJump{min-height:44px;border-radius:24px;padding:10px 16px;font-size:12px;bottom:calc(16px + env(safe-area-inset-bottom));right:16px}
+.game-grid{grid-template-columns:190px minmax(0,1fr) minmax(280px,340px)}
+.side-panel{padding:26px 18px}.question-panel,.self-panel{min-width:0}
+.question-head{gap:10px;flex-wrap:wrap;padding:18px 24px}.source-badge{font-size:11px;line-height:1.6;white-space:normal}
+.question-body{padding:28px 24px 22px}.question-body h1{font-size:21px;line-height:1.85;overflow-wrap:anywhere}.question-body .lead{font-size:13px;line-height:1.8}
+.choice{min-height:56px;font-size:15px;line-height:1.75;text-align:left}.choice-index{flex-shrink:0}
+.choice:disabled{cursor:default}.choice:disabled:hover{transform:none}
+.action-row{padding:18px 24px;gap:14px}.action-row .primary-btn{min-height:48px;font-size:14px}
+.feedback{margin:12px 24px 24px;padding:20px}.feedback p,.choice-rationale p{font-size:14px;line-height:1.9}.choice-rationale header{font-size:13px;line-height:1.7;flex-wrap:wrap;gap:8px}
+#detailBox>summary{padding:12px 0;font-size:14px;cursor:pointer}.report-link{min-height:44px;font-size:12px}
+.avatar-callout{max-width:58%;font-size:12px!important;line-height:1.65}.avatar-callout b{font-size:12px!important}.avatar-callout span{font-size:11px!important}
+.clinical-card p,.symptom-chips span,.record-entry{font-size:12px;line-height:1.75}
+.mypage{padding:24px}.mypage-shell{width:min(1060px,100%);max-height:calc(100dvh - 48px)}
+.mypage-main{min-width:0;padding:34px}.mypage-panel h3{padding-right:44px;line-height:1.4}.mypage-nav button{font-size:13px;min-height:44px}
+.mypage-close,.report-close,#howClose{width:44px;height:44px;display:grid;place-items:center;border-radius:50%;cursor:pointer;z-index:2}
+.mypage-close:hover,.report-close:hover,#howClose:hover{background:#e2eeea}
+.profile-metric{padding:20px}.profile-metric span{font-size:11px}.profile-metric b{font-size:28px}
+.category-score{font-size:12px}.history-entry b{font-size:14px;line-height:1.8}.history-entry small,.history-entry time{font-size:11px;line-height:1.7}.history-empty{font-size:13px;padding:32px 20px;border:1px dashed #ccdcd6;border-radius:12px;background:#fff;margin-top:16px}
+.account-form label{font-size:13px}.account-form input{min-height:48px;border-radius:8px}.account-form button,.danger-zone button,.mypage-logout{min-height:44px;font-size:12px}.danger-zone{border-radius:12px}.danger-zone p{font-size:12px;line-height:1.8}.account-status{font-size:12px}
+.ranking-tabs button{min-height:44px;font-size:12px}.ranking-rule{font-size:12px;line-height:1.8}.ranking-name{font-size:13px}.ranking-row>span:not(.ranking-name) small{font-size:10px}.ranking-row>span:not(.ranking-name) b{font-size:14px}
+.auth-card{width:min(460px,100%);padding:36px}.auth-lead{font-size:13px;line-height:1.85}.auth-message{font-size:12px;line-height:1.75}.auth-note{font-size:11px;color:#9ab8b9;line-height:1.8}.auth-submit{min-height:48px;font-size:15px}.pin-wrap button{min-width:48px}
+.report-card{width:min(580px,calc(100% - 24px));max-height:calc(100dvh - 32px);overflow:auto;border-radius:16px}.report-card label{font-size:13px}.report-card input,.report-card select,.report-card textarea{border-radius:8px}.how-panel{scrollbar-gutter:stable}.how-panel h2{line-height:1.5}.how-panel li{font-size:13px;line-height:1.8}.usage-notice p{font-size:14px}
+@media(max-width:1120px){.game-grid{grid-template-columns:180px minmax(0,1fr)}.self-panel{grid-template-columns:minmax(260px,400px) minmax(0,1fr)}.title-content{gap:24px}.title-copy h1{font-size:clamp(62px,8vw,96px)}}
+@media(max-width:760px){
+ .title-screen{padding:0 18px}.title-top{padding:16px 0;gap:8px}.title-top>span:first-child{font-size:9px;max-width:95px;line-height:1.6;letter-spacing:.08em}.title-top .title-account-actions{gap:6px}.title-account-actions .title-ranking-btn{font-size:11px;padding:8px 10px}
+ .title-content{display:block;position:relative;padding:28px 0}.title-visual{position:absolute;top:24px;right:-5px;width:110px;height:170px;margin:0;opacity:.4;pointer-events:none}.title-body{height:150px}.title-visual .orbit,.title-diagnostic{display:none}
+ .title-copy h1{font-size:62px;margin:24px 0 0;position:relative;z-index:1}.title-kicker{font-size:9px}.title-jp{font-size:18px;margin:16px 0}.title-lead{font-size:13px;margin-top:26px}.welcome-user{margin:12px 0}
+ .premium-setup{display:grid!important;grid-template-columns:repeat(3,minmax(0,1fr))!important;gap:8px}.mode-card{min-height:68px;padding:12px 8px}.mode-card b{font-size:11px}.mode-card small{font-size:10px}.category-picker{display:grid;grid-template-columns:1fr;padding:12px;gap:6px}.category-picker select{width:100%;font-size:14px!important}.title-metrics{margin:16px 0}.title-metric{padding:4px 12px}.title-metric b{font-size:20px}.title-actions{margin-top:18px}.daily-challenge button{width:100%}.title-footer span:last-child{display:none}
+ .game-grid{display:block}.status-strip{padding:16px;gap:12px}.condition-line{flex-wrap:wrap;gap:8px}.condition-line strong{font-size:18px;white-space:normal}.condition-line span{font-size:11px;line-height:1.7}.side-panel{padding:14px 16px}.side-panel .streak-card{display:none}.side-panel .case-meta{margin:10px 0 0;gap:8px}.case-meta dt{font-size:10px}.case-meta dd{font-size:12px}.case-number strong{font-size:30px}.side-panel .case-number{margin-bottom:10px}
+ .question-head{padding:14px 16px}.question-body{padding:22px 16px 18px}.question-body h1{font-size:18px;line-height:1.9}.choice{padding:14px 12px;font-size:14px}.action-row{padding:14px 16px}.feedback{margin:8px 12px 18px;padding:16px}.choice-rationale{padding:14px}.self-panel{padding:20px 16px 80px}.avatar-callout{max-width:54%}
+ .mypage{padding:0}.mypage-shell{height:100dvh;max-height:100dvh;border-radius:0;grid-template-columns:1fr;grid-template-rows:auto minmax(0,1fr)}.mypage-main{padding:24px 16px 32px;overflow-y:auto}.mypage-close{top:12px;right:12px}.mypage-side{padding:16px}.mypage-nav{gap:4px}.mypage-nav button{padding:10px;font-size:12px}.profile-metrics{gap:10px}.profile-metric{padding:16px}.profile-metric b{font-size:26px}.mypage-panel h3{font-size:21px}.mypage-logout{top:12px;right:16px}.history-entry{min-width:0}.history-entry>div{min-width:0;overflow-wrap:anywhere}
+ .auth-gate{padding:16px}.auth-card{padding:28px 22px}.how-panel{padding:24px 20px}.how-panel h2{font-size:20px}.how-panel li{grid-template-columns:1fr;gap:4px}.legal-note{padding:22px 18px 80px;line-height:1.8;font-size:10px}
+}
+@media(prefers-reduced-motion:reduce){button,.choice{transition:none}.title-body,.orbit,.title-glow{animation:none!important}html{scroll-behavior:auto}}
+
+.title-support{min-width:0;padding-top:30px}.title-support .title-visual{position:relative;top:auto;margin:0;height:450px}.title-support .daily-challenge{display:block}.title-support .daily-challenge button{margin-top:16px;width:100%}.title-support .official-pdf-library{margin-top:16px}
+@media(max-width:760px){.title-support{display:contents}.title-support .title-visual{position:absolute;top:24px;right:-5px;width:110px;height:170px}.title-support .daily-challenge{margin-top:24px}.title-support .daily-challenge button{margin-top:16px}}
+@media(max-width:760px){.category-score{grid-template-columns:minmax(0,1fr) 44px;gap:6px 12px;margin-bottom:16px}.category-score>span{grid-column:1/-1;font-size:12px}}

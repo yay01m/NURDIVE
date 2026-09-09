@@ -31,9 +31,51 @@ function highlightAffectedParts(stage){
     'sim-head-wound':'.head','sim-face-edema':'.head','sim-eyes':'.eye',
     'sim-pelvis':'.pelvis-guide','sim-speech':'.mouth','sim-upper-abdomen':'.torso',
     'sim-esophagus':'.torso','sim-breast':'.torso','sim-stoma':'.torso',
-    'sim-itch':'.body-part','sim-skin':'.body-part','skin-rash':'.body-part'
+    'sim-itch':'.body-part','sim-skin':'.body-part','skin-rash':'.body-part',
+    'affected-systemic':'.body-part','affected-blood':'.body-part',
+    'sim-pharynx':'.airway','sim-ears':'.sim-ear','sim-bone':'.arm,.leg',
+    'sim-nose':'.sim-nose-marker','sim-thyroid':'.sim-thyroid-marker',
+    'affected-aorta':'.sim-aorta-marker','sim-mouth':'.mouth','sim-metabolic':'.body-part',
+    'sim-hand':'.sim-hand-marker','sim-scalp':'.sim-scalp-marker',
+    'sim-thigh':'.sim-thigh-marker','sim-face':'.sim-face-marker','sim-foot':'.sim-foot-marker'
   };
+  const markers={
+    'sim-nose':['sim-nose-marker','ellipse',{cx:90,cy:40,rx:3,ry:5}],
+    'sim-thyroid':['sim-thyroid-marker','path',{d:'M89 72 Q79 65 80 76 Q82 83 89 78 L91 78 Q98 83 100 76 Q101 65 91 72Z'}],
+    'affected-aorta':['sim-aorta-marker','path',{d:'M91 123 Q89 103 100 104 Q109 104 108 117 L105 172 L99 172 L102 117 Q104 109 99 110 Q96 110 97 123Z'}],
+    'sim-hand':['sim-hand-marker','path',{d:'M20 172 Q27 169 35 177 L33 185 Q24 191 19 181Z M160 172 Q153 169 145 177 L147 185 Q156 191 161 181Z'}],
+    'sim-scalp':['sim-scalp-marker','path',{d:'M73 20 Q90 5 107 20 L104 24 Q90 13 76 24Z'}],
+    'sim-thigh':['sim-thigh-marker','path',{d:'M60 199 Q68 204 82 202 L79 220 Q68 225 60 218Z M120 199 Q112 204 98 202 L101 220 Q112 225 120 218Z'}],
+    'sim-face':['sim-face-marker','ellipse',{cx:90,cy:42,rx:17,ry:15}],
+    'sim-foot':['sim-foot-marker','path',{d:'M57 259 L78 260 L77 271 Q66 285 56 273Z M123 259 L102 260 L103 271 Q114 285 124 273Z'}]
+  };
+  for(const [key,[className,tag,attributes]] of Object.entries(markers)){
+    let marker=body.querySelector('.'+className);
+    if(!marker&&stage.classList.contains(key)){
+      marker=document.createElementNS('http://www.w3.org/2000/svg',tag);
+      marker.setAttribute('class',className);
+      for(const [name,value] of Object.entries(attributes))marker.setAttribute(name,value);
+      body.appendChild(marker);
+    }
+    if(marker)marker.style.display=stage.classList.contains(key)?'':'none';
+  }
+  // Ear markers use the same body coordinates as the existing head illustration.
+  if(stage.classList.contains('sim-ears')&&!body.querySelector('.sim-ear')){
+    for(const cx of [64,116]){
+      const ear=document.createElementNS('http://www.w3.org/2000/svg','ellipse');
+      ear.setAttribute('class','sim-ear');ear.setAttribute('cx',cx);ear.setAttribute('cy','38');
+      ear.setAttribute('rx','3');ear.setAttribute('ry','7');body.appendChild(ear);
+    }
+  }
+  body.querySelectorAll('.sim-ear').forEach(node=>node.style.display=stage.classList.contains('sim-ears')?'':'none');
   for(const [key,selector] of Object.entries(targets))if(stage.classList.contains(key)){
+    body.querySelectorAll(selector).forEach(node=>node.classList.add('clinical-hotspot'));
+  }
+  // Non-localized conditions are represented across the body, without inventing an organ lesion.
+  for(const episode of state.anatomyEpisodes){
+    const classes=episode.avatarClasses.split(' ');
+    if(classes.some(key=>targets[key]))continue;
+    const selector=classes.includes('sim-breathing')?'.torso':'.body-part';
     body.querySelectorAll(selector).forEach(node=>node.classList.add('clinical-hotspot'));
   }
 }

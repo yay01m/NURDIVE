@@ -23,7 +23,7 @@
     categorySelect.dispatchEvent(new Event('change'));
     const explained=pool.filter(q=>q.hasExplanation).length;
     const uncertain=pool.filter(q=>q.hasExplanation&&q.explanationNeedsReview).length;
-    document.querySelector('#yearPublicationNote').textContent=`収録${pool.length}問中${explained}問に選択肢別解説があります。${uncertain?`うち${uncertain}問は一部不明の箇所を明記しています。`:''}${explained<pool.length?'残りの解説は準備中です。':''}${pool.some(q=>q.exam!==115)?'2022〜2025年の病気ごとの演出は準備中です。':''}`;
+    document.querySelector('#yearPublicationNote').textContent=`収録${pool.length}問中${explained}問に選択肢別解説があります。${uncertain?`うち${uncertain}問は一部不明の箇所を明記しています。`:''}${explained<pool.length?'残りの解説は準備中です。':''}${pool.some(q=>q.simulatorStatus==='needs_mapping_review')?'一部の問題は病気の演出を確認中です。':''}`;
   }
   document.querySelector('#examYear').addEventListener('change',updateYears);
   document.querySelectorAll('input[name="questionSource"]').forEach(input=>input.addEventListener('change',()=>document.querySelector('#examYear').disabled=!isPast()));

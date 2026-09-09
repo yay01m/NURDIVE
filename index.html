@@ -23,6 +23,7 @@
   <link rel="stylesheet" href="luxury-ui.css">
   <link rel="stylesheet" href="question-source.css">
   <link rel="stylesheet" href="projection.css">
+  <link rel="stylesheet" href="ui-polish.css">
 </head>
 <body>
   <div class="noise"></div>
@@ -34,7 +35,7 @@
         <p class="title-kicker"><i></i> NURSING EXAM × SURVIVAL</p>
         <h1><span>RE:</span>CARE</h1><p class="title-jp">逆流病棟</p>
         <p class="title-lead">患者の状況を、自分に投影してしまう看護師。<br>正しい判断で、自分を見失わずに夜勤を終えろ。</p>
-        <div class="title-actions"><button class="start-btn" id="startGame"><small>NEW SHIFT</small>夜勤を開始する <b>→</b></button><button class="how-btn" id="howButton">遊び方</button></div>
+        <div class="title-actions"><button class="start-btn" id="startGame"><small>NEW SHIFT</small>夜勤を開始する <b>→</b></button><button class="how-btn" id="howButton">遊び方・ご利用上の注意</button></div>
         <div class="last-result" id="lastResult"><span>LAST RECORD</span><b>記録なし</b></div>
       </div>
       <div class="title-visual">
@@ -44,7 +45,21 @@
       </div>
     </div>
     <footer class="title-footer"><span>公式過去問1,125問 · 2022〜2026年 · 選択肢別の学習用AI解説</span><span>CLINICAL LEARNING SYSTEM · v1.0</span></footer>
-    <div class="how-panel" id="howPanel" hidden><button id="howClose">×</button><p class="eyebrow">HOW TO PLAY</p><h2>夜勤を生き抜く</h2><ol><li><b>病態を判断</b><span>公式過去問に答えます。複数選択では指定された数を選びます。</span></li><li><b>患者が、自分に重なる</b><span>病気のミスは症状が自分に現れ、それ以外のミスは患者との境界を揺らがせます。</span></li><li><b>解説で復習</b><span>正答と解説で判断を振り返りましょう。</span></li></ol><p>出題数の2割のミスで投影から戻れなくなり、勤務終了（端数切り上げ）。正解してもミスの累計は減りません。最後の解説は読んでから終了できます。</p></div>
+    <div class="how-panel" id="howPanel" hidden aria-labelledby="howHeading"><button id="howClose" aria-label="閉じる">×</button><p class="eyebrow">HOW TO PLAY</p><h2 id="howHeading">遊び方・ご利用上の注意</h2>
+      <div class="usage-notice">
+        <p><strong>RE:CARE</strong>は、看護師国家試験の学習をゲーム感覚で進めるための学習支援コンテンツです。問題に挑戦しながら、正解・不正解それぞれの選択肢の解説を確認し、知識の定着や苦手分野の復習に活用してください。</p>
+        <h3>過去問について</h3>
+        <p>国家試験の過去問および正答は、厚生労働省が公表している資料をもとに収録しています。問題によっては、画像・別冊などが必要なものを収録対象外としている場合があります。</p>
+        <h3>解説について</h3>
+        <p>各選択肢の解説は、AIを活用して独自に作成・検証しています。正確性の確保に努めていますが、医療専門職による監修を受けたものではなく、内容の完全性・正確性を保証するものではありません。疑問がある場合は、教科書、公的機関、各種ガイドラインなどの信頼できる資料もあわせて確認してください。</p>
+        <h3>公式正答と解説の違い</h3>
+        <p>過去問の正答は厚生労働省の公表資料に基づいていますが、解説部分は厚生労働省が作成・監修したものではありません。「公式の問題・正答」と「RE:CARE独自の解説」は区別して利用してください。</p>
+        <h3>学習への利用について</h3>
+        <p>本サービスは国家試験対策の学習を補助することを目的としており、合格を保証するものではありません。また、掲載内容を実際の診断・治療・看護などの医療判断に使用することを目的としたサービスではありません。</p>
+        <h3>内容に誤りを見つけた場合</h3>
+        <p>問題や解説に誤り・不自然な点を見つけた場合は、「誤りを報告」機能からお知らせください。確認後、必要に応じて修正します。</p>
+      </div>
+      <h3>ゲームの進め方</h3><ol><li><b>病態を判断</b><span>公式過去問に答えます。複数選択では指定された数を選びます。</span></li><li><b>患者が、自分に重なる</b><span>病気のミスは症状が自分に現れ、それ以外のミスは患者との境界を揺らがせます。</span></li><li><b>解説で復習</b><span>正答と解説で判断を振り返りましょう。</span></li></ol><p>出題数の2割のミスで投影から戻れなくなり、勤務終了（端数切り上げ）。正解してもミスの累計は減りません。最後の解説は読んでから終了できます。</p></div>
   </section>
   <main class="app-shell game-hidden" id="gameShell">
     <header class="topbar">
@@ -196,5 +211,6 @@
   <script src="shift-navigation.js"></script>
   <script src="challenge-modes.js"></script>
   <script src="question-source.js"></script>
+  <script src="ui-polish.js"></script>
 </body>
 </html>

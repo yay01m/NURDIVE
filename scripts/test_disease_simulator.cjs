@@ -2,12 +2,12 @@ const fs=require('fs'),path=require('path'),vm=require('vm'),assert=require('ass
 const root=path.resolve(__dirname,'..');
 const read=name=>fs.readFileSync(path.join(root,name),'utf8');
 const ctx=vm.createContext({window:{}});
-for(const f of ['official-questions.js','official-bank.js'])vm.runInContext(read(f),ctx);
+for(const f of ['official-questions.js','official-bank.js','explanations.js','additional-explanations.js','explanation-bank.js'])vm.runInContext(read(f),ctx);
 const before=vm.runInContext('JSON.stringify(QUESTION_BANK.map(q=>[q.id,q.question,q.choices,q.acceptedAnswerSets]))',ctx);
 vm.runInContext(read('disease-simulator.js'),ctx);
 assert.equal(vm.runInContext('JSON.stringify(QUESTION_BANK.map(q=>[q.id,q.question,q.choices,q.acceptedAnswerSets]))',ctx),before);
 vm.runInContext(`
-if(QUESTION_BANK.length!==228)throw Error('Unexpected bank');
+if(QUESTION_BANK.length!==1125)throw Error('Unexpected bank');
 for(const q of QUESTION_BANK){
  if(!['effect','none'].includes(q.simulatorStatus))throw Error('Missing decision '+q.id);
  if(q.effect.disease!==(q.simulatorStatus==='effect'))throw Error('Invalid effect '+q.id);
@@ -23,6 +23,7 @@ const {chromium}=require('C:/Users/sa1j0/.cache/codex-runtimes/codex-primary-run
  const browser=await chromium.launch({executablePath:'C:/Program Files (x86)/Microsoft/Edge/Application/msedge.exe',headless:true});
  try{
  const c=await browser.newContext();
+ await c.addInitScript(()=>{localStorage.setItem('recare-active-user','test');localStorage.setItem('recare-local-accounts',JSON.stringify({test:{name:'test'}}))});
  await c.route('**/*',r=>new URL(r.request().url()).hostname==='127.0.0.1'?r.continue():r.abort());
  const p=await c.newPage(),errors=[];p.on('pageerror',e=>errors.push(e.message));
  await p.goto('http://127.0.0.1:8765');
@@ -34,7 +35,7 @@ const {chromium}=require('C:/Users/sa1j0/.cache/codex-runtimes/codex-primary-run
    QUESTION_BANK=Array(20).fill(q);reset();wrong();
    check(state.review.length===1,'Wrong not counted '+q.id);
    check(state.anatomyEpisodes.length===(q.effect.disease?1:0),'Episode '+q.id);
-   if(q.effect.disease){effects++;check(el.avatarCallout.textContent.includes(q.effect.name),'Name '+q.id);check(q.effect.avatarClasses.split(' ').every(v=>el.avatarStage.classList.contains(v)),'Class '+q.id)}
+   if(q.effect.disease){effects++;check(el.avatarCallout.textContent.includes(q.effect.name),'Name '+q.id);check(q.effect.avatarClasses.split(' ').every(v=>el.avatarStage.classList.contains(v)),'Class '+q.id);const spot=el.avatarStage.querySelector('svg.avatar .clinical-hotspot');check(spot,'Missing red location '+q.id);check(getComputedStyle(spot).animationName.includes('affectedLocationPulse'),'Missing pulse '+q.id)}
    else{none++;check(el.avatarStage.classList.contains('projection-overlap'),'Missing boundary '+q.id);check(!el.avatarStage.className.includes('affected-'),'False illness '+q.id);check(projectionState().boundary===1,'Boundary count '+q.id)}
   }
   const get=id=>fullBank.find(q=>q.id===id);
