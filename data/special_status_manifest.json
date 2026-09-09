@@ -1,0 +1,289 @@
+{
+  "115-AM-032": {
+    "status": "採点除外",
+    "url": "https://www.mhlw.go.jp/general/sikaku/successlist/2026/siken03_04_05/dl/kangoshi_am32.pdf",
+    "page": 1,
+    "official_text": "（別紙）\n第１１５回看護師国家試験における採点除外等の扱いをした問題について\n午前 第３２問\n採点上の取扱い\n採点対象から除外する。\n理 由\n設問文が不明瞭であるため。",
+    "source_sha256": "ecf67723e0e2b48ce1f86a77f08311e20b9a6d06c923872c3d30ea20dd8e98dd"
+  },
+  "115-AM-080": {
+    "status": "複数正答",
+    "url": "https://www.mhlw.go.jp/general/sikaku/successlist/2026/siken03_04_05/dl/kangoshi_am80.pdf",
+    "page": 1,
+    "official_text": "（別紙）\n第１１５回看護師国家試験における採点除外等の扱いをした問題について\n午前 第８０問\n採点上の取扱い\n複数の選択肢を正解として採点する。\n理 由\n複数の正解があるため。",
+    "source_sha256": "f73866b4dff3320f1da77e09180a66567df94a3516fb04cbd1be1d540ae4efb8"
+  },
+  "113-AM-005": {
+    "status": "条件付き採点除外",
+    "url": "https://www.mhlw.go.jp/general/sikaku/successlist/2024/siken03_04_05/dl/kangoshi_am5.pdf",
+    "page": 1,
+    "official_text": "（別 紙）\n第１１３回看護師国家試験における採点除外等の取扱いをした問題について\n午前 第 5 問\n（ 採点上の取り扱い ）\n正解した受験者については採点対象に含め、不正解の受験者については採点対象か\nら除外する。\n（ 理 由 ）\n問題として適切であるが、必修問題としては妥当でないため。",
+    "source_sha256": "f27e3f569e36c4691c32601a46727713f8d7fd9b93c15baa0c06594cd9e61315"
+  },
+  "113-AM-023": {
+    "status": "条件付き採点除外",
+    "url": "https://www.mhlw.go.jp/general/sikaku/successlist/2024/siken03_04_05/dl/kangoshi_am23.pdf",
+    "page": 1,
+    "official_text": "（別 紙）\n第１１３回看護師国家試験における採点除外等の取扱いをした問題について\n午前 第 23 問\n（ 採点上の取り扱い ）\n正解した受験者については採点対象に含め、不正解の受験者については採点対象か\nら除外する。\n（ 理 由 ）\n問題として適切であるが、必修問題としては妥当でないため。",
+    "source_sha256": "01aca55e600906c1530bedb79a1f04de8c5b099964da0ae641e6d3e55c71be37"
+  },
+  "113-AM-025": {
+    "status": "条件付き採点除外",
+    "url": "https://www.mhlw.go.jp/general/sikaku/successlist/2024/siken03_04_05/dl/kangoshi_am25.pdf",
+    "page": 1,
+    "official_text": "（別 紙）\n第１１３回看護師国家試験における採点除外等の取扱いをした問題について\n午前 第 25 問\n（ 採点上の取り扱い ）\n正解した受験者については採点対象に含め、不正解の受験者については採点対象か\nら除外する。\n（ 理 由 ）\n問題として適切であるが、必修問題としては妥当でないため。",
+    "source_sha256": "eed71db36ae5b2b875bf51e8f2f762b0e83ae24a99ff0146f6fd34d015e3eecf"
+  },
+  "113-PM-002": {
+    "status": "条件付き採点除外",
+    "url": "https://www.mhlw.go.jp/general/sikaku/successlist/2024/siken03_04_05/dl/kangoshi_pm2.pdf",
+    "page": 1,
+    "official_text": "（別 紙）\n第１１３回看護師国家試験における採点除外等の取扱いをした問題について\n午後 第 2 問\n（ 採点上の取り扱い ）\n正解した受験者については採点対象に含め、不正解の受験者については採点対象か\nら除外する。\n（ 理 由 ）\n問題として適切であるが、必修問題としては妥当でないため。",
+    "source_sha256": "88409d8b54834ac1dc670888acc05d91379973a72585ebf81470042f828f230e"
+  },
+  "113-PM-011": {
+    "status": "条件付き採点除外",
+    "url": "https://www.mhlw.go.jp/general/sikaku/successlist/2024/siken03_04_05/dl/kangoshi_pm11.pdf",
+    "page": 1,
+    "official_text": "（別 紙）\n第１１３回看護師国家試験における採点除外等の取扱いをした問題について\n午後 第 11 問\n（ 採点上の取り扱い ）\n正解した受験者については採点対象に含め、不正解の受験者については採点対象か\nら除外する。\n（ 理 由 ）\n問題として適切であるが、必修問題としては妥当でないため。",
+    "source_sha256": "8b3ea92470ffe86e3252de0a50af16eea5fc013c964506ddb06ce256f8d9787d"
+  },
+  "113-PM-021": {
+    "status": "採点除外",
+    "url": "https://www.mhlw.go.jp/general/sikaku/successlist/2024/siken03_04_05/dl/kangoshi_pm21.pdf",
+    "page": 1,
+    "official_text": "（別 紙）\n第１１３回看護師国家試験における採点除外等の取扱いをした問題について\n午後 第 21 問\n（ 採点上の取り扱い ）\n採点対象から除外する。\n（ 理 由 ）\n設問が不十分で正解が得られないため。",
+    "source_sha256": "ae0c47249647090367a43156170a42023a55635a61bae74ba94eb16c6c4c60ba"
+  },
+  "112-PM-035": {
+    "status": "採点除外",
+    "url": "https://www.mhlw.go.jp/general/sikaku/successlist/2023/siken03_04_05/dl/kangoshi_pm35.pdf",
+    "page": 1,
+    "official_text": "（別 紙）\n第１１２回看護師国家試験における採点除外等の取扱いをした問題について\n午後 第 35 問\n（ 採点上の取り扱い ）\n採点対象から除外する。\n（ 理 由 ）\n設問が不十分で正解が得られないため。",
+    "source_sha256": "1a98214a57e9a274633284dd1781fe81f7b2dedacd66cc52ee523915317b4d69"
+  },
+  "112-PM-095": {
+    "status": "複数正答",
+    "url": "https://www.mhlw.go.jp/general/sikaku/successlist/2023/siken03_04_05/dl/kangoshi_pm95.pdf",
+    "page": 1,
+    "official_text": "（別 紙）\n第１１２回看護師国家試験における採点除外等の取扱いをした問題について\n午後 第 95 問\n（ 採点上の取り扱い ）\n複数の選択肢を正解として採点する。\n（ 理 由 ）\n設問が不明確で複数の選択肢が正解と考えられるため。",
+    "source_sha256": "a768d861666c038a350692b8400c8f8bbc1e62fe5eec2a77b17864339a303486"
+  },
+  "111-AM-001": {
+    "status": "条件付き採点除外",
+    "url": "https://www.mhlw.go.jp/general/sikaku/successlist/2022/siken03_04_05/dl/kangoshi_am01.pdf",
+    "page": 1,
+    "official_text": "（別 紙）\n第１１１回看護師国家試験における採点除外等の取扱いをした問題について\n午前 第 1 問\n（ 採点上の取り扱い ）\n正解した受験者については採点対象に含め、不正解の受験者については採点対象か\nら除外する。\n（ 理 由 ）\n問題として適切であるが、必修問題としては妥当でないため。",
+    "source_sha256": "75a900b40c246c014be776cf3dfb0bd3a24f1ca57d99a926d6830f8eb7d4b1ea"
+  },
+  "111-AM-006": {
+    "status": "複数正答",
+    "url": "https://www.mhlw.go.jp/general/sikaku/successlist/2022/siken03_04_05/dl/kangoshi_am06.pdf",
+    "page": 1,
+    "official_text": "（別 紙）\n第１１１回看護師国家試験における採点除外等の取扱いをした問題について\n午前 第 6 問\n（ 採点上の取り扱い ）\n複数の選択肢を正解として採点する。\n（ 理 由 ）\n複数の正解があるため。",
+    "source_sha256": "266ceed4bdeeb60f1bfe8dabedb762129a067715c7701f7a2fe0cebfa8842bf2"
+  },
+  "111-AM-034": {
+    "status": "複数正答",
+    "url": "https://www.mhlw.go.jp/general/sikaku/successlist/2022/siken03_04_05/dl/kangoshi_am34.pdf",
+    "page": 1,
+    "official_text": "（別 紙）\n第１１１回看護師国家試験における採点除外等の取扱いをした問題について\n午前 第 34 問\n（ 採点上の取り扱い ）\n複数の選択肢を正解として採点する。\n（ 理 由 ）\n設問が不明確で複数の選択肢が正解と考えられるため。",
+    "source_sha256": "9ebce5db5823a335e98e1f1b2f663fbc51f3f63fbafdb33ab32b1618958ab495"
+  },
+  "111-PM-007": {
+    "status": "条件付き採点除外",
+    "url": "https://www.mhlw.go.jp/general/sikaku/successlist/2022/siken03_04_05/dl/kangoshi_pm07.pdf",
+    "page": 1,
+    "official_text": "（別 紙）\n第１１１回看護師国家試験における採点除外等の取扱いをした問題について\n午後 第 7 問\n（ 採点上の取り扱い ）\n正解した受験者については採点対象に含め、不正解の受験者については採点対象か\nら除外する。\n（ 理 由 ）\n問題として適切であるが、必修問題としては妥当でないため。",
+    "source_sha256": "1e53323b6a06f2a5567912ac631aab2193bb5c4380f17a5011777dc681b8308d"
+  },
+  "110-AM-086": {
+    "status": "複数正答組合せ",
+    "url": "https://www.mhlw.go.jp/general/sikaku/successlist/2021/siken03_04_05/dl/kangoshi_am86.pdf",
+    "page": 1,
+    "official_text": "3通りの解答を正解として採点する。3つの選択肢が正解であるため。",
+    "source_sha256": "d9800b0edca69474c22ce5679f885575e27d1c6b7437407c47e6017600387286"
+  },
+  "110-PM-114": {
+    "status": "複数正答",
+    "url": "https://www.mhlw.go.jp/general/sikaku/successlist/2021/siken03_04_05/dl/kangoshi_pm114.pdf",
+    "page": 1,
+    "official_text": "採点上の取り扱い：複数の正解があるため。",
+    "source_sha256": "cc4d197f1487b5aca99b02f8ae98a4b29d7abb40e001edf43080ae6d17acd0dd"
+  },
+  "109-AM-011": {
+    "status": "条件付き採点除外",
+    "url": "https://www.mhlw.go.jp/general/sikaku/successlist/2020/siken03_04_05/dl/kangoshi_am11.pdf",
+    "page": 1,
+    "official_text": "第１０９回看護師国家試験における採点除外等の扱いをした問題について\n午前 第 １１ 問\n採点上の取扱い\n正解した受験者については採点対象に含め、不正解の受験者については採点\n対象から除外する。\n理 由\n問題として適切であるが、必修問題としては妥当ではないため。",
+    "source_sha256": "3f1b92dd3fa70a9f39c813359b648c4b4b51196c15df83c1d9cfd8ba94976730"
+  },
+  "109-AM-053": {
+    "status": "複数正答",
+    "url": "https://www.mhlw.go.jp/general/sikaku/successlist/2020/siken03_04_05/dl/kangoshi_am53.pdf",
+    "page": 1,
+    "official_text": "第１０９回看護師国家試験における採点除外等の扱いをした問題について\n午前 第 ５３ 問\n採点上の取扱い\n複数の選択肢を正解として採点する。\n理 由\n複数の正解があるため。",
+    "source_sha256": "538a836174ce52e12441f18a696e2ee5f5491a563e1f9c641a51159ddb91a868"
+  },
+  "109-AM-085": {
+    "status": "複数正答組合せ",
+    "url": "https://www.mhlw.go.jp/general/sikaku/successlist/2020/siken03_04_05/dl/kangoshi_am85.pdf",
+    "page": 1,
+    "official_text": "第１０９回看護師国家試験における採点除外等の扱いをした問題について\n午前 第 ８５ 問\n採点上の取扱い\n３通りの解答を正解として採点する。\n理 由\n３つの選択肢が正解であるため。",
+    "source_sha256": "21a86be855a9127352402ba140803c0bc5607b926a822ed0912810ddad1e7923"
+  },
+  "109-PM-018": {
+    "status": "条件付き採点除外",
+    "url": "https://www.mhlw.go.jp/general/sikaku/successlist/2020/siken03_04_05/dl/kangoshi_pm18.pdf",
+    "page": 1,
+    "official_text": "第１０９回看護師国家試験における採点除外等の扱いをした問題について\n午後 第 １８ 問\n採点上の取扱い\n正解した受験者については採点対象に含め、不正解の受験者については採点\n対象から除外する。\n理 由\n問題として適切であるが、必修問題としては妥当ではないため。",
+    "source_sha256": "8e0d8df6301aa13ac8996f227920e89359bf6006f3c7d78f0f6d05b8abba0668"
+  },
+  "108-AM-005": {
+    "status": "採点除外",
+    "url": "https://www.mhlw.go.jp/general/sikaku/successlist/2019/siken03_04_05/dl/kangoshi_am5.pdf",
+    "page": 1,
+    "official_text": "第１０８回看護師国家試験における採点除外等の扱いをした問題について\n午前 第 ５ 問\n採点上の取扱い\n採点対象から除外する。\n理 由\n設問が不十分で正解が得られないため。",
+    "source_sha256": "c61052a2fc4c02002166666a869476c77cd063591b2200d74a0f8300c3d45262"
+  },
+  "108-AM-033": {
+    "status": "複数正答",
+    "url": "https://www.mhlw.go.jp/general/sikaku/successlist/2019/siken03_04_05/dl/kangoshi_am33.pdf",
+    "page": 1,
+    "official_text": "第１０８回看護師国家試験における採点除外等の扱いをした問題について\n午前 第 ３３ 問\n採点上の取扱い\n複数の選択肢を正解として採点する。\n理 由\n設問が不明確で複数の選択肢が正解と考えられるため。",
+    "source_sha256": "107f1b915deba52ed64112834e1403c3ca6f6d48552144c48896512ba241903d"
+  },
+  "108-AM-110": {
+    "status": "複数正答",
+    "url": "https://www.mhlw.go.jp/general/sikaku/successlist/2019/siken03_04_05/dl/kangoshi_am110.pdf",
+    "page": 1,
+    "official_text": "第１０８回看護師国家試験における採点除外等の扱いをした問題について\n午前 第 １１０ 問\n採点上の取扱い\n複数の選択肢を正解として採点する。\n理 由\n設問が不明確で複数の選択肢が正解と考えられるため。",
+    "source_sha256": "cb5ca2dcc79dabaa8d4d3f20986aa325cfb303b3353f0e51b40bc3a365cd2d9c"
+  },
+  "107-AM-002": {
+    "status": "条件付き採点除外",
+    "url": "https://www.mhlw.go.jp/general/sikaku/successlist/2018/siken03_04_05/dl/kangoshi_am2.pdf",
+    "page": 1,
+    "official_text": "第１０７回看護師国家試験における採点除外等の扱いをした問題について\n午前 第２問\n採点上の取扱い\n正解した受験者については採点対象に含め、不正解の受験者については採点\n対象から除外する。\n理 由\n問題として適切であるが、必修問題としては妥当でないため。",
+    "source_sha256": "28b766eb85fe54e68fac76d53dd6bb0c69b3d032fd5c8c7451c100714ebf6841"
+  },
+  "107-AM-009": {
+    "status": "条件付き採点除外",
+    "url": "https://www.mhlw.go.jp/general/sikaku/successlist/2018/siken03_04_05/dl/kangoshi_am9.pdf",
+    "page": 1,
+    "official_text": "第１０７回看護師国家試験における採点除外等の扱いをした問題について\n午前 第９問\n採点上の取扱い\n正解した受験者については採点対象に含め、不正解の受験者については採点\n対象から除外する。\n理 由\n問題として適切であるが、必修問題としては妥当でないため。",
+    "source_sha256": "682abf916a9e185458101ee1f4c3d25bad54ed888196a0e0a8c53b2f4806a5cd"
+  },
+  "107-AM-011": {
+    "status": "条件付き採点除外",
+    "url": "https://www.mhlw.go.jp/general/sikaku/successlist/2018/siken03_04_05/dl/kangoshi_am11.pdf",
+    "page": 1,
+    "official_text": "第１０７回看護師国家試験における採点除外等の扱いをした問題について\n午前 第１１問\n採点上の取扱い\n正解した受験者については採点対象に含め、不正解の受験者については採点\n対象から除外する。\n理 由\n問題として適切であるが、必修問題としては妥当でないため。",
+    "source_sha256": "e0ad11074d754fcd7f6221b2614bb8501d567a2f5383c4f9726f22ee5acc47ce"
+  },
+  "107-AM-083": {
+    "status": "採点除外",
+    "url": "https://www.mhlw.go.jp/general/sikaku/successlist/2018/siken03_04_05/dl/kangoshi_am83.pdf",
+    "page": 1,
+    "official_text": "第１０７回看護師国家試験における採点除外等の扱いをした問題について\n午前 第８３問\n採点上の取扱い\n採点対象から除外する。\n理 由\n問題として適切であるが、受験者レベルでは難しすぎるため。",
+    "source_sha256": "e078e7316e5737f17d5ab088af90eba93595ae361467c846ae7474cba0214098"
+  },
+  "107-PM-004": {
+    "status": "条件付き採点除外",
+    "url": "https://www.mhlw.go.jp/general/sikaku/successlist/2018/siken03_04_05/dl/kangoshi_pm4.pdf",
+    "page": 1,
+    "official_text": "第１０７回看護師国家試験における採点除外等の扱いをした問題について\n午後 第４問\n採点上の取扱い\n正解した受験者については採点対象に含め、不正解の受験者については採点\n対象から除外する。\n理 由\n問題として適切であるが、必修問題としては妥当でないため。",
+    "source_sha256": "bd22d3a299bad1b00a182f326ef243fa26cb4d928caefdde3569ea0b4d7d689c"
+  },
+  "107-PM-005": {
+    "status": "条件付き採点除外",
+    "url": "https://www.mhlw.go.jp/general/sikaku/successlist/2018/siken03_04_05/dl/kangoshi_pm5.pdf",
+    "page": 1,
+    "official_text": "第１０７回看護師国家試験における採点除外等の扱いをした問題について\n午後 第５問\n採点上の取扱い\n正解した受験者については採点対象に含め、不正解の受験者については採点\n対象から除外する。\n理 由\n問題として適切であるが、必修問題としては妥当でないため。",
+    "source_sha256": "65ee8ca9b690201062c1180ed708799b327078d6f1568f19b291ef6c1507e40d"
+  },
+  "107-PM-012": {
+    "status": "条件付き採点除外",
+    "url": "https://www.mhlw.go.jp/general/sikaku/successlist/2018/siken03_04_05/dl/kangoshi_pm12.pdf",
+    "page": 1,
+    "official_text": "第１０７回看護師国家試験における採点除外等の扱いをした問題について\n午後 第１２問\n採点上の取扱い\n正解した受験者については採点対象に含め、不正解の受験者については採点\n対象から除外する。\n理 由\n問題として適切であるが、必修問題としては妥当でないため。",
+    "source_sha256": "dc5487c1712c0d1cc1aaed00235e0b6947887b4c623603da2e32850f1676e166"
+  },
+  "107-PM-022": {
+    "status": "採点除外",
+    "url": "https://www.mhlw.go.jp/general/sikaku/successlist/2018/siken03_04_05/dl/kangoshi_pm22.pdf",
+    "page": 1,
+    "official_text": "第１０７回看護師国家試験における採点除外等の扱いをした問題について\n午後 第２２問\n採点上の取扱い\n採点対象から除外する。\n理 由\n選択肢が不適切であるため。",
+    "source_sha256": "6e12a53716fee127e412d870c140c6dd56a00c63ceb27d3dfb58232b86838ce2"
+  },
+  "107-PM-024": {
+    "status": "採点除外",
+    "url": "https://www.mhlw.go.jp/general/sikaku/successlist/2018/siken03_04_05/dl/kangoshi_pm24.pdf",
+    "page": 1,
+    "official_text": "第１０７回看護師国家試験における採点除外等の扱いをした問題について\n午後 第２４問\n採点上の取扱い\n採点対象から除外する。\n理 由\n選択肢が不適切であるため。",
+    "source_sha256": "770cbf391e79e7ce39331841f12786437ba7723c82439fcfcc7ee04929b48ae1"
+  },
+  "107-PM-114": {
+    "status": "採点除外",
+    "url": "https://www.mhlw.go.jp/general/sikaku/successlist/2018/siken03_04_05/dl/kangoshi_pm114.pdf",
+    "page": 1,
+    "official_text": "第１０７回看護師国家試験における採点除外等の扱いをした問題について\n午後 第１１４問\n採点上の取扱い\n採点対象から除外する。\n理 由\n設問の状況設定が不十分で正解が得られないため。",
+    "source_sha256": "79feca64e36c650af45fb1a5f44bb781e5db74cd42aa6642095f81581f6eed1f"
+  },
+  "106-AM-010": {
+    "status": "条件付き採点除外",
+    "url": "https://www.mhlw.go.jp/general/sikaku/successlist/2017/siken03_04_05/dl/kangoshi_am10.pdf",
+    "page": 1,
+    "official_text": "第１０６回看護師国家試験における採点除外等の取扱いをした問題について\n午前 第１０問\n採点上の取扱い\n正 解 し た 受 験 者 に つ い て は 採 点 対 象 に 含 め 、 不 正 解 の 受 験 者 に つ い て は\n採 点 対 象 か ら 除 外 す る 。\n理 由\n問題として適切であるが、必修問題としては妥当でないため。",
+    "source_sha256": "1249350048f6551d80a2e885289601439405971ff830e0712ea98e95365dedcf"
+  },
+  "106-AM-015": {
+    "status": "条件付き採点除外",
+    "url": "https://www.mhlw.go.jp/general/sikaku/successlist/2017/siken03_04_05/dl/kangoshi_am15.pdf",
+    "page": 1,
+    "official_text": "第１０６回看護師国家試験における採点除外等の取扱いをした問題について\n午前 第１５問\n採点上の取扱い\n正 解 し た 受 験 者 に つ い て は 採 点 対 象 に 含 め 、 不 正 解 の 受 験 者 に つ い て は\n採 点 対 象 か ら 除 外 す る 。\n理 由\n問題として適切であるが、必修問題としては妥当でないため。",
+    "source_sha256": "72cee980f3cd94e3f317af9bd2f6a810a4a941829cdda9e04ae0989d28bbdb0a"
+  },
+  "106-PM-031": {
+    "status": "採点除外",
+    "url": "https://www.mhlw.go.jp/general/sikaku/successlist/2017/siken03_04_05/dl/kangoshi_pm31.pdf",
+    "page": 1,
+    "official_text": "第１０６回看護師国家試験における採点除外等の取扱いをした問題について\n午後 第３１問\n採点上の取扱い\n採点対象から除外する。\n理 由\n設問に不適切があるため。\n選択肢に誤りがあり正解が得られないため。",
+    "source_sha256": "1d4ce8b07548470b4db8a3ca47de61a0dc7e993ec422118c31c98a046b3aa433"
+  },
+  "106-PM-033": {
+    "status": "複数正答",
+    "url": "https://www.mhlw.go.jp/general/sikaku/successlist/2017/siken03_04_05/dl/kangoshi_pm33.pdf",
+    "page": 1,
+    "official_text": "第１０６回看護師国家試験における採点除外等の取扱いをした問題について\n午後 第３３問\n採点上の取扱い\n複数の選択肢を正解として採点する。\n理 由\n複数の正解があるため。",
+    "source_sha256": "b1a16296cbfc02b821cbc9e72d77814dde25f4ee1bfc8a928e9c8d766d90bc2a"
+  },
+  "106-PM-054": {
+    "status": "採点除外",
+    "url": "https://www.mhlw.go.jp/general/sikaku/successlist/2017/siken03_04_05/dl/kangoshi_pm54.pdf",
+    "page": 1,
+    "official_text": "第１０６回看護師国家試験における採点除外等の取扱いをした問題について\n午後 第５４問\n採点上の取扱い\n採点対象から除外する。\n理 由\n設問が不適切で正解が得られないため。",
+    "source_sha256": "05eae41973eea5f14dc4604d3d75cdfc192c20b6d8328190940e420ed691912e"
+  },
+  "106-PM-072": {
+    "status": "複数正答",
+    "url": "https://www.mhlw.go.jp/general/sikaku/successlist/2017/siken03_04_05/dl/kangoshi_pm72.pdf",
+    "page": 1,
+    "official_text": "第１０６回看護師国家試験における採点除外等の取扱いをした問題について\n午後 第７２問\n採点上の取扱い\n複数の選択肢を正解として採点する。\n理 由\n設問が不明確で複数の選択肢が正解と考えられるため。",
+    "source_sha256": "28e2e359e592c2a4d6282fcf589b71590de68a856f4d8fc65680e311b9f679a8"
+  },
+  "106-PM-093": {
+    "status": "複数正答",
+    "url": "https://www.mhlw.go.jp/general/sikaku/successlist/2017/siken03_04_05/dl/kangoshi_pm93.pdf",
+    "page": 1,
+    "official_text": "第１０６回看護師国家試験における採点除外等の取扱いをした問題について\n午後 第９３問\n採点上の取扱い\n複数の選択肢を正解として採点する。\n理 由\n複数の正解があるため。",
+    "source_sha256": "c02cfe94f38f77b81883436831d3851d2a6c7ee120580ea88684c9d896214ff5"
+  },
+  "106-PM-108": {
+    "status": "複数正答",
+    "url": "https://www.mhlw.go.jp/general/sikaku/successlist/2017/siken03_04_05/dl/kangoshi_pm108.pdf",
+    "page": 1,
+    "official_text": "第１０６回看護師国家試験における採点除外等の取扱いをした問題について\n午後 第１０８問\n採点上の取扱い\n複数の選択肢を正解として採点する。\n理 由\n複数の正解があるため。",
+    "source_sha256": "ea2a6acf1b962594f4e94d83911cbbbfc5453b4f46e6feedb3747740d31f652f"
+  }
+}

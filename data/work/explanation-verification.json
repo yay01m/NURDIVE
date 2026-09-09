@@ -1,0 +1,3408 @@
+{
+  "115-AM-001": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "国立社会保障・人口問題研究所：2023年推計・人口統計資料集",
+        "url": "https://www.ipss.go.jp/syoushika/tohkei/Data/Popular2023RE/T01-05.files/sheet001.htm"
+      }
+    ],
+    "notes": [
+      "2060年の総人口96,148千人を確認。約9,600万人という概数と他の選択肢の大小関係を照合。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "105d19ea1ec09228e1ac852957a6641a806f7b1945bcf7910e42ac57edf5b92e",
+    "explanation_sha256": "910ea72312d52f0d86ba33c81f72c7fd3908ffaaebb360d2f553097eaee86b44"
+  },
+  "115-AM-002": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "厚生労働省：ゲートキーパー養成研修用テキスト2024",
+        "url": "https://www.mhlw.go.jp/mamorouyokokoro/assets/pdf/gatekeeper_training_manual_2024_japan.pdf"
+      }
+    ],
+    "notes": [
+      "令和4年の原因・動機別表で健康問題が最多。複合的背景と複数計上の注意も一致。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "33f0003b2fccda2fb1d64eaa75be579b46038461df97024710df1ba8902f3e7a",
+    "explanation_sha256": "9a6200435507611c30cd313f48c35cbd4456b6cb0102b235de660edc303d59b7"
+  },
+  "115-AM-003": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "NHLBI：睡眠の段階",
+        "url": "https://www.nhlbi.nih.gov/health/sleep/stages-of-sleep"
+      }
+    ],
+    "notes": [
+      "急速眼球運動、活発な脳活動、四肢の筋緊張低下を照合。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "f5708fa1a55f72c99c9f4a80c197c54bd7cc6ceb63d610d4fb2b446ac6453815",
+    "explanation_sha256": "fd92f8ddb46cc2a806a2b5b2fab27304994903f952756db312b4ac6423ed1af2",
+    "scope": "簡潔形式の正答理由・覚えるポイント。旧選択肢別解説の承認ではない。"
+  },
+  "115-AM-005": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "厚生労働省：指定居宅介護支援等の運営基準",
+        "url": "https://www.mhlw.go.jp/web/t_doc?dataId=82999405&dataType=0&pageNo=1"
+      }
+    ],
+    "notes": [
+      "介護支援専門員の計画作成・調整、本人中心の会議と資源活用を照合。施設計画との役割の違いも点検。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "cc01578af5cfc1b16086ad9a1956a1714b5119b2dfb47927bf1283a33299dab8",
+    "explanation_sha256": "c0fd9d9a0e27f2a4fbeef0f9ed274c4a803bbd8672441d9b58796eff9f9e099f"
+  },
+  "115-AM-006": {
+    "status": "evidence_pending",
+    "text_reviewed": true,
+    "sources": [],
+    "notes": [
+      "設問、公式正答、各選択肢の解説を個別点検。根拠資料の照合結果を追加する。"
+    ],
+    "confidence": 0.0,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "ada156d68c94f33f31b5e502995d987eb6b7c2d559c4d36f9fd21e76d572d1f9",
+    "explanation_sha256": "671618f5174ace02306f37ec038ad41dcce8383a692606779feff6ce1f10ba85"
+  },
+  "115-AM-008": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "米国小児科学会：発達サーベイランスのマイルストーン",
+        "url": "https://publications.aap.org/pediatrics/article/149/3/e2021052138/184748/Evidence-Informed-Milestones-for-Developmental"
+      }
+    ],
+    "notes": [
+      "握って保持する動作が描画・道具操作より早期という順序を確認。検査の通過率や厳密な月齢は追加していない。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "80004887ca9c2caf04eaf544d6e3e7692b0846ff1521ece42e1c628d2bf9452a",
+    "explanation_sha256": "db520035361e6e44a004b5da27f000ae7860b80b2823d37bd72f7441c5d4d0a6"
+  },
+  "115-AM-009": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "OpenStax：生理機能の指標",
+        "url": "https://openstax.org/books/fundamentals-nursing/pages/7-1-indicators-of-physiologic-functioning"
+      }
+    ],
+    "notes": [
+      "乳児と学童の血圧の発達上の違いを表で照合。個人の高血圧診断基準は追加しない。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "7a34b2a5a8ce3147da5ddaf26949d7626b541c2f48eba5ce9496dbe106b782e5",
+    "explanation_sha256": "09e8faccd364853820ca1fc3d166bc30255258bc0dfb2184a2a1008b551a76d9",
+    "scope": "簡潔形式の正答理由・覚えるポイント。旧選択肢別解説の承認ではない。"
+  },
+  "115-AM-010": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "厚生労働省：2022年国民生活基礎調査・世帯の状況",
+        "url": "https://www.mhlw.go.jp/toukei/saikin/hw/k-tyosa/k-tyosa22/dl/02.pdf"
+      }
+    ],
+    "notes": [
+      "表1の夫婦のみ24.5％、夫婦と未婚子25.8％、ひとり親と未婚子6.8％の和57.1％が約60％に最も近い。単独世帯を含めない。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "4dd95bc4d20a76bb7ffd1981a1fbaabe14541a4f15fa8cfddad874db85227076",
+    "explanation_sha256": "7430b9aa435cf7fa03054b16d008701a9733420309d6a181309ac25140160218"
+  },
+  "115-AM-011": {
+    "status": "evidence_pending",
+    "text_reviewed": true,
+    "sources": [],
+    "notes": [
+      "設問、公式正答、各選択肢の解説を個別点検。根拠資料の照合結果を追加する。"
+    ],
+    "confidence": 0.0,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "263e0d09df677a9fc64154e481b0a68cb0a2d84febd1c88ee1f7fd6f17f4c676",
+    "explanation_sha256": "63affd1c907d4e7573d0820aaa8bae8a3c09c7e91d02de892907b475c4df516a"
+  },
+  "115-AM-017": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "NHS：ステロイド",
+        "url": "https://www.nhs.uk/medicines/steroids/"
+      }
+    ],
+    "notes": [
+      "免疫反応を抑える作用と感染リスクを照合。用量・中止方法を追加しない。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "7a3175d15b1234912be0cf4c5e7a9d7e829ab1d6b9d8b01e7fdf70155d755827",
+    "explanation_sha256": "41b677b61687a34b1b9a0fd7f9d1a6e8f69a2fd326003deb8fde936a6f15174d"
+  },
+  "115-AM-018": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "NHS：嚥下障害の管理",
+        "url": "https://www.enherts-tr.nhs.uk/wp-content/uploads/2022/01/Dysphagia-V1-12.2021-web.pdf"
+      }
+    ],
+    "notes": [
+      "嚥下評価に基づく食形態と頭頸部姿勢の調整を照合。全患者に頸部前屈が有効とはしない。症例の刻み食でのむせを評価。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "9d06c578a2f9afff987cc121548dd3ee15926aa29eb988000b6025ad3b72e119",
+    "explanation_sha256": "6a72b47301d6e09bb3d018274ef4ab5ad771cb0c2457bf028acd3eb482599c42",
+    "scope": "簡潔形式の正答理由・覚えるポイント。旧選択肢別解説の承認ではない。"
+  },
+  "115-AM-023": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "OpenStax：骨折と固定中の観察",
+        "url": "https://openstax.org/books/medical-surgical-nursing/pages/13-3-bone-fractures"
+      }
+    ],
+    "notes": [
+      "固定部より末梢の循環・皮膚色・温度・感覚の観察を照合。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "42c93b19253f839881c567134351031dbf021ff6e9a5185ff48fe7db102e059f",
+    "explanation_sha256": "2b31c2c4951249984fd34de25aa39104533bf5784006ce6f060e7cfab0966d4f"
+  },
+  "115-AM-024": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "日本癌治療学会：がん疼痛の薬理学的知識",
+        "url": "https://www.jsco-cpg.jp/item/23/intro_03-4.html"
+      }
+    ],
+    "notes": [
+      "モルヒネ、コデイン、非オピオイド、鎮痛補助薬の分類を照合。投与量や治療順序の推奨は追加しない。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "fe62b3ee4898ce0b95735a376c0d1f4e8bac56f2c38f94d9b3d497ce9c44f8cf",
+    "explanation_sha256": "e9011a69a348101306392e34f994d81cba78be1fc74d37ab1dcf9e1c32781cd5"
+  },
+  "115-AM-026": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "OpenStax：筋線維の収縮と弛緩",
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/10-3-muscle-fiber-contraction-and-relaxation"
+      }
+    ],
+    "notes": [
+      "滑走説、筋小胞体からのCa放出、ミオシンのATP加水分解、グリコゲン利用を照合。細胞外Caが生命活動全般で不要とは記述しない。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "d416c9462f25586de6435206e8a82d3340c85321e40db70465bfe98f9e5ddf3b",
+    "explanation_sha256": "fd1a003d071cda8a3b652bcd04d3e26f34d5d424dfc2f1518e41303df1d41dee"
+  },
+  "115-AM-027": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "OpenStax：感覚の中枢処理",
+        "url": "https://openstax.org/books/anatomy-and-physiology/pages/14-2-central-processing"
+      }
+    ],
+    "notes": [
+      "脊髄視床路の交叉と視床中継を確認。後索路・運動線維との混同を点検。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "4389d94c0d3e2376530f19e3328c3738d770d3e4ce897d217f47debf21f1e9ea",
+    "explanation_sha256": "7166ee60b868d95855cc7f6969b0ce73f6ca63230c91945b5eb63fdc59886d15"
+  },
+  "115-AM-028": {
+    "status": "evidence_pending",
+    "text_reviewed": true,
+    "sources": [],
+    "notes": [
+      "設問、公式正答、各選択肢の解説を個別点検。根拠資料の照合結果を追加する。"
+    ],
+    "confidence": 0.0,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "1e778edf48dc26bf1b3d765c9d429ded80ea8bbd9516c7c69690ec45164e697d",
+    "explanation_sha256": "8ef8987910f63b791c666a459637819ee9aee1fef83c4779accd6ade0f687d62"
+  },
+  "115-AM-029": {
+    "status": "evidence_pending",
+    "text_reviewed": true,
+    "sources": [],
+    "notes": [
+      "設問、公式正答、各選択肢の解説を個別点検。根拠資料の照合結果を追加する。"
+    ],
+    "confidence": 0.0,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "054dcfd250454f1c7bf78703f6680bdbb190c71285c9e1ebc39880f9e0ef8f74",
+    "explanation_sha256": "b8098fb7cf3b0353aa9fa70e967efa4a04caebb89a9c15b723dd148d9ed76ffb"
+  },
+  "115-AM-030": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "厚生労働省：令和3年度医療費の動向",
+        "url": "https://www.mhlw.go.jp/topics/medias/month/23/dl/medias_01.pdf"
+      }
+    ],
+    "notes": [
+      "25ページの被用者保険加入者7,767万人と人口規模から約6割を確認。先進医療技術料・負担区分・後期高齢者医療との違いを点検。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "573040259560b3242872d25099bf07c089b8ea95150029de1f7ab04fbb83b28c",
+    "explanation_sha256": "94cc6c3c95e9d6a2cb7b1d6ef091f267a1f6cbf273f386457554b8d4be71671e"
+  },
+  "115-AM-033": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "OpenStax：動機づけと自己効力感",
+        "url": "https://openstax.org/books/psychology-2e/pages/10-1-motivation"
+      }
+    ],
+    "notes": [
+      "結果への期待と、行動を実行できるという効力期待を区別し、患者の発言に対応させた。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "3c86e6e739c992d7abc28eba64ee1fda1963d6d9fbb5a8d2ea2362a6678d3e72",
+    "explanation_sha256": "3cbcf89544b06e60de1341f280a3276a8033bf9a8cfb1c5c1d54c7192c29853d"
+  },
+  "115-AM-035": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "厚生労働省：介護の日本語・介護技能教材",
+        "url": "https://www.mhlw.go.jp/content/12000000/001253099.pdf"
+      }
+    ],
+    "notes": [
+      "半座位での膝の支持を照合。ずれの抑制という体位保持の目的を点検。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "21ded5d4aef3e389f171a1256be645ed0fae326cc499c32f06d807f38a3e65bb",
+    "explanation_sha256": "03fe5a017a426e6a8b76df7cdc10f7c5117bb375cc9ce57fe70a2e087e0a382e",
+    "scope": "簡潔形式の正答理由・覚えるポイント。旧選択肢別解説の承認ではない。"
+  },
+  "115-AM-036": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "OpenStax：消化器の身体診察",
+        "url": "https://openstax.org/books/nutrition/pages/4-2-physical-assessment-of-digestive-organs"
+      }
+    ],
+    "notes": [
+      "腹部のガスによる鼓音と液体・実質臓器の濁音を照合。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "94623e71642056bf6e32d6cfe23d437767c7b0f4421eeeda485f677f0954f70b",
+    "explanation_sha256": "858bd758ff9f491769ccf3dbec4b54467f22bad3918d0dcdf19f4f20be65dd4b"
+  },
+  "115-AM-038": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "NHLBI：Your Guide to Healthy Sleep",
+        "url": "https://www.nhlbi.nih.gov/files/docs/public/sleep/healthy_sleep.pdf"
+      }
+    ],
+    "notes": [
+      "睡眠周期、乳児の長い睡眠、加齢に伴う早い睡眠時間帯への変化を照合。個人差を残す。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "1fadf46b465ac8e3c24ff0c290167afbce407f89dd5eae7c989947f1fe60e770",
+    "explanation_sha256": "00486a73684b486fd3335f88b28ac6e26e7ef813ba11fe3a66a4c2cdd3b4e535"
+  },
+  "115-AM-039": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "スコピエ大学歯学部：Oral Hygiene",
+        "url": "https://stomfak.ukim.edu.mk/wp-content/uploads/2026/03/Book-Oral-Hygiene.pdf"
+      }
+    ],
+    "notes": [
+      "バス法の毛先方向と小刻みな振動による歯肉溝清掃を照合。普遍的な手技の説明に限定し、出題後の制度変更を含まない。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "5797a10fc60d1afa0111230eb33681653de366a7f0cf85707126b9476376b392",
+    "explanation_sha256": "9e6d6c34f20704f9a042303dfde64683fb1cd134b7a9e2636a1d73b67192939c",
+    "scope": "簡潔形式の正答理由・覚えるポイント。旧選択肢別解説の承認ではない。"
+  },
+  "115-AM-040": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "Cambridge University Hospitals：静脈カニューレの管理",
+        "url": "https://www.cuh.nhs.uk/patient-information/caring-for-your-cannula-at-home/"
+      }
+    ],
+    "notes": [
+      "更衣中の牽引による抜去予防を照合。ルートを外さず衣類を通す手順の合理性を点検。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "48e4233cf70503cf3a0872944cf1013e8470bf2a32888c2ad1e3c831332f2322",
+    "explanation_sha256": "619f600007573f47bf12bd95b64c85483804d572b37e497a4b61df5bf572996f",
+    "scope": "簡潔形式の正答理由・覚えるポイント。旧選択肢別解説の承認ではない。"
+  },
+  "115-AM-042": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "厚生労働省：指定居宅介護支援等の運営基準",
+        "url": "https://www.mhlw.go.jp/web/t_doc?dataId=82999405&dataType=0&pageNo=1"
+      }
+    ],
+    "notes": [
+      "介護支援専門員の計画作成・調整、本人中心の会議と資源活用を照合。施設計画との役割の違いも点検。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "d7f5fece6b4f44f7367a2667c8f7311ca86b8672be3a9ea95b4e70a5cf0f7f84",
+    "explanation_sha256": "4ca48528017971a549e167ccaacfa077a706789c5af7c7df4182ba654bf3450f"
+  },
+  "115-AM-043": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "厚生労働省：訪問看護指示書様式（2020年）",
+        "url": "https://www.mhlw.go.jp/content/12400000/000603917.pdf"
+      }
+    ],
+    "notes": [
+      "使用医療機器等の状況を記載する欄と医師の指示書であることを照合。未確認の期間情報は解説に追加しない。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "532cb01f9dbf9cfcb56c9c901b31f8a3a4a32108ddc6536eeabbc4afe50cdd8a",
+    "explanation_sha256": "da2cfaa60ef50ccc5ce9cd17412ed620776e3bed4081893954468c8983645e65",
+    "scope": "簡潔形式の正答理由・覚えるポイント。旧選択肢別解説の承認ではない。"
+  },
+  "115-AM-045": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "国立がん研究センター東病院：ストーマ外来",
+        "url": "https://www.ncc.go.jp/jp/ncce/division/nursing/about/outpatient/stoma/index.html"
+      }
+    ],
+    "notes": [
+      "外出先での装具交換・トラブル対策と症例の外出目標を照合。他の支援も必要だが最優先とは限らない。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "9e407334d32dd76d73f44f9cd19c6b81a0107fc6466920b18120e424cfa0ffa6",
+    "explanation_sha256": "b3ecc26c1ba4eed026bcc1480b7d72fa5796396480ed2903b7e9df7961c88701"
+  },
+  "115-AM-046": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "厚生労働省：保健衛生業における腰痛の予防",
+        "url": "https://www.mhlw.go.jp/stf/newpage_31197.html"
+      }
+    ],
+    "notes": [
+      "人力による抱上げを避ける方針とスライディング用具の利用を照合。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "8a2b78314a709b0167a50dc18d9dc479dbcd73c77de1fcea74ca83dc1a06ed60",
+    "explanation_sha256": "f6afc2fcc5c7773c396ac9f024158fbcd8682b4d42e44fdd8b9164e75b0e671b"
+  },
+  "115-AM-047": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "厚生労働省：情報機器作業の労働衛生管理",
+        "url": "https://www.mhlw.go.jp/web/t_doc_keyword?dataId=00tc4418&dataType=1&keyword=%E6%83%85%E5%A0%B1%E6%A9%9F%E5%99%A8%E4%BD%9C%E6%A5%AD&mode=0&pageNo=1"
+      }
+    ],
+    "notes": [
+      "画面注視による視覚負担を確認。振動障害・重量物取扱い・紫外線の典型的障害との組合せも点検。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "ba23e65616520c132cead9ae00d5d444514dedaa058e22ebf7ca4d63f55548df",
+    "explanation_sha256": "f946b50c099daea5c8f86b87ae5e7809be65b80ab0c399ee51e5a420d5c50aab"
+  },
+  "115-AM-048": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "厚生労働省：意思決定プロセスのガイドライン2018",
+        "url": "https://www.mhlw.go.jp/file/05-Shingikai-10801000-Iseikyoku-Soumuka/0000198999.pdf"
+      }
+    ],
+    "notes": [
+      "患者の推定意思と価値観を中心に判断する原則を照合。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "9aef9cdef07091e752ecace0819d2dd0c8aa67b72d607e050bc1d94807d2d5f7",
+    "explanation_sha256": "f41cb1fcfdbd494584da96872e92ea91ea5f91c0cf7c8dc45121d4e827f7a0cc",
+    "scope": "簡潔形式の正答理由・覚えるポイント。旧選択肢別解説の承認ではない。"
+  },
+  "115-AM-049": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "NICE：服薬アドヒアランスCG76",
+        "url": "https://www.nice.org.uk/guidance/cg76/chapter/Recommendations"
+      }
+    ],
+    "notes": [
+      "本人が治療の利益・不利益を理解し、懸念を話し合い意思決定に参加する支援を照合。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "c5b840006789b657dff8b911c39c7a771e1e7af376f137b791038beedf5176de",
+    "explanation_sha256": "3ab216708b5021e161a97161ddb505b2f66014fd5aaa2ea0dfd512c4f4340c76"
+  },
+  "115-AM-050": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "神経疾患のある小児の尿路結石に関する系統的レビュー（2024年）",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39522107/"
+      }
+    ],
+    "notes": [
+      "不動・高カルシウム尿と結石リスクを照合。必ず発症するとはせず、起こり得る合併症として説明。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "1a360b4695a12db4d68ff8c3eb617cfe7f13f57841bd1cf4bcc9a11df9597063",
+    "explanation_sha256": "d32f63d31bca36fb8ec8d93002fd8159c316411db1d20c3fc2d804e93084c0e4",
+    "scope": "簡潔形式の正答理由・覚えるポイント。旧選択肢別解説の承認ではない。"
+  },
+  "115-AM-051": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "日本呼吸器学会：COPD診療ガイドライン第6版",
+        "url": "https://www.jrs.or.jp/publication/file/COPD6_20220726.pdf"
+      }
+    ],
+    "notes": [
+      "酸素化と換気を区別し、SpO2と血液ガスでの評価を照合。高酸素濃度をCO2貯留予防とする誤答を否定。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "6ee6cce6d7892ac971e571d22b3e55430552a261992ffe839ff9172c43ddcf49",
+    "explanation_sha256": "1042692d414fcf1cc461f95d3e52adafc1f0457cd786355d4de806c1d777daa2"
+  },
+  "115-AM-052": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "MedlinePlus：MRI",
+        "url": "https://medlineplus.gov/ency/article/003335.htm"
+      }
+    ],
+    "notes": [
+      "磁場による植込み機器への影響と事前確認を照合。条件付き対応機器もあるため一律禁忌と断定しない。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "044abb64f431edbae84311fe61dbf3cb5e7004c61ec771e1d870267da1a5ff44",
+    "explanation_sha256": "38d1f18bee84deb1fd2879396123d984e7581b4b92865f889e1e5906ee3eeca3"
+  },
+  "115-AM-053": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "OpenStax：電解質異常",
+        "url": "https://openstax.org/books/medical-surgical-nursing/pages/10-3-electrolyte-imbalance"
+      }
+    ],
+    "notes": [
+      "高カリウム・低カリウム双方の心電図・不整脈リスクを照合。症例の検査値の異常を点検。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "3bd96af20d89e0973f71e2e2d51a78a7ca5278ee6d04291375067f185cb3527a",
+    "explanation_sha256": "11f39f82c115f466ebfd828c7d1d6445aafe1973df4dc7ef31a2dc770008bbee"
+  },
+  "115-AM-054": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "日本整形外科学会：腓骨神経麻痺",
+        "url": "https://www.joa.or.jp/public/sick/condition/peroneal_nerve_palsy.html"
+      }
+    ],
+    "notes": [
+      "足関節・足趾の背屈障害と下垂足を照合。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "520a7470cdf39b8cc66dad208de13172175e3f695a0bd0e08b58c831b30dbc70",
+    "explanation_sha256": "e9991032f3b085b73cc3905240028c80e0a5f3934f1680c52c46ac0a5f5aafe3"
+  },
+  "115-AM-055": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "OpenStax：牽引などの固定具",
+        "url": "https://openstax.org/books/clinical-nursing-skills/pages/9-5-limited-movement-devices"
+      }
+    ],
+    "notes": [
+      "骨に刺入する鋼線・ピンによる直達牽引と皮膚牽引を照合。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "920814ff133708518bb31d511b3e75acbe50b1593ebc89722f38dddbfda26942",
+    "explanation_sha256": "4439e1f65d4957412ef3ad51e08be03fdfd6927dff3dbd9e0fb3c7a69cb213ef"
+  },
+  "115-AM-056": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "米国国立老化研究所：レスパイトケア",
+        "url": "https://www.nia.nih.gov/health/caregiving/what-respite-care?page=1&services=26&topics=89&types=BSC.Article"
+      }
+    ],
+    "notes": [
+      "家族介護者の負担・休息・家族との時間を支える原則を照合。制度の対象条件は追加せず、訪問時間や支援調整は症例の希望に対応させて点検。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "91f3ff1a283887e2d6dab49ade8a3fb5b494363dd3d27bd5147ea1bd3cda4ab0",
+    "explanation_sha256": "6498efa91ee9112db5b11e13ed1e215b131b0040270c91c34cdc99dbd7c0a949"
+  },
+  "115-AM-057": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "厚生労働省：介護保険法",
+        "url": "https://www.mhlw.go.jp/web/t_doc?dataId=82998034"
+      }
+    ],
+    "notes": [
+      "市町村の認定・地域密着型サービス指定、40歳以上の被保険者区分を照合。社会保険による共助と行政措置を区別する。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "5dbaa0049d2400080e725b8e48eb4eba25aca1a93aa73a94238e71d47745d3fd",
+    "explanation_sha256": "7764e448313657b95a4a69166add2cd1d14769bfefb6eeac6fa73e17542c9b3f"
+  },
+  "115-AM-058": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "OpenStax：個人と環境の安全",
+        "url": "https://openstax.org/books/fundamentals-nursing/pages/9-1-safety-individual-and-environmental"
+      }
+    ],
+    "notes": [
+      "転倒予防の履物・手すり・照明・環境調整を照合。自立を一律に制限する選択肢との違いを点検。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "f0b6d27f9cf91b65e79c17a644312aab33f1b55b8ae0cb0d9d882b01df62cebb",
+    "explanation_sha256": "7505b796a6c823ccc6ea1e88f937d75b36da7a6d5234ed2b3f844ef4c8249018"
+  },
+  "115-AM-059": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "厚生労働省：避難所での生活不活発病予防",
+        "url": "https://www.mhlw.go.jp/stf/newpage_00448.html"
+      }
+    ],
+    "notes": [
+      "安全な活動による生活機能低下予防を確認。入院を要する異常を症例に追加せず、現在の活動低下から優先順位を点検。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "c2ff7d6088489cd46852e2bd1caf5e8b696c711029675e338454702367e5c4d2",
+    "explanation_sha256": "3a524b60b1ead9f43a78344b6526ba5e014b8b09e1389f3f5260aaf0a03b5553",
+    "scope": "簡潔形式の正答理由・覚えるポイント。旧選択肢別解説の承認ではない。"
+  },
+  "115-AM-060": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "NIDDK：乳児の胃食道逆流",
+        "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/acid-reflux-ger-gerd-infants"
+      }
+    ],
+    "notes": [
+      "乳児期に逆流が多く成長に伴い減る特徴を照合。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "4203371f3b701d78de1ebcf7411a2f56c8044d2f39622ebf63e1baee3000d175",
+    "explanation_sha256": "aa51165923283db22f6297cd5f283029dc08d095e67dc555ff0fa7c18f7b1e5f",
+    "scope": "簡潔形式の正答理由・覚えるポイント。旧選択肢別解説の承認ではない。"
+  },
+  "115-AM-061": {
+    "status": "evidence_pending",
+    "text_reviewed": true,
+    "sources": [],
+    "notes": [
+      "設問、公式正答、各選択肢の解説を個別点検。根拠資料の照合結果を追加する。"
+    ],
+    "confidence": 0.0,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "1f2f401e9393f685c7d74b5a4ff9a239ad59b1e8ff4340f1d61dfbc6db06438f",
+    "explanation_sha256": "516eae84ff02ebd6ff4b30891ed5266a2a5b7c43a2246076305f3772eb910d3c"
+  },
+  "115-AM-062": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "エストロゲン補充と骨成熟の臨床研究（2009年）",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19345749/"
+      }
+    ],
+    "notes": [
+      "エストロゲンが骨端閉鎖に関与する中心知識を臨床研究と照合。投薬の推奨には広げない。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "ccef74e178c89623c176b2d78c069879e1b742ee6ff9fe8dcc966c77df133c17",
+    "explanation_sha256": "fc8581bc1042d9c143f88e257d0496aeb98e6c2ab5c15ebb9286120df9e9a232",
+    "scope": "簡潔形式の正答理由・覚えるポイント。旧選択肢別解説の承認ではない。"
+  },
+  "115-AM-064": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "厚生労働省：統計に用いる比率と用語",
+        "url": "https://www.mhlw.go.jp/toukei/kaisetu/index-hw.html"
+      }
+    ],
+    "notes": [
+      "乳児・新生児死亡率の出生数分母、周産期死亡率の満22週以後の死産と出生、日本の妊産婦死亡率の出産数を照合。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "d496f746659dee3f40e58d8bc8ea1547c4b7a662c0f4f4ef529bf3e50790a3c2",
+    "explanation_sha256": "007091bcc34d04a083dda22f80c140019b1801acc2677f0340cfd132982f76db"
+  },
+  "115-AM-065": {
+    "status": "evidence_pending",
+    "text_reviewed": true,
+    "sources": [],
+    "notes": [
+      "設問、公式正答、各選択肢の解説を個別点検。根拠資料の照合結果を追加する。"
+    ],
+    "confidence": 0.0,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "18d8f1c15c0900acf1de784860b516f38db9264cbee293a0f843be09d088028b",
+    "explanation_sha256": "2d82c2a1900e0ac6aa78d2cde499c5e4ca423b2845d2bb70afaaf2ecf7f6363b"
+  },
+  "115-AM-066": {
+    "status": "evidence_pending",
+    "text_reviewed": true,
+    "sources": [],
+    "notes": [
+      "設問、公式正答、各選択肢の解説を個別点検。根拠資料の照合結果を追加する。"
+    ],
+    "confidence": 0.0,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "7ccaeb8b541aad1f3fef7e7fffbff76061d5ea770ce136e2c83d377273e757c3",
+    "explanation_sha256": "2b91117d89c74d15d8d1afe3456a5359480ceebec7c18f64d8483b1f1ba445fc"
+  },
+  "115-AM-067": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "米国心理学会：情動焦点型コーピング",
+        "url": "https://dictionary.apa.org/emotion-focused-coping"
+      }
+    ],
+    "notes": [
+      "気分転換による感情調整と、仕事の問題そのものへの対処を区別。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "ba5a361fab9d42ec1eaa6aa71a558996a350244c21b060721215df3dea7160e3",
+    "explanation_sha256": "2a0298d23006204be27afdc2daf337c39cd0c2953745fb35999adaf7ff9c4bd2"
+  },
+  "115-AM-068": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "WHO：心理的応急処置・現場支援者向けガイド",
+        "url": "https://iris.who.int/bitstream/handle/10665/44615/9789241548205_eng.pdf?sequence=1"
+      }
+    ],
+    "notes": [
+      "尊厳、基本的ニーズ、傾聴、危険と刺激の低減の原則を症例へ適用。安否の保証、忘却の強要、威圧は行わない。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "7814a784bc0439d83f4e2267e908928341fe5f49b14e1a00800ffad90bd062ef",
+    "explanation_sha256": "52b62aa9ee80c709b70b5746a7a533a1dbd1325bd93a1613a1ef95803b9ffbb6"
+  },
+  "115-AM-069": {
+    "status": "evidence_pending",
+    "text_reviewed": true,
+    "sources": [],
+    "notes": [
+      "設問、公式正答、各選択肢の解説を個別点検。根拠資料の照合結果を追加する。"
+    ],
+    "confidence": 0.0,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "359adc9f7a82c3951d5e941f6270bc12208f90589f722a1cb4e362b55f982a68",
+    "explanation_sha256": "88c7286af360e3e3d95250b884a47b786aa602d637d37316edea8e1f5e98ed2c"
+  },
+  "115-AM-070": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "国立がん研究センター：AC療法の患者向け説明",
+        "url": "https://www.ncch-accel.ncc.go.jp/jp/ncch/division/pharmacy/010/pamph/breast_cancer/020/index.html"
+      }
+    ],
+    "notes": [
+      "点滴部位の腫れ・痛みの迅速な報告が必要なことを照合。本問では薬剤名を推定せず、血管外漏出の可能性の確認を優先。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "912cebb05439767563e6bec171eacf17bf1081f502bb88f887f52513b99e52d1",
+    "explanation_sha256": "f0c8adc04221b0dcd70fc33bef95d66ccce7cc0dc95428127bb6684d2ff56296"
+  },
+  "115-AM-071": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "日本看護協会：夜勤中の仮眠",
+        "url": "https://www.nurse.or.jp/nursing/practice/shuroanzen/jikan/pdf/kamin.pdf"
+      }
+    ],
+    "notes": [
+      "夜勤中の計画的仮眠による負担軽減を照合。普及率は新形式の説明から除外する。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "e9cb0700568006b7d66ca5bc10d2abd7ff89f1aa0eafddf346a65470c108f697",
+    "explanation_sha256": "c358e3d298fd1395292a49b93ab53191d49e77bbc831b5ae3aeb49735c0f476c",
+    "scope": "簡潔形式の正答理由・覚えるポイント。旧選択肢別解説の承認ではない。"
+  },
+  "115-AM-072": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "厚生労働省：災害救助法",
+        "url": "https://www.mhlw.go.jp/web/t_doc?dataId=25014000&dataType=0"
+      }
+    ],
+    "notes": [
+      "目的条文、医療・助産、都道府県等の費用支弁を照合。災害障害見舞金との法制度の違いも点検。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "62a76c3a5d33887d888448ca8b635fd9150c7fa2310d2ddc5a589519867d04bd",
+    "explanation_sha256": "686a2fd682367426e7fab03ff685d6ef136945fa4e89be538fa08aaef1a728b7"
+  },
+  "115-AM-073": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "日本看護協会：看護職の倫理綱領",
+        "url": "https://www.nurse.or.jp/nursing/rinri/text/basic/professional/platform/index.html"
+      }
+    ],
+    "notes": [
+      "信条の尊重、説明を受けた本人の意思決定、共通目標による協働を照合。症例への適用と各選択肢は個別点検。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "a41ed1a1dc14c83388dacfc12744ba1de87b989c7e09cb5f57420cafdad59a55",
+    "explanation_sha256": "b9ad0696d2099cf2543a9cad948441af8ae4865179f5f8242285a9463b03d03b"
+  },
+  "115-AM-074": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "OpenStax：ホルモンと受容体",
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/17-2-hormones"
+      }
+    ],
+    "notes": [
+      "脂溶性ステロイドの細胞内受容体と、ペプチド・カテコールアミンの膜受容体を照合。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "ccb75b010570f2fc8c97cec729e805cc1821f7f8aedb97dbcdaf46860141ea38",
+    "explanation_sha256": "0d369059e88fe3e33af116581a8bcde9a36c608e6762dda225dc321efc89e7e1"
+  },
+  "115-AM-075": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "OpenStax：体液区分",
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/26-1-body-fluids-and-fluid-compartments"
+      }
+    ],
+    "notes": [
+      "間質液・血漿・リンパの細胞外区分と細胞内液の優位を確認。新たな割合は追加していない。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "cb842cd1e6cb3bf717a8a66e04bcfc95c0e986d2ab1e82dacc7e08261ab17dfc",
+    "explanation_sha256": "eeb06f69963c4b79375f5058ca9e99946ea4747d130d5c72c16880e785a2e96c"
+  },
+  "115-AM-076": {
+    "status": "evidence_pending",
+    "text_reviewed": true,
+    "sources": [],
+    "notes": [
+      "設問、公式正答、各選択肢の解説を個別点検。根拠資料の照合結果を追加する。"
+    ],
+    "confidence": 0.0,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "0d4df897876a811e01a48086df64bcd7d8bd44700fc276e193997f16ab2cfe34",
+    "explanation_sha256": "07edf22957d78cf9ba3f52be173b9564d2d432e3d740fd67918ca7ef2ea0202b"
+  },
+  "115-AM-077": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "日本整形外科学会：腰部脊柱管狭窄症",
+        "url": "https://www.joa.or.jp/public/sick/condition/lumbar_spinal_stenosis.html?webview=true"
+      }
+    ],
+    "notes": [
+      "前屈で軽減する神経性間欠跛行の特徴を確認。回旋・片側屈の条件は症例に追加しない。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "a0e1ed5f989f3d6d3ac404ce836f16f875a48200a727e84695df83066e44a196",
+    "explanation_sha256": "a094245cee0eca9bef53d8bc72b050a725d088dce089a56875bdd836e0e5e9c5"
+  },
+  "115-AM-078": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "国立がん研究センター：子宮頸がんの治療",
+        "url": "https://ganjoho.jp/public/cancer/cervix_uteri/treatment.html"
+      }
+    ],
+    "notes": [
+      "扁平上皮癌が代表的で腺癌も存在する点を確認。全例が扁平上皮由来との一般化を避けた。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "6632a08ed13f5cf0fb501d56aab95f30cd5eadca18ec723d9627377353863b08",
+    "explanation_sha256": "74afd8e7234e02a03edd5a982da5a5991d769d4270fdcd6c0c1013da07a0ba2a"
+  },
+  "115-AM-079": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "厚生労働省：地域保健",
+        "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/tiiki/"
+      }
+    ],
+    "notes": [
+      "市町村保健センターの健康相談・保健指導・健康診査という直接サービスを照合。施設数は説明に含めない。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "d973fb292fa411efe0b041e33d3dfac0e86a37cc70f4c9555695cd877704d9d6",
+    "explanation_sha256": "53e088276119d6d02976f4207445fe1cf7e5a58898a283117c31e713c3f01a6a",
+    "scope": "簡潔形式の正答理由・覚えるポイント。旧選択肢別解説の承認ではない。"
+  },
+  "115-AM-080": {
+    "status": "evidence_pending",
+    "text_reviewed": true,
+    "sources": [],
+    "notes": [
+      "設問、公式正答、各選択肢の解説を個別点検。根拠資料の照合結果を追加する。"
+    ],
+    "confidence": 0.0,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "46b9cb197fdb6401c24fe58f1a2c51291f3cc9b95afaa1e8c9f869e2defa0ade",
+    "explanation_sha256": "0dc48d8c1ba6b8b2455d30471a8776109c783f274f5849bbce6fb1caff4c1004"
+  },
+  "115-AM-081": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "日本アレルギー学会：アナフィラキシーガイドライン2022",
+        "url": "https://www.jsaweb.jp/uploads/files/Web_AnaGL_2022_1201.pdf"
+      }
+    ],
+    "notes": [
+      "皮膚・消化器・呼吸症状の組合せとアドレナリン筋注の優先を照合。補助薬や静脈路確保のために遅延させない。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "ef1e554ab8732fff99c6762c8733cff36a745f5e7f969835428f1d4d0b378ce1",
+    "explanation_sha256": "b64d88011019f48bc05a6df14bf49da4edd77cdf19588012fa0c569b378f3d96"
+  },
+  "115-AM-082": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "OpenStax：悲嘆と喪失",
+        "url": "https://openstax.org/books/fundamentals-nursing/pages/36-1-concepts-of-grief-and-loss"
+      }
+    ],
+    "notes": [
+      "条件を付けて結果を変えようとする取引を確認。心理過程を固定順序として一般化しない。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "43838a220333b5d4eb69d2145c57d8c81547861186e9575cabb8c8a3def9d750",
+    "explanation_sha256": "eb2ff0740f4a1916fd7630b15b71ddf844888ec715cec7ba3ce6a88b01bc48f9"
+  },
+  "115-AM-083": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "OpenStax：代謝反応",
+        "url": "https://openstax.org/books/anatomy-and-physiology/pages/24-1-overview-of-metabolic-reactions"
+      }
+    ],
+    "notes": [
+      "異化と同化の定義を照合。角化・石灰化・瘢痕化との違いを点検。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "bf238df556c2988f2166540cc12c5d0aca51057734ef08c1ae48ffa3fb771b59",
+    "explanation_sha256": "7a43f2dffe7c526d061eb6f0f2b749decb4dad4301ab37d3b4e40f2458530eeb"
+  },
+  "115-AM-084": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "CDC：ツツガムシ病",
+        "url": "https://www.cdc.gov/typhus/about/scrub.html"
+      },
+      {
+        "title": "CDC：疥癬",
+        "url": "https://www.cdc.gov/dpdx/scabies/index.html"
+      }
+    ],
+    "notes": [
+      "感染したダニ幼虫による媒介を確認。疥癬についてもCDCのSarcoptes scabieiの記載を照合。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "dd5d12d23ad2d492bbe5b419d5acf59092d24eb6b68a7f688896fc3dd75366dd",
+    "explanation_sha256": "835c1c57d8d39707e6a7584503312799c6f804095157b53ff0e04f547639285d",
+    "scope": "簡潔形式の正答理由・覚えるポイント。旧選択肢別解説の承認ではない。"
+  },
+  "115-AM-085": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "久光製薬：経皮吸収型製剤一覧（2021年）",
+        "url": "https://www.hisamitsu-pharm.jp/assets/img/tdds/pdf/pamphlet08.pdf"
+      }
+    ],
+    "notes": [
+      "ニトログリセリンとフェンタニルの貼付製剤を照合。製剤の存在を問う設問として、投与量や適応患者を追加しない。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "5cc610c5012e075b45321c79ba4af6532f846013e1fd9d7306c7495a60b37ca9",
+    "explanation_sha256": "4c80e2c666c3993ceca4ca1edad67618b9932e631a0c91229fc2e8e217ab2f59"
+  },
+  "115-AM-086": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "厚生労働省：特定健診・特定保健指導",
+        "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000161103.html"
+      }
+    ],
+    "notes": [
+      "保険者、根拠法、対象と保健指導の選定を照合。がん検診や75歳以上の制度と区別。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "10b25795625aab905760799b206c84cccef43aee8b9692c287690b64ef93dba6",
+    "explanation_sha256": "6c133ea98cc4ec7ef2e0764204a0df01bdf3363cda9f397ce6de211423df244d"
+  },
+  "115-AM-087": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "WHO：手術安全チェックリスト実施手引2009",
+        "url": "https://www.who.int/docs/default-source/patient-safety/9789241598590-eng.pdf"
+      }
+    ],
+    "notes": [
+      "侵襲的手技前のチーム全体の作業中断と口頭確認を照合。覚醒している患者の参加を否定する説明は含めない。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "752e512a216b5504b9b93aa6778163e2ff4290aa49d22935c81ae4a4d7869d0b",
+    "explanation_sha256": "1369c81f9869ba15b7a652d5903ce224fa6d2fb6368602d6a0d2fe389a3da92f",
+    "scope": "簡潔形式の正答理由・覚えるポイント。旧選択肢別解説の承認ではない。"
+  },
+  "115-AM-088": {
+    "status": "evidence_pending",
+    "text_reviewed": true,
+    "sources": [],
+    "notes": [
+      "設問、公式正答、各選択肢の解説を個別点検。根拠資料の照合結果を追加する。"
+    ],
+    "confidence": 0.0,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "9c4dc28494ea2af7ecfe4c722690443ed0bff3600dab023e1ac38164a6a7d485",
+    "explanation_sha256": "58f40abfeccb093c9f00b3c01304bc1283ff787cfb0ea6711cc497da7e8fca09"
+  },
+  "115-AM-089": {
+    "status": "evidence_pending",
+    "text_reviewed": true,
+    "sources": [],
+    "notes": [
+      "設問、公式正答、各選択肢の解説を個別点検。根拠資料の照合結果を追加する。"
+    ],
+    "confidence": 0.0,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "dcc274cbf9992637528ce1fd323f2fe3409d734a3cb9d16c4a92be3158a0752f",
+    "explanation_sha256": "2764aa7686143d9b16b176dbe8ef54968ad082d74e2cafe588bab1d1a4d49177"
+  },
+  "115-AM-091": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "厚生労働省：地域連携クリティカルパス",
+        "url": "https://www.mhlw.go.jp/bunya/shakaihosho/iryouseido01/taikou03.html"
+      }
+    ],
+    "notes": [
+      "医療機関間の診療計画共有と急性期から回復期への継続を照合。介護支援専門員への情報提供を全否定する説明はしていない。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "26bf779972fc01799b58db9364410e2fa0634431e73a7b566be081544524b38d",
+    "explanation_sha256": "2052d554ffa049e50618de1c4145d255f70747a26bdfa16634d399cb82edc187",
+    "scope": "簡潔形式の正答理由・覚えるポイント。旧選択肢別解説の承認ではない。"
+  },
+  "115-AM-092": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "CDC：ノロウイルス感染予防",
+        "url": "https://www.cdc.gov/norovirus/prevention/index.html"
+      }
+    ],
+    "notes": [
+      "石けんと流水による手洗いを照合。感染性胃腸炎すべてをノロウイルスと診断する説明はしていない。看護中止や看護師の一律の届出義務とは区別する。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "686d393c5c7a60a247be616ce486308c8111f36ffbb38a49bc61ab66a196ce1b",
+    "explanation_sha256": "d88ceb4dff02519acb354343390229e9f0327185707fea6cf83ed5372c8c8c94"
+  },
+  "115-AM-093": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "NIDCD：失語症",
+        "url": "https://www.nidcd.nih.gov/health/aphasia"
+      }
+    ],
+    "notes": [
+      "ウェルニッケ失語の理解障害、短く簡潔な文で話す援助を照合。構音障害と失語を区別する。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "c42cbb99d6adf156b6b3e22cdd4fdf3124f6934fce14c9a44b020a3e54f33e44",
+    "explanation_sha256": "0368d01529847750accce935110b23f675e595e49dcfeb4a81fe4c4eb316acd5"
+  },
+  "115-AM-094": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "国立がん研究センター：手術について詳しく",
+        "url": "https://ganjoho.jp/public/dia_tre/treatment/operation/ope02.html"
+      }
+    ],
+    "notes": [
+      "喫煙・呼吸機能と術後排痰困難、無気肺の機序を照合。症例の検査値から他の合併症を断定しない。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "2bb2237891eafb44459c43409195dddef6b4339e04618ea7f9714d2ef4d7cf9b",
+    "explanation_sha256": "6089738023cdf4e58c7cc9994895c4529295e156e93e60df73d39e7d995a99c5"
+  },
+  "115-AM-095": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "Royal Cornwall Hospitals：胸腔ドレーン管理指針",
+        "url": "https://doclibrary-rcht.cornwall.nhs.uk/DocumentsLibrary/RoyalCornwallHospitalsTrust/Clinical/Respiratory/InsertionAndManagementOfChestDrainsClinicalGuideline.pdf"
+      }
+    ],
+    "notes": [
+      "ドレーンの固定・移動時の牽引回避・排液観察を照合。離床前後の位置比較を提示症例に適用。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "303329cdbf4975b3bb98cd9c033d9dce698a1a370d45d958fcd5d47ef5979c9f",
+    "explanation_sha256": "7169c09237dd8e17db9ed5d58974fd32f43baef691fdc6b83576dc7d245582ba",
+    "scope": "簡潔形式の正答理由・覚えるポイント。旧選択肢別解説の承認ではない。"
+  },
+  "115-AM-096": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "国立がん研究センター：食道がんの療養",
+        "url": "https://ganjoho.jp/public/cancer/esophagus/follow_up.html"
+      }
+    ],
+    "notes": [
+      "再建後の少量・咀嚼、逆流への注意と食事回数の調整を確認。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "5bb6d2670e741c3f166109c8abe40a49a8915c134eae64672811306e296b9dc0",
+    "explanation_sha256": "2200857b7b3b65e78d93105ea7db262d9e72345ee71c786951452428e76fdd56"
+  },
+  "115-AM-097": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "OpenStax：体液と電解質",
+        "url": "https://openstax.org/books/clinical-nursing-skills/pages/19-1-fluid-and-electrolytes"
+      }
+    ],
+    "notes": [
+      "体液過剰による体重増加・浮腫・肺の副雑音を照合。提示されたカリウム値と血糖指標を個別点検。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "2cc43eafdddf1b759ca0711f331a53c7acf6ebebd031cb22cee4d9bdbac97c92",
+    "explanation_sha256": "1b311ff78baa6269b4c21b066b9ed4dbb28faa4ba78cc99e34865c0aaed4e479"
+  },
+  "115-AM-098": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "NIDDK：腹膜透析",
+        "url": "https://www.niddk.nih.gov/health-information/kidney-disease/kidney-failure/peritoneal-dialysis"
+      }
+    ],
+    "notes": [
+      "腹腔内カテーテルと腹膜炎リスクを照合。血液透析のアクセスと区別する。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "3cf1a9b097e8b7b2474f05f9b06036f51a443436fd8f1da0e914d336084060f3",
+    "explanation_sha256": "7feb5ab6bba356d9b85fea4b8f4cde517767e8096d2ba2fb12ad356f5971ffda"
+  },
+  "115-AM-099": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "NIDDK：腹膜透析の食事と栄養",
+        "url": "https://www.niddk.nih.gov/health-information/kidney-disease/kidney-failure/peritoneal-dialysis/eating-nutrition"
+      }
+    ],
+    "notes": [
+      "腹膜透析ではKが除去され、個別の検査値で調整すること、蛋白喪失・透析液由来エネルギーを確認。K3.8という本例に限定。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "936817c2ff67077bf0f0f9c30ed33fa0fe65aaf11bef074e0c5ee4d8877d8ef4",
+    "explanation_sha256": "5d7a8d58baa8f59dd2d6b32d93c29d1d95f402f99444faeaa966980c12aacbd7"
+  },
+  "115-AM-100": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "米国国立老化研究所：レビー小体型認知症",
+        "url": "https://www.nia.nih.gov/health/what-lewy-body-dementia"
+      }
+    ],
+    "notes": [
+      "幻視と睡眠中の行動を照合。他の認知症症状を症例に追加していない。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "0d72460e928c7e3a4b86386e16f0f505c89f7d1d029cbad0d19187b4c82e10b6",
+    "explanation_sha256": "dd8d93e996d13ceef78e5f883baed614e93c1087214e39cc1810099f1c5ff47e"
+  },
+  "115-AM-101": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "OpenStax：個人と環境の安全",
+        "url": "https://openstax.org/books/fundamentals-nursing/pages/9-1-safety-individual-and-environmental"
+      }
+    ],
+    "notes": [
+      "転倒予防の履物・手すり・照明・環境調整を照合。自立を一律に制限する選択肢との違いを点検。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "ec2529ff559dcd579c9aa566f4e6e6a05ad586c2d47221335d0d790e4196f710",
+    "explanation_sha256": "290828dc49bc5b25e8873fc6c4ea8ddbc0293e5f508afbc1299530abd1c11d4f"
+  },
+  "115-AM-102": {
+    "status": "evidence_pending",
+    "text_reviewed": true,
+    "sources": [],
+    "notes": [
+      "設問、公式正答、各選択肢の解説を個別点検。根拠資料の照合結果を追加する。"
+    ],
+    "confidence": 0.0,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "480f7dfaa84e90821a508f17296db25c5594f9c34d33cebfc9d107c64be1c30d",
+    "explanation_sha256": "be9904ac2322ee34110ea2d1ea165716555a66170d0473f80d2d98d9f12bf27e"
+  },
+  "115-AM-103": {
+    "status": "review_required",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "環境再生保全機構：小児ぜん息の発作強度",
+        "url": "https://www.erca.go.jp/yobou/zensoku/basic/child/09_02_01.html"
+      }
+    ],
+    "notes": [
+      "SpO2と会話・睡眠などの所見が複数の強度区分にまたがる。公式正答の中発作は固定するが、全所見が中発作に一致するとの説明はできない。専門的確認が必要。"
+    ],
+    "confidence": 0.8,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "8c883c72f39ae4200925cc34adb511ce2100598c7aeb98ba1184cbc33aa08723",
+    "explanation_sha256": "b44e856276f23c2a078e84e219d33900346873897598afb7b3e63495462dd126"
+  },
+  "115-AM-104": {
+    "status": "evidence_pending",
+    "text_reviewed": true,
+    "sources": [],
+    "notes": [
+      "設問、公式正答、各選択肢の解説を個別点検。根拠資料の照合結果を追加する。"
+    ],
+    "confidence": 0.0,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "00cb83f3319a7691c726e1a4edfaa91b963f5de77035b3a3983b176dc9075e51",
+    "explanation_sha256": "3644e27e9c64e29b94304856066c0f4bbd9770ad299f6b5e7d18b5eee5798473"
+  },
+  "115-AM-105": {
+    "status": "evidence_pending",
+    "text_reviewed": true,
+    "sources": [],
+    "notes": [
+      "設問、公式正答、各選択肢の解説を個別点検。根拠資料の照合結果を追加する。"
+    ],
+    "confidence": 0.0,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "8a1cd5011c4e10bfa41082664053bc285f5d12477bd513b7b3860f32b27381d6",
+    "explanation_sha256": "51c8844d89d55e52ac546dcdb7178873cd7b0f0ffc1176c5a8d20d04cd7db87e"
+  },
+  "115-AM-106": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "NHS：嚥下障害の管理",
+        "url": "https://www.enherts-tr.nhs.uk/wp-content/uploads/2022/01/Dysphagia-V1-12.2021-web.pdf"
+      }
+    ],
+    "notes": [
+      "嚥下評価に基づく食形態と頭頸部姿勢の調整を照合。全患者に頸部前屈が有効とはしない。症例の刻み食でのむせを評価。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "e4973794ccf486db277aa7a28ea82aad6d9fa5e02dbfd321385f89e1ef90bd50",
+    "explanation_sha256": "8b89923005fd988d70cd90675c924887621cdd93428feca352dc58cd9b4981b7",
+    "scope": "簡潔形式の正答理由・覚えるポイント。旧選択肢別解説の承認ではない。"
+  },
+  "115-AM-107": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "米国国立老化研究所：レスパイトケア",
+        "url": "https://www.nia.nih.gov/health/caregiving/what-respite-care?page=1&services=26&topics=89&types=BSC.Article"
+      }
+    ],
+    "notes": [
+      "家族介護者の負担・休息・家族との時間を支える原則を照合。制度の対象条件は追加せず、訪問時間や支援調整は症例の希望に対応させて点検。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "5387946a2ca32d8572626be7619601b6cda11247535be5ea69ed36b0ae77dd1b",
+    "explanation_sha256": "a9ca80bf4e51156b270e2175bdf73383bbe728b230ed64566687c7ecab7af2e3"
+  },
+  "115-AM-108": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "厚生労働省：障害のある人への相談支援",
+        "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/shougaishahukushi/service/soudan_shien.html"
+      }
+    ],
+    "notes": [
+      "相談支援専門員による計画相談と、地域移行・地域定着の違いを照合。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "693a3f884c764e461b283db5d39728d6024258a58a9b005cde98718a2b256454",
+    "explanation_sha256": "f907ce6db13cbbfff50b07ec1125f82fb0129f283e07c875c4fb37a8b4fbeb54"
+  },
+  "115-AM-109": {
+    "status": "evidence_pending",
+    "text_reviewed": true,
+    "sources": [],
+    "notes": [
+      "設問、公式正答、各選択肢の解説を個別点検。根拠資料の照合結果を追加する。"
+    ],
+    "confidence": 0.0,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "35afc00f7e84b329afcdfd35c708828af93fbe2fc3a0b24ec73e323da30fceda",
+    "explanation_sha256": "11144d17d187d77520be3cd40783ac46957e0dd03c16dee1be605d6580ac62bc"
+  },
+  "115-AM-110": {
+    "status": "evidence_pending",
+    "text_reviewed": true,
+    "sources": [],
+    "notes": [
+      "設問、公式正答、各選択肢の解説を個別点検。根拠資料の照合結果を追加する。"
+    ],
+    "confidence": 0.0,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "1f95405022793670807926487860f8b787f5d7de5dffc5ca7c6bfbc1e2595b91",
+    "explanation_sha256": "e6425237c9f9aa18b49d1890476f00fcf9ef424e8abbaf7ba938b0ea1981077a"
+  },
+  "115-AM-111": {
+    "status": "evidence_pending",
+    "text_reviewed": true,
+    "sources": [],
+    "notes": [
+      "設問、公式正答、各選択肢の解説を個別点検。根拠資料の照合結果を追加する。"
+    ],
+    "confidence": 0.0,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "42fb9e93e2d171b54917269b0bf0d3b22db9e35bc55f7c0636cf62886885b7d8",
+    "explanation_sha256": "23365f7b8b15326d6f6cc747b50e9352b1be8f2e72ea515aead5b0d77cf74d79"
+  },
+  "115-AM-112": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "OpenStax：妊娠中の不快症状",
+        "url": "https://openstax.org/books/maternal-newborn-nursing/pages/10-3-common-discomforts-of-pregnancy"
+      }
+    ],
+    "notes": [
+      "少量で摂れる時の摂食、においへの配慮、妊娠初期の腸運動低下を照合。症例にない疾患は追加しない。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "b4e1145d933a73800db4c8648dafd00a3caf6525f3f9fc08590961c768bfeaf1",
+    "explanation_sha256": "a289e1df9cfa4af3ba55d204bd12a6cf836b697ab7eab48c65fb2bc8a41a92ac"
+  },
+  "115-AM-113": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "OpenStax：妊娠中の不快症状",
+        "url": "https://openstax.org/books/maternal-newborn-nursing/pages/10-3-common-discomforts-of-pregnancy"
+      }
+    ],
+    "notes": [
+      "少量で摂れる時の摂食、においへの配慮、妊娠初期の腸運動低下を照合。症例にない疾患は追加しない。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "ff9518d287cabc1d9f6c0397ed4400068b4fecce9b7d5c614fc983881c527e47",
+    "explanation_sha256": "57f4bf949fa3043ceeb967aff6cfdbd4559aede8025ebf9f535e2314283c6edf"
+  },
+  "115-AM-114": {
+    "status": "evidence_pending",
+    "text_reviewed": true,
+    "sources": [],
+    "notes": [
+      "設問、公式正答、各選択肢の解説を個別点検。根拠資料の照合結果を追加する。"
+    ],
+    "confidence": 0.0,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "ec322a90556be1e4090f45169d5d4b79ae8907ccd9370e557aad173bfa6c02ff",
+    "explanation_sha256": "58bdbf4be383c8b96139d5f402aaa75fd297b8812a4821e98f24710ce47ab16c"
+  },
+  "115-AM-115": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "OpenStax：電解質異常",
+        "url": "https://openstax.org/books/medical-surgical-nursing/pages/10-3-electrolyte-imbalance"
+      }
+    ],
+    "notes": [
+      "高カリウム・低カリウム双方の心電図・不整脈リスクを照合。症例の検査値の異常を点検。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "c0c37964510ac627b0129cd9eeeedc613f32b6754ce6959efd2ef034843fa6a7",
+    "explanation_sha256": "e02a7ed96f00f1c7d8c331cbd70ac66c01c3f83ffddeb7da39872b026fbea96b"
+  },
+  "115-AM-116": {
+    "status": "evidence_pending",
+    "text_reviewed": true,
+    "sources": [],
+    "notes": [
+      "設問、公式正答、各選択肢の解説を個別点検。根拠資料の照合結果を追加する。"
+    ],
+    "confidence": 0.0,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "74ddce9569cff74d20bffcf7f9681955860e87900b5c8582fece38508ee6d9c7",
+    "explanation_sha256": "f7dff1abf72cdef7795132df7066fe8b010d5b7c7be62b2864296ad72a38a02c"
+  },
+  "115-AM-117": {
+    "status": "evidence_pending",
+    "text_reviewed": true,
+    "sources": [],
+    "notes": [
+      "設問、公式正答、各選択肢の解説を個別点検。根拠資料の照合結果を追加する。"
+    ],
+    "confidence": 0.0,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "f98d24400d0a7186ad0da1fedab1e2c877aaf54c12002e5d75f7f1d7e2730204",
+    "explanation_sha256": "30b57229b517d65a37d25af5d13a7de7b0085eed395a1ad127af71fec6e5fe04"
+  },
+  "115-AM-118": {
+    "status": "evidence_pending",
+    "text_reviewed": true,
+    "sources": [],
+    "notes": [
+      "設問、公式正答、各選択肢の解説を個別点検。根拠資料の照合結果を追加する。"
+    ],
+    "confidence": 0.0,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "28404b26c9333d8371a9f25112dad169ba662749b7816acd9520e7f060164857",
+    "explanation_sha256": "7b0e14b563b6b14f7289c87012b618872cf52f0136716d276c91ae80a3681b06"
+  },
+  "115-AM-119": {
+    "status": "evidence_pending",
+    "text_reviewed": true,
+    "sources": [],
+    "notes": [
+      "設問、公式正答、各選択肢の解説を個別点検。根拠資料の照合結果を追加する。"
+    ],
+    "confidence": 0.0,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "cb77e7c8ca9aa5586ad120f00d572e52f87df8a4ca1d73f2663491e7a2780651",
+    "explanation_sha256": "a6587f193e42d3dace49a585c3f9c8655105e96a4370ad1de2d35435180cea00"
+  },
+  "115-AM-120": {
+    "status": "evidence_pending",
+    "text_reviewed": true,
+    "sources": [],
+    "notes": [
+      "設問、公式正答、各選択肢の解説を個別点検。根拠資料の照合結果を追加する。"
+    ],
+    "confidence": 0.0,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "67d10d29ac72e85bd44ee9f59b2633fff18131259f0e03cb379d77d59a550cf0",
+    "explanation_sha256": "099776aa7ff2e482ed10c5de579765e235e980278a0873efb698ac776513fbb2"
+  },
+  "115-PM-001": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "厚生労働省：2022年国民生活基礎調査・健康状況",
+        "url": "https://www.mhlw.go.jp/toukei/saikin/hw/k-tyosa/k-tyosa22/dl/04.pdf"
+      }
+    ],
+    "notes": [
+      "図17と本文で男性の腰痛が最多と確認。受療率とは別の統計であることを点検。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "f31e103f0c5bbadc69539e6e33017a5b282ff81f0fa3d6d6f7c582739e3f1e21",
+    "explanation_sha256": "4b5b96c41eefb4bd38e2f8347d0b5dd56744ea63f5b79fedba8c7a2c28d4449a"
+  },
+  "115-PM-002": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "厚生労働省：介護保険法",
+        "url": "https://www.mhlw.go.jp/web/t_doc?dataId=82998034"
+      }
+    ],
+    "notes": [
+      "市町村の認定・地域密着型サービス指定、40歳以上の被保険者区分を照合。社会保険による共助と行政措置を区別する。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "cc842e1f905cdcfc0f4a58a3d346444140bdd8310f0163f1c095fcf588330cfc",
+    "explanation_sha256": "ff49dc8ab3bc85eff36c1097e18940371748d3ae2549fabc459780d931564046"
+  },
+  "115-PM-003": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "厚生労働省：2018年介護保険法等改正施行通知",
+        "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00tc3510&dataType=1&pageNo=1"
+      }
+    ],
+    "notes": [
+      "所得に応じた1・2・3割負担を出題前の施行通知で照合。対象外費用と区別する。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "e8b5caba9a1694f5d740f351759c003fc3ca1d9197f12a4765969aae6184fa69",
+    "explanation_sha256": "59beff4c98b3f24cff754b2d1dbc5903f79053ee78d6395cecca17b7ae8aef36"
+  },
+  "115-PM-004": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "日本看護協会：看護職の倫理綱領",
+        "url": "https://www.nurse.or.jp/nursing/rinri/text/basic/professional/platform/index.html"
+      }
+    ],
+    "notes": [
+      "信条の尊重、説明を受けた本人の意思決定、共通目標による協働を照合。症例への適用と各選択肢は個別点検。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "0e84702adb5d59da2fe2b1c6fe70568a8e15a1cc7a26bd0cf4a839d5aa0b6ba6",
+    "explanation_sha256": "a2dbeea72c0458d92bf8a9e57911285bdda053d25db0f3c136ee897561f0e942"
+  },
+  "115-PM-005": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "日本看護協会：ナースセンターの概要",
+        "url": "https://www.nurse.or.jp/nursing/nc/gaiyo/"
+      }
+    ],
+    "notes": [
+      "人材確保法に基づく無料職業紹介を照合。免許交付、訪問看護、特定行為研修と役割を区別。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "e5669ac83cdc3d618a936dc1e909322c4be5eb16dfd79537284675c53519043c",
+    "explanation_sha256": "6b09eaec89a13b4e2622687fa1ee4d82713ba9e312b2291d7b2323c4aca6c3cf"
+  },
+  "115-PM-006": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "OpenStax：胎児循環",
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/20-6-development-of-blood-vessels-and-fetal-circulation"
+      }
+    ],
+    "notes": [
+      "卵円孔、動脈管、静脈管の位置を照合。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "8e3c2c99fc5b9055efbfa0255de9a4b56809e4b490a6d1674e77c891a58b08f5",
+    "explanation_sha256": "63ada3597c5c769d78e67f554af2a4482d9f9950df4cae719b10c3a488aa9427"
+  },
+  "115-PM-007": {
+    "status": "evidence_pending",
+    "text_reviewed": true,
+    "sources": [],
+    "notes": [
+      "設問、公式正答、各選択肢の解説を個別点検。根拠資料の照合結果を追加する。"
+    ],
+    "confidence": 0.0,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "7761fa29f12a38f0109d88ebbaa11252cd156702c75d9c81d4f7a1a88ba94bd9",
+    "explanation_sha256": "504b3c35a0ebfe8550ce01c3c522a77f44d7807b8d6e25ed427f8f794484a52b"
+  },
+  "115-PM-008": {
+    "status": "evidence_pending",
+    "text_reviewed": true,
+    "sources": [],
+    "notes": [
+      "設問、公式正答、各選択肢の解説を個別点検。根拠資料の照合結果を追加する。"
+    ],
+    "confidence": 0.0,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "f41412dabcd0622f1c16213d7ccc3f2fa358283a947fbba53480b31fc6a18c12",
+    "explanation_sha256": "6384db81b0e19c73d2cb9142b4e9e1600f18c505f6be83dfbbb387dcf5cb34bc"
+  },
+  "115-PM-009": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "OpenStax：老年期の認知と記憶",
+        "url": "https://openstax.org/books/lifespan-development/pages/15-3-cognition-and-memory-in-late-adulthood"
+      }
+    ],
+    "notes": [
+      "蓄積した経験・知識を使う結晶性知能の定義を確認。本問の慣れた道の判断に限定。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "49aacd06ae125625995060665821e06d2fb6f77e6defc46ae03d557febc4120c",
+    "explanation_sha256": "92e2db5f50fde62521e70e586245a98feeff18ec5ab29801ba8d260369f8ce8d"
+  },
+  "115-PM-010": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "日本看護協会：看護職の倫理綱領",
+        "url": "https://www.nurse.or.jp/nursing/rinri/text/basic/professional/platform/index.html"
+      }
+    ],
+    "notes": [
+      "信条の尊重、説明を受けた本人の意思決定、共通目標による協働を照合。症例への適用と各選択肢は個別点検。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "244ca33b1f46d975984f31c3f66d9c1bdeae78621791bb757ca2c2a7d7847b49",
+    "explanation_sha256": "b382e377339bc0f8eb4760d21268958947b0b8f7d39d3e8687911ac495e4c1b4"
+  },
+  "115-PM-011": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "OpenStax：摂食行動の神経調節",
+        "url": "https://openstax.org/books/introduction-behavioral-neuroscience/pages/16-4-neural-control-of-feeding-behavior"
+      }
+    ],
+    "notes": [
+      "視床下部による摂食調節を照合。他部位の働きは基本機能に限定。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "06da6e8c8f89925253c43b513600055188a1d6f0496e7bf4a6cc0b832f476f8a",
+    "explanation_sha256": "814dd2b9853f6fec2b85a4055a6537cf22161b905da78deaa7580bd5fe0cc993"
+  },
+  "115-PM-012": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "OpenStax：末梢神経系",
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/13-4-the-peripheral-nervous-system"
+      }
+    ],
+    "notes": [
+      "頸神経8対を照合。頸椎数と区別する。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "c2cb4ff0227da6091c95bfa50c7ad5ee9f86a08d18f8ef20f9c362a0141478af",
+    "explanation_sha256": "24554e78ec66a1c71b667709a2a7f85a538cdbfaf10f004f826b027b53deb770"
+  },
+  "115-PM-013": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "NIDCD：失語症",
+        "url": "https://www.nidcd.nih.gov/health/aphasia"
+      }
+    ],
+    "notes": [
+      "ウェルニッケ失語の理解障害、短く簡潔な文で話す援助を照合。構音障害と失語を区別する。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "08f62d990e38d6eefcdb8ba0e1b7b5713df88a96c2e8191ea3b8adb0f945a01e",
+    "explanation_sha256": "78d8bec6c9066ed982916b5ca10227a3f9c27ae548cd74d9a75b9f902b4f6aad"
+  },
+  "115-PM-014": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "NHLBI：心房細動",
+        "url": "https://www.nhlbi.nih.gov/health/atrial-fibrillation"
+      }
+    ],
+    "notes": [
+      "有効な心房収縮の消失と血液うっ滞・血栓リスクを確認。P波と房室伝導障害との違いも点検。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "d75bd63ed490ac27a39c64f36263ee29fe32b4ff5d1564d445ffe0f3f53b47b0",
+    "explanation_sha256": "da4296f1f4c47e5f14c068ccda4567278d3b18d7d0025bf18ca14f40dbaff8eb"
+  },
+  "115-PM-015": {
+    "status": "evidence_pending",
+    "text_reviewed": true,
+    "sources": [],
+    "notes": [
+      "設問、公式正答、各選択肢の解説を個別点検。根拠資料の照合結果を追加する。"
+    ],
+    "confidence": 0.0,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "a998ef433b7aed74819debe0242a11d086802b2840f1bbf192034d937e53651d",
+    "explanation_sha256": "25dad90346ba65c8b9bc67eaabfc97eaebdee8435fc995395a710b938953b749"
+  },
+  "115-PM-016": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "MedlinePlus：クレアチニン検査",
+        "url": "https://medlineplus.gov/lab-tests/creatinine-test/"
+      }
+    ],
+    "notes": [
+      "クレアチニンクリアランスによる濾過機能の推定を照合。他臓器の検査指標と区別する。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "59f03895d74f3f59f2fb52768c8d74f55526044ea765615cf4d10f6929d23d7b",
+    "explanation_sha256": "71aa5b3fdbf143e9cbd1e7601ac0bfacb0d361bc59cf5fc723e6fb0363ae6baf"
+  },
+  "115-PM-017": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "NIAMS：痛風",
+        "url": "https://www.niams.nih.gov/health-topics/gout"
+      }
+    ],
+    "notes": [
+      "尿酸塩結晶による病態と高尿酸血症だけでは痛風といえない点を照合。他の検査指標との違いを点検。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "f64056cb9ed930aa55cbed8610c3f5ee93898b1e3eba3417afab373e0e8d3721",
+    "explanation_sha256": "17e95c5e335652de2a98a2b5c67018960385abf7c2cd34fa67b303ebbdae8313"
+  },
+  "115-PM-018": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "OpenStax：コミュニケーションの種類",
+        "url": "https://openstax.org/books/fundamentals-nursing/pages/2-1-types-of-communication"
+      }
+    ],
+    "notes": [
+      "限定した答えを求める質問と、言語能力・発声能力に合わせた補助手段を照合。筆談には読み書き能力の確認を残す。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "e008db1044d70def4ae68f126ea50a6891179cb932b6288b4d300ae95a60a76a",
+    "explanation_sha256": "0229712f4345586779ee7e6a17cebf6d0756f925ca13213f7f4f76cea3646b8f"
+  },
+  "115-PM-019": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "OpenStax：アセスメントにおける批判的思考",
+        "url": "https://openstax.org/books/medical-surgical-nursing/pages/6-1-critical-thinking-in-assessment"
+      }
+    ],
+    "notes": [
+      "データを収集する段階と、根拠に基づき解釈して判断する段階を照合。症例にない所見を作らない。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "8e060d1a7e3961b481b5e36f6c14c97b286b8c0f9792840299751547f14e055a",
+    "explanation_sha256": "eadee8b91258c6359f649024e76a9bcea65893fcfbd34e94cc8cfa7456882ce3",
+    "scope": "簡潔形式の正答理由・覚えるポイント。旧選択肢別解説の承認ではない。"
+  },
+  "115-PM-021": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "CDC：ワクチン投与法",
+        "url": "https://www.cdc.gov/vaccines/hcp/imz-best-practices/vaccine-administration.html"
+      }
+    ],
+    "notes": [
+      "三角筋という筋注部位、筋量・部位を考慮する原則を照合。全薬剤の刺入条件や量に一般化しない。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "75bd3edec85d1722608114aeaf737c8899fd707fd71931eb8c769afe574c513d",
+    "explanation_sha256": "583ba55a8fb453c0a5267f651389c1444bf9c474e9fdac6e6ce312f2372995ba",
+    "scope": "簡潔形式の正答理由・覚えるポイント。旧選択肢別解説の承認ではない。"
+  },
+  "115-PM-022": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "Hull University Teaching Hospitals：口腔内吸引",
+        "url": "https://www.hey.nhs.uk/patient-leaflet/oral-suction-information-for-patients-and-carers/"
+      }
+    ],
+    "notes": [
+      "口腔へ挿入してから吸引する手順と粘膜保護を照合。圧や時間の未確認の数値を追加しない。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "c61983324f58a38791a5a26e89a7512d5af4deb7afcc05e35ffc67797fccd6d8",
+    "explanation_sha256": "4593ad0f20f6e64429ceb09bf8c4493d1ced32ea82f3dbedbe4adf42071cd856",
+    "scope": "簡潔形式の正答理由・覚えるポイント。旧選択肢別解説の承認ではない。"
+  },
+  "115-PM-023": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "NHS：回復体位",
+        "url": "https://www.nhs.uk/conditions/first-aid/recovery-position/?medium=email&source=GovDelivery"
+      }
+    ],
+    "notes": [
+      "側臥位による気道保持を照合。正常呼吸の確認が必要であり、心停止時の対応と混同しない。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "f885d237ed9d11dbf5cd8bcb9bdd2c54e9f55b7c3e561c46220115f867eb459d",
+    "explanation_sha256": "e5f6a615efaae4a287603ed62d0474f4be115b5aed830393da3607c2d93fa4ed"
+  },
+  "115-PM-024": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "英国MRC：筋力尺度",
+        "url": "https://www.ukri.org/councils/mrc/facilities-and-resources/find-an-mrc-facility-or-resource/mrc-muscle-scale/"
+      }
+    ],
+    "notes": [
+      "0〜5の筋力評価で5が最高段階であることを照合。尺度全文は転載しない。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "aa09a5cfe1be136de0c31e19aa283f796c45b3642f65ff8d119d2456dbc04cfd",
+    "explanation_sha256": "18610cc96b5211e0774a6067f81adeeaf7e609a8ffebabcc58cf08c198d275be",
+    "scope": "簡潔形式の正答理由・覚えるポイント。旧選択肢別解説の承認ではない。"
+  },
+  "115-PM-025": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "NHS：けいれん時の応急対応",
+        "url": "https://www.nhs.uk/symptoms/what-to-do-if-someone-has-a-seizure-fit/"
+      }
+    ],
+    "notes": [
+      "呼吸を保ち、口に物を入れず、無理な拘束をしない援助を照合。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "d651d1619a46c495c17b6940eee6b4fb963a87c02b4f6a04dac16f093a1796dd",
+    "explanation_sha256": "fe8febdf4158d7da8e27d20fa3d117cf98c5e90ad6f5d4316e043e41e5e61e15"
+  },
+  "115-PM-026": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "OpenStax：感覚の受容",
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/14-1-sensory-perception"
+      }
+    ],
+    "notes": [
+      "蝸牛の頂部は低周波、基底部は高周波という場所対応を照合。音量と周波数を区別する。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "34928feb06c991b71cf4f9a8b37b5bd99ae86d5169227a60d810f8b3ba4a9025",
+    "explanation_sha256": "379f0b1fea805caaf1bb7c533afd8b6a4a110150933d9d1fdaff814451f27964"
+  },
+  "115-PM-027": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "OpenStax：味覚系",
+        "url": "https://openstax.org/books/introduction-behavioral-neuroscience/pages/8-2-the-gustatory-system"
+      }
+    ],
+    "notes": [
+      "水素イオンと酸味の対応を照合。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "f0f63af9cda387c1ae97c292003086a9ba4f872bc046a7f98593fe85fcf28736",
+    "explanation_sha256": "d8efb98f88aee3325fc871c369754f1f998c349e4170323477a8cbb08b3a9ccf"
+  },
+  "115-PM-029": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "米国国立がん研究所：上咽頭癌",
+        "url": "https://www.cancer.gov/types/head-and-neck/patient/adult/nasopharyngeal-treatment-pdq"
+      }
+    ],
+    "notes": [
+      "EBウイルスと上咽頭癌との関連を照合。すべての患者の原因をウイルスと断定しない。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "02089f5444927c12a6bec165679e94b84c766db01805d3fd0a2b29bec8397732",
+    "explanation_sha256": "b2c136bc93cf9af8baf1d68cad74752a4bdd7da733b3353937ab7b97e9353125"
+  },
+  "115-PM-030": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "日本神経学会：単純ヘルペス脳炎診療ガイドライン2017",
+        "url": "https://www.neurology-jp.org/guidelinem/hse/herpes_simplex_2017.pdf"
+      }
+    ],
+    "notes": [
+      "側頭葉に多い病変分布を照合。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "c79c61f04de7854c9aa741633a442fe874ee219f4260d7409e5a9db572373869",
+    "explanation_sha256": "dfa35356d80a01c0abb48c1035b7c0172551792bbbddecf26d42d23b19928e6c"
+  },
+  "115-PM-031": {
+    "status": "evidence_pending",
+    "text_reviewed": true,
+    "sources": [],
+    "notes": [
+      "設問、公式正答、各選択肢の解説を個別点検。根拠資料の照合結果を追加する。"
+    ],
+    "confidence": 0.0,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "969f82937c157134cb2a748bbb4ceea51c9e724cdeaf8d9edb2a5cdb03041c27",
+    "explanation_sha256": "cc3ce0cfd8da2a752993436cc0ad8c3c2b8ec33187e844ad5ffd1330be4c27d8"
+  },
+  "115-PM-032": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "日本蘇生協議会：JRC蘇生ガイドライン2020 BLS",
+        "url": "https://www.jrc-cpr.org/wp-content/uploads/2022/07/JRC_0017-0046_BLS.pdf"
+      }
+    ],
+    "notes": [
+      "一般市民のAED使用を含む病院前の救命の連鎖を照合。搬送患者の構成比は説明に含めない。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "38946d4c11fc9f23e80349dfcea78f1c1bcb801830e06704dae9c55366e4bab7",
+    "explanation_sha256": "0be8e558a38e4480646d908dc3f9a749638a84f9b49efb3dd05d10c9142282bd",
+    "scope": "簡潔形式の正答理由・覚えるポイント。旧選択肢別解説の承認ではない。"
+  },
+  "115-PM-033": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "OpenStax：アセスメントにおける批判的思考",
+        "url": "https://openstax.org/books/medical-surgical-nursing/pages/6-1-critical-thinking-in-assessment"
+      }
+    ],
+    "notes": [
+      "データを収集する段階と、根拠に基づき解釈して判断する段階を照合。症例にない所見を作らない。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "187ca92d117451b88f05528a42d3ae7c0ca87975008cb2f40bb6c123834b8899",
+    "explanation_sha256": "6fbddd84f645789bac9c70dd124f7342bda65681b5bd0ad2d9deb3e528fbae66",
+    "scope": "簡潔形式の正答理由・覚えるポイント。旧選択肢別解説の承認ではない。"
+  },
+  "115-PM-034": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "日本作業療法士協会：作業療法ガイドライン2024",
+        "url": "https://www.jaot.or.jp/files/page/gakujutsu/guideline/OT%20guideline_2024.pdf"
+      }
+    ],
+    "notes": [
+      "食事動作の練習、自助具の選択・作成・適合という職務を照合。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "a4295abe6e9af058765acc981d2c04e14295dd54714d848a31cc3f79717e8dc7",
+    "explanation_sha256": "64f3bf2886ffff5607edfb019d3a89756e252e880b4f79dfef818d27384324aa"
+  },
+  "115-PM-035": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "OpenStax：コミュニケーションの種類",
+        "url": "https://openstax.org/books/fundamentals-nursing/pages/2-1-types-of-communication"
+      }
+    ],
+    "notes": [
+      "限定した答えを求める質問と、言語能力・発声能力に合わせた補助手段を照合。筆談には読み書き能力の確認を残す。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "578f33993e41f91d5b23965c640b76a9c4f961564c34e1e8bb719a52e31ea164",
+    "explanation_sha256": "e576ca895f3f801e107eb00b4e568e9de33b10ee088bf57f0ecc9d5f457777fc"
+  },
+  "115-PM-036": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "OpenStax：効果的なコミュニケーションとSMART目標",
+        "url": "https://openstax.org/books/fundamentals-nursing/pages/2-3-effective-communication"
+      }
+    ],
+    "notes": [
+      "患者主体・測定可能・達成可能・期限のある目標を照合。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "50cf011026d839a2c70d3f743870a553eca569fa346e3935454c7d156be82116",
+    "explanation_sha256": "a06dcd4c52b63f9aa03ddce72a3cf2c63da7e3249c02de26042bc70bb04fcb74"
+  },
+  "115-PM-037": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "NCCIH：リラクセーション技法",
+        "url": "https://www.nccih.nih.gov/health/relaxation-techniques-what-you-need-to-know"
+      }
+    ],
+    "notes": [
+      "漸進的筋弛緩法の緊張と弛緩の順序を照合。他の技法との違いを点検。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "dc6e5906995508e425b0c78aa9f0f35b80886830ae7083043b6ac40f030f2507",
+    "explanation_sha256": "ffcc33c78e24bf6f7f7114e85f65d6b6cee315557f3ac3e066d068284fecfa41"
+  },
+  "115-PM-038": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "OpenStax：心肺機能障害の援助",
+        "url": "https://openstax.org/books/fundamentals-nursing/pages/19-4-management-of-impaired-cardiopulmonary-functioning"
+      }
+    ],
+    "notes": [
+      "口すぼめ呼吸の呼気陽圧・気道虚脱軽減の機序を照合。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "3677ede6a50564546b2948d0bca5af0a8d952546b0d3af0abae57b38f1a23679",
+    "explanation_sha256": "2fd9b401606db3cc576c4bacd7d745672f73b50f63c7a3e1e3827c3f3acb0e4e"
+  },
+  "115-PM-039": {
+    "status": "evidence_pending",
+    "text_reviewed": true,
+    "sources": [],
+    "notes": [
+      "設問、公式正答、各選択肢の解説を個別点検。根拠資料の照合結果を追加する。"
+    ],
+    "confidence": 0.0,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "46e5f2c25fae1f07dfc2f5713ec5c4534e0295ac2b6754e6e773910d18500569",
+    "explanation_sha256": "e40ddbe8151015fa4b886428f2669364c7e4b33315d5ecf12ea11488bfc3f258"
+  },
+  "115-PM-040": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "日本蘇生協議会：JRC蘇生ガイドライン2020 BLS",
+        "url": "https://www.jrc-cpr.org/wp-content/uploads/2022/07/JRC_0017-0046_BLS.pdf"
+      }
+    ],
+    "notes": [
+      "反応がなく普段通りの呼吸がない場合の判断、死戦期呼吸を正常呼吸としない点を照合。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "4da303c87a49367ffd17eaf95a21008a7aaa8582dd0ec9faa9b3c11dba757513",
+    "explanation_sha256": "73c0f92c9ebb591c7b50d907f147a2b6a12e925af0c0476d6d6a1c22c9dc02f1"
+  },
+  "115-PM-041": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "Cambridge University Hospitals：尿路超音波検査",
+        "url": "https://www.cuh.nhs.uk/patient-information/ultrasound-scan-of-the-urinary-tract/"
+      }
+    ],
+    "notes": [
+      "膀胱を尿で満たして検査する準備を照合。飲水量の数値は追加しない。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "4ad1dfa3f028d16d9a3421d8a33adfc9b53dc8967ce7aeb67600caaad964846a",
+    "explanation_sha256": "860349e05dded89005aa73719050807341b920821ff99258acd3a9c57b39ca30",
+    "scope": "簡潔形式の正答理由・覚えるポイント。旧選択肢別解説の承認ではない。"
+  },
+  "115-PM-042": {
+    "status": "evidence_pending",
+    "text_reviewed": true,
+    "sources": [],
+    "notes": [
+      "設問、公式正答、各選択肢の解説を個別点検。根拠資料の照合結果を追加する。"
+    ],
+    "confidence": 0.0,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "95a3ff6da288f78d94997970b09f3c650136218e133f78faa9626eabcd12dd4d",
+    "explanation_sha256": "a5b183587765542d14b81a95ed2c577e6f36f444fda9aed2527f463b36f748df"
+  },
+  "115-PM-043": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "厚生労働省：高齢者の医薬品適正使用の指針2018",
+        "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00tc3422&dataType=1"
+      }
+    ],
+    "notes": [
+      "お薬手帳による処方の共有と一元管理を照合。自己判断での粉砕や中断、管理方法の一律化を避ける説明を点検。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "830589ea9909def04c03b88b74cee8eba28114d8dc05e24baecdc842a28f9b8f",
+    "explanation_sha256": "89c9ae868d194507e31676f810f5b2597a0be189b001b0f6ab388d37105e35d4"
+  },
+  "115-PM-044": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "厚生労働省：指定訪問看護の人員・運営基準",
+        "url": "https://www.mhlw.go.jp/web/t_doc?dataId=84aa0500&dataType=0&pageNo=1"
+      }
+    ],
+    "notes": [
+      "研修機会、管理者、重要事項の事前説明、記録保存を照合。自治体の保存期間上乗せを否定しない。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "01ed483f29ed9986c63bd8c8e12174f29c48d1caea46862b15c9540c806645ee",
+    "explanation_sha256": "e293e0c98cd5f8b36d88fb4eecbfb32045e61605c5efc91be3e69a643e6ec295"
+  },
+  "115-PM-045": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "PMDA：フェンタニル貼付剤添付文書（2021年）",
+        "url": "https://www.pmda.go.jp/drugs/2021/P20210830005/650034000_22200AMX00301_B100_1.pdf"
+      }
+    ],
+    "notes": [
+      "皮膚刺激を避ける貼付部位の変更を照合。在宅での保管と麻薬診療施設の保管要件は厚労省ガイダンスを参照して区別する。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "4da14b1b0d0b0a2b22d7cef67d1be5cb8571032301c26f7534a6301f31f0fc12",
+    "explanation_sha256": "568d080a3b19d03e7011e29108d9279d44beb6a621a6ee7300538d9005834e20"
+  },
+  "115-PM-046": {
+    "status": "evidence_pending",
+    "text_reviewed": true,
+    "sources": [],
+    "notes": [
+      "設問、公式正答、各選択肢の解説を個別点検。根拠資料の照合結果を追加する。"
+    ],
+    "confidence": 0.0,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "5fceafe3a36761c1f6c5f4d33614c8664d4b34454349ef42f1acc28863ae13ac",
+    "explanation_sha256": "8c62e9efdb95f70d93db07dbda36c3b1843148da4a59196927439ebe4d04c395"
+  },
+  "115-PM-047": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "米国国立老化研究所：レスパイトケア",
+        "url": "https://www.nia.nih.gov/health/caregiving/what-respite-care?page=1&services=26&topics=89&types=BSC.Article"
+      }
+    ],
+    "notes": [
+      "家族介護者の負担・休息・家族との時間を支える原則を照合。制度の対象条件は追加せず、訪問時間や支援調整は症例の希望に対応させて点検。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "aec6ab52a94a3901748464c7814a7ae8911a9fed80364364094567486a2dd089",
+    "explanation_sha256": "2e28cafc6292365c6634994dc8003692914be6ce03547f8051dbeb9b9c18fa29"
+  },
+  "115-PM-048": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "日本化薬：ニトロペン患者向け資料",
+        "url": "https://mink.nipponkayaku.co.jp/shizai/index.php?action_Shizaireq_Dodownload=0&smcd=2"
+      }
+    ],
+    "notes": [
+      "血圧低下・立ちくらみと座位での使用を確認。舌下投与と保管について他剤へ一般化しない。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "1735fc84e790edd5045a7a941aa8184dff60cf68a1b97a2909787a87d66e4848",
+    "explanation_sha256": "306eb825869b0bfd05edb50baf0d54b2e2cd2b5337408396c8739fb715c8243b"
+  },
+  "115-PM-049": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "国立がん研究センター：抗がんIVR",
+        "url": "https://www.ncc.go.jp/jp/ncch/division/ivr/060/010/index.html"
+      }
+    ],
+    "notes": [
+      "肝細胞癌の栄養動脈の塞栓という治療機序を照合。他の肝疾患を適応としない。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "33134fd4a2cabe10171b98c4057dda4d6d2b371c19e132d0331cc4c4f71dc031",
+    "explanation_sha256": "8af4c62f265187a24b83adf3a4816a5ba61df14cf05cc18567e32aef20be98a4"
+  },
+  "115-PM-050": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "難病情報センター：皮膚筋炎・多発性筋炎",
+        "url": "https://www.nanbyou.or.jp/entry/4080"
+      }
+    ],
+    "notes": [
+      "近位筋の筋力低下と上肢を挙げる動作への影響を照合。皮膚筋炎などの皮膚所見と区別する。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "52b8fcf7e801e633bc41998ff77d1cb995c6a2a3a86c6f3b67671935f1777caf",
+    "explanation_sha256": "0edd5e2b49c40d9ec7b10fccd49a93a3e112e77a91872bd3faf6238412ed2c1a"
+  },
+  "115-PM-051": {
+    "status": "evidence_pending",
+    "text_reviewed": true,
+    "sources": [],
+    "notes": [
+      "設問、公式正答、各選択肢の解説を個別点検。根拠資料の照合結果を追加する。"
+    ],
+    "confidence": 0.0,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "adede6a921d5e91e2434149bde821afcec482fa67a0069d7c70de56dcbcfd4c1",
+    "explanation_sha256": "870a19422f22b3e9e247d20ec66dbf2b096f5fe3700c3ef5956b5cb38688e1bd"
+  },
+  "115-PM-052": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "NIDCD：メニエール病",
+        "url": "https://www.nidcd.nih.gov/health/menieres-disease"
+      }
+    ],
+    "notes": [
+      "内耳疾患によるめまい・耳鳴り・難聴と好発年齢を照合。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "b9cc332d5b64356116b1aa3ef1eee09fa5799319cbe0624e44da88dab97633d5",
+    "explanation_sha256": "b0ae1e2c13597664961b12f284f9e429739d358194140e811ed13479aee3d163"
+  },
+  "115-PM-053": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "NIDDK：尿閉の定義",
+        "url": "https://www.niddk.nih.gov/health-information/urologic-diseases/urinary-retention/definition-facts"
+      }
+    ],
+    "notes": [
+      "急性尿閉の緊急性と、頻尿・排尿痛・残尿感との違いを確認。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "c289eaeedd705192fde6277c0a336ab5735c631524c35ab34b75f44f887e0752",
+    "explanation_sha256": "e95d37242928c965fc5f2ef6fe4595644fc3ee229c196dec8bd27a3583094086"
+  },
+  "115-PM-054": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "NHS：妊娠中の超音波検査",
+        "url": "https://www.nhs.uk/pregnancy/your-pregnancy-care/ultrasound-scans/"
+      }
+    ],
+    "notes": [
+      "音波を使い妊娠中にも実施する原理を照合。乳房超音波とマンモグラフィの違いを点検。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "8bb739e047cf56a4cb57906e5efc233f751a39ad859cef4ef7d3bc623257ac13",
+    "explanation_sha256": "b26dd9809333c6e3f7235cc1b51940496c634ac3db552e5f5cebc3cff9f9fea4",
+    "scope": "簡潔形式の正答理由・覚えるポイント。旧選択肢別解説の承認ではない。"
+  },
+  "115-PM-055": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "East London NHS：MMSE用紙",
+        "url": "https://www.elft.nhs.uk/sites/default/files/2022-01/mmse.pdf"
+      }
+    ],
+    "notes": [
+      "3段階命令という項目の存在を確認。検査用紙や命令の具体文は転載しない。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "afdc0f25d37d17b03a82c01c4ca501d2b0e96d4eb3e6a213f1f60a60658b8285",
+    "explanation_sha256": "9a1eb1850ff1508e4a6a7e6a994c9ab453974a20acb69035c26b0f913ba97d65",
+    "scope": "簡潔形式の正答理由・覚えるポイント。旧選択肢別解説の承認ではない。"
+  },
+  "115-PM-056": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "日本皮膚科学会：皮膚瘙痒症診療ガイドライン2020",
+        "url": "https://www.dermatol.or.jp/dermatol/wp-content/uploads/xoops/files/guideline/souyouGL2020.pdf"
+      }
+    ],
+    "notes": [
+      "加齢・乾燥、原発疹のないかゆみと掻破後の皮膚変化を区別して照合。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "c26d70b183262063e7868fd52579ccd4ffd506033be9c1d1cf7ff51254c480a3",
+    "explanation_sha256": "da0ad23470453efe2c13b9b57a73ffb75f3759f37fc8e5514493a1440be7b3bd"
+  },
+  "115-PM-057": {
+    "status": "evidence_pending",
+    "text_reviewed": true,
+    "sources": [],
+    "notes": [
+      "設問、公式正答、各選択肢の解説を個別点検。根拠資料の照合結果を追加する。"
+    ],
+    "confidence": 0.0,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "dc3ea5cb574a51b66bc41c00ab663e0c3e26e4e7baec29935bc9b431303cdf3d",
+    "explanation_sha256": "84e5dd94fee01561261c71bb71f7336a5085cedb7a2e8277c446678b737545a1"
+  },
+  "115-PM-059": {
+    "status": "evidence_pending",
+    "text_reviewed": true,
+    "sources": [],
+    "notes": [
+      "設問、公式正答、各選択肢の解説を個別点検。根拠資料の照合結果を追加する。"
+    ],
+    "confidence": 0.0,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "b39f10d4ae03ea29ce128d71ec4e45f727bddecaa6939da7de8b79c85166b93d",
+    "explanation_sha256": "4a89c6090bb9d85fe939e03436857d2f8bbafcfefeb7027e68a3e9e85dd27fc1"
+  },
+  "115-PM-060": {
+    "status": "evidence_pending",
+    "text_reviewed": true,
+    "sources": [],
+    "notes": [
+      "設問、公式正答、各選択肢の解説を個別点検。根拠資料の照合結果を追加する。"
+    ],
+    "confidence": 0.0,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "f3685e40d5f8e42806e6344830fdb08a840f016af5781d5217882242b630da6c",
+    "explanation_sha256": "03ca3112b6c17d20b146d3c39e1825be794eec89f5d50b8fab59abbbafc20845"
+  },
+  "115-PM-061": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "e-Gov：学校保健安全法施行規則",
+        "url": "https://laws.e-gov.go.jp/law/333M50000080018?occasion_date=20250916"
+      }
+    ],
+    "notes": [
+      "2025年時点の出席停止基準と照合。水痘の全発疹痂皮化、麻しん・耳下腺炎との違いを確認。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "4a6eedc1b5a219b50b07d810f96d27566d2f41f4662c35733147f73f050adc60",
+    "explanation_sha256": "b57c5204687372b2d0e79c1a682f83ccfec5bb69dd2da7d62c22ae79b596a5bf"
+  },
+  "115-PM-062": {
+    "status": "evidence_pending",
+    "text_reviewed": true,
+    "sources": [],
+    "notes": [
+      "設問、公式正答、各選択肢の解説を個別点検。根拠資料の照合結果を追加する。"
+    ],
+    "confidence": 0.0,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "d1c1830640fef7d1873419f8b45e457f6f0bd5ac9b502f002da56e7b673b5340",
+    "explanation_sha256": "c2f29bb0fb2aab5c26c6ac78914da5097953f7d19ac8a096e338447f456ae9a3"
+  },
+  "115-PM-063": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "厚生労働省：育児・介護休業法の改正経過",
+        "url": "https://www.mhlw.go.jp/content/11601000/001166150.pdf"
+      }
+    ],
+    "notes": [
+      "短時間勤務等の制度と、労働基準法・雇用保険の制度を照合。今回の説明に改正後の新規要件は追加しない。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "77045048c8e592c30f33812534cc8c7d5953604ad38dfdd7821117d73ba11c2c",
+    "explanation_sha256": "6693d956b4b27f03b2b331d906f699de9e2b257bd9fba6458f0006213692c5b0"
+  },
+  "115-PM-064": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "日本産科婦人科学会：不妊症",
+        "url": "https://www.jsog.or.jp/citizen/5718/"
+      }
+    ],
+    "notes": [
+      "人工授精と体外受精・顕微授精等のARTを区別。保険の対象・回数は追加しない。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "2f9c9948058fc13b1c87817aac07653238691c77be6bdb90cb502242e2b9adae",
+    "explanation_sha256": "f3ce1364912be7bb4027ce93ea0a96d3a0a10eb6e0437a9eb0306e69fd3f0b92",
+    "scope": "簡潔形式の正答理由・覚えるポイント。旧選択肢別解説の承認ではない。"
+  },
+  "115-PM-065": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "CDC：B群溶血性連鎖球菌",
+        "url": "https://www.cdc.gov/group-b-strep/about/index.html"
+      }
+    ],
+    "notes": [
+      "母体の生殖路の菌が分娩時に児へ伝播することを照合。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "39ebf1d596a7c62f0c2e3df00e1a6289c17226f080db7a006a2624ed33cdf342",
+    "explanation_sha256": "537c2760a017bc22f6e392e06dcc4b6dadd8d52010a84a06d5f2be5be84d9dbd",
+    "scope": "簡潔形式の正答理由・覚えるポイント。旧選択肢別解説の承認ではない。"
+  },
+  "115-PM-066": {
+    "status": "evidence_pending",
+    "text_reviewed": true,
+    "sources": [],
+    "notes": [
+      "設問、公式正答、各選択肢の解説を個別点検。根拠資料の照合結果を追加する。"
+    ],
+    "confidence": 0.0,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "c0407f7e787dda026f5dd9ddcf474cf54db935f62b8c41a26073faa93f653273",
+    "explanation_sha256": "4b601062102fbb762979d11b9067261319e3fad3e7bba341f70e7751c6bcb7a6"
+  },
+  "115-PM-067": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "OpenStax：分娩第4期の看護",
+        "url": "https://openstax.org/books/maternal-newborn-nursing/pages/18-4-nursing-care-during-the-fourth-stage-of-labor"
+      }
+    ],
+    "notes": [
+      "軟らかい子宮と出血に対する子宮収縮促進を照合。本例でも出血量・全身状態評価と報告を併記。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "d1b9037616fcfe102cb40c4b2883dd013adf788e92fd84d8b06c6165fc16a6f0",
+    "explanation_sha256": "ce9d67c896df1757875e27e4f098830882f1da3b23ed2ac185e5153b77cc7e71"
+  },
+  "115-PM-068": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "厚生労働省：精神科入院の制度",
+        "url": "https://www.mhlw.go.jp/stf/shingi/2r98520000026ti3-att/2r98520000026tnw.pdf"
+      }
+    ],
+    "notes": [
+      "任意入院の処遇改善請求と、措置・緊急措置・応急入院の区別を照合。旧資料の保護者制度等は採用しない。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "982319dc5a0f1be925c9b2f09b521ab03bc9738d697746baf4519c2b2b5a39aa",
+    "explanation_sha256": "931e162be25675e3c9b0901ef1175f4ba49f009faaf3bf56ac21fb1f902ec3d8"
+  },
+  "115-PM-069": {
+    "status": "evidence_pending",
+    "text_reviewed": true,
+    "sources": [],
+    "notes": [
+      "設問、公式正答、各選択肢の解説を個別点検。根拠資料の照合結果を追加する。"
+    ],
+    "confidence": 0.0,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "d530ff3f649ef26db0c7366b2e64b41266cf233e417fd1b6ee46cbfdc24c94a0",
+    "explanation_sha256": "1764b1ba95257dda39e5c0bdcac510a39a370db0539e88ede75c54d93fe86a09"
+  },
+  "115-PM-070": {
+    "status": "evidence_pending",
+    "text_reviewed": true,
+    "sources": [],
+    "notes": [
+      "設問、公式正答、各選択肢の解説を個別点検。根拠資料の照合結果を追加する。"
+    ],
+    "confidence": 0.0,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "bf10e7f979feaa47eef39715fe28d979f10de0e65aeabac1bae63c86b81f44b4",
+    "explanation_sha256": "d5c95979f2154633c6ec7f6cf7a16db880ff1999ff30212aca8f62355af01bb2"
+  },
+  "115-PM-071": {
+    "status": "evidence_pending",
+    "text_reviewed": true,
+    "sources": [],
+    "notes": [
+      "設問、公式正答、各選択肢の解説を個別点検。根拠資料の照合結果を追加する。"
+    ],
+    "confidence": 0.0,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "67a64ec118990ac8080dc4c0b64075dd19989d6cdb85526445f2c3f1bb2619ce",
+    "explanation_sha256": "6a76adafc3720940b97837b64c2375847eaf4339a509c74ce774c83bcb03d1be"
+  },
+  "115-PM-072": {
+    "status": "evidence_pending",
+    "text_reviewed": true,
+    "sources": [],
+    "notes": [
+      "設問、公式正答、各選択肢の解説を個別点検。根拠資料の照合結果を追加する。"
+    ],
+    "confidence": 0.0,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "f989737559ea0f51d042785f1fbd5312020678ed648ec2e950f10074695ad744",
+    "explanation_sha256": "0791a76b2b1e3f08a5c585af3337919319aaa2636df4b51b60bab2b26d5a0931"
+  },
+  "115-PM-073": {
+    "status": "evidence_pending",
+    "text_reviewed": true,
+    "sources": [],
+    "notes": [
+      "設問、公式正答、各選択肢の解説を個別点検。根拠資料の照合結果を追加する。"
+    ],
+    "confidence": 0.0,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "943a9a28f3689aa9ae50a5d50813240c97aeb4568897af743f27fe59d18a5460",
+    "explanation_sha256": "bdae71a884a564d5c3da9c705d039ddeeebdbf26d2dad7c1dce0d6b2f6b640ba"
+  },
+  "115-PM-074": {
+    "status": "evidence_pending",
+    "text_reviewed": true,
+    "sources": [],
+    "notes": [
+      "設問、公式正答、各選択肢の解説を個別点検。根拠資料の照合結果を追加する。"
+    ],
+    "confidence": 0.0,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "227b0f56893aaa70c9df0a339abd78669465156cf3a864bf5a2cab3d502fef57",
+    "explanation_sha256": "de473c33fea16471c68adc0954df16242ab945ad67b92e8e28b0ad496401a453"
+  },
+  "115-PM-075": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "OpenStax：骨格筋",
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/10-2-skeletal-muscle"
+      }
+    ],
+    "notes": [
+      "筋芽細胞の融合による多核筋線維を照合。好中球の分葉核との違いを点検。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "38e544d80aa597fd641e72bd983f87cd5137de0c4b35a6613204975e86bd8576",
+    "explanation_sha256": "f817da4827cb92444a029ec1ea6b57b8394b9668de7134a3fb76f9f9a6ec63fb"
+  },
+  "115-PM-076": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "OpenStax：心周期",
+        "url": "https://openstax.org/books/anatomy-and-physiology/pages/19-3-cardiac-cycle"
+      }
+    ],
+    "notes": [
+      "房室弁の開放、等容収縮と駆出の順序を確認。定常状態の左右拍出と静脈還流の均衡も点検。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "62363f2a49a90ac2eb69d4d8e3616fc772af67a193a27efb852d42dc736cee41",
+    "explanation_sha256": "f78e9c65388f60e7f111cf120fc4f5891bd327ae76f0a3d1a80fea8330d1a86e"
+  },
+  "115-PM-078": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "米国国立がん研究所：上大静脈症候群",
+        "url": "https://www.cancer.gov/publications/dictionaries/cancer-terms/def/superior-vena-cava-syndrome"
+      }
+    ],
+    "notes": [
+      "上半身からの静脈還流障害と顔面浮腫を照合。胸水が絶対に起こらないとは説明しない。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "8cb64915e679a7ff226d6ff4157f51cbbf45c6b6ffc75547110fdb4fcc997f5b",
+    "explanation_sha256": "03291677365bc20dad32073532ed1ff18921fe03f37e46c27a3b7570e95afaac"
+  },
+  "115-PM-079": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "OpenStax：創傷治癒",
+        "url": "https://openstax.org/books/fundamentals-nursing/pages/24-4-wound-healing"
+      }
+    ],
+    "notes": [
+      "止血・炎症・増殖・成熟の各段階と、増殖期の肉芽形成を照合。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "c8afc935b98d24e8eac9416466871df3d438970ea7e0ab25209b2c772eaeac16",
+    "explanation_sha256": "546f5b6e74625edbde6346142d7b8a7c43d60dfaddabdb546770259e29554df3"
+  },
+  "115-PM-080": {
+    "status": "evidence_pending",
+    "text_reviewed": true,
+    "sources": [],
+    "notes": [
+      "設問、公式正答、各選択肢の解説を個別点検。根拠資料の照合結果を追加する。"
+    ],
+    "confidence": 0.0,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "bca7050f23ecbf341562d28296d62b9dcc9a1b2774917d782651a9f99bd89ee7",
+    "explanation_sha256": "5936259131cfd8b9f11010e1763704418d6bf1a6aab43e26cc2d9e08199321da"
+  },
+  "115-PM-081": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "厚生労働省：障害のある人への相談支援",
+        "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/shougaishahukushi/service/soudan_shien.html"
+      }
+    ],
+    "notes": [
+      "相談支援専門員による計画相談と、地域移行・地域定着の違いを照合。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "a700a9a191fa29d582de6391ec908dbce673619294b6664f7eade75b5b6e2ac8",
+    "explanation_sha256": "e8e153ce0076986f6c312bedd51a6e8fa397f1f826f70698b11c902f413950bc"
+  },
+  "115-PM-082": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "NHS：下肢静脈瘤",
+        "url": "https://www.nhs.uk/conditions/varicose-veins/?ContensisTextOnly=true"
+      }
+    ],
+    "notes": [
+      "加齢・妊娠と静脈弁機能・圧負担を照合。DVTの危険因子と同一視しない。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "651029aba5bc7f63738e7be64579888bf927db0a277eabf44bf147f908fdde59",
+    "explanation_sha256": "6ad83938ceb0224ead0e5539a2d55847712159c5373da8710b307687ea4501aa"
+  },
+  "115-PM-083": {
+    "status": "evidence_pending",
+    "text_reviewed": true,
+    "sources": [],
+    "notes": [
+      "設問、公式正答、各選択肢の解説を個別点検。根拠資料の照合結果を追加する。"
+    ],
+    "confidence": 0.0,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "770ccd114d4e1e12cb39990b801d34d92b3442ece5e6379e29603b56a3d0f01d",
+    "explanation_sha256": "733e48dfda4a608ecd82cd0f6032443acf7e50985dc30c0dff412dbee854daf2"
+  },
+  "115-PM-084": {
+    "status": "evidence_pending",
+    "text_reviewed": true,
+    "sources": [],
+    "notes": [
+      "設問、公式正答、各選択肢の解説を個別点検。根拠資料の照合結果を追加する。"
+    ],
+    "confidence": 0.0,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "ae80cb50f1311b78cc6f78ca138753c698a978e68270dc4714c7c4d26fa659fe",
+    "explanation_sha256": "cc67815846e00de6d4140de718dd299777327ad682a6f845387bc239f0c6e25a"
+  },
+  "115-PM-085": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "厚生労働省：地域包括ケアシステム",
+        "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/kaigo_koureisha/chiiki-houkatsu/index.html"
+      }
+    ],
+    "notes": [
+      "施設機能と住民の互助を含む地域ごとの構築を照合。圏域は同省の30分圏域資料でも確認。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "f92010a0a6e588310cc7311914ec4a992e9f0eb45fdbf5e12eb0f25236503b36",
+    "explanation_sha256": "7730c4109261875ea27bb695e42aeecf551bb5fb91f02775a7fd08ad38c266a3"
+  },
+  "115-PM-086": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "厚生労働省：民生委員法",
+        "url": "https://www.mhlw.go.jp/bunya/seikatsuhogo/minseiiin01/02a.html"
+      }
+    ],
+    "notes": [
+      "任期3年と大臣委嘱を確認。同省の民生委員説明で児童委員兼務、人数は過年度約23万人を確認し50万人との説明を退ける。正確な現在人数は追加しない。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "0b59fe7b278fdfe4e05ee77329f4c08cdc899a8384addaee58316657ad42083d",
+    "explanation_sha256": "e20adff925041b6c0fe213f6233743ac89e9d3549df8868fc8acff8f7a83152f"
+  },
+  "115-PM-087": {
+    "status": "evidence_pending",
+    "text_reviewed": true,
+    "sources": [],
+    "notes": [
+      "設問、公式正答、各選択肢の解説を個別点検。根拠資料の照合結果を追加する。"
+    ],
+    "confidence": 0.0,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "44aaa3e08a83e7cd2089ff010853a40a8a9f691bb381aa46c27389ec2f6b47e1",
+    "explanation_sha256": "4b49f7d5a4f8aaa0390c5d558146ad5fbe9880cdfa24aa263a7667883e0e42ab"
+  },
+  "115-PM-088": {
+    "status": "evidence_pending",
+    "text_reviewed": true,
+    "sources": [],
+    "notes": [
+      "設問、公式正答、各選択肢の解説を個別点検。根拠資料の照合結果を追加する。"
+    ],
+    "confidence": 0.0,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "c8d2aa065111724c5eb725a1f4d26e28820ad94c3a87fe557d24ac17f4a24a5a",
+    "explanation_sha256": "f438dce2f1c2dd6816935251d1610b64e1f64240cea204820e173962761a1d8a"
+  },
+  "115-PM-089": {
+    "status": "evidence_pending",
+    "text_reviewed": true,
+    "sources": [],
+    "notes": [
+      "設問、公式正答、各選択肢の解説を個別点検。根拠資料の照合結果を追加する。"
+    ],
+    "confidence": 0.0,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "27605c5b8a448323d30861f2d7b32a3f98db528af9a3510c51cd16c1d0f03848",
+    "explanation_sha256": "b7e757fa1fb469176f982cbf6a6d02aca2879e51a5e56ea25f1a428ffad1363f"
+  },
+  "115-PM-090": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "厚生労働省：精神科領域に関連する専門看護師等",
+        "url": "https://www.mhlw.go.jp/file/05-Shingikai-12404000-Hokenkyoku-Iryouka/0000102476.pdf"
+      }
+    ],
+    "notes": [
+      "身体科患者への精神的支援と看護スタッフへの相談を照合。処方や単独の拘束判断などを役割に追加しない。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "dfd9d2f15bf273e4f77b8b3ea2b5a1f9baa64252ae089f1b89c4c07eadb41474",
+    "explanation_sha256": "ad630b45083f83c33116724856c716fa49131e7a85cdb0a082529316db6d2bf5"
+  },
+  "115-PM-091": {
+    "status": "evidence_pending",
+    "text_reviewed": true,
+    "sources": [],
+    "notes": [
+      "設問、公式正答、各選択肢の解説を個別点検。根拠資料の照合結果を追加する。"
+    ],
+    "confidence": 0.0,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "41459759824ee23928c407385f12cf8d0a526ba6a8969cffbe052c05f772137d",
+    "explanation_sha256": "1f1265bba78f6ad95e012e1416220c0b76e67443c076a03e21d4c3796d1ec6a1"
+  },
+  "115-PM-092": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "米国国立老化研究所：レスパイトケア",
+        "url": "https://www.nia.nih.gov/health/caregiving/what-respite-care?page=1&services=26&topics=89&types=BSC.Article"
+      }
+    ],
+    "notes": [
+      "家族介護者の負担・休息・家族との時間を支える原則を照合。制度の対象条件は追加せず、訪問時間や支援調整は症例の希望に対応させて点検。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "20a40778e79e3dc7f1fca4864e50e4096eafe829b8bdb53bbfe9ca03aa6f8e3c",
+    "explanation_sha256": "f9dd483f9f9e08414b539004bc6f2c9aa8dec90d6b3e2da57df6cb916de72dd5"
+  },
+  "115-PM-093": {
+    "status": "evidence_pending",
+    "text_reviewed": true,
+    "sources": [],
+    "notes": [
+      "設問、公式正答、各選択肢の解説を個別点検。根拠資料の照合結果を追加する。"
+    ],
+    "confidence": 0.0,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "7c0e97ee5abf7232dfbfbebaa293e2602d6f7e941314d32f421b749529bf7e0f",
+    "explanation_sha256": "0a6f1f98092a7d9a1561288b206eb1cc77e59898771d316a0309bd543175c3cb"
+  },
+  "115-PM-094": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "国立がん研究センター：大腸がん検診",
+        "url": "https://ganjoho.jp/med_pro/cancer_control/screening/screening_colon.html"
+      }
+    ],
+    "notes": [
+      "便潜血陽性から精密検査としての全大腸内視鏡への流れを照合。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "13ba83bafc83fd82355a329054117703046791f8a2ceda3786a7acbca80913fe",
+    "explanation_sha256": "cd15addebcd951eb80b56b66443b7c8462aa375a9a2a9e6f29c805b3002c2afc"
+  },
+  "115-PM-095": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "Royal Free London：腹腔鏡検査・手術",
+        "url": "https://www.royalfree.nhs.uk/patients-and-visitors/patient-information-leaflets/having-diagnostic-laparoscopy"
+      }
+    ],
+    "notes": [
+      "全身麻酔と二酸化炭素による気腹を照合。切除部位は症例の左半結腸切除と解剖から点検。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "877f8a42c8687c076f9661db10c3709c068e7219b022558235f65f028a211fbf",
+    "explanation_sha256": "5e09b9ca38c8a44c4190975a6e3c9628e4ffc61fed5e10df042154536c1c80b0"
+  },
+  "115-PM-096": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "国立がん研究センター：大腸がん療養",
+        "url": "https://ganjoho.jp/public/cancer/colon/follow_up.html"
+      }
+    ],
+    "notes": [
+      "腸切除後の下痢などの排便変化を照合。胃切除後のダンピングとの混同を点検。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "299d1842b08760ee33f0118baf678ea833f2a838b698cc42c1fbedf2c2d95ac3",
+    "explanation_sha256": "736f7f6bd2d1f9fb8de26c5d26db535b2e5007717f4e08e537a6c89f9922b554"
+  },
+  "115-PM-097": {
+    "status": "evidence_pending",
+    "text_reviewed": true,
+    "sources": [],
+    "notes": [
+      "設問、公式正答、各選択肢の解説を個別点検。根拠資料の照合結果を追加する。"
+    ],
+    "confidence": 0.0,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "fc2ca5c9ba4792b03b2834331e0c1d0f58be0639ee5c057479c7056d172a38f2",
+    "explanation_sha256": "979f09d34e48f295c37198cf2690380d19407ea8118dd20ccd127d5338ef3238"
+  },
+  "115-PM-098": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "PMDA：メルカゾール安全性情報",
+        "url": "https://www.pmda.go.jp/files/000145558.pdf"
+      }
+    ],
+    "notes": [
+      "抗甲状腺薬服用中の発熱・咽頭痛と無顆粒球症への迅速対応を照合。症例に薬剤量を追加しない。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "8dd21dad079fbbeddf05a7157c0deb672a2495a3357bba360681061b9a0a3712",
+    "explanation_sha256": "c556fe67ca9f3b502650c7596cab9c38f85f1176ad77c289e76c12ebd330d60b"
+  },
+  "115-PM-099": {
+    "status": "evidence_pending",
+    "text_reviewed": true,
+    "sources": [],
+    "notes": [
+      "設問、公式正答、各選択肢の解説を個別点検。根拠資料の照合結果を追加する。"
+    ],
+    "confidence": 0.0,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "17351e1dbb1becc5c75daa1e9ae975fc8b2ba8f51a7201821215ca390712d0f6",
+    "explanation_sha256": "92de4e93e3fafae040450eaed61b5ecf10e9a8decbcd4a0fc59a2439e2531257"
+  },
+  "115-PM-100": {
+    "status": "evidence_pending",
+    "text_reviewed": true,
+    "sources": [],
+    "notes": [
+      "設問、公式正答、各選択肢の解説を個別点検。根拠資料の照合結果を追加する。"
+    ],
+    "confidence": 0.0,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "f9adf434d0ee83cb3f79b9068472e2e2bd2b9a1f76333802292cf92e2e4cf1c0",
+    "explanation_sha256": "ceaf47bc10881d87997d8e9b7e1229b1cd8cf20a0bd5626bc0d728b106a77751"
+  },
+  "115-PM-101": {
+    "status": "evidence_pending",
+    "text_reviewed": true,
+    "sources": [],
+    "notes": [
+      "設問、公式正答、各選択肢の解説を個別点検。根拠資料の照合結果を追加する。"
+    ],
+    "confidence": 0.0,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "aa8208fd1fcdadb41042b37be2d3c806cd86b25c18d492c45edd4dff7607250e",
+    "explanation_sha256": "990f202afb11fb1b16c68c649308c6df9b38213634e6447704ad4a1ef3b22113"
+  },
+  "115-PM-102": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "OpenStax：個人と環境の安全",
+        "url": "https://openstax.org/books/fundamentals-nursing/pages/9-1-safety-individual-and-environmental"
+      }
+    ],
+    "notes": [
+      "転倒予防の履物・手すり・照明・環境調整を照合。自立を一律に制限する選択肢との違いを点検。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "20c5f0df407c2a809b936c2f760280a6f1676f665028785e4965aaa557fff96e",
+    "explanation_sha256": "d8d3cb6a4b122114c335bab5f77453f8c99d896752b3d972a3129e7234a324bb"
+  },
+  "115-PM-103": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "NICE：人生の最期の数日間のケア（NG31、2015年）",
+        "url": "https://www.nice.org.uk/guidance/ng31/chapter/Recommendations"
+      }
+    ],
+    "notes": [
+      "本人の希望、看取りの経過と家族への説明、苦痛評価、呼吸音だけで処置を決めない点を照合。延命を望まない意思は共通症例で確認。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "897c83c766de8b3ce6109172e318acd28528cb252e6514af305561b31674e141",
+    "explanation_sha256": "d5754ad96a2a8b843130dff683c24947a5efe1fc0c3a9756a49f6053d88c51b7"
+  },
+  "115-PM-104": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "NICE：人生の最期の数日間のケア（NG31、2015年）",
+        "url": "https://www.nice.org.uk/guidance/ng31/chapter/Recommendations"
+      }
+    ],
+    "notes": [
+      "本人の希望、看取りの経過と家族への説明、苦痛評価、呼吸音だけで処置を決めない点を照合。延命を望まない意思は共通症例で確認。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "e73143d01059edd7d465fb7777d0888a2eac3828058e12009c4552fc74357f28",
+    "explanation_sha256": "542cef34c74d93e42246a312d1b4e25bbf2fa5bd8271004a4888522f84986587"
+  },
+  "115-PM-105": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "NICE：人生の最期の数日間のケア（NG31、2015年）",
+        "url": "https://www.nice.org.uk/guidance/ng31/chapter/Recommendations"
+      }
+    ],
+    "notes": [
+      "本人の希望、看取りの経過と家族への説明、苦痛評価、呼吸音だけで処置を決めない点を照合。延命を望まない意思は共通症例で確認。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "dc259aad469619a8faf336ebe683fd696433f403cb382a54f098fd5a9f9f9e80",
+    "explanation_sha256": "ed4befc983acbbc01d6dd105b0841f1aee8b6d36e4a03293a03e467877d84275"
+  },
+  "115-PM-106": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "MedlinePlus：フォルクマン拘縮",
+        "url": "https://medlineplus.gov/ency/article/001221.htm"
+      }
+    ],
+    "notes": [
+      "骨折・腫脹に伴う前腕の血流低下と拘縮を照合。他の徴候を本症例に追加しない。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "4a3a7211a6a98e0a04d2e7c335b25fc1d687abc61a3c025601c6ea6d3484da49",
+    "explanation_sha256": "b9492a56824f3b34d0e6c3d39031c8ed67a4563fd8b01da47e10e93d196346a4"
+  },
+  "115-PM-107": {
+    "status": "evidence_pending",
+    "text_reviewed": true,
+    "sources": [],
+    "notes": [
+      "設問、公式正答、各選択肢の解説を個別点検。根拠資料の照合結果を追加する。"
+    ],
+    "confidence": 0.0,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "60be64f38c477208ca743ac7500b5edfe6c74e00925f8dd189c35367dd69ac20",
+    "explanation_sha256": "4bf415421b965e366901d63bbd780ab14bd103dd15f85e3382466b30ca077bd3"
+  },
+  "115-PM-108": {
+    "status": "evidence_pending",
+    "text_reviewed": true,
+    "sources": [],
+    "notes": [
+      "設問、公式正答、各選択肢の解説を個別点検。根拠資料の照合結果を追加する。"
+    ],
+    "confidence": 0.0,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "288ff1f1c875465a06160112a7399df8ed4236de03f672a2014d67f26d5e09b1",
+    "explanation_sha256": "0ad7ea69d713368b113417aebfb3c751ffc77ebeeefb5f801fa44c67d11f4d4a"
+  },
+  "115-PM-109": {
+    "status": "evidence_pending",
+    "text_reviewed": true,
+    "sources": [],
+    "notes": [
+      "設問、公式正答、各選択肢の解説を個別点検。根拠資料の照合結果を追加する。"
+    ],
+    "confidence": 0.0,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "005cf6e44b8ad7894b6eaf1a0199b782a39adc4948ef34d7ed98da9e35c7b6f2",
+    "explanation_sha256": "13a911ab01800098734fa8efc82f7cf332a681b98a130b5d1820c3986d6d78b5"
+  },
+  "115-PM-110": {
+    "status": "evidence_pending",
+    "text_reviewed": true,
+    "sources": [],
+    "notes": [
+      "設問、公式正答、各選択肢の解説を個別点検。根拠資料の照合結果を追加する。"
+    ],
+    "confidence": 0.0,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "bb96078b59b8103974d8b4a2fdaa6e38c916e191ad675da13091022aedd9d421",
+    "explanation_sha256": "05c9fa31967ad2bc28ca9b1fe4b2a9e97549fb1de19a37b5e1a2acff409ec182"
+  },
+  "115-PM-111": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "Stanford Medicine：新生児の光線療法",
+        "url": "https://med.stanford.edu/newborns/professional-education/jaundice-and-phototherapy/faqs-about-phototherapy"
+      }
+    ],
+    "notes": [
+      "眼の保護と露出皮膚への照射を照合。哺乳を一律に中止する説明はしない。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "2217fbd17513cbc99c7ab9082df15af08c159df890536b727d80586491814655",
+    "explanation_sha256": "2847e4279f26a312a18312c601d21cc3fbb0e9c077b26a633cc409a608b6787e"
+  },
+  "115-PM-112": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "OpenStax：パーソナリティ障害の看護",
+        "url": "https://openstax.org/books/psychiatric-mental-health/pages/18-3-nursing-care-and-treatment-approaches"
+      }
+    ],
+    "notes": [
+      "共感、安全評価、スタッフ間での感情共有、一貫した境界、感情の言語化を照合。具体的な対応は提示症例に限定して点検。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "799f8b34b73bdc27e0ef308275fc4716b8e61ea31f51f5bd99469641ee0709d9",
+    "explanation_sha256": "1527bfbdc402f6f35264af9fdbef3108ecc1977cf97f2e87a10dc3e147ea227e"
+  },
+  "115-PM-113": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "OpenStax：パーソナリティ障害の看護",
+        "url": "https://openstax.org/books/psychiatric-mental-health/pages/18-3-nursing-care-and-treatment-approaches"
+      }
+    ],
+    "notes": [
+      "共感、安全評価、スタッフ間での感情共有、一貫した境界、感情の言語化を照合。具体的な対応は提示症例に限定して点検。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "909879a58148013f4324a3ee754f19d2e10e3c784acb6f5a97e689ed8144cfb3",
+    "explanation_sha256": "89ff1a974efad3238c2292c8f3789b9ccf9f0c72afa3db9b895a3fd7e8841547"
+  },
+  "115-PM-114": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "OpenStax：パーソナリティ障害の看護",
+        "url": "https://openstax.org/books/psychiatric-mental-health/pages/18-3-nursing-care-and-treatment-approaches"
+      }
+    ],
+    "notes": [
+      "共感、安全評価、スタッフ間での感情共有、一貫した境界、感情の言語化を照合。具体的な対応は提示症例に限定して点検。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "4c6671bae5e9ba911f4a7e7b2ff89e83858287b98144caa84b83fa2771927648",
+    "explanation_sha256": "9d672182a3a375bd44088c5f7446a106fdc0be861f7983b75618b93f0f735115"
+  },
+  "115-PM-115": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "NIMH：パニック症",
+        "url": "https://www.nimh.nih.gov/health/publications/panic-disorder-when-fear-overwhelms"
+      }
+    ],
+    "notes": [
+      "次の発作への不安と回避、本人の希望に沿った対処の練習を照合。薬物療法を不要とは説明しない。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "7b4d00b3110e126bcc22603af8dc3f0af9ab9521f85b43de6d1e92fa456e8f39",
+    "explanation_sha256": "bcab46b7333875bbf6ca1d9fc932c83615180d8d39e671b06cbf79ee5b3c09a2"
+  },
+  "115-PM-116": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "NIMH：パニック症",
+        "url": "https://www.nimh.nih.gov/health/publications/panic-disorder-when-fear-overwhelms"
+      }
+    ],
+    "notes": [
+      "次の発作への不安と回避、本人の希望に沿った対処の練習を照合。薬物療法を不要とは説明しない。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "0db053570ffbf7d219bb3d0ad092c46a021313c4a73aba0570e122edcef35148",
+    "explanation_sha256": "a8b9faee3fb2297599029e383a56482d80cf32c402794a89f24660018aada3cd"
+  },
+  "115-PM-117": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "厚生労働省：健康づくりのための睡眠ガイド2023",
+        "url": "https://www.mhlw.go.jp/content/10904750/001222166.pdf"
+      }
+    ],
+    "notes": [
+      "眠気に合わせた就床、起床リズム、遅い昼寝や熱い入浴の影響を照合。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "57166555887bb1dd3f8df77725e4b332dd208b6301f90b90e8c626cf094332e0",
+    "explanation_sha256": "cd741d6e301dd0c393a151184cb80ccfe68456a478f32733e0bc197aef58ce81"
+  },
+  "115-PM-118": {
+    "status": "evidence_pending",
+    "text_reviewed": true,
+    "sources": [],
+    "notes": [
+      "設問、公式正答、各選択肢の解説を個別点検。根拠資料の照合結果を追加する。"
+    ],
+    "confidence": 0.0,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "c893b3c5220c20e1d5e4ed397bc2e922a43d133eabf22f9d640299c878412f76",
+    "explanation_sha256": "a9166ce8e6dc001a25792f45c33a272ddc4f8324fb26f1c05bb8fb1880fe5917"
+  },
+  "115-PM-119": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "WHO：心理的応急処置・現場支援者向けガイド",
+        "url": "https://iris.who.int/bitstream/handle/10665/44615/9789241548205_eng.pdf?sequence=1"
+      }
+    ],
+    "notes": [
+      "尊厳、基本的ニーズ、傾聴、危険と刺激の低減の原則を症例へ適用。安否の保証、忘却の強要、威圧は行わない。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "36035bd11936a717aa4d6d019134e87fcfb34e79d5703a6a8304f12d9eedf1b1",
+    "explanation_sha256": "f565aa8b37cdcbf37845d41b1e9d91f08fcfca041d8cdb741855b44b00b762fc"
+  },
+  "115-PM-120": {
+    "status": "approved",
+    "text_reviewed": true,
+    "sources": [
+      {
+        "title": "WHO：心理的応急処置・現場支援者向けガイド",
+        "url": "https://iris.who.int/bitstream/handle/10665/44615/9789241548205_eng.pdf?sequence=1"
+      }
+    ],
+    "notes": [
+      "尊厳、基本的ニーズ、傾聴、危険と刺激の低減の原則を症例へ適用。安否の保証、忘却の強要、威圧は行わない。"
+    ],
+    "confidence": 0.95,
+    "reviewed_on": "2026-09-09",
+    "input_sha256": "98b6ccc5e4bd1618bac330a1a9685ec611a71fc79dbf5076533b96c5b4ee0f1c",
+    "explanation_sha256": "5d5062241f6cf266a453add5fda9b673d60b3f9018dc24bd12435af0eb4ebd7e"
+  }
+}

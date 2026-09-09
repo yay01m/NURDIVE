@@ -1,0 +1,2424 @@
+{
+  "111-AM-002": {
+    "status": "VERIFIED",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": [
+      {
+        "title": "厚生労働省：2019年人口動態総覧",
+        "url": "https://www.mhlw.go.jp/toukei/saikin/hw/jinkou/kakutei19/dl/03_h1.pdf"
+      }
+    ]
+  },
+  "111-AM-003": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-AM-004": {
+    "status": "VERIFIED",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": [
+      {
+        "title": "厚生労働省：高齢者医療確保法50条",
+        "url": "https://www.mhlw.go.jp/web/t_doc?dataId=82115000&dataType=0&pageNo=1"
+      }
+    ]
+  },
+  "111-AM-005": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-AM-006": {
+    "status": "VERIFIED",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": [
+      {
+        "title": "厚生労働省：第111回看護師国家試験 午前6 採点上の取扱い",
+        "url": "https://www.mhlw.go.jp/general/sikaku/successlist/2022/siken03_04_05/dl/kangoshi_am06.pdf"
+      }
+    ]
+  },
+  "111-AM-007": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-AM-008": {
+    "status": "VERIFIED",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": [
+      {
+        "title": "厚生労働統計協会：学童期の脈拍の目安",
+        "url": "https://www.hws-kyokai.or.jp/publishing/eiesei-kangoshiken-main/eiesei-kangoshiken-105-pm1.html"
+      }
+    ]
+  },
+  "111-AM-009": {
+    "status": "VERIFIED",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": [
+      {
+        "title": "日本産婦人科医会：更年期障害",
+        "url": "https://www.jaog.or.jp/qa/menopause/更年期障害について教えて下さい。/"
+      }
+    ]
+  },
+  "111-AM-010": {
+    "status": "VERIFIED",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": [
+      {
+        "title": "厚生労働省：2019年国民生活基礎調査 世帯構造",
+        "url": "https://www.mhlw.go.jp/toukei/saikin/hw/k-tyosa/k-tyosa19/dl/02.pdf"
+      }
+    ]
+  },
+  "111-AM-012": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-AM-013": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-AM-014": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-AM-015": {
+    "status": "VERIFIED",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": [
+      {
+        "title": "国立病院機構東京病院：血液検査と施設の基準範囲",
+        "url": "https://tokyo-hp.hosp.go.jp/bumon/kensa/kensa.html"
+      }
+    ]
+  },
+  "111-AM-016": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-AM-017": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-AM-019": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-AM-020": {
+    "status": "VERIFIED",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": [
+      {
+        "title": "環境省：感染性廃棄物の性状別表示",
+        "url": "https://www.env.go.jp/hourei/11/000074.html"
+      }
+    ]
+  },
+  "111-AM-021": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-AM-022": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-AM-023": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-AM-024": {
+    "status": "VERIFIED",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": [
+      {
+        "title": "日本蘇生協議会：JRC蘇生ガイドライン2020 BLS",
+        "url": "https://www.jrc-cpr.org/wp-content/uploads/2022/07/JRC_0017-0046_BLS.pdf"
+      }
+    ]
+  },
+  "111-AM-025": {
+    "status": "VERIFIED",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": [
+      {
+        "title": "厚生労働省：感染症法",
+        "url": "https://www.mhlw.go.jp/web/t_doc?dataId=79998826&dataType=0"
+      }
+    ]
+  },
+  "111-AM-026": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-AM-027": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-AM-028": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-AM-029": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-AM-030": {
+    "status": "VERIFIED",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": [
+      {
+        "title": "厚生労働省：2022年資料 介護休業の対象・日数・分割",
+        "url": "https://www.mhlw.go.jp/churoi/chousei/chingin/22/dl/05.pdf"
+      }
+    ]
+  },
+  "111-AM-031": {
+    "status": "VERIFIED",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": [
+      {
+        "title": "厚生労働省：社会福祉協議会の概要",
+        "url": "https://www.mhlw.go.jp/content/12602000/000954071.pdf"
+      }
+    ]
+  },
+  "111-AM-032": {
+    "status": "VERIFIED",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": [
+      {
+        "title": "厚生労働省：2018年性別死因順位",
+        "url": "https://www.mhlw.go.jp/toukei/saikin/hw/jinkou/kakutei18/dl/10_h6.pdf"
+      },
+      {
+        "title": "厚生労働省：2018年簡易生命表",
+        "url": "https://www.mhlw.go.jp/toukei/saikin/hw/life/life18/dl/life18-02.pdf"
+      }
+    ]
+  },
+  "111-AM-033": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-AM-034": {
+    "status": "VERIFIED",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": [
+      {
+        "title": "WHO：WHO憲章",
+        "url": "https://www.who.int/about/governance/constitution"
+      },
+      {
+        "title": "国際連合：世界人権宣言",
+        "url": "https://www.un.org/en/about-us/universal-declaration-of-human-rights"
+      }
+    ]
+  },
+  "111-AM-035": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-AM-036": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-AM-038": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-AM-039": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-AM-040": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-AM-041": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-AM-042": {
+    "status": "VERIFIED",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": [
+      {
+        "title": "厚生労働省：2017年患者調査 総患者数",
+        "url": "https://www.mhlw.go.jp/toukei/saikin/hw/kanja/17/dl/05.pdf"
+      }
+    ]
+  },
+  "111-AM-044": {
+    "status": "VERIFIED",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": [
+      {
+        "title": "PMDA：ワルファリンと納豆",
+        "url": "https://www.pmda.go.jp/safety/consultation-for-patients/on-drugs/qa/0016.html"
+      }
+    ]
+  },
+  "111-AM-045": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-AM-046": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-AM-047": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-AM-048": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-AM-049": {
+    "status": "VERIFIED",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": [
+      {
+        "title": "厚生労働科学研究：幻肢痛の治療",
+        "url": "https://mhlw-grants.niph.go.jp/system/files/2011/113041/201118011B/201118011B0075.pdf"
+      }
+    ]
+  },
+  "111-AM-050": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-AM-051": {
+    "status": "VERIFIED",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": [
+      {
+        "title": "日本核医学会：2018年放射性ヨウ素内用療法ガイドライン",
+        "url": "https://oncology.jsnm.org/sites/default/files/pdf/thyroid-guideline_2018-06.pdf"
+      }
+    ]
+  },
+  "111-AM-052": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-AM-053": {
+    "status": "VERIFIED",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": [
+      {
+        "title": "厚生労働省：介護サービスの分類",
+        "url": "https://www.kaigokensaku.mhlw.go.jp/commentary/service.html"
+      }
+    ]
+  },
+  "111-AM-054": {
+    "status": "VERIFIED",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": [
+      {
+        "title": "厚生労働統計協会：加齢と最大換気量",
+        "url": "https://www.hws-kyokai.or.jp/publishing/eiesei-kangoshiken-main/eiesei-kangoshiken-105-pm1.html"
+      }
+    ]
+  },
+  "111-AM-055": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-AM-056": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-AM-057": {
+    "status": "VERIFIED",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": [
+      {
+        "title": "厚生労働省：BCG接種後のコッホ現象",
+        "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou/yobou-sesshu/vaccine/bcg/index.html"
+      }
+    ]
+  },
+  "111-AM-058": {
+    "status": "VERIFIED",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": [
+      {
+        "title": "日本小児科学会：ビタミンK欠乏性出血症の予防",
+        "url": "https://www.jpeds.or.jp/society-activities/20398.html"
+      }
+    ]
+  },
+  "111-AM-059": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-AM-060": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-AM-061": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-AM-062": {
+    "status": "VERIFIED",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": [
+      {
+        "title": "厚生労働省：人口動態調査の定義",
+        "url": "https://www.mhlw.go.jp/toukei/list/81-1b.html"
+      },
+      {
+        "title": "厚生労働省：2019年人口動態総覧",
+        "url": "https://www.mhlw.go.jp/toukei/saikin/hw/jinkou/kakutei19/dl/03_h1.pdf"
+      }
+    ]
+  },
+  "111-AM-063": {
+    "status": "VERIFIED",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": [
+      {
+        "title": "日本産婦人科医会：経口避妊薬の作用",
+        "url": "https://www.jaog.or.jp/sep2012/JAPANESE/jigyo/JYOSEI/PILL/doctor/section_1.htm"
+      }
+    ]
+  },
+  "111-AM-064": {
+    "status": "VERIFIED",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": [
+      {
+        "title": "厚生労働省：マタニティブルーズと産後うつ",
+        "url": "https://www.bosei-navi.mhlw.go.jp/health/depression.html"
+      }
+    ]
+  },
+  "111-AM-065": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-AM-066": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-AM-067": {
+    "status": "VERIFIED",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": [
+      {
+        "title": "厚生労働省：就労移行支援",
+        "url": "https://www.mhlw.go.jp/bunya/shougaihoken/shingikai01/pdf/5-2.pdf"
+      }
+    ]
+  },
+  "111-AM-068": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-AM-069": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-AM-070": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-AM-071": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-AM-072": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-AM-073": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-AM-074": {
+    "status": "VERIFIED",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": [
+      {
+        "title": "厚生労働省：看護師等免許保持者の届出制度",
+        "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000095486.html"
+      }
+    ]
+  },
+  "111-AM-075": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-AM-076": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-AM-078": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-AM-079": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-AM-080": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-AM-082": {
+    "status": "VERIFIED",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": [
+      {
+        "title": "日本循環器学会：2020年大動脈瘤・大動脈解離診療ガイドライン",
+        "url": "https://www.j-circ.or.jp/cms/wp-content/uploads/2020/07/JCS2020_Ogino.pdf"
+      }
+    ]
+  },
+  "111-AM-083": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-AM-084": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-AM-085": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-AM-086": {
+    "status": "VERIFIED",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": [
+      {
+        "title": "国立循環器病研究センター：HbA1cの意味",
+        "url": "https://www.ncvc.go.jp/hospital/section/ld/endocrinology/hba1c/"
+      }
+    ]
+  },
+  "111-AM-088": {
+    "status": "VERIFIED",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": [
+      {
+        "title": "日本老年医学会：CGA7",
+        "url": "https://www.jpn-geriat-soc.or.jp/tool/"
+      }
+    ]
+  },
+  "111-AM-089": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-AM-094": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-AM-095": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-AM-096": {
+    "status": "VERIFIED",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": [
+      {
+        "title": "日本透析医学会：腹膜透析ガイドライン2019 腹膜炎管理",
+        "url": "https://www.jsdt.or.jp/tools/file/download.cgi/2658/PDGL2019_09Part1%E7%AC%AC%E5%85%AD%E7%AB%A0_%E8%85%B9%E8%86%9C%E7%82%8E%E7%AE%A1%E7%90%86.pdf"
+      }
+    ]
+  },
+  "111-AM-097": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-AM-098": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-AM-099": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-AM-100": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-AM-101": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-AM-102": {
+    "status": "VERIFIED",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": [
+      {
+        "title": "厚生労働省：乳児へのはちみつを避ける",
+        "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000161461.html"
+      }
+    ]
+  },
+  "111-AM-103": {
+    "status": "UNKNOWN",
+    "checks": [
+      true,
+      true,
+      false
+    ],
+    "review_reason": "原問題のカレンダーが現在の問題表示データに含まれず、予定日からの計算根拠を確認できない。公式正答3を維持して不明表示。",
+    "sources": []
+  },
+  "111-AM-106": {
+    "status": "VERIFIED",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": [
+      {
+        "title": "日本産婦人科医会：胎児心拍数の評価",
+        "url": "https://www.jaog.or.jp/lecture/2-スタートアップ２（ctgの読み方）/"
+      },
+      {
+        "title": "日本産婦人科医会：高年初産",
+        "url": "https://www.jaog.or.jp/qa/confinement/jyosei180124/"
+      }
+    ]
+  },
+  "111-AM-107": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-AM-108": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-AM-109": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-AM-110": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-AM-111": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-AM-113": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-AM-114": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-AM-115": {
+    "status": "VERIFIED",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": [
+      {
+        "title": "PMDA：レボドパの副作用",
+        "url": "https://www.pmda.go.jp/PmdaSearch/iyakuDetail/ResultDataSetPDF/180095_1164400A1045_1_11"
+      }
+    ]
+  },
+  "111-AM-116": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-AM-117": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-AM-118": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-AM-119": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-AM-120": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-PM-001": {
+    "status": "VERIFIED",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": [
+      {
+        "title": "国立社会保障・人口問題研究所：2017年将来人口推計",
+        "url": "https://www.ipss.go.jp/pp-zenkoku/e/zenkoku_e2017/pp_zenkoku2017e_gaiyou.html"
+      }
+    ]
+  },
+  "111-PM-002": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-PM-003": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-PM-004": {
+    "status": "VERIFIED",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": [
+      {
+        "title": "厚生労働省：要介護認定と予防給付",
+        "url": "https://www.mhlw.go.jp/topics/kaigo/nintei/gaiyo2.html"
+      }
+    ]
+  },
+  "111-PM-005": {
+    "status": "VERIFIED",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": [
+      {
+        "title": "厚生労働省：保健師助産師看護師法",
+        "url": "https://www.mhlw.go.jp/web/t_doc?dataId=80078000&dataType=0&pageNo=1"
+      }
+    ]
+  },
+  "111-PM-008": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-PM-009": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-PM-010": {
+    "status": "VERIFIED",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": [
+      {
+        "title": "厚生労働省：指定訪問看護の人員基準（2020年）",
+        "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00tc4892&dataType=1"
+      }
+    ]
+  },
+  "111-PM-011": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-PM-012": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-PM-013": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-PM-014": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-PM-015": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-PM-016": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-PM-017": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-PM-018": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-PM-019": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-PM-020": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-PM-021": {
+    "status": "VERIFIED",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": [
+      {
+        "title": "厚生労働省：高齢者の医薬品適正使用の指針",
+        "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00tc3422&dataType=1"
+      }
+    ]
+  },
+  "111-PM-022": {
+    "status": "VERIFIED",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": [
+      {
+        "title": "厚生労働省：県立看護大学の採血・注射演習資料",
+        "url": "https://www.mhlw.go.jp/shingi/2003/01/s0127-8b.html"
+      }
+    ]
+  },
+  "111-PM-023": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-PM-024": {
+    "status": "VERIFIED",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": [
+      {
+        "title": "厚生労働省：褥瘡の深さによる分類",
+        "url": "https://www.mhlw.go.jp/topics/2008/03/dl/tp0305-1i.pdf"
+      }
+    ]
+  },
+  "111-PM-025": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-PM-026": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-PM-027": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-PM-029": {
+    "status": "UNKNOWN",
+    "checks": [
+      true,
+      false,
+      false
+    ],
+    "sources": [
+      {
+        "title": "厚生労働省：第111回午後29問の原表（PDF15ページを目視確認）",
+        "url": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp220421-05c_01.pdf"
+      }
+    ],
+    "review_reason": "原表のa～dの対応は目視確認済み。ただしゲームの問題文で表配置が崩れているため、表示上の疑義が残る。"
+  },
+  "111-PM-030": {
+    "status": "VERIFIED",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": [
+      {
+        "title": "厚生労働省：診療報酬制度",
+        "url": "https://www.mhlw.go.jp/content/001521415.pdf"
+      }
+    ]
+  },
+  "111-PM-031": {
+    "status": "VERIFIED",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": [
+      {
+        "title": "厚生労働省：依存症関連対策・法律の制定",
+        "url": "https://www.mhlw.go.jp/content/12601000/000371108.pdf"
+      }
+    ]
+  },
+  "111-PM-032": {
+    "status": "VERIFIED",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": [
+      {
+        "title": "厚生労働省：健康日本21第二次の53目標",
+        "url": "https://www.mhlw.go.jp/content/10900000/001398003.pdf"
+      }
+    ]
+  },
+  "111-PM-033": {
+    "status": "VERIFIED",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": [
+      {
+        "title": "厚生労働省：医療法",
+        "url": "https://www.mhlw.go.jp/web/t_doc?dataId=80090000&dataType=0"
+      }
+    ]
+  },
+  "111-PM-034": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-PM-035": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-PM-036": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-PM-037": {
+    "status": "VERIFIED",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": [
+      {
+        "title": "厚生労働科学研究：院内感染対策手引き・器材の消毒",
+        "url": "https://janis.mhlw.go.jp/material/material/Ver_6.02%E6%9C%AC%E6%96%87170529.pdf"
+      }
+    ]
+  },
+  "111-PM-038": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-PM-039": {
+    "status": "VERIFIED",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": [
+      {
+        "title": "日本赤十字社：赤血球製剤の輸血手順",
+        "url": "https://www.jrc.or.jp/mr/transfusion/procedure/red_blood_cell/"
+      }
+    ]
+  },
+  "111-PM-041": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-PM-042": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-PM-043": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-PM-044": {
+    "status": "UNKNOWN",
+    "checks": [
+      true,
+      false,
+      true
+    ],
+    "sources": [
+      {
+        "title": "厚生労働科学研究：カテーテル管理・定期的ドレッシング交換",
+        "url": "https://janis.mhlw.go.jp/material/material/Ver_6.02%E6%9C%AC%E6%96%87170529.pdf"
+      }
+    ],
+    "review_reason": "選択肢2の定期的な刺入部消毒を誤りと断定できない。正答は変更せず、疑義を明記。"
+  },
+  "111-PM-045": {
+    "status": "VERIFIED",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": [
+      {
+        "title": "日本痛風・核酸代謝学会：高尿酸血症・痛風治療ガイドライン第2版",
+        "url": "https://www.tukaku.jp/securewp/wp-content/uploads/2013/06/tufu-GL2.pdf"
+      }
+    ]
+  },
+  "111-PM-046": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-PM-047": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-PM-048": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-PM-049": {
+    "status": "UNKNOWN",
+    "checks": [
+      true,
+      false,
+      true
+    ],
+    "sources": [
+      {
+        "title": "国立がん研究センター：前立腺がんの転移",
+        "url": "https://ganjoho.jp/public/cancer/prostate/treatment.html"
+      }
+    ],
+    "review_reason": "選択肢1の肺転移頻度について、比較対象がなく誤りと断定する根拠が不足。"
+  },
+  "111-PM-050": {
+    "status": "VERIFIED",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": [
+      {
+        "title": "PMDA：タモキシフェン添付文書・ほてり",
+        "url": "https://www.pmda.go.jp/PmdaSearch/iyakuDetail/ResultDataSetPDF/300119_4291003F1228_1_08"
+      }
+    ]
+  },
+  "111-PM-051": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-PM-052": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-PM-053": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-PM-054": {
+    "status": "VERIFIED",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": [
+      {
+        "title": "厚生労働省：2019年度高齢者虐待調査・養護者による虐待",
+        "url": "https://www.mhlw.go.jp/content/12304250/001338040.pdf"
+      }
+    ]
+  },
+  "111-PM-055": {
+    "status": "VERIFIED",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": [
+      {
+        "title": "厚生労働省：シルバー人材センター事業",
+        "url": "https://www.mhlw.go.jp/topics/2004/bukyoku/syokuan/11.html"
+      }
+    ]
+  },
+  "111-PM-056": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-PM-057": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-PM-058": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-PM-059": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-PM-060": {
+    "status": "VERIFIED",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": [
+      {
+        "title": "消費者庁：ボタン電池誤飲の対処",
+        "url": "https://www.caa.go.jp/policies/future/project/project_005/investigation/"
+      }
+    ]
+  },
+  "111-PM-062": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-PM-063": {
+    "status": "VERIFIED",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": [
+      {
+        "title": "内閣府：配偶者暴力防止法",
+        "url": "https://www.gender.go.jp/policy/no_violence/e-vaw/law/index2.html"
+      }
+    ]
+  },
+  "111-PM-065": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-PM-066": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-PM-067": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-PM-068": {
+    "status": "VERIFIED",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": [
+      {
+        "title": "厚生労働省：精神科病院で制限できない行為",
+        "url": "https://www.mhlw.go.jp/web/t_doc?dataId=80134000&dataType=0&pageNo=1"
+      }
+    ]
+  },
+  "111-PM-069": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-PM-070": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-PM-071": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-PM-072": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-PM-073": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-PM-074": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-PM-075": {
+    "status": "VERIFIED",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": [
+      {
+        "title": "厚生労働省：災害拠点病院指定要件（2019年）",
+        "url": "https://www.mhlw.go.jp/content/10802000/000529357.pdf"
+      }
+    ]
+  },
+  "111-PM-077": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-PM-078": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-PM-079": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-PM-080": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-PM-081": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-PM-082": {
+    "status": "VERIFIED",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": [
+      {
+        "title": "国立がん研究センター：舌がんについて",
+        "url": "https://ganjoho.jp/public/cancer/tongue/about.html"
+      }
+    ]
+  },
+  "111-PM-083": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-PM-084": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-PM-085": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-PM-086": {
+    "status": "VERIFIED",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": [
+      {
+        "title": "厚生労働省：介護保険法・地域包括支援センター",
+        "url": "https://www.mhlw.go.jp/web/t_doc?dataId=82998034&dataType=0&pageNo=4"
+      }
+    ]
+  },
+  "111-PM-087": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-PM-088": {
+    "status": "VERIFIED",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": [
+      {
+        "title": "厚生労働省：生ワクチンの区分",
+        "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou03/rota_index_00003.html"
+      }
+    ]
+  },
+  "111-PM-089": {
+    "status": "VERIFIED",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": [
+      {
+        "title": "国立精神・神経医療研究センター：修正型ECT",
+        "url": "https://hsp.ncnp.go.jp/clinical/department.php?@uid=yqTW51SLmuk1I4AB"
+      }
+    ]
+  },
+  "111-PM-091": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-PM-092": {
+    "status": "VERIFIED",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": [
+      {
+        "title": "日本循環器学会：2017年心不全診療ガイドライン・Forrester分類",
+        "url": "https://www.j-circ.or.jp/cms/wp-content/uploads/2017/06/JCS2017_tsutsui_h.pdf"
+      }
+    ]
+  },
+  "111-PM-093": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-PM-094": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-PM-095": {
+    "status": "UNKNOWN",
+    "checks": [
+      true,
+      false,
+      true
+    ],
+    "sources": [
+      {
+        "title": "国立がん研究センター：放射線治療中の皮膚ケア",
+        "url": "https://ganjoho.jp/public/support/condition/skin/index.html"
+      }
+    ],
+    "review_reason": "選択肢3の照射前外用剤除去は、剤形・塗布量や時代による差を解決できない。"
+  },
+  "111-PM-097": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-PM-098": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-PM-099": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-PM-100": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-PM-101": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-PM-102": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-PM-103": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-PM-104": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-PM-105": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-PM-106": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-PM-107": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-PM-108": {
+    "status": "VERIFIED",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": [
+      {
+        "title": "厚生労働省：乳児家庭全戸訪問事業実施要綱",
+        "url": "https://www.mhlw.go.jp/content/000630067.pdf"
+      }
+    ]
+  },
+  "111-PM-109": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-PM-110": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-PM-111": {
+    "status": "VERIFIED",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": [
+      {
+        "title": "高齢・障害・求職者雇用支援機構：リワーク支援",
+        "url": "https://www.jeed.go.jp/location/chiiki/tokyo/reworkshien.html"
+      }
+    ]
+  },
+  "111-PM-112": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-PM-113": {
+    "status": "VERIFIED",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": [
+      {
+        "title": "Nasuら：安定した慢性心不全患者の圧迫療法（2024年・出題後の研究）",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10830501/"
+      }
+    ]
+  },
+  "111-PM-114": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-PM-115": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-PM-116": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-PM-117": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-PM-118": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": []
+  },
+  "111-AM-043": {
+    "status": "UNKNOWN",
+    "checks": [
+      true,
+      false,
+      true
+    ],
+    "review_reason": "破裂直後の呼吸不全と循環性の酸素供給不足を同一視できず、正答理由が未確定。",
+    "sources": []
+  },
+  "111-AM-112": {
+    "status": "VERIFIED",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": [
+      {
+        "title": "厚生労働科学研究：神経性やせ症の再栄養時の浮腫",
+        "url": "https://mhlw-grants.niph.go.jp/system/files/2013/133151/201324013B/201324013B0032.pdf"
+      }
+    ]
+  },
+  "111-PM-006": {
+    "status": "VERIFIED",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": [
+      {
+        "title": "大阪大学看護学雑誌：フィンクの危機モデル",
+        "url": "https://ir.library.osaka-u.ac.jp/repo/ouka/all/56831/njou13_1_025.pdf"
+      }
+    ]
+  },
+  "111-PM-040": {
+    "status": "VERIFIED",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": [
+      {
+        "title": "海上保安庁：怪我の応急処置",
+        "url": "https://www.kaiho.mlit.go.jp/07kanku/nagasaki/right/rescue/kega.htm"
+      }
+    ]
+  },
+  "111-PM-061": {
+    "status": "VERIFIED",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": [
+      {
+        "title": "電気通信大学学位論文：情動分化の理論・25～26ページ",
+        "url": "https://uec.repo.nii.ac.jp/record/9422/files/1642004_Thesis.pdf"
+      }
+    ]
+  },
+  "111-PM-064": {
+    "status": "VERIFIED",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": [
+      {
+        "title": "日本産婦人科医会：前置胎盤の輸血準備",
+        "url": "https://www.jaog.or.jp/sep2012/JAPANESE/MEMBERS/TANPA/H13/010219.htm"
+      }
+    ]
+  },
+  "111-PM-076": {
+    "status": "VERIFIED",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": [
+      {
+        "title": "外務省：2015年の三大感染症資料",
+        "url": "https://www.mofa.go.jp/mofaj/gaiko/kansen/kikin/kikin_01.html"
+      }
+    ]
+  },
+  "111-PM-096": {
+    "status": "VERIFIED",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": [
+      {
+        "title": "国立がん研究センター：感染しやすい・白血球減少",
+        "url": "https://ganjoho.jp/public/support/condition/FN/index.html"
+      },
+      {
+        "title": "国立がん研究センター：治療中の性生活への影響",
+        "url": "https://ganjoho.jp/public/dia_tre/sexual_health_issues/sexual_health_issues_03.html"
+      }
+    ]
+  },
+  "111-PM-119": {
+    "status": "VERIFIED",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": [
+      {
+        "title": "厚生労働省：保育所アレルギー対応ガイドライン2019年版（こども家庭庁保存）",
+        "url": "https://www.cfa.go.jp/assets/contents/node/basic_page/field_ref_resources/e4b817c9-5282-4ccc-b0d5-ce15d7b5018c/cc94d067/20240205_policies_hoiku_86.pdf"
+      }
+    ]
+  },
+  "111-PM-120": {
+    "status": "VERIFIED",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "sources": [
+      {
+        "title": "厚生労働省：医療・介護個人情報ガイダンス・法令に基づく通告",
+        "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00tc2625&dataType=1"
+      }
+    ]
+  }
+}

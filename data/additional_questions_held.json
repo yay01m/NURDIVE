@@ -1,0 +1,538 @@
+[
+  {
+    "id": "111-AM-001",
+    "year": 2022,
+    "reasons": [
+      "条件付き採点除外"
+    ],
+    "source": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp220421-05a_01.pdf"
+  },
+  {
+    "id": "111-AM-011",
+    "year": 2022,
+    "reasons": [
+      "画像・図表が必要"
+    ],
+    "source": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp220421-05a_01.pdf"
+  },
+  {
+    "id": "111-AM-018",
+    "year": 2022,
+    "reasons": [
+      "画像・図表が必要"
+    ],
+    "source": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp220421-05a_01.pdf"
+  },
+  {
+    "id": "111-AM-037",
+    "year": 2022,
+    "reasons": [
+      "画像・図表が必要"
+    ],
+    "source": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp220421-05a_01.pdf"
+  },
+  {
+    "id": "111-AM-077",
+    "year": 2022,
+    "reasons": [
+      "画像・図表が必要"
+    ],
+    "source": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp220421-05a_01.pdf"
+  },
+  {
+    "id": "111-AM-081",
+    "year": 2022,
+    "reasons": [
+      "画像・図表が必要"
+    ],
+    "source": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp220421-05a_01.pdf"
+  },
+  {
+    "id": "111-AM-087",
+    "year": 2022,
+    "reasons": [
+      "画像・図表が必要"
+    ],
+    "source": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp220421-05a_01.pdf"
+  },
+  {
+    "id": "111-AM-090",
+    "year": 2022,
+    "reasons": [
+      "数値入力形式は未対応",
+      "選択肢データの確認が必要",
+      "公式正答と選択肢の対応を要確認"
+    ],
+    "source": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp220421-05a_01.pdf"
+  },
+  {
+    "id": "111-AM-091",
+    "year": 2022,
+    "reasons": [
+      "画像・図表が必要"
+    ],
+    "source": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp220421-05a_01.pdf"
+  },
+  {
+    "id": "111-AM-092",
+    "year": 2022,
+    "reasons": [
+      "画像・図表が必要"
+    ],
+    "source": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp220421-05a_01.pdf"
+  },
+  {
+    "id": "111-AM-093",
+    "year": 2022,
+    "reasons": [
+      "画像・図表が必要"
+    ],
+    "source": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp220421-05a_01.pdf"
+  },
+  {
+    "id": "111-AM-104",
+    "year": 2022,
+    "reasons": [
+      "画像・図表が必要"
+    ],
+    "source": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp220421-05a_01.pdf"
+  },
+  {
+    "id": "111-AM-105",
+    "year": 2022,
+    "reasons": [
+      "画像・図表が必要"
+    ],
+    "source": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp220421-05a_01.pdf"
+  },
+  {
+    "id": "111-PM-007",
+    "year": 2022,
+    "reasons": [
+      "条件付き採点除外"
+    ],
+    "source": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp220421-05c_01.pdf"
+  },
+  {
+    "id": "111-PM-028",
+    "year": 2022,
+    "reasons": [
+      "画像・図表が必要"
+    ],
+    "source": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp220421-05c_01.pdf"
+  },
+  {
+    "id": "111-PM-090",
+    "year": 2022,
+    "reasons": [
+      "数値入力形式は未対応",
+      "選択肢データの確認が必要",
+      "公式正答と選択肢の対応を要確認"
+    ],
+    "source": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp220421-05c_01.pdf"
+  },
+  {
+    "id": "112-AM-047",
+    "year": 2023,
+    "reasons": [
+      "画像・図表が必要"
+    ],
+    "source": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp230524-05a_01.pdf"
+  },
+  {
+    "id": "112-AM-057",
+    "year": 2023,
+    "reasons": [
+      "選択肢データの確認が必要",
+      "公式正答と選択肢の対応を要確認"
+    ],
+    "source": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp230524-05a_01.pdf"
+  },
+  {
+    "id": "112-AM-080",
+    "year": 2023,
+    "reasons": [
+      "画像・図表が必要"
+    ],
+    "source": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp230524-05a_01.pdf"
+  },
+  {
+    "id": "112-AM-109",
+    "year": 2023,
+    "reasons": [
+      "画像・図表が必要"
+    ],
+    "source": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp230524-05a_01.pdf"
+  },
+  {
+    "id": "112-AM-110",
+    "year": 2023,
+    "reasons": [
+      "画像・図表が必要"
+    ],
+    "source": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp230524-05a_01.pdf"
+  },
+  {
+    "id": "112-AM-111",
+    "year": 2023,
+    "reasons": [
+      "画像・図表が必要"
+    ],
+    "source": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp230524-05a_01.pdf"
+  },
+  {
+    "id": "112-PM-025",
+    "year": 2023,
+    "reasons": [
+      "画像・図表が必要"
+    ],
+    "source": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp230524-05c_01.pdf"
+  },
+  {
+    "id": "112-PM-035",
+    "year": 2023,
+    "reasons": [
+      "採点除外",
+      "公式正答と選択肢の対応を要確認"
+    ],
+    "source": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp230524-05c_01.pdf"
+  },
+  {
+    "id": "112-PM-039",
+    "year": 2023,
+    "reasons": [
+      "画像・図表が必要"
+    ],
+    "source": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp230524-05c_01.pdf"
+  },
+  {
+    "id": "112-PM-069",
+    "year": 2023,
+    "reasons": [
+      "画像・図表が必要"
+    ],
+    "source": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp230524-05c_01.pdf"
+  },
+  {
+    "id": "112-PM-073",
+    "year": 2023,
+    "reasons": [
+      "画像・図表が必要"
+    ],
+    "source": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp230524-05c_01.pdf"
+  },
+  {
+    "id": "112-PM-090",
+    "year": 2023,
+    "reasons": [
+      "数値入力形式は未対応",
+      "選択肢データの確認が必要",
+      "公式正答と選択肢の対応を要確認"
+    ],
+    "source": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp230524-05c_01.pdf"
+  },
+  {
+    "id": "112-PM-095",
+    "year": 2023,
+    "reasons": [
+      "選択肢データの確認が必要",
+      "公式正答と選択肢の対応を要確認"
+    ],
+    "source": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp230524-05c_01.pdf"
+  },
+  {
+    "id": "113-AM-005",
+    "year": 2024,
+    "reasons": [
+      "条件付き採点除外"
+    ],
+    "source": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp240424-05a_01.pdf"
+  },
+  {
+    "id": "113-AM-023",
+    "year": 2024,
+    "reasons": [
+      "画像・図表が必要",
+      "条件付き採点除外"
+    ],
+    "source": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp240424-05a_01.pdf"
+  },
+  {
+    "id": "113-AM-025",
+    "year": 2024,
+    "reasons": [
+      "条件付き採点除外"
+    ],
+    "source": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp240424-05a_01.pdf"
+  },
+  {
+    "id": "113-AM-027",
+    "year": 2024,
+    "reasons": [
+      "画像・図表が必要"
+    ],
+    "source": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp240424-05a_01.pdf"
+  },
+  {
+    "id": "113-AM-034",
+    "year": 2024,
+    "reasons": [
+      "画像・図表が必要"
+    ],
+    "source": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp240424-05a_01.pdf"
+  },
+  {
+    "id": "113-AM-035",
+    "year": 2024,
+    "reasons": [
+      "画像・図表が必要"
+    ],
+    "source": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp240424-05a_01.pdf"
+  },
+  {
+    "id": "113-AM-046",
+    "year": 2024,
+    "reasons": [
+      "画像・図表が必要",
+      "選択肢データの確認が必要",
+      "公式正答と選択肢の対応を要確認"
+    ],
+    "source": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp240424-05a_01.pdf"
+  },
+  {
+    "id": "113-AM-106",
+    "year": 2024,
+    "reasons": [
+      "数値入力形式は未対応",
+      "選択肢データの確認が必要",
+      "公式正答と選択肢の対応を要確認"
+    ],
+    "source": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp240424-05a_01.pdf"
+  },
+  {
+    "id": "113-AM-110",
+    "year": 2024,
+    "reasons": [
+      "画像・図表が必要",
+      "選択肢データの確認が必要",
+      "公式正答と選択肢の対応を要確認"
+    ],
+    "source": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp240424-05a_01.pdf"
+  },
+  {
+    "id": "113-AM-111",
+    "year": 2024,
+    "reasons": [
+      "画像・図表が必要"
+    ],
+    "source": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp240424-05a_01.pdf"
+  },
+  {
+    "id": "113-PM-002",
+    "year": 2024,
+    "reasons": [
+      "条件付き採点除外"
+    ],
+    "source": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp240424-05c_01.pdf"
+  },
+  {
+    "id": "113-PM-011",
+    "year": 2024,
+    "reasons": [
+      "条件付き採点除外"
+    ],
+    "source": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp240424-05c_01.pdf"
+  },
+  {
+    "id": "113-PM-021",
+    "year": 2024,
+    "reasons": [
+      "画像・図表が必要",
+      "採点除外",
+      "選択肢データの確認が必要",
+      "公式正答と選択肢の対応を要確認"
+    ],
+    "source": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp240424-05c_01.pdf"
+  },
+  {
+    "id": "113-PM-037",
+    "year": 2024,
+    "reasons": [
+      "画像・図表が必要",
+      "選択肢データの確認が必要",
+      "公式正答と選択肢の対応を要確認"
+    ],
+    "source": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp240424-05c_01.pdf"
+  },
+  {
+    "id": "113-PM-054",
+    "year": 2024,
+    "reasons": [
+      "画像・図表が必要",
+      "選択肢データの確認が必要",
+      "公式正答と選択肢の対応を要確認"
+    ],
+    "source": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp240424-05c_01.pdf"
+  },
+  {
+    "id": "113-PM-066",
+    "year": 2024,
+    "reasons": [
+      "画像・図表が必要",
+      "選択肢データの確認が必要",
+      "公式正答と選択肢の対応を要確認"
+    ],
+    "source": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp240424-05c_01.pdf"
+  },
+  {
+    "id": "113-PM-077",
+    "year": 2024,
+    "reasons": [
+      "画像・図表が必要"
+    ],
+    "source": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp240424-05c_01.pdf"
+  },
+  {
+    "id": "113-PM-090",
+    "year": 2024,
+    "reasons": [
+      "数値入力形式は未対応",
+      "選択肢データの確認が必要",
+      "公式正答と選択肢の対応を要確認"
+    ],
+    "source": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp240424-05c_01.pdf"
+  },
+  {
+    "id": "113-PM-098",
+    "year": 2024,
+    "reasons": [
+      "選択肢データの確認が必要"
+    ],
+    "source": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp240424-05c_01.pdf"
+  },
+  {
+    "id": "114-AM-013",
+    "year": 2025,
+    "reasons": [
+      "画像・図表が必要"
+    ],
+    "source": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp250428-05a_01.pdf"
+  },
+  {
+    "id": "114-AM-030",
+    "year": 2025,
+    "reasons": [
+      "画像・図表が必要"
+    ],
+    "source": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp250428-05a_01.pdf"
+  },
+  {
+    "id": "114-AM-039",
+    "year": 2025,
+    "reasons": [
+      "画像・図表が必要",
+      "選択肢データの確認が必要",
+      "公式正答と選択肢の対応を要確認"
+    ],
+    "source": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp250428-05a_01.pdf"
+  },
+  {
+    "id": "114-AM-041",
+    "year": 2025,
+    "reasons": [
+      "選択肢データの確認が必要",
+      "公式正答と選択肢の対応を要確認"
+    ],
+    "source": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp250428-05a_01.pdf"
+  },
+  {
+    "id": "114-AM-051",
+    "year": 2025,
+    "reasons": [
+      "画像・図表が必要"
+    ],
+    "source": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp250428-05a_01.pdf"
+  },
+  {
+    "id": "114-AM-054",
+    "year": 2025,
+    "reasons": [
+      "画像・図表が必要"
+    ],
+    "source": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp250428-05a_01.pdf"
+  },
+  {
+    "id": "114-AM-107",
+    "year": 2025,
+    "reasons": [
+      "画像・図表が必要"
+    ],
+    "source": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp250428-05a_01.pdf"
+  },
+  {
+    "id": "114-AM-108",
+    "year": 2025,
+    "reasons": [
+      "画像・図表が必要"
+    ],
+    "source": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp250428-05a_01.pdf"
+  },
+  {
+    "id": "114-PM-019",
+    "year": 2025,
+    "reasons": [
+      "画像・図表が必要"
+    ],
+    "source": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp250428-05c_01.pdf"
+  },
+  {
+    "id": "114-PM-027",
+    "year": 2025,
+    "reasons": [
+      "画像・図表が必要"
+    ],
+    "source": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp250428-05c_01.pdf"
+  },
+  {
+    "id": "114-PM-045",
+    "year": 2025,
+    "reasons": [
+      "画像・図表が必要"
+    ],
+    "source": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp250428-05c_01.pdf"
+  },
+  {
+    "id": "114-PM-055",
+    "year": 2025,
+    "reasons": [
+      "画像・図表が必要"
+    ],
+    "source": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp250428-05c_01.pdf"
+  },
+  {
+    "id": "114-PM-071",
+    "year": 2025,
+    "reasons": [
+      "画像・図表が必要"
+    ],
+    "source": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp250428-05c_01.pdf"
+  },
+  {
+    "id": "114-PM-080",
+    "year": 2025,
+    "reasons": [
+      "画像・図表が必要"
+    ],
+    "source": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp250428-05c_01.pdf"
+  },
+  {
+    "id": "114-PM-090",
+    "year": 2025,
+    "reasons": [
+      "数値入力形式は未対応",
+      "選択肢データの確認が必要",
+      "公式正答と選択肢の対応を要確認"
+    ],
+    "source": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp250428-05c_01.pdf"
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "id": "115-AM-011",
+    "result": "FIX",
+    "official_answer_verified": true,
+    "explanation": "血漿中の凝固因子はフィブリンを形成し、出血部位の血栓を安定させて止血に働きます。リンパ液にも凝固能はありますが、それを血管損傷時の生理的な止血機構と同一視しないことが重要です。",
+    "choice_explanations": [],
+    "issues_found": [
+      "旧解説では、リンパ液の凝固能と血管損傷時の止血機構の違いが不明確だった。"
+    ],
+    "fixes_made": [
+      "血漿の凝固因子・フィブリンによる止血を明示し、リンパ液の凝固との違いを説明した。"
+    ],
+    "sources": [
+      {
+        "organization": "厚生労働省",
+        "title": "第115回看護師国家試験 正答値表（問題公開版）",
+        "url": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp260424-05seitou.pdf",
+        "supports": "2026年・午前の問題番号と正答を照合。合格発表版とも一致。"
+      },
+      {
+        "organization": "厚生労働省",
+        "title": "第115回看護師国家試験 午前問題",
+        "url": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp260424-05a_01.pdf",
+        "supports": "該当設問と選択肢、103問の共通症例を原文と照合。図版依存や内容の欠損は認めなかった。"
+      },
+      {
+        "organization": "厚生労働省",
+        "title": "第115回看護師国家試験 合格発表・採点除外等",
+        "url": "https://www.mhlw.go.jp/general/sikaku/successlist/2026/siken03_04_05/about.html",
+        "supports": "対象7問のうち公表された採点上の特例は午前80問。確認した公式公開ページに他6問の訂正告知は見当たらない。"
+      },
+      {
+        "organization": "Rice University / OpenStax",
+        "title": "18.5 Hemostasis",
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/18-5-hemostasis",
+        "supports": "血漿の凝固因子とフィブリン形成による止血。"
+      },
+      {
+        "organization": "Frontiers in Cardiovascular Medicine",
+        "title": "Coagulation in Lymphatic System（2021）",
+        "url": "https://www.frontiersin.org/journals/cardiovascular-medicine/articles/10.3389/fcvm.2021.762648/full",
+        "supports": "本文は血管での出血防止機構と病的なリンパ管内凝固を区別。リンパ液の凝固能を否定せず疑義を解消した。"
+      }
+    ],
+    "final_confidence": 0.96
+  },
+  {
+    "id": "115-AM-029",
+    "result": "REJECT",
+    "official_answer_verified": true,
+    "explanation": "公式正答はDダイマーです。Dダイマーは血栓の形成・分解に関連し、肺血栓塞栓症の診断過程で用いられます。しかし高値だけでは確定診断できないため、本問の『確定診断』という表現をそのまま正当化する説明はできません。",
+    "choice_explanations": [],
+    "issues_found": [
+      "原文にも「確定診断」とあり、抽出ミスではない。Dダイマー検査の役割と確定診断との関係に疑義が残り、解説だけでは解消できない。"
+    ],
+    "fixes_made": [],
+    "sources": [
+      {
+        "organization": "厚生労働省",
+        "title": "第115回看護師国家試験 正答値表（問題公開版）",
+        "url": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp260424-05seitou.pdf",
+        "supports": "2026年・午前の問題番号と正答を照合。合格発表版とも一致。"
+      },
+      {
+        "organization": "厚生労働省",
+        "title": "第115回看護師国家試験 午前問題",
+        "url": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp260424-05a_01.pdf",
+        "supports": "該当設問と選択肢、103問の共通症例を原文と照合。図版依存や内容の欠損は認めなかった。"
+      },
+      {
+        "organization": "厚生労働省",
+        "title": "第115回看護師国家試験 合格発表・採点除外等",
+        "url": "https://www.mhlw.go.jp/general/sikaku/successlist/2026/siken03_04_05/about.html",
+        "supports": "対象7問のうち公表された採点上の特例は午前80問。確認した公式公開ページに他6問の訂正告知は見当たらない。"
+      },
+      {
+        "organization": "日本血栓止血学会",
+        "title": "2025年改訂ガイドラインにおける静脈血栓塞栓症の診断",
+        "url": "https://www.jstage.jst.go.jp/article/jjsth/36/6/36_2025_JJTH_36_6_737-743/_html/-char/ja",
+        "supports": "本文のDダイマー・造影CTの節で、除外診断と確定診断の役割を区別。試験前に公表された資料。"
+      }
+    ],
+    "final_confidence": 0.7
+  },
+  {
+    "id": "115-AM-066",
+    "result": "FIX",
+    "official_answer_verified": true,
+    "explanation": "納豆はビタミンKを豊富に含み、母親の摂取は母乳中のビタミンKを増やすことにつながります。学会資料でも授乳中の摂取が勧められています。摂取量を無制限に増やす意味ではなく、児へのビタミンK予防投与も別に必要です。",
+    "choice_explanations": [],
+    "issues_found": [
+      "旧解説はビタミンKとの関係を推測として扱い、確認できる根拠を示していなかった。"
+    ],
+    "fixes_made": [
+      "学会資料の食品摂取に関する記載で正答理由を補い、児の予防投与を代替しないことを明示。量や古い投与日程は追加していない。"
+    ],
+    "sources": [
+      {
+        "organization": "厚生労働省",
+        "title": "第115回看護師国家試験 正答値表（問題公開版）",
+        "url": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp260424-05seitou.pdf",
+        "supports": "2026年・午前の問題番号と正答を照合。合格発表版とも一致。"
+      },
+      {
+        "organization": "厚生労働省",
+        "title": "第115回看護師国家試験 午前問題",
+        "url": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp260424-05a_01.pdf",
+        "supports": "該当設問と選択肢、103問の共通症例を原文と照合。図版依存や内容の欠損は認めなかった。"
+      },
+      {
+        "organization": "厚生労働省",
+        "title": "第115回看護師国家試験 合格発表・採点除外等",
+        "url": "https://www.mhlw.go.jp/general/sikaku/successlist/2026/siken03_04_05/about.html",
+        "supports": "対象7問のうち公表された採点上の特例は午前80問。確認した公式公開ページに他6問の訂正告知は見当たらない。"
+      },
+      {
+        "organization": "日本小児科学会 / 日本医療機能評価機構 Minds",
+        "title": "新生児・乳児ビタミンK欠乏性出血症に対するビタミンK製剤投与の改訂ガイドライン",
+        "url": "https://minds.jcqhc.or.jp/common/summary/pdf/c00105.pdf",
+        "supports": "留意点で納豆等の摂取による乳汁中ビタミンKの増加と母親への摂取勧奨を確認。食品の記載のみを使用し、旧投与日程は採用しない。"
+      },
+      {
+        "organization": "日本産婦人科医会",
+        "title": "出生直後から退院まで",
+        "url": "https://www.jaog.or.jp/note/%EF%BC%881%EF%BC%89%E5%87%BA%E7%94%9F%E7%9B%B4%E5%BE%8C%E3%81%8B%E3%82%89%E9%80%80%E9%99%A2%E3%81%BE%E3%81%A7/",
+        "supports": "児へのビタミンK投与に関する2021年提言を紹介。母体の食品摂取と児の予防投与を区別する。"
+      }
+    ],
+    "final_confidence": 0.96
+  },
+  {
+    "id": "115-AM-076",
+    "result": "REJECT",
+    "official_answer_verified": true,
+    "explanation": "バソプレシンは腎臓で水の再吸収を促し、尿の濃縮に関与します。代表的な作用部位として集合管を選びます。遠位尿細管の末端との区分には生理学上の記述差があるため注意します。",
+    "choice_explanations": [],
+    "issues_found": [
+      "集合管への作用は確認できるが、研究では遠位尿細管への作用も示される。作用の種類を限定しない設問の単一正答を、解説の修正だけで説明し切れない。"
+    ],
+    "fixes_made": [],
+    "sources": [
+      {
+        "organization": "厚生労働省",
+        "title": "第115回看護師国家試験 正答値表（問題公開版）",
+        "url": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp260424-05seitou.pdf",
+        "supports": "2026年・午前の問題番号と正答を照合。合格発表版とも一致。"
+      },
+      {
+        "organization": "厚生労働省",
+        "title": "第115回看護師国家試験 午前問題",
+        "url": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp260424-05a_01.pdf",
+        "supports": "該当設問と選択肢、103問の共通症例を原文と照合。図版依存や内容の欠損は認めなかった。"
+      },
+      {
+        "organization": "厚生労働省",
+        "title": "第115回看護師国家試験 合格発表・採点除外等",
+        "url": "https://www.mhlw.go.jp/general/sikaku/successlist/2026/siken03_04_05/about.html",
+        "supports": "対象7問のうち公表された採点上の特例は午前80問。確認した公式公開ページに他6問の訂正告知は見当たらない。"
+      },
+      {
+        "organization": "American Journal of Physiology–Renal Physiology / PubMed",
+        "title": "Vasopressin induces phosphorylation of the thiazide-sensitive sodium chloride cotransporter in the distal convoluted tubule（2010）",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20445498/",
+        "supports": "実験研究の抄録本文で遠位尿細管の反応を確認。ヒトへの直接の治療推奨には用いず、設問の部位限定に関する疑義として記録。"
+      }
+    ],
+    "final_confidence": 0.7
+  },
+  {
+    "id": "115-AM-080",
+    "result": "REJECT",
+    "official_answer_verified": true,
+    "explanation": "公式には4または5の一方が正答です。ICFの活動は課題や行為の遂行を指すため、テレビを見る行為とADLの自立はいずれも活動として理解できます。段差でのつまずきとの区分は一義的でない面があり、無理な断定は避けます。",
+    "choice_explanations": [],
+    "issues_found": [
+      "公式の4または5を正答とする措置は確認済み。それ自体を不備とは扱わない。選択肢3のつまずきを活動制限から切り離して説明する根拠を確認できず、残る分類上の疑義を専門家へ回す。"
+    ],
+    "fixes_made": [],
+    "sources": [
+      {
+        "organization": "厚生労働省",
+        "title": "第115回看護師国家試験 正答値表（問題公開版）",
+        "url": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp260424-05seitou.pdf",
+        "supports": "2026年・午前の問題番号と正答を照合。合格発表版とも一致。"
+      },
+      {
+        "organization": "厚生労働省",
+        "title": "第115回看護師国家試験 午前問題",
+        "url": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp260424-05a_01.pdf",
+        "supports": "該当設問と選択肢、103問の共通症例を原文と照合。図版依存や内容の欠損は認めなかった。"
+      },
+      {
+        "organization": "厚生労働省",
+        "title": "第115回看護師国家試験 合格発表・採点除外等",
+        "url": "https://www.mhlw.go.jp/general/sikaku/successlist/2026/siken03_04_05/about.html",
+        "supports": "対象7問のうち公表された採点上の特例は午前80問。確認した公式公開ページに他6問の訂正告知は見当たらない。"
+      },
+      {
+        "organization": "厚生労働省",
+        "title": "午前第80問の採点上の取扱い",
+        "url": "https://www.mhlw.go.jp/general/sikaku/successlist/2026/siken03_04_05/dl/kangoshi_am80.pdf",
+        "supports": "複数正解への公式対応。正答値表は4と5を別の許容正答として掲載。"
+      },
+      {
+        "organization": "厚生労働省 / WHO",
+        "title": "国際生活機能分類 日本語版",
+        "url": "https://www.mhlw.go.jp/houdou/2002/08/h0805-1.html",
+        "supports": "活動は個人の行為遂行、活動制限は遂行上の難しさ。歩行も活動領域に含む。個別選択肢3の解釈までは資料で確定できない。"
+      }
+    ],
+    "final_confidence": 0.7
+  },
+  {
+    "id": "115-AM-088",
+    "result": "REJECT",
+    "official_answer_verified": true,
+    "explanation": "老視は近くに焦点を合わせる調節機能の低下です。水晶体の弾力性低下が重要で、公式正答では毛様体筋の萎縮も含みます。各機序の寄与の表現には資料による違いがあるため注意します。",
+    "choice_explanations": [],
+    "issues_found": [
+      "水晶体の弾力性低下は確認できる。一方、毛様体筋の萎縮を原因として確定する十分な根拠は今回確認できず、公式正答2・5の両方を確実に説明できない。公式正答が誤りとは断定しない。"
+    ],
+    "fixes_made": [],
+    "sources": [
+      {
+        "organization": "厚生労働省",
+        "title": "第115回看護師国家試験 正答値表（問題公開版）",
+        "url": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp260424-05seitou.pdf",
+        "supports": "2026年・午前の問題番号と正答を照合。合格発表版とも一致。"
+      },
+      {
+        "organization": "厚生労働省",
+        "title": "第115回看護師国家試験 午前問題",
+        "url": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp260424-05a_01.pdf",
+        "supports": "該当設問と選択肢、103問の共通症例を原文と照合。図版依存や内容の欠損は認めなかった。"
+      },
+      {
+        "organization": "厚生労働省",
+        "title": "第115回看護師国家試験 合格発表・採点除外等",
+        "url": "https://www.mhlw.go.jp/general/sikaku/successlist/2026/siken03_04_05/about.html",
+        "supports": "対象7問のうち公表された採点上の特例は午前80問。確認した公式公開ページに他6問の訂正告知は見当たらない。"
+      },
+      {
+        "organization": "日本眼科学会",
+        "title": "老視（老眼）",
+        "url": "https://www.nichigan.or.jp/public/disease/name.html?pdid=36",
+        "supports": "調節機能の加齢による低下を確認。筋の萎縮という特定の機序までは裏付けない。"
+      },
+      {
+        "organization": "National Eye Institute",
+        "title": "Presbyopia",
+        "url": "https://www.nei.nih.gov/eye-health-information/eye-conditions-and-diseases/presbyopia",
+        "supports": "水晶体の硬化と柔軟性低下による近見障害を確認。"
+      }
+    ],
+    "final_confidence": 0.65
+  },
+  {
+    "id": "115-AM-103",
+    "result": "REJECT",
+    "official_answer_verified": true,
+    "explanation": "公式正答は中発作です。ただし、SpO₂ 93％は中発作の区分に対応する一方、会話が途切れるなどの所見は大発作の判定項目にも対応します。全所見が中発作に一致するとは説明できず、判定の根拠は専門的確認が必要です。",
+    "choice_explanations": [],
+    "issues_found": [
+      "公式正答は中発作。SpO2に加え会話・睡眠等を総合評価する必要があり、提示所見すべてから中発作と確定する根拠を確認できなかった。旧基準と試験時点の評価の差も解決できず、重症度を推測しない。"
+    ],
+    "fixes_made": [],
+    "sources": [
+      {
+        "organization": "厚生労働省",
+        "title": "第115回看護師国家試験 正答値表（問題公開版）",
+        "url": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp260424-05seitou.pdf",
+        "supports": "2026年・午前の問題番号と正答を照合。合格発表版とも一致。"
+      },
+      {
+        "organization": "厚生労働省",
+        "title": "第115回看護師国家試験 午前問題",
+        "url": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp260424-05a_01.pdf",
+        "supports": "該当設問と選択肢、103問の共通症例を原文と照合。図版依存や内容の欠損は認めなかった。"
+      },
+      {
+        "organization": "厚生労働省",
+        "title": "第115回看護師国家試験 合格発表・採点除外等",
+        "url": "https://www.mhlw.go.jp/general/sikaku/successlist/2026/siken03_04_05/about.html",
+        "supports": "対象7問のうち公表された採点上の特例は午前80問。確認した公式公開ページに他6問の訂正告知は見当たらない。"
+      },
+      {
+        "organization": "厚生労働省",
+        "title": "医薬品・医療機器等安全性情報227号・小児喘息の発作程度判定表",
+        "url": "https://www.mhlw.go.jp/houdou/2006/08/h0824-2.html",
+        "supports": "2006年の表ではSpO2 92～95%は中発作。一方、睡眠・話し方も判定要素。古い表のみで2026年問題を確定しない。"
+      },
+      {
+        "organization": "環境再生保全機構",
+        "title": "小児ぜん息：発作時の対応",
+        "url": "https://www.erca.go.jp/yobou/zensoku/basic/kodomonozensoku/hossa.html",
+        "supports": "話すのが苦しい・眠れないなどの徴候と総合的観察の重要性。単独で本問を中発作と断定する根拠ではない。"
+      }
+    ],
+    "final_confidence": 0.65
+  }
+]

@@ -1,0 +1,200 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="判断ミスが自分の症状として返ってくる、看護師国家試験対策ゲーム">
+  <meta name="theme-color" content="#071b20">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icon.svg" type="image/svg+xml">
+  <title>RE:CARE — 逆流病棟</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;600;700;800&family=Zen+Kaku+Gothic+New:wght@500;700;900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="title-fix.css">
+  <link rel="stylesheet" href="premium.css">
+  <link rel="stylesheet" href="avatar-upgrade.css">
+  <link rel="stylesheet" href="cinematic.css">
+  <link rel="stylesheet" href="anatomy.css">
+  <link rel="stylesheet" href="auth.css">
+  <link rel="stylesheet" href="polish.css">
+  <link rel="stylesheet" href="mypage.css">
+  <link rel="stylesheet" href="luxury-ui.css">
+  <link rel="stylesheet" href="question-source.css">
+  <link rel="stylesheet" href="projection.css">
+</head>
+<body>
+  <div class="noise"></div>
+  <section class="title-screen" id="titleScreen">
+    <div class="title-grid"></div><div class="title-glow"></div>
+    <header class="title-top"><span>RE:CARE CLINICAL LEARNING</span><span>PATHOLOGY LINK SYSTEM · 1125 QUESTIONS</span></header>
+    <div class="title-content">
+      <div class="title-copy">
+        <p class="title-kicker"><i></i> NURSING EXAM × SURVIVAL</p>
+        <h1><span>RE:</span>CARE</h1><p class="title-jp">逆流病棟</p>
+        <p class="title-lead">患者の状況を、自分に投影してしまう看護師。<br>正しい判断で、自分を見失わずに夜勤を終えろ。</p>
+        <div class="title-actions"><button class="start-btn" id="startGame"><small>NEW SHIFT</small>夜勤を開始する <b>→</b></button><button class="how-btn" id="howButton">遊び方</button></div>
+        <div class="last-result" id="lastResult"><span>LAST RECORD</span><b>記録なし</b></div>
+      </div>
+      <div class="title-visual">
+        <div class="orbit orbit-a"></div><div class="orbit orbit-b"></div>
+        <svg class="title-body" viewBox="0 0 180 290" aria-hidden="true"><circle cx="90" cy="38" r="25"/><path d="M58 77 Q90 60 122 77 L132 166 Q113 181 90 181 Q67 181 48 166Z"/><path d="M58 82 Q42 88 35 111 L18 174 Q16 184 25 187 Q34 189 38 179 L59 124Z M122 82 Q138 88 145 111 L162 174 Q164 184 155 187 Q146 189 142 179 L121 124Z"/><path d="M60 165 Q74 174 88 177 L79 262 Q78 278 65 278 Q53 277 55 262Z M120 165 Q106 174 92 177 L101 262 Q102 278 115 278 Q127 277 125 262Z"/><path class="title-heart" d="M90 122 C75 107 65 129 90 150 C115 129 105 107 90 122Z"/></svg>
+        <div class="title-diagnostic d1"><span>SELF</span><b>100%</b></div><div class="title-diagnostic d2"><span>PATHOLOGY LINK</span><b>READY</b></div><div class="title-diagnostic d3"><span>CASE POOL</span><b>1125</b></div>
+      </div>
+    </div>
+    <footer class="title-footer"><span>公式過去問1,125問 · 2022〜2026年 · 選択肢別の学習用AI解説</span><span>CLINICAL LEARNING SYSTEM · v1.0</span></footer>
+    <div class="how-panel" id="howPanel" hidden><button id="howClose">×</button><p class="eyebrow">HOW TO PLAY</p><h2>夜勤を生き抜く</h2><ol><li><b>病態を判断</b><span>公式過去問に答えます。複数選択では指定された数を選びます。</span></li><li><b>患者が、自分に重なる</b><span>病気のミスは症状が自分に現れ、それ以外のミスは患者との境界を揺らがせます。</span></li><li><b>解説で復習</b><span>正答と解説で判断を振り返りましょう。</span></li></ol><p>出題数の2割のミスで投影から戻れなくなり、勤務終了（端数切り上げ）。正解してもミスの累計は減りません。最後の解説は読んでから終了できます。</p></div>
+  </section>
+  <main class="app-shell game-hidden" id="gameShell">
+    <header class="topbar">
+      <a class="brand" href="#" aria-label="RE:CARE ホーム">
+        <span class="brand-mark">R</span>
+        <span><strong>RE:CARE</strong><small>逆流病棟</small></span>
+      </a>
+      <div class="shift"><span class="pulse-dot"></span> NIGHT SHIFT <b>00:47</b></div>
+      <button class="end-shift-btn" id="endShiftButton" type="button">夜勤を終了</button>
+      <button class="icon-btn" id="soundButton" aria-label="サウンドをオンにする" title="サウンド">♪×</button>
+    </header>
+
+    <section class="status-strip">
+      <div class="status-copy">
+        <span class="eyebrow">SELF / PATIENT</span>
+        <div class="condition-line"><strong id="conditionText">安定</strong><span id="conditionDetail">異常所見なし</span></div>
+      </div>
+      <div class="vitals">
+        <div><span>ミス</span><strong id="spo2">0</strong><small>回</small></div>
+        <div><span>終了まで</span><strong id="pulse">4</strong><small>回</small></div>
+        <div><span>連続正解</span><strong id="focus">0</strong><small>問</small></div>
+      </div>
+      <div class="health-wrap">
+        <div><span>自分を保つ力</span><b id="healthValue">100</b></div>
+        <div class="health-track"><i id="healthBar"></i></div><small id="projectionProgress"></small>
+      </div>
+    </section>
+
+    <div class="game-grid">
+      <aside class="side-panel">
+        <p class="eyebrow">CASE FILE</p>
+        <div class="case-number"><span>CASE</span><strong id="caseNumber">01</strong><small id="caseTotal">/ 10</small></div>
+        <div class="progress-track"><i id="progressBar"></i></div>
+        <dl class="case-meta">
+          <div><dt>領域</dt><dd id="category">成人看護</dd></div>
+          <div><dt>問題の範囲</dt><dd id="type">一般・状況設定問題</dd></div>
+          <div><dt>回答方法</dt><dd id="difficulty">1つ選択</dd></div>
+        </dl>
+        <div class="streak-card">
+          <span>STREAK</span>
+          <strong><b id="streak">0</b> CASES</strong>
+          <small>出題数の2割のミスで終了</small>
+        </div>
+        <button class="text-btn" id="resetButton">最初からやり直す ↻</button>
+      </aside>
+
+      <section class="question-panel" id="questionPanel">
+        <div class="question-head">
+          <span class="source-badge" id="sourceBadge">厚生労働省・公式過去問</span>
+          <span class="instruction">最も適切なものを1つ選択</span>
+        </div>
+        <div class="question-body">
+          <p class="lead" id="scenario"></p>
+          <h1 id="question"></h1>
+          <div class="choices" id="choices"></div>
+        </div>
+        <div class="feedback" id="feedback" aria-live="polite">
+          <div class="feedback-icon" id="feedbackIcon">!</div>
+          <div>
+            <p class="feedback-label" id="feedbackLabel"></p>
+            <h2 id="feedbackTitle"></h2>
+            <p id="feedbackText"></p>
+            <div class="consequence" id="consequence"></div>
+            <details id="detailBox">
+              <summary>選択肢ごとの解説</summary>
+              <div id="choiceNotes"></div>
+            </details>
+            <button class="report-link" id="reportButton">問題・正答の誤りを報告する</button>
+          </div>
+        </div>
+        <footer class="action-row">
+          <span><kbd>1</kbd>–<kbd>5</kbd> 選択　<kbd>Enter</kbd> 決定</span>
+          <button class="primary-btn" id="submitButton" disabled>判断する <span>→</span></button>
+          <button class="primary-btn next" id="nextButton" hidden>次の症例へ <span>→</span></button>
+        </footer>
+      </section>
+      <aside class="self-panel">
+        <div class="self-heading"><div><p class="eyebrow">PATHOLOGY LINK</p><h2>投影された自分</h2></div><span id="avatarState">STABLE</span></div>
+        <div class="avatar-stage" id="avatarStage">
+          <div class="scan-line"></div>
+          <svg class="avatar" viewBox="0 0 180 290" role="img" aria-label="プレイヤーの身体状態">
+            <defs><linearGradient id="bodyFill" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#d8ebe6"/><stop offset="1" stop-color="#91bdb5"/></linearGradient></defs>
+            <circle class="body-part head" cx="90" cy="38" r="25"/><g class="face"><path class="eye eye-left" d="M76 34 Q81 30 85 34"/><path class="eye eye-right" d="M95 34 Q100 30 104 34"/><path class="mouth" d="M80 50 Q90 43 100 50"/><path class="flush" d="M69 43 Q75 39 80 44 M101 44 Q107 39 112 43"/></g><g class="sweat"><path d="M116 24 C108 35 110 41 116 41 C122 41 124 35 116 24Z"/><path d="M65 31 C59 39 60 44 65 44 C70 44 71 39 65 31Z"/></g><path class="body-part torso" d="M58 77 Q90 60 122 77 L132 177 Q124 194 90 199 Q56 194 48 177Z"/>
+            <path class="body-part arm" d="M58 82 Q42 88 35 111 L18 174 Q16 184 25 187 Q34 189 38 179 L59 124Z"/><path class="body-part arm" d="M122 82 Q138 88 145 111 L162 174 Q164 184 155 187 Q146 189 142 179 L121 124Z"/>
+            <path class="body-part leg" d="M60 190 Q74 196 88 198 L79 262 Q78 278 65 278 Q53 277 55 262Z"/><path class="body-part leg" d="M120 190 Q106 196 92 198 L101 262 Q102 278 115 278 Q127 277 125 262Z"/>
+            <path class="lung" d="M82 87 Q64 91 62 114 Q61 135 78 143 Q85 139 85 122 L85 94Z"/><path class="lung" d="M98 87 Q116 91 118 114 Q119 135 102 143 Q95 139 95 122 L95 94Z"/><path class="heart" d="M91 116 C83 108 74 119 79 130 Q83 138 91 145 Q99 137 104 129 Q110 116 100 112 Q95 111 91 116Z"/>
+            <g class="anatomy-organs">
+              <path class="organ brain" d="M72 31 Q72 17 86 16 Q96 12 106 20 Q113 27 107 39 Q101 45 91 43 Q81 47 74 40Z"/>
+              <path class="organ airway" d="M87 61 L93 61 L95 94 L85 94Z"/>
+              <path class="organ kidney kidney-left" d="M66 151 C57 153 57 166 63 171 C70 176 77 167 75 157 C73 153 70 151 66 151Z"/>
+              <path class="organ kidney kidney-right" d="M114 151 C123 153 123 166 117 171 C110 176 103 167 105 157 C107 153 110 151 114 151Z"/>
+              <path class="organ ureter" d="M70 168 C72 178 78 181 84 187 M110 168 C108 178 102 181 96 187"/>
+              <path class="organ liver" d="M56 140 Q75 134 98 142 Q99 151 94 158 Q73 163 57 155Z"/>
+              <path class="organ stomach" d="M103 143 C114 141 120 148 116 156 C112 164 118 169 109 174 C99 176 96 166 101 158 C105 153 105 148 103 143Z"/>
+              <path class="organ intestine colon" d="M69 166 Q90 160 111 166 L111 194 Q90 202 69 194Z"/>
+              <path class="organ intestine intestine-loop" d="M78 171 C91 165 104 171 101 179 C98 185 78 176 77 184 C76 192 97 194 103 186"/>
+              <path class="organ bladder" d="M82 184 Q90 179 98 184 Q101 194 96 199 Q90 204 84 199 Q79 194 82 184Z"/>
+              <path class="organ pelvis-guide" d="M70 181 Q90 205 110 181"/>
+              <circle class="organ joint joint-ls" cx="49" cy="91" r="5"/><circle class="organ joint joint-rs" cx="131" cy="91" r="5"/><path class="organ joint knee joint-lk" d="M59 224 Q68 219 77 224 Q68 230 59 224Z"/><path class="organ joint knee joint-rk" d="M103 224 Q112 219 121 224 Q112 230 103 224Z"/>
+            </g>
+            <circle class="pain-point foot" cx="67" cy="269" r="9"/><circle class="pain-point shoulder" cx="127" cy="88" r="9"/>
+            <g class="sick-marks"><circle cx="74" cy="106" r="5"/><circle cx="111" cy="155" r="7"/><circle cx="70" cy="205" r="4"/></g><g class="pain-burst"><path d="M45 254 l-10 -8 m12 16 l-13 4 m20 2 l-5 12"/><path d="M137 70 l8 -10 m-2 18 l13 -2 m-17 12 l10 8"/></g>
+          </svg>
+          <div class="breath breath-one"></div><div class="breath breath-two"></div><div class="ecg-line"><i></i><span>ECG</span></div>
+          <div class="avatar-callout" id="avatarCallout"><b>正常</b><span>症状はありません</span></div>
+          <div class="body-alert head-alert">意識低下</div><div class="body-alert chest-alert">呼吸・循環異常</div><div class="body-alert limb-alert">疼痛・運動障害</div>
+        </div>
+        <div class="symptom-chips" id="symptomChips"><span class="empty-chip">状態異常なし</span></div>
+        <div id="projectionNote" class="projection-note" aria-live="polite" hidden></div>
+        <div id="diseaseEpisodes" class="disease-episodes" aria-live="polite"></div>
+        <p class="simulator-note">病気の症状も、患者との境界の揺らぎも、自分に残る。症状・投影はゲーム内の演出です。</p>
+        <div class="record-head"><p class="eyebrow">CARE RECORD</p><span id="recordCount">0件</span></div>
+        <div class="record-log" id="recordLog"><p class="empty-record">判断すると、選んだ発言と身体に起きたことがここに記録されます。</p></div>
+      </aside>
+    </div>
+  </main>
+
+  <div class="result-modal" id="resultModal" hidden>
+    <div class="result-card" id="resultCard">
+      <p class="eyebrow" id="resultEyebrow">SHIFT COMPLETE</p>
+      <h2 id="resultTitle">夜勤終了</h2>
+      <div class="score-ring"><strong id="finalScore">0</strong><span>/ <b id="finalTotal">15</b></span></div>
+      <p id="resultMessage"></p>
+      <div class="result-stats"><span>自分を保つ力 <b id="finalHealth">100</b></span><span>要復習 <b id="reviewCount">0</b></span></div>
+      <div class="result-actions"><button class="secondary-btn" id="resultHomeButton">タイトルへ戻る</button><button class="secondary-btn" id="reviewButton">間違いだけ復習</button><button class="primary-btn" id="retryButton">もう一度挑戦 →</button></div>
+    </div>
+  </div>
+
+  <div class="report-modal" id="reportModal" hidden><form class="report-card" id="reportForm"><button type="button" class="report-close" id="reportClose">×</button><p class="eyebrow">REPORT AN ERROR</p><h2>問題・正答の誤りを報告</h2><p class="report-question" id="reportQuestion"></p><label>問題の種類<select id="reportType"><option>正答が違う</option><option>出典との相違</option><option>情報が古い</option><option>誤字・表示崩れ</option><option>その他</option></select></label><label>詳しい内容<textarea id="reportMessage" required minlength="5" rows="5" placeholder="どの部分が、なぜ間違っていると思うか教えてください"></textarea></label><label>返信先メール（任意）<input id="reportReply" type="email"></label><p class="report-note">問題番号・回答・出典も自動で含まれます。</p><button class="primary-btn" type="submit">報告を送る →</button><p class="report-status" id="reportStatus"></p></form></div>
+
+  <footer class="legal-note">出典：厚生労働省 第111〜115回看護師国家試験。分野分類・学習用AI解説は非公式です。未確認の解説は表示しません。症状・投影はゲーム内の演出です。</footer>
+  <script src="config.js"></script>
+  <script src="official-questions.js"></script>
+  <script src="official-bank.js"></script>
+  <script src="explanations.js"></script>
+  <script src="additional-explanations.js"></script>
+  <script src="explanation-bank.js"></script>
+  <script src="disease-simulator.js"></script>
+  <script src="projection.js"></script>
+  <script src="app.js"></script>
+  <script src="improvements.js"></script>
+  <script src="cloud-config.js"></script>
+  <script src="cloud-sync.js"></script>
+  <script src="auth.js"></script>
+  <script src="premium.js"></script>
+  <script src="polish.js"></script>
+  <script src="mypage.js"></script>
+  <script src="admin-play.js"></script>
+  <script src="shift-navigation.js"></script>
+  <script src="challenge-modes.js"></script>
+  <script src="question-source.js"></script>
+</body>
+</html>

@@ -1,0 +1,22 @@
+{
+  "input": 897,
+  "classified": 897,
+  "classification_review": 7,
+  "missing": 0,
+  "categories": {
+    "健康支援と社会保障制度": 105,
+    "基礎看護学": 105,
+    "人体の構造と機能": 62,
+    "小児看護学": 75,
+    "母性看護学": 63,
+    "疾病の成り立ちと回復の促進": 114,
+    "老年看護学": 91,
+    "看護の統合と実践": 50,
+    "成人看護学": 112,
+    "精神看護学": 61,
+    "地域・在宅看護論": 59
+  },
+  "official_item_classification_verified": false,
+  "source_content_unchanged": true,
+  "scope": "追加4年度897問の分類のみ。解説検証・原文訂正は含まない。"
+}

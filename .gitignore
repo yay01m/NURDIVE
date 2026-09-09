@@ -1,0 +1,4 @@
+.edge-preview/
+tmp/
+__pycache__/
+*.py[cod]

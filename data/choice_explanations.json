@@ -1,0 +1,7604 @@
+[
+  {
+    "id": "115-AM-001",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "6,600 万人",
+        "explanation": "公式正答の推計値より少ない人数です。"
+      },
+      {
+        "choice": 2,
+        "correct": true,
+        "title": "9,600 万人",
+        "explanation": "2023年推計で示された2060年の総人口は約9,600万人です。将来推計は出生・死亡などの仮定を置いた見通しであり、現在の人口の実測値ではありません。推計の公表年と対象年を区別して覚えます。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "1 億 600 万人",
+        "explanation": "公式正答の推計値より多い人数です。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "1 億 2,600 万人",
+        "explanation": "公式正答の推計値より多く、対象年を取り違えないことが必要です。"
+      }
+    ],
+    "status": "FIXED",
+    "review_reason": "選択肢の説明不足・確認待ちの部分を補足。",
+    "fixes_made": [
+      "選択肢2の解説を修正。"
+    ]
+  },
+  {
+    "id": "115-AM-002",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "家庭問題",
+        "explanation": "原因・動機の一つですが、本問の統計で最多の区分ではありません。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "勤務問題",
+        "explanation": "勤務上の問題も含まれますが、本問の最多区分ではありません。"
+      },
+      {
+        "choice": 3,
+        "correct": true,
+        "title": "健康問題",
+        "explanation": "2022年の自殺の原因・動機別では、健康問題が最も多い区分です。身体の病気だけでなく精神的な健康の問題も含む分類であり、個々の自殺の背景が健康問題一つだけだという意味ではありません。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "経済・生活問題",
+        "explanation": "経済・生活問題も重要ですが、本問の最多区分ではありません。"
+      }
+    ],
+    "status": "FIXED",
+    "review_reason": "選択肢の説明不足・確認待ちの部分を補足。",
+    "fixes_made": [
+      "選択肢3の解説を修正。"
+    ]
+  },
+  {
+    "id": "115-AM-003",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "骨格筋が緊張する。",
+        "explanation": "姿勢筋の緊張は一般に低下します。"
+      },
+      {
+        "choice": 2,
+        "correct": true,
+        "title": "急速な眼球運動を伴う。",
+        "explanation": "レム睡眠の名称は急速眼球運動に由来します。脳の活動が比較的活発な一方、姿勢を保つ骨格筋の緊張は低下するという組合せを押さえます。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "体熱の放散が増加する。",
+        "explanation": "入眠時には皮膚から熱を逃がして深部体温を下げますが、これはレム睡眠固有の特徴ではありません。レム睡眠では体温調節の反応が弱まるため、熱放散の増加を特徴として結び付けないようにします。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "大脳皮質の活動が低下する。",
+        "explanation": "覚醒に近い脳活動もみられ、皮質活動の一律の低下では説明できません。"
+      }
+    ],
+    "status": "FIXED",
+    "review_reason": "選択肢の説明不足・確認待ちの部分を補足。",
+    "fixes_made": [
+      "選択肢3の解説を修正。"
+    ]
+  },
+  {
+    "id": "115-AM-004",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "結核菌",
+        "explanation": "結核菌の主な感染経路は、感染性のある患者からの空気感染です。土壌から傷に入る感染を問う本問の正答ではありません。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "コレラ菌",
+        "explanation": "コレラ菌は、汚染された水や食品を介して感染します。土壌中の芽胞が傷から侵入する破傷風とは区別します。"
+      },
+      {
+        "choice": 3,
+        "correct": true,
+        "title": "破傷風菌",
+        "explanation": "破傷風菌は芽胞の状態で土壌などに存在し、傷から体内に入って感染を起こします。この問題では、病原体と主な感染源を結び付けることが重要です。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "カンピロバクター",
+        "explanation": "カンピロバクターは、汚染された食品などを介する感染が問題になります。本問では土壌との関連が代表的な破傷風菌を選びます。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-AM-005",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "看護師",
+        "explanation": "看護の評価や計画には関わりますが、看護師資格だけで居宅サービス計画作成の担当職種とはなりません。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "介護福祉士",
+        "explanation": "生活援助や身体介護を担いますが、本問の計画作成を担う職種とは区別します。"
+      },
+      {
+        "choice": 3,
+        "correct": true,
+        "title": "介護支援専門員",
+        "explanation": "居宅サービス計画は、利用者の希望と生活上の課題を把握し、必要な介護サービスを組み合わせる計画です。その作成を担う介護支援専門員を選びます。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "精神保健福祉士",
+        "explanation": "精神保健福祉の相談援助を担う資格であり、本問の担当職種ではありません。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-AM-006",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "安全の欲求",
+        "explanation": "危険を避け、安心して暮らしたいという欲求です。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "承認の欲求",
+        "explanation": "他者から評価され、尊重されたいという欲求です。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "自己実現の欲求",
+        "explanation": "自分の可能性や能力を実現したいという欲求です。"
+      },
+      {
+        "choice": 4,
+        "correct": true,
+        "title": "所属と愛の欲求",
+        "explanation": "集団に属し、人とのつながりを求める欲求です。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-AM-007",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "5 番染色体",
+        "explanation": "5番染色体は、Down症候群に関係する染色体番号ではありません。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "13 番染色体",
+        "explanation": "13番染色体は、Down症候群に関係する染色体番号ではありません。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "18 番染色体",
+        "explanation": "18番染色体は、Down症候群に関係する染色体番号ではありません。"
+      },
+      {
+        "choice": 4,
+        "correct": true,
+        "title": "21 番染色体",
+        "explanation": "Down症候群は、21番染色体の遺伝物質が通常より多くなることに関係します。代表的な型は21トリソミーです。染色体の番号と疾患を対応させて覚えます。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-AM-008",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "はさみを使う。",
+        "explanation": "指の分離運動と道具の操作が必要で、単に握るより後に獲得されます。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "丸（円）を描く。",
+        "explanation": "目と手を協調させて形を描く動作は、握る動作より複雑です。"
+      },
+      {
+        "choice": 3,
+        "correct": true,
+        "title": "ガラガラを握る。",
+        "explanation": "物を握る動作は、道具を操作したり形を描いたりする動作より先に獲得されます。年齢の細かな数値より、必要な手指の協調の複雑さを比べます。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "積み木で塔を作る。",
+        "explanation": "位置を合わせて積む必要があり、握る動作より後に獲得されます。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-AM-009",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": true,
+        "title": "血圧の上昇",
+        "explanation": "成長に伴って循環機能や身体の大きさが変化し、乳児期より学童期の血圧は高くなる傾向があります。臓器の容量も一般に成長とともに増えます。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "胃容量の減少",
+        "explanation": "胃の容量は成長とともに増えるため、減少ではありません。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "膀胱容量の減少",
+        "explanation": "膀胱容量も成長とともに増えるため、減少ではありません。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "腹式呼吸への移行",
+        "explanation": "乳児では腹式呼吸が目立ちます。学童になる変化の向きが逆です。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-AM-010",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "40 %",
+        "explanation": "本問の公式正答の割合より小さい値です。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "50 %",
+        "explanation": "本問の公式正答の割合より小さい値です。"
+      },
+      {
+        "choice": 3,
+        "correct": true,
+        "title": "60 %",
+        "explanation": "核家族世帯は、夫婦のみ・夫婦と未婚の子・ひとり親と未婚の子の世帯です。2022年の各割合を合計すると約57％となるため、最も近い約60％を選びます。単独世帯は含めません。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "70 %",
+        "explanation": "本問の公式正答の割合より大きい値です。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-AM-011",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": true,
+        "title": "血 漿",
+        "explanation": "血漿中の凝固因子が反応し、フィブリンの網を作って血栓を安定させます。血小板による栓を補強して出血を止める仕組みであり、血漿の重要な働きです。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "細胞内液",
+        "explanation": "細胞内の液であり、血管内の凝固因子を含む血漿とは区別します。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "脳脊髄液",
+        "explanation": "脳・脊髄を取り囲む液で、本問の血液凝固を担う液としては選びません。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "リンパ液",
+        "explanation": "リンパ液にも凝固に関係する成分が含まれ、凝固することはあります。しかし、その凝固能を血管が傷ついたときの生理的な止血機構と同じものとして扱うことはできません。"
+      }
+    ],
+    "status": "FIXED",
+    "review_reason": "選択肢の説明不足・確認待ちの部分を補足。",
+    "fixes_made": [
+      "選択肢1の解説を修正。",
+      "選択肢4の解説を修正。"
+    ]
+  },
+  {
+    "id": "115-AM-012",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "泡沫状",
+        "explanation": "泡沫状は、胃内で血液が胃酸の作用を受けたときの特徴を表していません。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "アセトン臭",
+        "explanation": "アセトン臭は、胃潰瘍からの出血が胃酸によって変化したときの特徴ではありません。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "アンモニア臭",
+        "explanation": "アンモニア臭は、胃潰瘍による少量の吐血の代表的な性状ではありません。"
+      },
+      {
+        "choice": 4,
+        "correct": true,
+        "title": "コーヒー残渣様",
+        "explanation": "胃内に出た血液が胃酸の作用を受けると暗褐色になり、コーヒーの出がらしに似た吐物になることがあります。本問の少量の吐血では、このコーヒー残渣様の性状を選びます。吐血がすべてこの色になるわけではありません。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-AM-014",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "若 年",
+        "explanation": "若いこと自体は、この選択肢の中でDVTの代表的な危険因子ではありません。ただし、若年者でも他の危険因子があれば発症します。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "水分過多",
+        "explanation": "水分過多そのものは、本問で静脈血のうっ滞を起こす代表的な条件として選ぶものではありません。"
+      },
+      {
+        "choice": 3,
+        "correct": true,
+        "title": "長期臥床",
+        "explanation": "長期臥床で下肢を動かす機会が減ると、静脈の血流が滞りやすくなり、血栓形成の危険が高まります。DVTの危険因子を考えるときは、静脈血のうっ滞に注目します。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "るいそう",
+        "explanation": "るいそうだけでは、長期臥床のような静脈血のうっ滞を示しません。病気などの背景条件を勝手に追加せず判断します。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-AM-015",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "プリン体",
+        "explanation": "プリン体は、本問が問う肝性脳症の代表的な原因物質ではありません。"
+      },
+      {
+        "choice": 2,
+        "correct": true,
+        "title": "アンモニア",
+        "explanation": "肝臓での処理が不十分になったアンモニアは、肝性脳症の病態に関与します。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "グルコース",
+        "explanation": "グルコースを、肝性脳症の代表的な原因物質として選ぶ問題ではありません。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "トリグリセライド",
+        "explanation": "トリグリセライドは、肝性脳症の代表的な原因物質ではありません。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-AM-017",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "抗ヒスタミン薬",
+        "explanation": "ヒスタミンの作用を抑えますが、本問の広い免疫抑制作用を問う選択肢とは区別します。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "インターフェロン",
+        "explanation": "抗ウイルス作用などの免疫調節に関わり、ステロイドと同じ意味での免疫抑制薬ではありません。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "ヒト免疫グロブリン",
+        "explanation": "抗体の補充や免疫調節に用います。製剤の作用を一律に免疫抑制と扱わないようにします。"
+      },
+      {
+        "choice": 4,
+        "correct": true,
+        "title": "副腎皮質ステロイド",
+        "explanation": "副腎皮質ステロイドには炎症反応や免疫反応を抑える作用があります。抗アレルギー薬や免疫に関係する製剤を、すべて同じ作用と考えないことが重要です。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-AM-018",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "きざみ食を選ぶ。",
+        "explanation": "細かく刻むだけでは口の中でまとまりにくくなり、誤嚥予防になるとは限りません。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "粘り気の強い食品を選ぶ。",
+        "explanation": "強い粘着性は口腔・咽頭に残りやすく、粘りが強ければ安全とはいえません。"
+      },
+      {
+        "choice": 3,
+        "correct": true,
+        "title": "食事中は頸部前屈位をとる。",
+        "explanation": "頸部を後屈させると食塊が気道側へ流れやすくなるため、嚥下しやすい姿勢として軽い頸部前屈を用います。ただし、嚥下障害の原因や程度によって適した姿勢は異なり、むせなどを観察して調整します。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "食後は速やかに仰臥位をとる。",
+        "explanation": "食後すぐの仰臥位は逆流などの危険があり、速やかに寝かせる援助は適切ではありません。"
+      }
+    ],
+    "status": "FIXED",
+    "review_reason": "選択肢の説明不足・確認待ちの部分を補足。",
+    "fixes_made": [
+      "選択肢3の解説を修正。"
+    ]
+  },
+  {
+    "id": "115-AM-019",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "薬剤の単位は省略する。",
+        "explanation": "薬剤の単位を省略すると、量の解釈が食い違う原因になります。必要な単位も明確に伝えます。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "与薬の指示は口頭で行う。",
+        "explanation": "口頭指示には聞き間違いの危険があります。口頭で行うこと自体はエラー予防策ではなく、必要な場合にも復唱などの確認が欠かせません。"
+      },
+      {
+        "choice": 3,
+        "correct": true,
+        "title": "伝えられた情報の内容を復唱し確認し合う。",
+        "explanation": "受け手の復唱を送り手が確認することで、情報が正確に伝わったかを双方で確かめられます。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "伝えられた情報の不明点に関する質問は控える。",
+        "explanation": "不明点を残すと誤った理解で行動する危険があります。不明な内容は質問して確認します。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-AM-020",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "陰圧室",
+        "explanation": "陰圧室は、主に空気感染対策で用いる設備です。接触感染対策として選ぶものではありません。"
+      },
+      {
+        "choice": 2,
+        "correct": true,
+        "title": "ガウン",
+        "explanation": "接触感染予防策では、患者や周辺環境との接触による衣服・皮膚の汚染を防ぐため、ガウンと手袋を用います。選択肢の中では、身体や衣服を覆うガウンが該当します。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "ゴーグル",
+        "explanation": "ゴーグルは飛沫や体液の飛散から眼を守ります。接触感染対策だけを理由に選ぶ用具ではありませんが、飛散が予想される場合には併用します。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "N 95 マスク",
+        "explanation": "N95マスクは吸い込む粒子への対策に用います。接触感染の遮断を主な目的とする用具ではありません。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-AM-021",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "感染症の予防",
+        "explanation": "感染予防には手指衛生や適切な消毒などが重要です。刺入直後のしびれの確認は感染を直接評価するものではありません。"
+      },
+      {
+        "choice": 2,
+        "correct": true,
+        "title": "神経損傷の予防",
+        "explanation": "しびれや電撃様の痛みは神経への刺激・損傷を疑う所見であり、刺入直後に確認する目的に合います。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "皮下血腫の予防",
+        "explanation": "皮下血腫では、局所の腫れや出血などを観察します。本問が強調する刺入直後のしびれは、神経損傷の確認につながります。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "血管迷走神経反応の予防",
+        "explanation": "血管迷走神経反応では、気分不良やめまいなどに注意します。刺入直後の局所のしびれの確認とは観察の目的が異なります。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-AM-023",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "悪寒の有無",
+        "explanation": "全身の悪寒は、前腕固定による末梢循環障害を直接捉える項目ではありません。"
+      },
+      {
+        "choice": 2,
+        "correct": true,
+        "title": "末梢冷感の有無",
+        "explanation": "末梢冷感は、固定より先の血流低下を疑う手掛かりです。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "全身倦怠感の有無",
+        "explanation": "全身倦怠感だけでは局所の固定状態を評価できません。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "上腕動脈の触知の有無",
+        "explanation": "上腕動脈は固定部より中枢側であり、その触知だけでは手の末梢循環を確認できません。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-AM-024",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "コデイン",
+        "explanation": "一般に弱オピオイドに分類され、強オピオイドを問う本問では選びません。"
+      },
+      {
+        "choice": 2,
+        "correct": true,
+        "title": "モルヒネ",
+        "explanation": "モルヒネは強オピオイド鎮痛薬です。がん疼痛に使う薬には非オピオイド薬や鎮痛補助薬もあるため、『痛みに使う薬』と『強オピオイド』を分けて覚えます。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "カルバマゼピン",
+        "explanation": "抗てんかん薬で、痛みの種類によって鎮痛補助薬として用いますが、オピオイドではありません。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "ロキソプロフェン",
+        "explanation": "非ステロイド性抗炎症薬であり、オピオイドではありません。"
+      },
+      {
+        "choice": 5,
+        "correct": false,
+        "title": "アセトアミノフェン",
+        "explanation": "非オピオイド鎮痛薬です。鎮痛に用いることとオピオイドであることは別です。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-AM-025",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": true,
+        "title": "動眼神経",
+        "explanation": "対光反射は、光を受けると瞳孔が小さくなる反応です。光の情報は視神経から入り、縮瞳を起こす遠心路には動眼神経の副交感神経線維が関与します。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "滑車神経",
+        "explanation": "滑車神経は眼球運動に関係する神経で、対光反射の縮瞳を担う遠心路ではありません。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "三叉神経",
+        "explanation": "三叉神経を、対光反射の求心路である視神経と混同しないようにします。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "外転神経",
+        "explanation": "外転神経は眼球運動に関係する神経で、縮瞳を担う神経ではありません。"
+      },
+      {
+        "choice": 5,
+        "correct": false,
+        "title": "顔面神経",
+        "explanation": "顔面神経は、対光反射で縮瞳を起こす遠心路ではありません。眼を閉じる運動と縮瞳は別です。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-AM-026",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "アクチンが ATP を消費する。",
+        "explanation": "ATPの加水分解による力の発生は主にミオシン頭部の働きで説明します。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "細胞外カルシウムイオンが必要である。",
+        "explanation": "骨格筋の収縮開始では筋小胞体からのカルシウム放出が重要です。細胞外カルシウムが一切不要との一般化は避けます。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "筋収縮の結果、グリコゲンが蓄積される。",
+        "explanation": "収縮ではエネルギーを消費します。グリコゲンが収縮の結果として蓄積する説明ではありません。"
+      },
+      {
+        "choice": 4,
+        "correct": true,
+        "title": "ミオシンフィラメントの長さは変化しない。",
+        "explanation": "筋収縮はアクチンとミオシンのフィラメントが滑り合うことで起こり、個々のフィラメント自体が短くなるわけではありません。カルシウムの選択肢は、筋小胞体からの放出と細胞外からの流入を区別して読む必要があります。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-AM-027",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "一次ニューロンは運動ニューロンよりも伝導速度が速い。",
+        "explanation": "痛覚線維が運動線維より一律に速いわけではありません。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "刺激を受けた側と同側の脊髄を上行する。",
+        "explanation": "代表的な痛覚路は脊髄で反対側に移って上行します。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "延髄で次の神経細胞とシナプスを作る。",
+        "explanation": "延髄を主な最初の中継部位とする説明は、代表的な痛覚路には合いません。"
+      },
+      {
+        "choice": 4,
+        "correct": true,
+        "title": "視床で次の神経細胞とシナプスを作る。",
+        "explanation": "視床で中継され、大脳皮質へ情報が伝えられます。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-AM-028",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "圧 迫",
+        "explanation": "外からの圧迫そのものを、蓄尿に伴う基本の感覚刺激として選びません。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "痛 み",
+        "explanation": "痛みは尿の正常な蓄積を伝える基本刺激ではありません。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "温 度",
+        "explanation": "温度変化ではなく、充満による壁の伸展を考えます。"
+      },
+      {
+        "choice": 4,
+        "correct": true,
+        "title": "伸 展",
+        "explanation": "尿がたまると膀胱壁が伸び、伸展の情報が伝わります。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-AM-029",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": true,
+        "title": "D ダイマー",
+        "explanation": "【不明】公式正答は1。Dダイマーは血栓形成・線溶に関連する検査で診断過程には用いるが、陽性だけで肺血栓塞栓症を確定しない。原文の確定診断という表現をそのまま肯定する根拠は確認できない。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "ヘモグロビン",
+        "explanation": "酸素運搬や貧血の評価に関係しますが、肺血栓塞栓症を確定する検査ではありません。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "プロトロンビン時間〈PT〉",
+        "explanation": "凝固の一部を評価する検査で、肺血栓の存在を直接確定しません。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "活性化部分トロンボプラスチン時間〈APTT〉",
+        "explanation": "凝固の一部を評価する検査で、肺血栓塞栓症の確定検査ではありません。"
+      }
+    ],
+    "status": "UNKNOWN",
+    "review_reason": "解説の一部は不明。公式正答を保持し、不明表示付きで掲載する。",
+    "fixes_made": [
+      "選択肢1に不明表示を追加。"
+    ]
+  },
+  {
+    "id": "115-AM-030",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "先進医療は保険診療が適用される。",
+        "explanation": "先進医療の技術料と通常の保険診療部分を区別する必要があり、全体を一律に保険適用とはいえません。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "自己負担の割合は一律で 3 割である。",
+        "explanation": "年齢や所得などで異なる区分があり、一律3割ではありません。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "国民健康保険加入者は 75 歳以上である。",
+        "explanation": "75歳以上を国民健康保険の加入条件とする説明ではありません。"
+      },
+      {
+        "choice": 4,
+        "correct": true,
+        "title": "被用者保険加入者は人口の約 6 割である。",
+        "explanation": "2021年度の被用者保険加入者は約7,800万人で、日本の人口の約6割に当たります。会社員本人だけでなく被扶養者も含む加入者数です。保険の種類と、年齢・所得で異なる自己負担割合を区別します。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-AM-033",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "自己洞察",
+        "explanation": "自分の内面を理解することですが、本問の『やれると思う』を直接表す概念ではありません。"
+      },
+      {
+        "choice": 2,
+        "correct": true,
+        "title": "自己効力感",
+        "explanation": "『自分はやれる』という、必要な行動を遂行できるという見通しが自己効力感です。健康になるという結果への期待だけでなく、自分が禁酒を続けられると考えている点に注目します。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "自己中心性",
+        "explanation": "自分中心に物事を考えることとは異なります。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "自己同一性",
+        "explanation": "自分がどのような存在かという一貫した認識であり、行動を実行できる見通しとは区別します。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-AM-035",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "頸部の前屈を防ぐ。",
+        "explanation": "頸部の支持は主に頭頸部の位置や枕で調整します。"
+      },
+      {
+        "choice": 2,
+        "correct": true,
+        "title": "上半身のずれを防ぐ。",
+        "explanation": "ファウラー位では、上体を起こしたために身体が足元へずれることがあります。膝を支えて屈曲位を保つことで、身体のずれを抑える目的があります。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "脊柱の生理的弯曲を保つ。",
+        "explanation": "脊柱の支持という一般論より、本問ではずれの防止が直接の目的です。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "尖足を防ぐ。",
+        "explanation": "尖足予防では足関節の位置を考えます。膝窩の枕の主目的ではありません。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-AM-036",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": true,
+        "title": "鼓 音",
+        "explanation": "打診は身体を軽くたたき、その音から内部の空気や液体などの状態を推測する方法です。腹部では鼓音などを聴き分けます。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "反跳痛",
+        "explanation": "圧迫を解除した際の痛みであり、触診で評価する所見です。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "筋性防御",
+        "explanation": "腹壁の筋の緊張を触れて評価する所見です。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "腫瘤の硬さ",
+        "explanation": "腫瘤の硬さは触診で調べます。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-AM-037",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "糖尿病\ndiabetes mellitus",
+        "explanation": "糖尿病では尿糖などが尿の性状に影響します。尿を濃縮できず薄い尿を多量に出す病態としては、尿崩症を選びます。"
+      },
+      {
+        "choice": 2,
+        "correct": true,
+        "title": "尿崩症\ndiabetes insipidus",
+        "explanation": "尿崩症では、抗利尿ホルモンの不足や腎臓での反応の低下により、尿を十分に濃縮できません。薄い尿が多量に出るため、尿比重が低くなります。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "水欠乏性脱水",
+        "explanation": "水欠乏性脱水では、腎臓の濃縮機能が保たれていれば水を保持しようとして尿が濃くなります。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "ネフローゼ症候群\nnephrotic syndrome",
+        "explanation": "ネフローゼ症候群を、尿濃縮の障害によって薄い尿を多量に出す尿崩症と混同しないようにします。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-AM-038",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "新生児の睡眠は単相性である。",
+        "explanation": "新生児は短い睡眠と覚醒を繰り返す多相性の睡眠です。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "乳児の 1 日の総睡眠量は 7 時間前後である。",
+        "explanation": "乳児は昼夜に分けて何度も眠り、成人より多くの睡眠を必要とします。睡眠時間には個人差がありますが、1日7時間を乳児に必要な睡眠時間の目安とするのは短すぎます。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "成人期では一晩で睡眠周期を 10 回程度繰り返す。",
+        "explanation": "通常の一晩の周期数として多すぎる説明です。細かな回数の暗記より睡眠が周期的であることを押さえます。"
+      },
+      {
+        "choice": 4,
+        "correct": true,
+        "title": "老年期では早朝覚醒が起こりやすい。",
+        "explanation": "加齢により睡眠が浅くなり、睡眠時刻も早まる傾向があるため、早朝覚醒が起こりやすくなります。睡眠には個人差があり、全高齢者に同じ変化が起こるという意味ではありません。"
+      }
+    ],
+    "status": "FIXED",
+    "review_reason": "選択肢の説明不足・確認待ちの部分を補足。",
+    "fixes_made": [
+      "選択肢2の解説を修正。"
+    ]
+  },
+  {
+    "id": "115-AM-039",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": true,
+        "title": "バス法",
+        "explanation": "バス法は歯と歯肉の境界に毛先を向け、小さく動かして歯肉溝付近を清掃する方法です。歯周ポケットを意識した清掃として、この方法を選びます。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "フォーンズ法",
+        "explanation": "円を描く動かし方であり、本問の歯周ポケット清掃の代表的方法ではありません。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "ローリング法",
+        "explanation": "歯肉側から歯冠側へ回転させる方法で、歯肉溝に毛先を向けるバス法とは異なります。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "スクラビング法",
+        "explanation": "歯面を細かくこする方法で、歯周ポケット清掃を特に問う本問ではバス法を選びます。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-AM-040",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "寝衣（パジャマ）は右袖から脱がせる。",
+        "explanation": "先に点滴のない左側を脱がせると、点滴側を扱う余裕を作れます。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "右袖を脱ぐ際に、点滴ボトルはベッド上に置く。",
+        "explanation": "ボトルを低い位置に置くと逆流などの危険があり、適切な高さとルートを保ちます。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "清潔な寝衣（パジャマ）は左袖から着せる。",
+        "explanation": "着るときは点滴側を先に扱い、ルートへの負担を避けます。"
+      },
+      {
+        "choice": 4,
+        "correct": true,
+        "title": "清潔な寝衣（パジャマ）の右袖には、先に点滴ボトルを通してから腕を通す。",
+        "explanation": "点滴中の腕を不用意に引っ張らず、ルートを外さずに衣類を交換することが重要です。脱ぐときは点滴のない側から、着るときは点滴側を先に扱います。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-AM-041",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "止血帯法",
+        "explanation": "止血帯は、上肢・下肢の激しい出血などで用いる方法です。頭部に巻いて止血するものではありません。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "タンポン法",
+        "explanation": "本問の外から確認できる切創では、傷を直接圧迫する基本的な方法を選びます。タンポン法を選ぶ条件は示されていません。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "間接圧迫止血法",
+        "explanation": "出血部位から離れた血管を圧迫する方法よりも、まず出血部位を直接圧迫する方法が基本になります。"
+      },
+      {
+        "choice": 4,
+        "correct": true,
+        "title": "直接圧迫止血法",
+        "explanation": "ガーゼなどを当てて傷を直接圧迫し、出血を抑えます。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-AM-042",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "サービス提供は専門職の判断を優先する。",
+        "explanation": "専門職の判断だけを本人の意思より優先するものではありません。"
+      },
+      {
+        "choice": 2,
+        "correct": true,
+        "title": "高齢者本人はサービス担当者会議の構成員である。",
+        "explanation": "ケアマネジメントは本人の生活と希望を中心に、関係者が支援を調整する過程です。本人をサービス担当者会議の構成員として位置付けることが大切です。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "インフォーマルサービスはサービス計画に入らない。",
+        "explanation": "家族や地域の支援なども生活を支える資源として考慮します。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "地域包括支援センターが施設サービス計画を作成する。",
+        "explanation": "施設サービス計画は施設の介護支援専門員等の役割であり、地域包括支援センターが一律に作るものではありません。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-AM-043",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "訪問看護開始後に発行される。",
+        "explanation": "訪問看護を始めるための指示として、開始前に必要です。"
+      },
+      {
+        "choice": 2,
+        "correct": true,
+        "title": "使用中の医療機器が記載される。",
+        "explanation": "使用中の医療機器などを伝える欄があります。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "訪問看護指示期間は最大 5 か月である。",
+        "explanation": "通常の訪問看護指示書の有効期間は、医師の指示に基づき最長6か月です。「最大5か月」という上限は異なります。急性増悪などで交付する特別訪問看護指示書とは区別します。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "訪問看護ステーションの管理者が交付できる。",
+        "explanation": "訪問看護ステーション管理者の資格だけで交付する文書ではなく、医師の指示書です。"
+      }
+    ],
+    "status": "FIXED",
+    "review_reason": "選択肢の説明不足・確認待ちの部分を補足。",
+    "fixes_made": [
+      "選択肢3の解説を修正。"
+    ]
+  },
+  {
+    "id": "115-AM-044",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": true,
+        "title": "「自分で洗濯ができますか」",
+        "explanation": "IADLは、自立した暮らしを営むために必要な、家事などの複雑な生活動作を指します。洗濯はIADLに含まれ、更衣・食事・入浴などの基本的なADLと区別します。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "「着替えは 1 人でできますか」",
+        "explanation": "着替えは、身の回りの基本的なADLを確認する質問です。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "「ご飯は自分で食べられますか」",
+        "explanation": "食事を自分で食べることは基本的なADLです。調理などの食事の準備とは区別します。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "「 1 人でお風呂に入ることができますか」",
+        "explanation": "入浴は基本的なADLに含まれます。IADLの質問としては洗濯を選びます。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-AM-045",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "食物繊維を避けた食事が摂れる。",
+        "explanation": "食物繊維を一律に避けることは、外出の実現に直結する目標ではありません。"
+      },
+      {
+        "choice": 2,
+        "correct": true,
+        "title": "装具が剝がれた場合に対処できる。",
+        "explanation": "外出先で装具が剝がれた場合にも対応できることが、安心して出かけるために重要です。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "起こりやすい皮膚障害が理解できる。",
+        "explanation": "皮膚障害の理解も大切ですが、本問では外出時の具体的な対処能力が優先されます。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "装具交換に必要な物品の購入先がわかる。",
+        "explanation": "物品の入手先を知ることも必要ですが、外出中の急な剝がれへの対応がより直接的です。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-AM-046",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "車椅子の後ろから患者を抱えて座位を整える。",
+        "explanation": "後ろから抱え上げる介助は、人力への依存が大きい方法です。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "患者を抱きかかえてポータブルトイレに移動する。",
+        "explanation": "抱きかかえての移動は、ノーリフトの基本的考え方に合いません。"
+      },
+      {
+        "choice": 3,
+        "correct": true,
+        "title": "スライディングシートを使って患者をベッド上で移動する。",
+        "explanation": "ノーリフトケアは、人の力だけで抱え上げる介助を減らし、用具や環境を活用して移動を支える考え方です。摩擦を減らすスライディングシートの使用が該当します。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "ボディメカニクスを活用してベッド上で患者の上体を起こす。",
+        "explanation": "身体の使い方の工夫だけでは、人力で持ち上げる負担をなくせません。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-AM-047",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "紫外線の曝露 緑内障\nglaucoma",
+        "explanation": "紫外線曝露を緑内障の代表的な職業性原因として結び付けません。"
+      },
+      {
+        "choice": 2,
+        "correct": true,
+        "title": "情報機器作業 眼疲労",
+        "explanation": "情報機器作業では画面の注視などが続き、眼疲労が生じやすくなります。作業内容から生じる負担を考え、病名が似ているだけの組合せを避けます。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "工具や機械の振動 手指の熱感",
+        "explanation": "振動障害では末梢循環や神経の障害が問題になり、手指の熱感という組合せは適切ではありません。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "重量物の取り扱い 骨粗鬆症\nosteoporosis",
+        "explanation": "重量物の取扱いでは腰部などへの負担が問題となり、骨粗鬆症との直接の組合せではありません。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-AM-048",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "意思決定者を医療者が指名する。",
+        "explanation": "医療者が一方的に指名するのではなく、本人との関係や適切な手続を検討します。"
+      },
+      {
+        "choice": 2,
+        "correct": true,
+        "title": "患者の意思を推定して判断する。",
+        "explanation": "代理意思決定では、医療者や代理人自身の好みではなく、患者が大切にしてきたことや過去の意思を手掛かりに考えます。本人ならどう選ぶかを推定する姿勢が重要です。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "意思決定した内容は変更できない。",
+        "explanation": "状態や情報の変化に応じ、決定を見直すことがあります。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "意思決定者に親しい友人は含まれない。",
+        "explanation": "患者をよく知る友人が関わる可能性を一律に否定しません。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-AM-049",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "自覚症状がない。",
+        "explanation": "症状がないと療養の必要性を実感しにくい場合があります。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "治療費が高額である。",
+        "explanation": "経済的負担は継続を難しくする要因になり得ます。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "療養方法が複雑である。",
+        "explanation": "複雑な方法は実行の負担となり、継続を妨げ得ます。"
+      },
+      {
+        "choice": 4,
+        "correct": true,
+        "title": "療養方法の利益と害が分かる。",
+        "explanation": "アドヒアランスは、本人が治療や療養を理解し、納得して主体的に取り組むことに関係します。利益だけでなく負担や害も理解できることが、継続の判断を助けます。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-AM-050",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "がん患者ではみられない。",
+        "explanation": "がん患者にも、安静や活動低下に伴う廃用が生じます。"
+      },
+      {
+        "choice": 2,
+        "correct": true,
+        "title": "尿管結石を発症しやすい。",
+        "explanation": "長期の不動に伴う骨代謝や尿路環境の変化から、結石の危険が高まることがあります。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "加齢とともに進行は遅くなる。",
+        "explanation": "高齢になると必ず進行が遅くなるとはいえません。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "二次的に高血圧を発症しやすい。",
+        "explanation": "廃用の循環障害では起立時の血圧低下などが問題となり、高血圧を代表的変化として選びません。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-AM-051",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "酸素中毒を避けるために高流量にする。",
+        "explanation": "高い酸素曝露を増やすことは酸素中毒の予防になりません。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "鼻カニューレでの最大投与量は 8 L/分である。",
+        "explanation": "鼻カニューレの流量を一律の最大値だけで判断せず、器具・処方・患者状態を確認します。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "CO2 ナルコーシス予防のために酸素濃度を高くする。",
+        "explanation": "むやみに酸素濃度を高くすることはCO₂貯留への対策ではありません。"
+      },
+      {
+        "choice": 4,
+        "correct": true,
+        "title": "経皮的動脈血酸素飽和度〈SpO2〉が投与量の指標となる。",
+        "explanation": "酸素投与は酸素化を評価して調整します。SpO₂は重要な指標ですが、COPDでは二酸化炭素の貯留にも注意し、必要に応じ血液ガスや意識・呼吸状態を併せて評価します。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-AM-052",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "エックス線撮影",
+        "explanation": "本問が問う強い磁場による機器への影響とは異なります。"
+      },
+      {
+        "choice": 2,
+        "correct": true,
+        "title": "磁気共鳴画像〈MRI〉",
+        "explanation": "MRI対応の条件を満たすか、機器と検査体制を確認する必要があります。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "超音波検査",
+        "explanation": "一般的な超音波検査を、本問のMRIと同じ磁場リスクで扱いません。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "脳波検査",
+        "explanation": "脳の電気活動を記録する検査で、強い磁場を用いる検査ではありません。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-AM-053",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": true,
+        "title": "高カリウム血症 心室細動\nventricular fibrillation",
+        "explanation": "カリウムは心筋の電気的な働きに重要です。高カリウム血症が重くなると危険な不整脈につながるため、心室細動との組合せが正答です。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "低カリウム血症 QT 時間の短縮",
+        "explanation": "QT短縮を低カリウム血症の典型的変化として選びません。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "高ナトリウム血症 水中毒\nwater intoxication",
+        "explanation": "水中毒では水が相対的に過剰となり、低ナトリウム血症が問題になります。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "低ナトリウム血症 口 渇",
+        "explanation": "口渇を低ナトリウム血症の代表的組合せとして選びません。水分不足など他の条件も評価します。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-AM-054",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "膝関節の屈曲",
+        "explanation": "膝屈曲を主な観察動作として選びません。"
+      },
+      {
+        "choice": 2,
+        "correct": true,
+        "title": "足関節の背屈",
+        "explanation": "足先を上げる背屈の障害が重要です。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "膝窩の知覚鈍麻",
+        "explanation": "膝窩の感覚は腓骨神経の代表的な評価部位ではありません。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "足底の知覚鈍麻",
+        "explanation": "足底の感覚は主に脛骨神経の領域であり、区別します。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-AM-055",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "開放損傷には適さない。",
+        "explanation": "開放損傷という情報だけで一律に不適とはせず、部位や損傷状態で適応を判断します。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "介達牽引に比べ牽引力が弱い。",
+        "explanation": "骨に直接力を加えるため、介達牽引より弱いとする説明は適切ではありません。"
+      },
+      {
+        "choice": 3,
+        "correct": true,
+        "title": "骨に鋼線を刺入して牽引する。",
+        "explanation": "直達牽引は骨に刺入した鋼線などを通して直接牽引力を加えます。皮膚などを介して力を伝える介達牽引との違いを押さえます。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "弾性包帯を巻き直す必要がある。",
+        "explanation": "弾性包帯の巻き直しを直達牽引の本質的特徴とはしません。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-AM-056",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "社会性の縮小",
+        "explanation": "社会とのつながりを縮めること自体を目標にはしません。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "家族役割の維持",
+        "explanation": "従来の役割をそのまま保つだけでは新たな介護需要に対応できません。"
+      },
+      {
+        "choice": 3,
+        "correct": true,
+        "title": "家族関係の再構築",
+        "explanation": "親の介護が必要になると、家族内の役割や支え方の調整が求められます。従来の関係を固定せず、新しい状況に応じて家族関係を組み直すことが課題です。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "子離れ・親離れの確立",
+        "explanation": "本問は親離れの時期ではなく、介護を要する変化への対応を問っています。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-AM-057",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "措置制度である。",
+        "explanation": "行政が一方的に措置する仕組みとして説明するものではありません。"
+      },
+      {
+        "choice": 2,
+        "correct": true,
+        "title": "共助を実現する仕組みである。",
+        "explanation": "介護保険は保険料などを通じて介護の必要を社会で支える仕組みで、共助に位置付けられます。年齢や指定権限などは制度上の役割を分けて理解します。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "介護保険料は 65 歳から徴収される。",
+        "explanation": "介護保険の被保険者となる年齢は40歳からです。40〜64歳の医療保険加入者は第2号被保険者、65歳以上は第1号被保険者に分かれます。保険料を負担する年齢と、サービスを利用できる条件は分けて理解します。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "地域密着型サービスの指定・監督は都道府県が行う。",
+        "explanation": "地域密着型サービスの指定・監督は市町村の役割です。"
+      }
+    ],
+    "status": "FIXED",
+    "review_reason": "選択肢の説明不足・確認待ちの部分を補足。",
+    "fixes_made": [
+      "選択肢3の解説を修正。"
+    ]
+  },
+  {
+    "id": "115-AM-058",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "一定の時間間隔で排尿誘導を行う。",
+        "explanation": "尿意が保たれているため、一律の時間誘導を優先する根拠は示されていません。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "ベッドサイドにポータブルトイレを設置する。",
+        "explanation": "歩行可能な本人に、最初からベッドサイド排泄へ変更する根拠はありません。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "トイレの場所がわかりやすいように目印をつける。",
+        "explanation": "トイレの場所が分からないという情報はなく、認知機能の問題を追加しません。"
+      },
+      {
+        "choice": 4,
+        "correct": true,
+        "title": "トイレ移動時は滑り止めのついた靴を履くように指導する。",
+        "explanation": "尿意があり、杖で歩けるという残存能力を生かします。片麻痺があるため移動時の転倒を防ぐことが大切で、滑りにくい靴を使用する援助が適切です。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-AM-059",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "頑張るように言葉をかける。",
+        "explanation": "励ますだけでは具体的な困り事や活動低下への支援になりません。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "直ちに入院できる病院を探す。",
+        "explanation": "直ちに入院が必要な所見は提示されていません。"
+      },
+      {
+        "choice": 3,
+        "correct": true,
+        "title": "軽い運動ができるように環境を整える。",
+        "explanation": "被災後に活動が大きく減り、食欲や睡眠にも変化が出ています。安全に軽い運動ができる環境を整え、活動と生活リズムの回復を支えることを優先します。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "睡眠薬の処方について医師と相談する。",
+        "explanation": "薬の相談が必要な場合もありますが、まず環境や活動に働きかける援助を考えます。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-AM-060",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "出生 36 時間後に初めて胎便が排泄される。",
+        "explanation": "健康な正期産児の初回胎便として一般的な時期より遅い説明であり、排泄状況を評価します。"
+      },
+      {
+        "choice": 2,
+        "correct": true,
+        "title": "学童と比べて胃食道逆流現象が起きやすい。",
+        "explanation": "乳児は消化管の機能や構造が発達途中で、学童より胃内容が逆流しやすい特徴があります。他の選択肢は時期や生理的範囲を慎重に区別する必要があります。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "母乳栄養児では生後 3 か月以降も生理的な黄疸が遷延する。",
+        "explanation": "生後3か月以降の黄疸を、確認せず生理的と扱いません。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "経腟分娩で出生した児の腸内細菌叢は Döderlein〈デーデルライン〉桿菌が優\n勢である。",
+        "explanation": "デーデルライン桿菌をそのまま乳児腸内細菌叢の優勢菌とする説明は要注意です。腟と腸内の細菌叢を区別します。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-AM-061",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "2 歳 1 人で洗顔ができる。",
+        "explanation": "2歳で洗顔を一人で完結することを標準の組合せとして選びません。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "3 歳 排便後の後始末ができる。",
+        "explanation": "排便後の後始末まで一人で確実に行うには、さらに手順の習得が必要です。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "4 歳 昼寝を 1 日 2 回する。",
+        "explanation": "4歳の昼寝を一律に1日2回とする説明は適切ではありません。"
+      },
+      {
+        "choice": 4,
+        "correct": true,
+        "title": "5 歳 1 人で衣類を着ることができる。",
+        "explanation": "5歳ごろは、衣類の向きや着る順序を理解し、手指の操作も発達するため、一人で衣類を着ることができる時期です。生活習慣の自立は経験にも左右されるので、この年齢を一律の正常・異常の境界にはしません。"
+      }
+    ],
+    "status": "FIXED",
+    "review_reason": "選択肢の説明不足・確認待ちの部分を補足。",
+    "fixes_made": [
+      "選択肢4の解説を修正。"
+    ]
+  },
+  {
+    "id": "115-AM-062",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": true,
+        "title": "エストロゲン 骨端軟骨板閉鎖",
+        "explanation": "エストロゲンは骨端軟骨板の閉鎖に関わります。ホルモン名と性別の印象だけでなく、具体的な作用を対応させます。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "成長ホルモン 子宮の増大",
+        "explanation": "子宮の増大を成長ホルモンの代表的作用として組み合わせません。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "テストステロン 乳房の発育",
+        "explanation": "乳房の発育をテストステロンの代表的作用とはしません。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "プロゲステロン 排 卵",
+        "explanation": "排卵の引き金となるホルモン変化と、排卵後に重要なプロゲステロンを区別します。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-AM-064",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "周産期死亡率 （ 妊娠満 12 週以後の死産数＋早期新生児死亡数）÷\n出生数× 1,000",
+        "explanation": "周産期の定義となる妊娠週数と分母の取り方が適切ではありません。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "新生児死亡率 新生児死亡数÷（出生数＋死産数）× 1,000",
+        "explanation": "新生児死亡率の分母に死産数を加える式ではありません。"
+      },
+      {
+        "choice": 3,
+        "correct": true,
+        "title": "乳児死亡率 乳児死亡数÷出生数× 1,000",
+        "explanation": "乳児死亡率は乳児死亡数を出生数で割り、出生千対で表します。死亡率は分子だけでなく、分母が出生数か出産数かにも注意が必要です。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "妊産婦死亡率 妊産婦死亡数÷出生数× 100,000",
+        "explanation": "妊産婦死亡率の分母は、出生数だけでなく死産数も加えた出産数です。妊娠・出産に関連する死亡を捉える指標なので、生きて生まれた児の数だけを分母にする乳児死亡率などと区別します。"
+      }
+    ],
+    "status": "FIXED",
+    "review_reason": "選択肢の説明不足・確認待ちの部分を補足。",
+    "fixes_made": [
+      "選択肢4の解説を修正。"
+    ]
+  },
+  {
+    "id": "115-AM-065",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": true,
+        "title": "足浴を勧める。",
+        "explanation": "子宮口はまだ全開大ではありません。経過が順調な分娩第1期として、足浴などでリラックスし産痛に対処できるよう支えます。提示されていない異常を前提に制限を加えません。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "安静に過ごすよう促す。",
+        "explanation": "順調な経過で一律に活動を制限する根拠は示されていません。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "飲食は控えるように説明する。",
+        "explanation": "飲食制限の必要性は処置予定や施設方針などで評価し、提示情報だけで一律に控えさせません。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "陣痛にあわせて努責を開始させる。",
+        "explanation": "子宮口全開大前から努責を開始させるのは適切ではありません。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-AM-066",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "「お母さんは飲酒しても大丈夫です」",
+        "explanation": "授乳中の飲酒を条件なしで安全と説明できません。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "「赤ちゃんは日焼けした方が良いです」",
+        "explanation": "日焼けを積極的に勧めることが母乳栄養の基本援助とはいえません。"
+      },
+      {
+        "choice": 3,
+        "correct": true,
+        "title": "「お母さんは納豆を多く摂取しましょう」",
+        "explanation": "納豆はビタミンKを豊富に含み、母親の摂取は母乳中のビタミンKを増やすことにつながります。学会資料でも授乳中の摂取が勧められています。摂取量を無制限に増やす意味ではなく、児へのビタミンK予防投与も別に必要です。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "「お母さんはコーヒーを 1 日 6 杯以上飲んでも大丈夫です」",
+        "explanation": "カフェインを含む飲料を多量に飲んでもよいと一律に説明しません。"
+      }
+    ],
+    "status": "FIXED",
+    "review_reason": "選択肢の説明不足・確認待ちの部分を補足。",
+    "fixes_made": [
+      "選択肢3の解説を修正。"
+    ]
+  },
+  {
+    "id": "115-AM-067",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": true,
+        "title": "好きな漫画を読む。",
+        "explanation": "情動焦点型コーピングは、ストレスに伴う気持ちや緊張に働きかけます。好きな漫画を読んで気分転換する行動が該当し、仕事上の問題そのものを変える行動と区別します。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "仕事に役立つ本で学習する。",
+        "explanation": "知識を増やして仕事上の課題に対応する問題焦点型です。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "休日も出勤して仕事を終わらせる。",
+        "explanation": "仕事を終わらせて課題そのものに対処する行動です。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "同僚とプレゼンテーションの練習をする。",
+        "explanation": "技能を高めて仕事の課題に対応する問題焦点型です。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-AM-068",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "「生き残った A さんは幸せですよ」",
+        "explanation": "幸せだと決め付けると、本人の苦痛が理解されていないと感じさせます。"
+      },
+      {
+        "choice": 2,
+        "correct": true,
+        "title": "「そう感じるのは正常な反応ですよ」",
+        "explanation": "災害後の罪悪感を否定せず、強い出来事の後に生じ得る反応として受け止めます。本人を責めずに話を聞き、持続や生活への影響も継続して評価します。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "「嫌なことは早く忘れたほうがいいですよ」",
+        "explanation": "忘れるよう求めることは、感情の表出を妨げます。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "「頑張ってこれを乗り越えないといけません」",
+        "explanation": "努力を求める言葉は、さらに負担や自責感を強め得ます。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-AM-069",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "これまで知らなかった情報や助言を得ることができる。",
+        "explanation": "情報の伝達・獲得に関する説明です。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "人間の生や死、生きる意味について考えることができる。",
+        "explanation": "人生や死の意味を考える実存的な側面の説明です。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "他の人の回復と成長が、自分の回復と成長への希望となる。",
+        "explanation": "回復への希望を得ることの説明です。"
+      },
+      {
+        "choice": 4,
+        "correct": true,
+        "title": "自分の抱えている問題は、自分だけが抱えている問題ではないと気付く。",
+        "explanation": "普遍性は、同じような悩みを持つ人がいると知り、自分だけではないと気付くことです。情報の獲得や希望を得ることとは別の治療的因子です。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-AM-070",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "胃腸炎の 3 歳児、母親が抱っこ中に嘔吐した。\ngastroenteritis",
+        "explanation": "嘔吐への対応は必要ですが、提示情報では気道障害などは示されていません。"
+      },
+      {
+        "choice": 2,
+        "correct": true,
+        "title": "化学療法中の 7 歳児、点滴静脈内注射の刺入部が腫れた。",
+        "explanation": "血管外漏出が疑われ、投与状況と局所をすぐ確認する必要があります。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "急性肺炎の 2 歳児、抗菌薬の点滴静脈内注射が終了した。\nacute pneumonia",
+        "explanation": "終了した点滴の処置は必要ですが、危険徴候のある患者の評価を優先します。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "鼠径ヘルニア手術後の 1 歳児、ヘパリンロック中の静脈内留置針が抜けた\ninguinal hernia\nが、出血はない。",
+        "explanation": "抜去後の観察は必要ですが、出血がないという情報から本問の最優先ではありません。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-AM-071",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "サーカディアンリズムは保たれる。",
+        "explanation": "交代勤務ではサーカディアンリズムが乱れやすくなります。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "メンタルヘルスへの影響は少ない。",
+        "explanation": "睡眠や心理的負担への影響を軽視できません。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "2 交代制より 3 交代制を採用する施設が多い。",
+        "explanation": "日本看護協会の2024年調査では、最も多くの看護職員に適用する夜勤形態は二交代制が三交代制を上回っています。三交代制の方が多いとする説明は、この調査結果と合いません。"
+      },
+      {
+        "choice": 4,
+        "correct": true,
+        "title": "2 交代制における夜勤中の仮眠が推奨されている。",
+        "explanation": "2交代制の夜勤中にも仮眠を確保することが推奨されます。"
+      }
+    ],
+    "status": "FIXED",
+    "review_reason": "選択肢の説明不足・確認待ちの部分を補足。",
+    "fixes_made": [
+      "選択肢3の解説を修正。"
+    ]
+  },
+  {
+    "id": "115-AM-072",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "災害障害見舞金の支給がある。",
+        "explanation": "災害障害見舞金は別の法制度と区別する必要があります。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "救助の種類に助産は含まれない。",
+        "explanation": "救助の種類から助産を一律に除く説明は適切ではありません。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "救助に要する費用は国が全額負担する。",
+        "explanation": "救助費用を常に国が全額負担するとはいえません。"
+      },
+      {
+        "choice": 4,
+        "correct": true,
+        "title": "目的は災害を受け又は受ける恐れのある者の保護と社会の秩序の保全であ\nる。",
+        "explanation": "災害救助法は、被災した人などの保護と社会の秩序の保全を目的とする法律です。避難所の供与などの救助を定める制度であり、別の法律に基づく給付や費用負担の仕組みと区別します。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-AM-073",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "B さんに有料個室への転室を勧める。",
+        "explanation": "相談した人に費用負担を求める前に、病棟で環境調整を検討します。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "A さんにお祈りは手術当日に行うよう説明する。",
+        "explanation": "宗教的行為の時期を一方的に変更させる対応です。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "同室者全員に病室の環境のアンケート調査を行う。",
+        "explanation": "調査を行う前に、具体的な困り事に対する調整が可能です。"
+      },
+      {
+        "choice": 4,
+        "correct": true,
+        "title": "A さんに病室とは別にお祈りのための場所を準備する。",
+        "explanation": "本人の宗教上の行為と同室者の休息の双方を尊重します。祈りを禁止せず、別の場所を準備して環境を調整する対応が適切です。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-AM-074",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "インスリン",
+        "explanation": "主に細胞膜上の受容体を介して作用します。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "アドレナリン",
+        "explanation": "カテコールアミンで、細胞膜上の受容体を介します。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "オキシトシン",
+        "explanation": "ペプチドホルモンで、膜受容体を介します。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "プロラクチン",
+        "explanation": "蛋白質ホルモンで、細胞膜上の受容体を介します。"
+      },
+      {
+        "choice": 5,
+        "correct": true,
+        "title": "テストステロン",
+        "explanation": "テストステロンはステロイドホルモンで、細胞内の受容体を介して作用します。ペプチドホルモンやカテコールアミンとの作用経路の違いを押さえます。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-AM-075",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "血漿は細胞内液である。",
+        "explanation": "血漿は血管内にありますが、細胞の外側の液です。"
+      },
+      {
+        "choice": 2,
+        "correct": true,
+        "title": "間質液は細胞外液である。",
+        "explanation": "体液は細胞膜の内側と外側で分けます。間質液は細胞と細胞の間にあるため細胞外液です。血管の内外と、細胞の内外を混同しないことが大切です。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "リンパは細胞内液である。",
+        "explanation": "リンパを細胞の中にある液とは分類しません。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "体液は体重の 30 % である。",
+        "explanation": "体液割合は年齢や体組成で変わり、一律30％とする説明は適切ではありません。"
+      },
+      {
+        "choice": 5,
+        "correct": false,
+        "title": "細胞外液の方が細胞内液より多い。",
+        "explanation": "標準的な体液区分では細胞内液の方が多いと考えます。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-AM-076",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "糸球体",
+        "explanation": "【不明】糸球体は血漿を濾過する部位であり、集合管の水チャネルを介した代表的な抗利尿作用の部位ではない。ただしバソプレシンのあらゆる腎作用の不存在までは意味しない。"
+      },
+      {
+        "choice": 2,
+        "correct": true,
+        "title": "集合管",
+        "explanation": "水の通り道の調節を通じ、水の再吸収を促します。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "遠位尿細管",
+        "explanation": "【不明】遠位尿細管での電解質輸送体の調節作用がラット研究で報告されている。集合管の水再吸収とは作用内容が違うが、「作用しない」と断定できず、原文の単一正答を裏付ける誤答理由は確定できない。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "近位尿細管",
+        "explanation": "【不明】近位尿細管は濾過された水や溶質を大量に再吸収する部位。学会資料が説明するADHによる最終的な尿量調節の中心は集合管である。"
+      },
+      {
+        "choice": 5,
+        "correct": false,
+        "title": "Henle〈ヘンレ〉のループ〈係蹄〉",
+        "explanation": "【不明】ヘンレ係蹄は髄質の浸透圧勾配の形成に関わる。集合管の水透過性調節とは役割が異なるが、バソプレシンに関連する作用が一切ないとする説明はしない。"
+      }
+    ],
+    "status": "UNKNOWN",
+    "review_reason": "解説の一部は不明。公式正答を保持し、不明表示付きで掲載する。",
+    "fixes_made": [
+      "選択肢1に不明表示を追加。",
+      "選択肢3に不明表示を追加。",
+      "選択肢4に不明表示を追加。",
+      "選択肢5に不明表示を追加。"
+    ]
+  },
+  {
+    "id": "115-AM-077",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "後 屈",
+        "explanation": "後屈は症状を増悪させることがあります。"
+      },
+      {
+        "choice": 2,
+        "correct": true,
+        "title": "前 屈",
+        "explanation": "腰部脊柱管狭窄症では、腰を反らすと神経への圧迫が強まり、前かがみで楽になることがあります。血管性の間欠性跛行との鑑別にも、姿勢との関係が参考になります。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "左回旋",
+        "explanation": "回旋を標準的な軽減姿勢として選びません。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "左側屈",
+        "explanation": "左側屈で改善するという条件は示されていません。"
+      },
+      {
+        "choice": 5,
+        "correct": false,
+        "title": "右側屈",
+        "explanation": "右側屈で改善するという条件は示されていません。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-AM-078",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "子宮筋細胞",
+        "explanation": "子宮の筋の細胞由来の腫瘍と、上皮由来の癌を区別します。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "神経芽細胞",
+        "explanation": "神経系の細胞を本問の由来とはしません。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "線維芽細胞",
+        "explanation": "結合組織の細胞であり、子宮頸癌の代表的由来ではありません。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "平滑筋細胞",
+        "explanation": "平滑筋由来の腫瘍と、頸部の上皮癌は異なります。"
+      },
+      {
+        "choice": 5,
+        "correct": true,
+        "title": "扁平上皮細胞",
+        "explanation": "子宮頸癌の代表的な組織型に対応します。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-AM-079",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "市町村に設置義務がある。",
+        "explanation": "全市町村への設置義務とする説明は適切ではありません。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "センター長は原則として医師である。",
+        "explanation": "保健所長の要件などと混同しないようにします。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "栄養士、歯科衛生士の配置が必須である。",
+        "explanation": "挙げられた職種の配置が一律必須という説明ではありません。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "令和 6 年（2024 年）の全国の設置数は 468 か所である。",
+        "explanation": "468か所は保健所の数として公表されている規模であり、市町村保健センターの数ではありません。保健所は広域的・専門的な役割を担い、市町村保健センターは住民に身近な保健サービスを行う施設です。"
+      },
+      {
+        "choice": 5,
+        "correct": true,
+        "title": "健康相談、保健指導、健康診査など住民に対するサービスを行う。",
+        "explanation": "市町村保健センターは、健康相談・保健指導・健康診査など住民に身近な保健サービスを行う施設です。保健所と名称・設置条件・機能を混同しないことが重要です。"
+      }
+    ],
+    "status": "FIXED",
+    "review_reason": "選択肢の説明不足・確認待ちの部分を補足。",
+    "fixes_made": [
+      "選択肢4の解説を修正。"
+    ]
+  },
+  {
+    "id": "115-AM-080",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "1 人暮らし",
+        "explanation": "暮らしの構成や背景の情報で、公式には本問の活動として選びません。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "手すりの設置",
+        "explanation": "手すりは生活を支える環境因子です。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "段差でのつまずき",
+        "explanation": "【不明】つまずきは歩行時の困難とも解釈できる。筋力低下やバランス障害が原因と断定する情報がないため、「活動に該当しない」という理由は確定できない。"
+      },
+      {
+        "choice": 4,
+        "correct": true,
+        "title": "テレビを観て過ごす",
+        "explanation": "テレビを見るという行為の遂行として活動に当たり、公式の許容正答です。"
+      },
+      {
+        "choice": 5,
+        "correct": true,
+        "title": "日常生活動作〈ADL〉は自立",
+        "explanation": "日常生活動作を自分で遂行できる状態で、公式の許容正答です。"
+      }
+    ],
+    "status": "UNKNOWN",
+    "review_reason": "解説の一部は不明。公式正答を保持し、不明表示付きで掲載する。",
+    "fixes_made": [
+      "選択肢3に不明表示を追加。"
+    ]
+  },
+  {
+    "id": "115-AM-081",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "胃洗浄",
+        "explanation": "すでに出現している全身反応への第一選択ではありません。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "静脈路の確保",
+        "explanation": "必要となる処置ですが、アドレナリン筋注を遅らせる理由にしません。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "抗ヒスタミン薬の内服",
+        "explanation": "皮膚症状への効果があっても、重い呼吸・循環症状への第一選択ではありません。"
+      },
+      {
+        "choice": 4,
+        "correct": true,
+        "title": "アドレナリンの筋肉内注射",
+        "explanation": "食物摂取後に皮膚症状に加え、嘔吐と喘鳴など複数の臓器症状が出ています。アナフィラキシーを疑い、第一選択であるアドレナリン筋肉内注射を優先する場面です。"
+      },
+      {
+        "choice": 5,
+        "correct": false,
+        "title": "副腎皮質ステロイドの吸入",
+        "explanation": "吸入ステロイドはこの急速な全身反応の第一選択ではありません。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-AM-082",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "怒 り",
+        "explanation": "不公平さなどへの怒りを表した発言ではありません。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "受 容",
+        "explanation": "現実を受け止めた心理としては説明しません。"
+      },
+      {
+        "choice": 3,
+        "correct": true,
+        "title": "取 引",
+        "explanation": "『何かをすれば病気をなかったことにできるのでは』と条件を付けて考えるのは取引の段階です。ただし実際の心理過程が決まった順に進むとは限りません。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "否 認",
+        "explanation": "単に病気の存在を否定するだけでなく、条件を付けている点が取引です。"
+      },
+      {
+        "choice": 5,
+        "correct": false,
+        "title": "抑うつ",
+        "explanation": "悲嘆や気力低下を中心とした記述ではありません。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-AM-083",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": true,
+        "title": "異 化",
+        "explanation": "物質の分解によりエネルギーを取り出す側面です。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "角 化",
+        "explanation": "細胞が角質化する変化で、代謝を大別する反応の名称ではありません。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "石灰化",
+        "explanation": "カルシウム塩などの沈着を指し、エネルギー代謝の基本区分ではありません。"
+      },
+      {
+        "choice": 4,
+        "correct": true,
+        "title": "同 化",
+        "explanation": "エネルギーを利用して物質を合成する側面です。"
+      },
+      {
+        "choice": 5,
+        "correct": false,
+        "title": "瘢痕化",
+        "explanation": "組織修復に伴う瘢痕形成であり、代謝の大分類ではありません。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-AM-084",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": true,
+        "title": "疥 癬\nscabies",
+        "explanation": "ヒゼンダニが皮膚に寄生して起こります。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "オウム病\npsittacosis",
+        "explanation": "鳥との接触などが関連する感染症で、ダニ媒介を代表的経路とはしません。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "腸チフス\ntyphoid fever",
+        "explanation": "汚染された飲食物などを介し、ダニによる感染ではありません。"
+      },
+      {
+        "choice": 4,
+        "correct": true,
+        "title": "ツツガムシ病\ntsutsugamushi disease",
+        "explanation": "感染したツツガムシが病原体を媒介します。"
+      },
+      {
+        "choice": 5,
+        "correct": false,
+        "title": "肺アスペルギルス症\npulmonary aspergillosis",
+        "explanation": "真菌による感染で、ダニの寄生・媒介とは異なります。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-AM-085",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "インスリン",
+        "explanation": "インスリンは注射により投与する薬剤です。皮膚に貼るだけで必要量を吸収させる一般的な貼付剤とは異なります。皮膚に装着するインスリンポンプも、針などを通じて皮下へ注入する機器です。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "アドレナリン",
+        "explanation": "アドレナリンは救急時などに注射で投与する薬剤で、本問の経皮吸収型貼付剤には該当しません。薬の全身作用だけでなく、実際の剤形と投与経路を対応させて理解します。"
+      },
+      {
+        "choice": 3,
+        "correct": true,
+        "title": "フェンタニル",
+        "explanation": "皮膚から吸収させる貼付剤があります。"
+      },
+      {
+        "choice": 4,
+        "correct": true,
+        "title": "ニトログリセリン",
+        "explanation": "経皮吸収を利用する貼付剤があります。"
+      },
+      {
+        "choice": 5,
+        "correct": false,
+        "title": "アセトアミノフェン",
+        "explanation": "アセトアミノフェンには内服薬や坐薬、注射薬などがあり、本問で問う経皮吸収型貼付剤には該当しません。鎮痛薬すべてに湿布や貼付剤があるわけではなく、成分ごとに剤形を区別します。"
+      }
+    ],
+    "status": "FIXED",
+    "review_reason": "選択肢の説明不足・確認待ちの部分を補足。",
+    "fixes_made": [
+      "選択肢1の解説を修正。",
+      "選択肢2の解説を修正。",
+      "選択肢5の解説を修正。"
+    ]
+  },
+  {
+    "id": "115-AM-086",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": true,
+        "title": "医療保険者が実施主体である。",
+        "explanation": "医療保険者が実施主体です。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "がんのスクリーニングを目的とする。",
+        "explanation": "がん検診とは目的や枠組みを区別します。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "特定健康診査の受診者全員に特定保健指導を実施する。",
+        "explanation": "健診を受けた全員が同じ保健指導の対象になるわけではありません。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "対象は、75 歳以上の医療保険被保険者・被扶養者である。",
+        "explanation": "75歳以上を対象とする説明は本問の制度に合いません。"
+      },
+      {
+        "choice": 5,
+        "correct": true,
+        "title": "根拠法令は、高齢者の医療の確保に関する法律〈高齢者医療確保法〉である。",
+        "explanation": "高齢者の医療の確保に関する法律が根拠です。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-AM-087",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "処置の終了時に実施する。",
+        "explanation": "終了時だけに実施する確認ではありません。"
+      },
+      {
+        "choice": 2,
+        "correct": true,
+        "title": "侵襲性の高い処置の際に実施する。",
+        "explanation": "侵襲性の高い処置で取り違えなどを防ぐため行います。"
+      },
+      {
+        "choice": 3,
+        "correct": true,
+        "title": "チームの全員が作業の手を止めて集合する。",
+        "explanation": "全員が作業を止め、確認に注意を向けます。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "チームメンバー間で作業を分担して実施する。",
+        "explanation": "分担して個別に完了するだけでは、共通認識の確認になりません。"
+      },
+      {
+        "choice": 5,
+        "correct": false,
+        "title": "患者とコミュニケーションを取りながら実施する。",
+        "explanation": "本人が参加できる場面では患者への確認も大切ですが、タイムアウトは医療チームが患者・部位・実施内容などを共同で確認する手順です。麻酔中など本人と会話できない場面でも行うため、患者との会話そのものとは異なります。"
+      }
+    ],
+    "status": "FIXED",
+    "review_reason": "選択肢の説明不足・確認待ちの部分を補足。",
+    "fixes_made": [
+      "選択肢5の解説を修正。"
+    ]
+  },
+  {
+    "id": "115-AM-088",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "房水の循環障害",
+        "explanation": "房水循環障害を老視の主要機序とはしません。"
+      },
+      {
+        "choice": 2,
+        "correct": true,
+        "title": "毛様体筋の萎縮",
+        "explanation": "毛様体筋は水晶体の厚みを変えて近くに焦点を合わせる調節に関わります。加齢に伴う筋組織の萎縮が報告され、調節力低下に関係する変化として扱います。ただし、老視には水晶体の硬化も重要で、筋の萎縮だけが原因ではありません。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "虹彩の弾力性の低下",
+        "explanation": "虹彩は瞳孔の調節に関わり、水晶体の調節力低下とは区別します。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "網膜神経細胞の減少",
+        "explanation": "網膜の変化による視機能障害と老視の調節障害は異なります。"
+      },
+      {
+        "choice": 5,
+        "correct": true,
+        "title": "水晶体の弾力性の低下",
+        "explanation": "水晶体が形を変えにくくなり、近くへの焦点合わせが難しくなります。"
+      }
+    ],
+    "status": "FIXED",
+    "review_reason": "最終確認で根拠を確認し、該当選択肢のみ修正して掲載可能。",
+    "fixes_made": [
+      "選択肢2の解説を最終確認で修正。"
+    ]
+  },
+  {
+    "id": "115-AM-089",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "経産婦",
+        "explanation": "経産婦であることだけを、提示された中の主要な2因子として選びません。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "妊娠糖尿病\ngestational diabetes mellitus",
+        "explanation": "妊娠糖尿病は別のリスク評価が必要ですが、本問の選択する2因子ではありません。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "帝王切開術の既往",
+        "explanation": "帝王切開歴と他の胎盤異常の関連を混同しないようにします。"
+      },
+      {
+        "choice": 4,
+        "correct": true,
+        "title": "妊娠高血圧症候群\nhypertensive disorders of pregnancy",
+        "explanation": "胎盤の血管障害などとの関連から重要な危険因子です。"
+      },
+      {
+        "choice": 5,
+        "correct": true,
+        "title": "常位胎盤早期剝離の既往\nplacental abruption",
+        "explanation": "既往がある場合は再発リスクを考慮します。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-AM-091",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "「診療計画を介護支援専門員に提供します」",
+        "explanation": "【不明】介護支援専門員は退院後の介護計画を調整する立場で、診療情報の共有が有用な場合がある。この症例で診療計画を提供してはいけない条件は示されず、誤答とする理由を確定できない。"
+      },
+      {
+        "choice": 2,
+        "correct": true,
+        "title": "「治療内容は急性期病院から引き継いでいます」",
+        "explanation": "地域連携クリニカルパスは、複数の医療機関で診療計画や経過を共有し、切れ目なく治療・リハビリテーションをつなぐ仕組みです。急性期から治療内容を引き継ぐ説明が適切です。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "「退院後の介護サービスは医療ソーシャルワーカーが決めます」",
+        "explanation": "介護サービスを医療ソーシャルワーカーが一方的に決めるものではありません。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "「リハビリテーションの内容をお住まいの市町村に報告します」",
+        "explanation": "市町村への一律の報告をパスの中心的役割とはしません。"
+      }
+    ],
+    "status": "UNKNOWN",
+    "review_reason": "解説の一部は不明。公式正答を保持し、不明表示付きで掲載する。",
+    "fixes_made": [
+      "選択肢1に不明表示を追加。"
+    ]
+  },
+  {
+    "id": "115-AM-092",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "保健所に感染性胃腸炎の発生届を提出する。\ninfectious gastroenteritis",
+        "explanation": "感染性胃腸炎という診断だけで、訪問看護師が一律に発生届を出すものではありません。"
+      },
+      {
+        "choice": 2,
+        "correct": true,
+        "title": "A さんが石鹸と流水で手洗いできているか確認する。",
+        "explanation": "手洗いの方法と実行可能性を確認することが、家庭内感染予防につながります。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "介護支援専門員に訪問介護を中止するよう連絡する。",
+        "explanation": "必要な生活支援を一律中止すると生活が困難になるため、対策を調整します。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "長男に吐物で汚染した衣類は洗濯して室内に干すよう伝える。",
+        "explanation": "吐物汚染衣類は病原体に応じた処理が必要で、単に洗って室内干しとする説明では不十分です。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-AM-093",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "「A さんに何度も聞き返しましょう」",
+        "explanation": "繰り返し聞き返すことが負担となり、焦りやいら立ちを強める場合があります。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "「A さんが言い間違えたときは訂正しましょう」",
+        "explanation": "誤りの訂正を会話の中心にすると伝えたい気持ちを妨げます。"
+      },
+      {
+        "choice": 3,
+        "correct": true,
+        "title": "「A さんに短くわかりやすい言葉で話しかけましょう」",
+        "explanation": "失語がある人には、短く分かりやすい言葉で、反応を待ちながら伝えます。言葉だけでなく表情や身振りも手掛かりにし、伝わらないことへのいら立ちを減らします。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "「A さんの表情よりも言葉での表現を大事にしましょう」",
+        "explanation": "表情や身振りも意思を知る大切な情報です。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-AM-094",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "出 血",
+        "explanation": "観察は必要ですが、提示された凝固・血小板所見に強い出血傾向は示されていません。"
+      },
+      {
+        "choice": 2,
+        "correct": true,
+        "title": "無気肺\natelectasis",
+        "explanation": "長い喫煙歴と呼吸機能の低下があり、さらに開胸開腹手術を予定しています。術後の呼吸の浅さや排痰困難を通じて無気肺が起こりやすいと考えます。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "縫合不全",
+        "explanation": "重要な合併症ですが、提示情報から最も強く示されるのは呼吸器の危険です。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "深部静脈血栓症〈DVT〉\ndeep vein thrombosis",
+        "explanation": "予防は必要ですが、呼吸機能低下という具体的情報を優先して考えます。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-AM-095",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "ドレーン類は引っ張った状態で保持する。",
+        "explanation": "張った状態は挿入部への牽引や抜去につながります。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "ドレーンを気にしないで歩いてよいと A さんに伝える。",
+        "explanation": "不安を無視せず、動き方と管の扱いを具体的に説明します。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "ドレーンバッグは、ドレーン挿入部よりも高い位置に掛ける。",
+        "explanation": "逆流などを防ぐため、バッグの位置は各ドレーンの管理方法に従います。挿入部より高くする一律の方法ではありません。"
+      },
+      {
+        "choice": 4,
+        "correct": true,
+        "title": "離床前後にドレーンの固定位置が変わっていないことを確認する。",
+        "explanation": "離床によるずれや抜去を早期に発見できます。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-AM-096",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": true,
+        "title": "「よくかんでから飲み込んでください」",
+        "explanation": "食道切除・胃を用いた再建後は、一度に食べられる量や通過の仕方が変わります。少量ずつよくかみ、無理なく摂取することが重要です。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "「食後は早く横になって休んでください」",
+        "explanation": "食後すぐに横になると逆流しやすくなるため、姿勢の指導が必要です。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "「退院後は間食をせずに 3 食の食事量を確保してください」",
+        "explanation": "現在の分割食を一律に3食へ戻すと必要量を摂りにくくなる可能性があります。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "「飲み込みにくいときは、お茶や汁物で流し込むといいです」",
+        "explanation": "飲み込みにくい物を多量の水分で流し込むのではなく、食形態や一口量を調整します。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-AM-097",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "栄養状態は良好である。",
+        "explanation": "浮腫による体重増加を栄養良好と判断せず、アルブミンなども評価します。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "高カリウム血症である。",
+        "explanation": "示されたK値を高カリウム血症とは判断しません。"
+      },
+      {
+        "choice": 3,
+        "correct": true,
+        "title": "肺水腫の危険性がある。\npulmonary edema",
+        "explanation": "短期間の体重増加、浮腫、肺の水泡音、呼吸数増加があり、腎機能低下に伴う体液貯留を考えます。肺うっ血が進み肺水腫に至る危険に注意します。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "血糖コントロールは良好である。",
+        "explanation": "提示されたHbA1cから良好な管理とは判断しません。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-AM-098",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "入浴はできない。",
+        "explanation": "入浴を一律に禁止する説明ではありません。出口部などの管理方法を確認します。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "腸炎の危険性がある。",
+        "explanation": "特に注意する感染は腹膜炎であり、腸炎との用語の混同に注意します。"
+      },
+      {
+        "choice": 3,
+        "correct": true,
+        "title": "腹腔にカテーテルを挿入する。",
+        "explanation": "腹膜透析は腹腔へ透析液を入れ、腹膜を介して物質や水分を移動させます。そのため腹腔内にカテーテルを留置します。生活上の制約は方法や管理状況で個別に説明します。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "心血管系への負担が血液透析より大きい。",
+        "explanation": "一般に急激な体液移動が少なく、血液透析より負担が大きいと一律にはいえません。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-AM-099",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "蛋白質は 0.2 g/kg/日とする。",
+        "explanation": "この極端に少ない蛋白量は、低アルブミンもある本例に適切ではありません。"
+      },
+      {
+        "choice": 2,
+        "correct": true,
+        "title": "カリウムを含む食品の制限はない。",
+        "explanation": "CAPD開始後のKは3.8mEq/Lで、尿量も保たれているため、この時点ではカリウムを含む食品の制限は不要と判断します。腹膜透析患者全員に制限がないという意味ではなく、その後の検査値や残存腎機能に応じて調整します。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "水分摂取量は除水量と同量とする。",
+        "explanation": "尿や不感蒸泄などもあり、除水量だけを飲水量と同一にしません。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "総エネルギーは 50 kcal/kg/日とする。",
+        "explanation": "必要エネルギーは個別に評価し、この大きな値を一律に指示しません。透析液由来のエネルギーも考えます。"
+      }
+    ],
+    "status": "FIXED",
+    "review_reason": "選択肢の説明不足・確認待ちの部分を補足。",
+    "fixes_made": [
+      "選択肢2の解説を修正。"
+    ]
+  },
+  {
+    "id": "115-AM-100",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": true,
+        "title": "幻 視",
+        "explanation": "実在しない人が見えるという体験が記されています。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "徘 徊",
+        "explanation": "目的なく歩き回る行動は示されていません。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "観念失行",
+        "explanation": "道具使用など一連の動作手順の障害は示されていません。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "実行機能障害",
+        "explanation": "計画・遂行の困難を直接示す情報はありません。"
+      },
+      {
+        "choice": 5,
+        "correct": true,
+        "title": "レム睡眠行動障害",
+        "explanation": "眠っている間の叫びや手を振る動作が示唆します。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-AM-101",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": true,
+        "title": "「お風呂場に手すりを付けましょう」",
+        "explanation": "本人は壁や浴槽の端につかまってバランスを保っています。安定してつかめる手すりを設け、できる動作を維持しつつ転倒を防ぐことが適切です。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "「奥さんが入浴を手伝ってあげてください」",
+        "explanation": "妻に任せるだけでは具体的な安全策がなく、負担も考慮する必要があります。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "「バスマットは床と異なる色にしましょう」",
+        "explanation": "色の違いだけで、ふらつきに対する支持を確保できません。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "「入浴前に 1 時間以上の睡眠をとりましょう」",
+        "explanation": "入浴前の長い睡眠がふらつきへの基本対策とはいえません。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-AM-102",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "「毎日、散歩に行きましょう」",
+        "explanation": "足が出にくい状態で、毎日の散歩だけを勧めるのは安全面の検討が不足しています。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "「家の中で運動できるサービスがありますよ」",
+        "explanation": "在宅サービスも選択肢ですが、交流を希望する本人には通所がより合います。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "「次回の受診時に医師に相談してみましょう」",
+        "explanation": "相談を先延ばしにせず、現在利用可能な支援を具体的に紹介します。"
+      },
+      {
+        "choice": 4,
+        "correct": true,
+        "title": "「介護予防通所リハビリテーションが利用できますよ」",
+        "explanation": "要支援1で、運動機能の維持と人との交流の両方を希望しています。通所で専門的なリハビリテーションと交流の機会を得る提案が本人の目標に合います。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-AM-103",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "小発作",
+        "explanation": "眠れず会話が途切れるなど、小発作とするには症状が強い状態です。"
+      },
+      {
+        "choice": 2,
+        "correct": true,
+        "title": "中発作",
+        "explanation": "【不明】公式正答は中発作。SpO2 93％は厚生労働省の旧判定表の中発作域だが、この数値だけで睡眠や会話の所見を上書きする説明はできない。試験時点の総合判定の根拠が未確認。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "大発作",
+        "explanation": "【不明】眠れないことや著明な喘鳴は、強い発作を疑う所見でもある。会話が途切れる程度の詳細もなく、大発作を否定する理由を十分に確認できない。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "呼吸不全",
+        "explanation": "【不明】意識低下や会話不能などの呼吸不全の強い所見は明記されていない。ただしSpO2だけでは二酸化炭素貯留を評価できず、記載がないことを正常と推測しない。"
+      }
+    ],
+    "status": "UNKNOWN",
+    "review_reason": "解説の一部は不明。公式正答を保持し、不明表示付きで掲載する。",
+    "fixes_made": [
+      "選択肢2に不明表示を追加。",
+      "選択肢3に不明表示を追加。",
+      "選択肢4に不明表示を追加。"
+    ]
+  },
+  {
+    "id": "115-AM-104",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": true,
+        "title": "排痰を促す。",
+        "explanation": "酸素投与なしで酸素化と全身状態は改善しましたが、喘鳴が残っています。無理のない範囲で排痰を促し、気道を保つ援助が適切です。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "胸式呼吸を促す。",
+        "explanation": "胸式呼吸を強制することがこの時点の基本援助ではありません。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "水分摂取を制限する。",
+        "explanation": "水分制限の根拠はなく、分泌物の排出を妨げないよう摂取を評価します。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "食事はとろみ食にする。",
+        "explanation": "嚥下障害の情報はなく、とろみ食へ変更する根拠はありません。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-AM-105",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "「風邪が流行ったら学校を休みましょう」",
+        "explanation": "流行時に一律欠席するのではなく、予防と体調に合わせて判断します。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "「咳が出なくなったら薬はやめましょう」",
+        "explanation": "症状がなくても気道の炎症を抑える治療が必要なことがあります。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "「咳が出なくても体育の授業は見学しましょう」",
+        "explanation": "症状がない時も一律に運動を禁止するのではなく、個別に活動を調整します。"
+      },
+      {
+        "choice": 4,
+        "correct": true,
+        "title": "「学校で咳が続くときは担任の先生に伝えましょう」",
+        "explanation": "学校での症状を本人だけで抱え込まず、大人に知らせて適切な対応を受けられるようにします。症状がない時も、医師が指示した維持治療を自己中断しないことが大切です。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-AM-106",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "感染対策の見直し",
+        "explanation": "感染徴候や感染対策の不足は示されていません。"
+      },
+      {
+        "choice": 2,
+        "correct": true,
+        "title": "食事の形態の変更",
+        "explanation": "現在のきざみ食でむせているため、誤嚥を防ぐための嚥下評価と食形態の調整を優先します。食欲があることと、安全に飲み込めることは別です。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "排便のコントロール",
+        "explanation": "排便管理も必要ですが、現在排便は得られており、食事中の危険を先に評価します。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "睡眠パターンのコントロール",
+        "explanation": "睡眠への支援も大切ですが、まず誤嚥に関わる食事を優先します。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-AM-107",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "「B ちゃんに A ちゃんの状況を説明しましょう」",
+        "explanation": "説明だけでは母親と姉が二人で過ごす時間は増えません。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "「お父さんに保育所のお迎えもしてもらいましょう」",
+        "explanation": "父の帰宅が遅いという条件があり、実現可能性と母親の希望を検討する必要があります。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "「B ちゃんを預かるファミリーサポートを利用しましょう」",
+        "explanation": "姉を預けることは、母親が姉と過ごしたいという希望に合いません。"
+      },
+      {
+        "choice": 4,
+        "correct": true,
+        "title": "「訪問看護の時間を B ちゃんのお迎えの時間にできるか相談してみましょ\nう」",
+        "explanation": "母親は姉とだけ過ごす時間を望んでいます。訪問看護の時間調整でAちゃんの安全を確保しながら、その希望を実現する方法を一緒に検討します。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-AM-108",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "民生委員",
+        "explanation": "身近な相談相手となることはありますが、サービス調整の専門職としては相談支援専門員です。"
+      },
+      {
+        "choice": 2,
+        "correct": true,
+        "title": "相談支援専門員",
+        "explanation": "療育や障害福祉サービスにつながるためには、必要な支援を相談し利用計画を調整する相談支援専門員が適切です。医療だけでなく発達と生活を支える資源へつなぎます。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "地域の保育所の保育士",
+        "explanation": "保育の相談はできますが、本問の福祉サービス利用調整の中心職種ではありません。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "訪問診療をしている医師",
+        "explanation": "医療上の評価に関わりますが、サービス利用の相談調整では相談支援専門員を紹介します。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-AM-109",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "血 圧",
+        "explanation": "提示された血圧を高血圧とする根拠はありません。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "排便回数",
+        "explanation": "妊娠前と同じ間隔で排便しており、回数だけで異常とはしません。"
+      },
+      {
+        "choice": 3,
+        "correct": true,
+        "title": "体重の増加量",
+        "explanation": "4週間で4kg増えており、体重増加の速さを評価する必要があります。血圧・排便・胎動の自覚は、記載された妊娠時期と本人の経過から考えます。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "胎動の無自覚",
+        "explanation": "胎動の初めての自覚には個人差があり、17週で未自覚というだけで異常とはしません。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-AM-110",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": true,
+        "title": "両親学級への参加を促す。",
+        "explanation": "本人が求めているのは、同じ妊娠時期の人との交流と情報交換です。両親学級は学習だけでなく、地域で仲間を作る機会になります。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "バースプランの立案を勧める。",
+        "explanation": "出産への希望を整理する方法ですが、交流の機会への直接の回答ではありません。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "産後ケアに関する情報提供を行う。",
+        "explanation": "産後の支援情報も有用ですが、現在の交流希望への第一の提案ではありません。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "妊婦健康診査への夫の同席を勧める。",
+        "explanation": "夫の参加は支えになりますが、同じ週数の妊婦との交流とは別です。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-AM-111",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "異常な腹痛",
+        "explanation": "痛みは軽快しており、提示情報だけで異常な腹痛とは判断しません。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "子宮の復古遅延",
+        "explanation": "子宮底と悪露の経過から復古遅延を示す情報はありません。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "乳汁の分泌不良",
+        "explanation": "産褥1日のにじむ程度の分泌だけで分泌不良と決めません。"
+      },
+      {
+        "choice": 4,
+        "correct": true,
+        "title": "一過性の排尿障害",
+        "explanation": "出産直後に尿意が乏しかったものの、現在は尿意と排尿が回復しています。経過から一過性の排尿障害と考えます。他の所見も産褥日数と改善傾向を見て判断します。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-AM-112",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "「食事は温めましょう」",
+        "explanation": "温めるとにおいが強まり、本人の吐き気を誘発する可能性があります。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "「空腹の状態にしましょう」",
+        "explanation": "空腹で吐き気が強まる場合もあり、空腹を目標にしません。"
+      },
+      {
+        "choice": 3,
+        "correct": true,
+        "title": "「食べたいときに食べましょう」",
+        "explanation": "つわりでは、食べられる時に食べやすい物を少量ずつ摂る方法を考えます。においが誘因になっている本人に、食事の規則や栄養の理想を押し付けません。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "「赤ちゃんのために栄養を考えて食べましょう」",
+        "explanation": "大切な観点ですが、食べられない時に強調すると負担になります。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-AM-113",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": true,
+        "title": "便 秘",
+        "explanation": "妊娠初期にはホルモンの変化などで腸の動きが緩やかになり、便秘が起こりやすくなります。次の健診までという時期を考えて説明します。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "尿漏れ",
+        "explanation": "起こることはありますが、本問の初期に優先して説明する変化としては便秘です。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "腰背部痛",
+        "explanation": "子宮増大などに伴い目立ちやすくなる症状で、直近の初期変化とは区別します。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "下肢のけいれん",
+        "explanation": "本問の妊娠初期に代表的な変化としては選びません。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-AM-114",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "「コンドームは不要です」",
+        "explanation": "避妊や感染予防の必要性を一律に否定できません。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "「基礎体温を計測して避妊しましょう」",
+        "explanation": "産後は周期が不安定で、基礎体温だけに頼る避妊指導は適切ではありません。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "「月経が再開しなければ妊娠しません」",
+        "explanation": "最初の月経の前に排卵することがあり、妊娠の可能性があります。"
+      },
+      {
+        "choice": 4,
+        "correct": true,
+        "title": "「産後 1 か月の健診までは性交渉は避けましょう」",
+        "explanation": "本問の公式指導です。健診で回復を確認し、本人の体調や希望も踏まえます。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-AM-115",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "貧 血",
+        "explanation": "提示されたHbを、この設問の主な異常として選びません。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "低血糖",
+        "explanation": "提示された血糖値から低血糖とは判断しません。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "肝機能障害",
+        "explanation": "提示された肝酵素より、明らかなカリウム低下に注目します。"
+      },
+      {
+        "choice": 4,
+        "correct": true,
+        "title": "低カリウム血症",
+        "explanation": "Kが2.7mEq/Lと低く、脈の不整も記載されています。繰り返す嘔吐で電解質を失うことがあり、低カリウム血症と不整脈の危険を捉えます。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-AM-116",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "「毎食の食事は手作りしましょう」",
+        "explanation": "毎回手作りという新たな負担を加えることが中心の支援ではありません。"
+      },
+      {
+        "choice": 2,
+        "correct": true,
+        "title": "「過食したくなるときの状況を記録してみましょう」",
+        "explanation": "過食に先立つ状況や気持ちを記録すると、引き金と行動の関係に気付く手掛かりになります。意志の弱さとして責めず、本人と対処方法を考えます。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "「家族の力は借りず自分の力で頑張っていきましょう」",
+        "explanation": "本人だけで抱え込ませず、適切な家族・専門職の支えを考えます。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "「理想体重を維持できるよう毎日体重計に乗りましょう」",
+        "explanation": "体重へのこだわりを強める可能性があり、本問の最初の支援として適切ではありません。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-AM-117",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": true,
+        "title": "家族心理教育や家族会を紹介する。",
+        "explanation": "病気や関わり方を学び、家族自身の支えを得られます。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "疾患による家計への影響は仕方がないと伝える。",
+        "explanation": "経済的な困り事を切り捨てず、相談と支援を検討します。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "食行動の異常には厳しく接するように指導する。",
+        "explanation": "叱責で改善させようとすると苦痛や隠す行動を強め得ます。"
+      },
+      {
+        "choice": 4,
+        "correct": true,
+        "title": "A さんの疾患や今後の見通しについて説明をする。",
+        "explanation": "病気と治療の見通しを共有することが支援の基盤になります。"
+      },
+      {
+        "choice": 5,
+        "correct": false,
+        "title": "家族が原因であるため、すぐ態度を改めるよう指導する。",
+        "explanation": "家族を原因と断定して責めることは適切ではありません。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-AM-118",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "理学療法士に傷病者の採血を依頼する。",
+        "explanation": "理学療法士の通常の業務として採血を依頼するものではありません。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "看護師に自己判断で輸液を実施するよう伝える。",
+        "explanation": "輸液を看護師の自己判断で一律に実施させる指示は適切ではありません。"
+      },
+      {
+        "choice": 3,
+        "correct": true,
+        "title": "臨床工学技士に医療機器の動作確認を依頼する。",
+        "explanation": "生命維持管理装置等の専門性を生かした役割分担です。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "傷病者本人が名前を名乗る行為は省くよう医療スタッフに伝える。",
+        "explanation": "患者確認を省略すると取り違えにつながります。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-AM-119",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "医療資材の使用期限確認",
+        "explanation": "確認は必要ですが、多数受入れ体制の区域確保がより優先されます。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "24 時間体制の看護師の確保",
+        "explanation": "継続的な体制は必要ですが、数十分後の受入れの準備が先です。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "医療処置前に契約する同意書の作成",
+        "explanation": "通常の契約文書の作成を救護の優先事項とはしません。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "医療機関別の救急受け入れ先リストの確認",
+        "explanation": "搬送先情報も重要ですが、まず目前の傷病者を安全に振り分ける場を整えます。"
+      },
+      {
+        "choice": 5,
+        "correct": true,
+        "title": "トリアージ別に傷病者が待機する区域の確保",
+        "explanation": "多数の傷病者を受け入れる直前には、緊急度に応じて待機・処置できる区域と動線を整えます。混乱の中でも重症者が埋もれない仕組みを先に準備します。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-AM-120",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "B 氏の水分補給",
+        "explanation": "B氏のバイタルは安定しており、C氏の急変対応が優先です。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "B 氏の頸部の冷却",
+        "explanation": "B氏に冷却を最優先する根拠は示されていません。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "C 氏の吐物処理の準備",
+        "explanation": "嘔吐への備えだけでなく、血圧低下を伴う急変に対応する必要があります。"
+      },
+      {
+        "choice": 4,
+        "correct": true,
+        "title": "C 氏の静脈路確保の準備",
+        "explanation": "C氏は短時間で血圧が低下し、脈拍・呼吸数が増え、腹壁緊張も出ています。腹部損傷による内出血などの危険を疑い、緊急対応に必要な静脈路確保を準備します。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-PM-001",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "頻 尿",
+        "explanation": "症状の一つですが、本問の男性の最多項目ではありません。"
+      },
+      {
+        "choice": 2,
+        "correct": true,
+        "title": "腰 痛",
+        "explanation": "2022年の国民生活基礎調査では、男性の自覚症状で最も多いのは腰痛です。有訴者とは自覚症状を持つ人で、治療を受けている病気の順位ではありません。調査年と性別、何を集計した数値かを組み合わせて覚えます。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "肩こり",
+        "explanation": "肩こりも多い症状ですが、2022年の男性の集計では腰痛より少ない項目です。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "目のかすみ",
+        "explanation": "本問の最多項目ではありません。"
+      }
+    ],
+    "status": "FIXED",
+    "review_reason": "選択肢の説明不足・確認待ちの部分を補足。",
+    "fixes_made": [
+      "選択肢2の解説を修正。"
+    ]
+  },
+  {
+    "id": "115-PM-002",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": true,
+        "title": "市町村",
+        "explanation": "要介護認定を行う主体は市町村です。主治医の意見や認定調査などを踏まえた審査判定と、最終的な認定の主体を分けて理解します。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "診療所",
+        "explanation": "主治医意見書などに関わりますが、認定主体ではありません。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "都道府県",
+        "explanation": "市町村を支援する役割などがありますが、本問の認定主体ではありません。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "介護保険審査会",
+        "explanation": "認定等への不服申立てを扱う仕組みと、認定の実施を区別します。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-PM-003",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "1 割",
+        "explanation": "基本となる負担割合ですが、最も高い区分ではありません。"
+      },
+      {
+        "choice": 2,
+        "correct": true,
+        "title": "3 割",
+        "explanation": "本問の所得区分による負担割合の上限です。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "5 割",
+        "explanation": "本問の利用者負担割合の区分ではありません。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "7 割",
+        "explanation": "保険給付割合との取り違えに注意します。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-PM-004",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "ラポール",
+        "explanation": "信頼関係を指しますが、説明を受けて選ぶ権利の具体的な仕組みとは区別します。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "ケアリング",
+        "explanation": "相手を大切にして関わる広い概念です。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "コーピング",
+        "explanation": "ストレスへの対処を指します。"
+      },
+      {
+        "choice": 4,
+        "correct": true,
+        "title": "インフォームド・コンセント",
+        "explanation": "インフォームド・コンセントでは、本人が必要な説明を理解した上で、自由意思で治療について選択します。同意書への署名だけで完結するものではありません。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-PM-005",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "訪問看護業務",
+        "explanation": "直接の訪問看護提供を中心業務とする施設ではありません。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "看護師免許証の交付",
+        "explanation": "看護師免許証の交付を行う主体ではありません。"
+      },
+      {
+        "choice": 3,
+        "correct": true,
+        "title": "看護師等への無料の職業紹介",
+        "explanation": "都道府県ナースセンターは、看護職の就業支援などを行い、無料の職業紹介が業務に含まれます。免許行政や個別の看護提供とは役割が異なります。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "特定行為に係る看護師の研修",
+        "explanation": "特定行為研修を、法律で定めるナースセンターの基本業務と同一視しません。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-PM-006",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "右心室と左心室の間",
+        "explanation": "心室間ではなく心房間にあります。"
+      },
+      {
+        "choice": 2,
+        "correct": true,
+        "title": "右心房と左心房の間",
+        "explanation": "胎児の卵円孔は左右の心房の間にあり、胎児循環で右心房から左心房へ血液を通します。動脈管や静脈管と場所を区別します。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "肺動脈と大動脈の間",
+        "explanation": "この位置の胎児循環の交通は動脈管です。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "臍静脈と下大静脈の間",
+        "explanation": "この位置の交通は静脈管と関連し、卵円孔ではありません。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-PM-007",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "1 か月",
+        "explanation": "90％の児が達する基準としては早すぎる選択肢です。"
+      },
+      {
+        "choice": 2,
+        "correct": true,
+        "title": "4 か月",
+        "explanation": "日本版デンバー式で、90％の児がこの項目を獲得する時期は4か月です。90％という到達割合を問うため、平均的な獲得月齢や最も早くできる児の月齢とは区別します。発達の評価では一つの項目だけで結論を出しません。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "7 か月",
+        "explanation": "本問の90％通過月齢より遅い値です。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "10 か月",
+        "explanation": "本問の90％通過月齢より遅い値です。"
+      }
+    ],
+    "status": "FIXED",
+    "review_reason": "選択肢の説明不足・確認待ちの部分を補足。",
+    "fixes_made": [
+      "選択肢2の解説を修正。"
+    ]
+  },
+  {
+    "id": "115-PM-008",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "残気量の減少",
+        "explanation": "残気量は一般に増える方向の変化を考えます。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "柔軟性の向上",
+        "explanation": "柔軟性は向上より低下しやすくなります。"
+      },
+      {
+        "choice": 3,
+        "correct": true,
+        "title": "基礎代謝の低下",
+        "explanation": "壮年期には筋量などの変化に伴って基礎代謝が低下する傾向があります。加齢変化は個人差があり、生活習慣や活動も影響します。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "視機能の調節力の向上",
+        "explanation": "視機能の調節力は加齢で低下する傾向があります。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-PM-009",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "外国語の単語を暗記する。",
+        "explanation": "新たな情報を記憶する能力を中心に問う行動です。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "制限時間内に暗算をする。",
+        "explanation": "速い処理や計算の能力が中心となる行動です。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "新しいパソコンの使い方を覚える。",
+        "explanation": "新しい操作方法を獲得する場面です。"
+      },
+      {
+        "choice": 4,
+        "correct": true,
+        "title": "よく利用する病院から自宅への近道を考える。",
+        "explanation": "結晶性知能は、経験を通じて蓄えた知識や技能を活用する働きです。通い慣れた病院からの道を考える場面では、既存の経験を使っています。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-PM-010",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "目標は医師の方針が優先される。",
+        "explanation": "医師の方針だけを他者や患者の希望より一律に優先しません。"
+      },
+      {
+        "choice": 2,
+        "correct": true,
+        "title": "チームメンバー間で目標を共有する。",
+        "explanation": "チーム医療では、異なる専門職が患者の目標を共有して協働します。役割や経験が違うからこそ、共通の目的を明確にすることが必要です。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "チームリーダーは看護師に固定する。",
+        "explanation": "リーダーを特定職種に固定する必要はありません。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "経験年数が同等の者でチームを構成する。",
+        "explanation": "多様な経験と専門性を持つ構成員が協働します。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-PM-011",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "延 髄",
+        "explanation": "呼吸や循環などの重要な中枢がありますが、摂食中枢の位置ではありません。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "小 脳",
+        "explanation": "運動の調整などを担う部位です。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "下垂体",
+        "explanation": "内分泌器官で、視床下部との関係を区別します。"
+      },
+      {
+        "choice": 4,
+        "correct": true,
+        "title": "視床下部",
+        "explanation": "摂食に関する調節に関与する部位です。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-PM-012",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "1 対",
+        "explanation": "頸神経の対数ではありません。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "5 対",
+        "explanation": "頸神経の対数ではありません。"
+      },
+      {
+        "choice": 3,
+        "correct": true,
+        "title": "8 対",
+        "explanation": "頸神経は8対です。頸椎の数と頸神経の対数は同じではないため、骨の数をそのまま当てはめないようにします。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "12 対",
+        "explanation": "胸神経などの区分と混同しないようにします。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-PM-013",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "視覚野",
+        "explanation": "視覚情報の処理を担い、感覚性言語中枢の名称ではありません。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "体性感覚野",
+        "explanation": "身体の感覚情報を扱う領域です。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "Broca〈ブローカ〉野",
+        "explanation": "運動性言語中枢として区別します。"
+      },
+      {
+        "choice": 4,
+        "correct": true,
+        "title": "Wernicke〈ウェルニッケ〉野",
+        "explanation": "ウェルニッケ野は言語の理解に関わる領域として知られます。言葉を発する運動面に関わるブローカ野と対比して覚えます。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-PM-014",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "心電図で P 波を認める。",
+        "explanation": "通常の規則的なP波は認められません。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "心房の興奮は規則的である。",
+        "explanation": "心房は不規則で無秩序な興奮となります。"
+      },
+      {
+        "choice": 3,
+        "correct": true,
+        "title": "心房内に血栓を形成しやすい。",
+        "explanation": "心房細動では心房が有効に収縮しにくくなり、心房内で血液が滞って血栓を生じやすくなります。その血栓が塞栓症につながる点が重要です。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "房室結節の興奮伝導障害である。",
+        "explanation": "房室ブロックのような伝導障害の説明とは異なります。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-PM-015",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "尿線が途切れる。",
+        "explanation": "尿線の途切れは排尿の仕方の問題です。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "尿の勢いが弱い。",
+        "explanation": "尿勢の低下は、総尿量の低下とは同じではありません。"
+      },
+      {
+        "choice": 3,
+        "correct": true,
+        "title": "1 日の尿量が 400 mL 以下である。",
+        "explanation": "本問が示す成人の1日尿量による基準です。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "1 日の排尿回数が 4 回以下である。",
+        "explanation": "回数が少なくても1回量が多ければ乏尿とは限りません。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-PM-016",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "アミラーゼ",
+        "explanation": "膵臓などに関連する酵素で、糸球体濾過の代表指標ではありません。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "トロポニン",
+        "explanation": "心筋障害の評価に用いる指標です。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "γ-GTP〈γ-GT〉",
+        "explanation": "肝胆道系などの評価に関係する酵素です。"
+      },
+      {
+        "choice": 4,
+        "correct": true,
+        "title": "クレアチニンクリアランス",
+        "explanation": "クレアチニンクリアランスは、血液中のクレアチニンが尿へ除去される程度から腎機能を評価します。糸球体濾過の指標ですが、完全に実測GFRと一致するわけではありません。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-PM-017",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": true,
+        "title": "尿 酸",
+        "explanation": "痛風は尿酸塩結晶に関連する炎症で、血清尿酸値を評価します。ただし尿酸高値だけで痛風を確定したり、発作時の値だけで否定したりはできません。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "尿素窒素",
+        "explanation": "腎機能などの評価に関係しますが、痛風に直接対応する項目ではありません。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "血清ビリルビン",
+        "explanation": "肝胆道系や赤血球代謝などに関係する項目です。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "グリコヘモグロビン",
+        "explanation": "血糖管理の指標で、尿酸代謝とは異なります。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-PM-018",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "「気分はいかがですか」",
+        "explanation": "気分を自由に説明できる開いた質問です。"
+      },
+      {
+        "choice": 2,
+        "correct": true,
+        "title": "「背中の痛みはないですか」",
+        "explanation": "閉じた質問は、はい・いいえや限られた答えで返答できる質問です。痛みの有無を尋ねる問いが該当します。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "「どのようなことが不安ですか」",
+        "explanation": "不安の内容を自由に話してもらう質問です。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "「ご家族は何と言っていましたか」",
+        "explanation": "家族の言葉を自由に説明してもらう質問です。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-PM-019",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": true,
+        "title": "易感染状態",
+        "explanation": "易感染状態は、検査値や治療内容などをまとめて解釈した判断です。痛みや呼吸困難、検査値そのものという収集情報とは段階が異なります。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "痛みの程度",
+        "explanation": "本人の訴えや尺度で得る情報です。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "呼吸困難感",
+        "explanation": "本人が感じる症状という情報です。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "白血球の値",
+        "explanation": "検査から得られる客観的データです。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-PM-021",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": true,
+        "title": "三角筋",
+        "explanation": "適切な位置を確認して筋肉内注射に用います。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "大殿筋",
+        "explanation": "殿部では神経損傷などを考慮する必要があり、大殿筋という名称だけで安全な部位としません。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "上腕二頭筋",
+        "explanation": "本問の標準的な筋注部位ではありません。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "大腿二頭筋",
+        "explanation": "大腿の筋注で用いる筋との取り違えに注意します。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-PM-022",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "吸引は無菌操作で行う。",
+        "explanation": "口腔内は清潔操作を基本とし、気管内吸引などの無菌管理と区別します。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "吸引時間は25秒以上で行う。",
+        "explanation": "長時間の吸引は負担となり、25秒以上を目標にしません。"
+      },
+      {
+        "choice": 3,
+        "correct": true,
+        "title": "挿入時は吸引圧をかけない。",
+        "explanation": "吸引圧をかけたまま挿入すると粘膜を吸い付けて傷つける危険があります。挿入時は圧をかけず、必要な部位で短時間の吸引を行う基本を押さえます。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "吸引圧は 100 kPa を目安とする。",
+        "explanation": "100kPaは過大な圧であり、単位を含めて確認する必要があります。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-PM-023",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "仰臥位",
+        "explanation": "仰臥位では舌根が後方へ落ち込みやすくなります。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "膝胸位",
+        "explanation": "本問の気道保持の基本体位ではありません。"
+      },
+      {
+        "choice": 3,
+        "correct": true,
+        "title": "側臥位",
+        "explanation": "側臥位では重力による舌根の後方への落ち込みを減らせます。ただし外傷の疑いや呼吸状態に応じた気道管理が必要で、体位だけで全て解決するわけではありません。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "骨盤高位",
+        "explanation": "骨盤を高くすることは舌根沈下への基本対策ではありません。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-PM-024",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "1",
+        "explanation": "収縮はあっても十分な関節運動に至らない低い段階です。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "4",
+        "explanation": "抵抗に抗する力はありますが、最高段階ではありません。"
+      },
+      {
+        "choice": 3,
+        "correct": true,
+        "title": "5",
+        "explanation": "徒手筋力テストは筋力を段階評価し、通常の0～5の尺度では5が最も強い段階です。段階の数字を百分率と混同しません。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "6",
+        "explanation": "通常のMMTの評価段階にありません。"
+      },
+      {
+        "choice": 5,
+        "correct": false,
+        "title": "10",
+        "explanation": "通常のMMTの評価段階にありません。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-PM-025",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": true,
+        "title": "気道確保",
+        "explanation": "全身けいれんでは呼吸・気道の安全を優先します。無理に口を開けたり物を入れたりせず、頭部保護や周囲の安全確保を並行して行います。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "周囲の環境整備",
+        "explanation": "外傷を防ぐため必要ですが、呼吸の安全と合わせて実施します。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "末梢静脈路の確保",
+        "explanation": "治療に必要となる場合がありますが、まず気道・呼吸を評価します。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "心電図モニターの装着",
+        "explanation": "循環評価に役立ちますが、気道確保より先に装着を優先しません。"
+      },
+      {
+        "choice": 5,
+        "correct": false,
+        "title": "舌や口唇の咬傷の予防",
+        "explanation": "咬傷予防のために物を口へ入れるのは危険です。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-PM-026",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "高い音",
+        "explanation": "高い音は主に基底部側で感知されます。"
+      },
+      {
+        "choice": 2,
+        "correct": true,
+        "title": "低い音",
+        "explanation": "蝸牛は場所によって応答しやすい音の周波数が異なります。頂部側は低い音、基底部側は高い音に対応します。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "大きい音",
+        "explanation": "場所の対応は主に音の高さであり、大きさの区分ではありません。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "小さい音",
+        "explanation": "小ささを頂部の特徴として対応させません。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-PM-027",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "塩 味",
+        "explanation": "塩味の代表的な刺激とは異なります。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "甘 味",
+        "explanation": "甘味は糖などによる刺激と関連します。"
+      },
+      {
+        "choice": 3,
+        "correct": true,
+        "title": "酸 味",
+        "explanation": "酸味は水素イオンに関連する刺激で生じます。味物質と味覚の対応を問う基本問題です。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "うま味",
+        "explanation": "うま味はアミノ酸などの味物質と関連します。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-PM-029",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "舌 癌\ntongue cancer",
+        "explanation": "本問のEBウイルスとの代表的な関連ではありません。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "喉頭癌\nlaryngeal cancer",
+        "explanation": "上咽頭と喉頭は異なる部位です。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "食道癌\nesophageal cancer",
+        "explanation": "食道癌を本問の代表的な関連として選びません。"
+      },
+      {
+        "choice": 4,
+        "correct": true,
+        "title": "上咽頭癌\nepipharyngeal cancer",
+        "explanation": "EBウイルスは上咽頭癌の発生との関連が知られています。ウイルスと癌の関連は、感染した人全員が癌になるという意味ではありません。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-PM-030",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "小 脳",
+        "explanation": "本問の代表的な好発部位ではありません。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "後頭葉",
+        "explanation": "主に視覚に関わる部位で、本問の好発部位ではありません。"
+      },
+      {
+        "choice": 3,
+        "correct": true,
+        "title": "側頭葉",
+        "explanation": "成人の単純ヘルペス脳炎では側頭葉に病変が生じやすい特徴があります。病変の場所と神経症状の関係を考える基本になります。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "頭頂葉",
+        "explanation": "本問の代表的な好発部位ではありません。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-PM-031",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": true,
+        "title": "感染症病床における看護職員の人員配置基準は 3 ： 1 である。",
+        "explanation": "感染症病床に係る看護師・准看護師の員数の標準は、入院患者3人に対して1人です。医療法上の標準を問う問題であり、各勤務帯に常にこの比率で配置するという意味や、診療報酬の入院基本料の区分と混同しないようにします。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "特定機能病院には、医療機器の共同利用の実施が求められる。",
+        "explanation": "共同利用を特定機能病院の中心的要件とするのは、地域医療支援病院などとの混同に注意が必要です。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "介護医療院は要介護高齢者に急性期医療を提供する施設である。",
+        "explanation": "介護医療院は長期療養と生活支援の機能を持ち、急性期医療を中心とする施設ではありません。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "訪問看護ステーションの運営基準は医療法によって規定される。",
+        "explanation": "介護保険等の指定・運営基準と、医療法を区別します。"
+      }
+    ],
+    "status": "FIXED",
+    "review_reason": "選択肢の説明不足・確認待ちの部分を補足。",
+    "fixes_made": [
+      "選択肢1の解説を修正。"
+    ]
+  },
+  {
+    "id": "115-PM-032",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "救急医療情報センターは国が整備する。",
+        "explanation": "救急医療情報体制の整備主体を国だけとする説明は適切ではありません。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "救急搬送の約 8 割が軽傷・中等症患者である。",
+        "explanation": "消防庁の令和6年中の搬送統計では、軽症46.8％と中等症44.6％を合わせて約9割です。「約8割」とは異なります。なお、軽症は入院を要しないという区分で、救急搬送が不要だったことを意味しません。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "都道府県の健康増進計画に救急医療の連携が記載されている。",
+        "explanation": "救急医療の提供体制を扱う医療計画と健康増進計画を区別します。"
+      },
+      {
+        "choice": 4,
+        "correct": true,
+        "title": "一般住民による自動体外式除細動器〈AED〉の使用はプレホスピタルケア〈病\n院前救護〉に該当する。",
+        "explanation": "プレホスピタルケアは病院到着前の救護です。一般市民によるAEDの使用も、救命の連鎖をつなぐ病院前救護に含まれます。"
+      }
+    ],
+    "status": "FIXED",
+    "review_reason": "選択肢の説明不足・確認待ちの部分を補足。",
+    "fixes_made": [
+      "選択肢2の解説を修正。"
+    ]
+  },
+  {
+    "id": "115-PM-033",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "患者の希望を受け入れる。",
+        "explanation": "希望を尊重することは大切ですが、それだけでは根拠を吟味する思考過程の説明になりません。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "患者の言葉を否定的にとらえる。",
+        "explanation": "否定的に捉えることが目的ではありません。"
+      },
+      {
+        "choice": 3,
+        "correct": true,
+        "title": "患者の情報を根拠に基づいて解釈する。",
+        "explanation": "クリティカルシンキングは、根拠を吟味しながら情報を解釈し判断することです。患者を否定することでも、看護師個人の価値観を当てはめることでもありません。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "患者の思いを看護師の看護観を基に分析する。",
+        "explanation": "個人の看護観だけで患者の思いを判断せず、本人の意味や根拠を確認します。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-PM-034",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "義肢装具士",
+        "explanation": "義肢・装具の製作調整を担いますが、本問の食事動作と自助具の第一の相談先は作業療法士です。"
+      },
+      {
+        "choice": 2,
+        "correct": true,
+        "title": "作業療法士",
+        "explanation": "食事動作の自助具は、手の機能と生活動作の評価を基に選びます。作業療法士は日常生活動作や自助具の調整を専門とするため、連携の優先度が高い職種です。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "臨床工学技士",
+        "explanation": "生命維持管理装置等の専門職で、食事自助具が中心領域ではありません。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "医療ソーシャルワーカー",
+        "explanation": "経済・社会面の相談援助が中心で、動作に合う自助具の評価とは異なります。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-PM-035",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "全失語",
+        "explanation": "言語理解と表出が広く障害され、筆談も難しい場合があります。"
+      },
+      {
+        "choice": 2,
+        "correct": true,
+        "title": "構音障害",
+        "explanation": "文字での言語能力が保たれていれば、筆談で発音の困難を補えます。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "運動性失語",
+        "explanation": "書字による表出も障害され得るため、一律に筆談が適切とはしません。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "感覚性失語",
+        "explanation": "文字の理解にも問題が生じ得るため、筆談だけで解決するとはいえません。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-PM-036",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "看護師の行動とする。",
+        "explanation": "看護師の行動は援助計画であり、患者の到達目標とは区別します。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "期限を設ける必要はない。",
+        "explanation": "評価時期を決めることで達成状況を判断できます。"
+      },
+      {
+        "choice": 3,
+        "correct": true,
+        "title": "成果を測定できる表現とする。",
+        "explanation": "目標は患者に期待する変化を、到達を確かめられる表現で設定します。評価できることで計画の継続や修正を判断できます。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "実現不可能であっても患者の希望を目標とする。",
+        "explanation": "希望を尊重しつつ、実現可能な段階的目標を一緒に考えます。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-PM-037",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": true,
+        "title": "緊張の緩和",
+        "explanation": "漸進的筋弛緩法は、筋肉を意識的に緊張させた後に緩め、その違いを感じながらリラックスを促す方法です。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "褥瘡の予防",
+        "explanation": "褥瘡予防の直接的な方法とは異なります。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "片麻痺の改善",
+        "explanation": "麻痺した神経機能を回復させることを直接の目的とはしません。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "全身麻酔の導入",
+        "explanation": "麻酔薬による全身麻酔の導入法ではありません。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-PM-038",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": true,
+        "title": "気道内圧の上昇",
+        "explanation": "口をすぼめてゆっくり息を吐くと、呼気時に気道内の圧を保ちやすくなり、末梢気道の虚脱を抑えます。息を急いで吐く方法ではありません。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "呼吸回数の増加",
+        "explanation": "速い呼吸を増やすことが目的ではありません。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "末梢気道の閉塞",
+        "explanation": "閉塞を起こすのではなく、呼気時の虚脱を減らすことを目指します。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "1 回換気量の減少",
+        "explanation": "一回換気量を減らすことを狙う呼吸法ではありません。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-PM-039",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": true,
+        "title": "基礎体温",
+        "explanation": "基礎体温は覚醒直後、活動前に一定の条件で測定します。自分で体温計を適切に保持できる人の口腔内測定が適しています。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "乳児の体温",
+        "explanation": "乳児は体温計を安全に保持できず、口腔内は適しません。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "手術中の体温",
+        "explanation": "麻酔・手術中の状態に応じた測定法を選ぶ必要があります。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "意識障害がある患者の体温",
+        "explanation": "体温計の保持や誤嚥などの危険があり適しません。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-PM-040",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "奇 脈",
+        "explanation": "呼吸に伴う脈の変化であり、それだけで心停止とは判断しません。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "昏 睡",
+        "explanation": "意識がない状態だけでは心停止と同じではなく、呼吸を確認します。"
+      },
+      {
+        "choice": 3,
+        "correct": true,
+        "title": "死戦期呼吸",
+        "explanation": "反応がなく普段どおりの呼吸がない場合は心停止を疑います。死戦期呼吸を正常な呼吸と誤認して蘇生開始を遅らせないことが重要です。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "四肢のチアノーゼ",
+        "explanation": "末梢の色だけで心停止を確定せず、反応と呼吸を確認します。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-PM-041",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "肝 臓 「検査後は翌朝まで安静が必要です」",
+        "explanation": "通常の腹部超音波検査後に翌朝まで安静を求めるものではありません。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "心 臓 「検査は立った状態で行います」",
+        "explanation": "一般的な心エコーを立位で行うとする説明ではありません。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "胆 囊 「検査前の飲食は可能です」",
+        "explanation": "食後は胆囊が収縮するため、通常は食事制限などの準備を確認します。"
+      },
+      {
+        "choice": 4,
+        "correct": true,
+        "title": "膀 胱 「検査前の排尿は我慢してください」",
+        "explanation": "膀胱の超音波検査では、尿をためて膀胱を広げると観察しやすくなります。検査部位によって食事や排尿の準備が異なります。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-PM-042",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "対象となる医療機器が決められている。",
+        "explanation": "特定の機器の使用だけで対象を一律に限定する考え方ではありません。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "地域包括支援センターが相談対応する。",
+        "explanation": "高齢者支援を中心とする地域包括支援センターを、本問の基本相談窓口とはしません。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "介護支援専門員がサービス利用計画を立てる。",
+        "explanation": "介護保険のケアマネジャーと障害児の相談支援を区別します。"
+      },
+      {
+        "choice": 4,
+        "correct": true,
+        "title": "胃瘻からの経管栄養を行っている児童は支援の対象である。",
+        "explanation": "胃瘻からの経管栄養など、日常生活で医療的ケアが必要な子どもは支援の対象となります。高齢者の介護制度と、障害児・医療的ケア児の相談体制を混同しません。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-PM-043",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": true,
+        "title": "受診時にお薬手帳を持参する。",
+        "explanation": "お薬手帳を受診時に提示すると、複数の処方や市販薬を含む服薬情報の共有に役立ちます。自己管理では、薬の性質を変える行為を自己判断で行わないことが大切です。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "訪問看護師の声かけで服用する。",
+        "explanation": "服薬支援にはなりますが、本人の自己管理行動としては手帳の持参が適切です。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "処方された錠剤を自分で砕いて服用する。",
+        "explanation": "徐放性などが失われる可能性があり、砕いてよいか確認が必要です。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "常温で保管する薬剤を自宅内の複数の場所に置く。",
+        "explanation": "複数箇所への分散は飲み忘れや重複を招き得るため、管理しやすい方法を整えます。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-PM-044",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "専従の管理者は医師である。",
+        "explanation": "管理者を医師とする説明は本問の基準に合いません。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "訪問看護の記録は終了から 1 年間保存する。",
+        "explanation": "訪問看護の記録は、国の指定基準では完結の日から2年間の保存が必要で、1年では不足します。自治体の条例などでより長い保存期間が求められる場合もあるため、実務では適用される規定に従います。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "利用者とのサービス契約後に重要事項を説明する。",
+        "explanation": "重要事項は利用者が契約を判断できるよう事前に説明します。"
+      },
+      {
+        "choice": 4,
+        "correct": true,
+        "title": "看護師等の職員の資質向上のための研修の機会を確保する。",
+        "explanation": "職員が研修を受けられる機会の確保が求められます。"
+      }
+    ],
+    "status": "FIXED",
+    "review_reason": "選択肢の説明不足・確認待ちの部分を補足。",
+    "fixes_made": [
+      "選択肢2の解説を修正。"
+    ]
+  },
+  {
+    "id": "115-PM-045",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "医療用麻薬は鍵のかかる棚で管理する。",
+        "explanation": "安全な保管は必要ですが、自宅の患者へ医療機関と同じ施錠義務があると一律に説明しません。"
+      },
+      {
+        "choice": 2,
+        "correct": true,
+        "title": "貼付剤の交換時は、前回とは違う場所に貼る。",
+        "explanation": "皮膚への負担を減らすため、貼付場所を交替します。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "医療用麻薬を紛失した場合は、保健所に届け出る。",
+        "explanation": "まず処方元や薬局に連絡して対応を確認します。患者家族が一律に保健所へ届出とはしません。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "強い痛みを訴えたときは、定時の医療用麻薬の時間を早めて使用する。",
+        "explanation": "定時薬の時刻を自己判断で変えず、突出痛時の処方や連絡方法を確認します。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-PM-046",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "ビタミン K 製剤",
+        "explanation": "ビタミンK欠乏などに対する薬で、本例の解毒治療ではありません。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "オキシコドン塩酸塩",
+        "explanation": "オピオイド鎮痛薬であり、有機リン中毒の症状に対する薬ではありません。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "バンコマイシン塩酸塩",
+        "explanation": "抗菌薬で、この中毒の機序に対応しません。"
+      },
+      {
+        "choice": 4,
+        "correct": true,
+        "title": "アトロピン硫酸塩水和物",
+        "explanation": "有機リン曝露後の流涎、縮瞳、呼吸障害はコリン作動性の症状に合います。アトロピンはムスカリン作用に拮抗し、分泌増加などに対応する薬です。投与量はここで追加しません。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-PM-047",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": true,
+        "title": "家族介護者の休養",
+        "explanation": "レスパイトは、介護者が一時的に介護から離れて休息できるよう支えることです。介護を継続するために介護者自身の生活と健康を守ります。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "家族介護者同士の交流",
+        "explanation": "交流が役立つことはありますが、レスパイトの定義そのものではありません。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "居宅サービス料金の補助",
+        "explanation": "経済支援とは別の支援です。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "家族介護者への介護方法の指導",
+        "explanation": "介護技術の学習支援とは目的が異なります。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-PM-048",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "「冷蔵庫で保存してください」",
+        "explanation": "保管方法は製剤の指示に従い、一律に冷蔵とはしません。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "「使用して 15 分程度で効果が出ます」",
+        "explanation": "発作時製剤は速やかな作用を期待して用い、効果を長く待つ説明は適切ではありません。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "「痛みが強いときはかみ砕いてください」",
+        "explanation": "剤形によって使い方が異なるため、強い痛みを理由に勝手にかみ砕きません。"
+      },
+      {
+        "choice": 4,
+        "correct": true,
+        "title": "「使用後は急に立ち上がらないでください」",
+        "explanation": "血圧低下によるめまい・転倒を避けるため適切です。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-PM-049",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "肝囊胞\nliver cyst",
+        "explanation": "囊胞に対する治療を、本問の腫瘍への塞栓療法とは同一視しません。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "脂肪肝\nfatty liver",
+        "explanation": "脂肪の蓄積を改善するために動脈を塞ぐものではありません。"
+      },
+      {
+        "choice": 3,
+        "correct": true,
+        "title": "肝細胞癌\nhepatocellular carcinoma",
+        "explanation": "肝動脈塞栓術は腫瘍を栄養する動脈の血流を遮断する治療で、肝細胞癌に用いられます。肝臓の病気すべてに行う治療ではありません。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "急性 A 型肝炎\nacute hepatitis A",
+        "explanation": "急性ウイルス性肝炎を治療する方法ではありません。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-PM-050",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "両頰に紅斑がある。",
+        "explanation": "両頰の紅斑を多発性筋炎の代表的症状としません。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "足関節が動かせない。",
+        "explanation": "末梢の足関節だけの障害より近位筋の低下が特徴です。"
+      },
+      {
+        "choice": 3,
+        "correct": true,
+        "title": "物を持ち上げられない。",
+        "explanation": "多発性筋炎では体幹に近い筋の筋力低下が特徴で、腕を上げる・物を持ち上げるなどが難しくなります。皮膚所見や末梢の症状を区別します。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "温熱刺激で手指が白色になる。",
+        "explanation": "手指が白くなる血管反応は通常寒冷などとの関連を考え、温熱との組合せではありません。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-PM-051",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "縮瞳させる。",
+        "explanation": "眼底を観察するため通常は散瞳を行い、縮瞳とは逆です。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "静脈麻酔を行う。",
+        "explanation": "通常は点眼麻酔などで行い、静脈麻酔を基本とはしません。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "眼球表面を消毒する。",
+        "explanation": "眼球表面の消毒をこの処置の特徴として選びません。準備手順は施設で確認します。"
+      },
+      {
+        "choice": 4,
+        "correct": true,
+        "title": "レーザー用のコンタクトレンズを装着する。",
+        "explanation": "眼底光凝固では、レーザーを眼底の適切な部位へ届けるため専用コンタクトレンズを使用します。通常の成人の外来処置を、全身麻酔の手術と混同しません。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-PM-052",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": true,
+        "title": "耳鳴を伴う。",
+        "explanation": "メニエール病はめまいとともに耳鳴や難聴などの内耳症状を伴います。平衡機能だけでなく蝸牛の症状があることが重要です。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "70 歳以上で好発する。",
+        "explanation": "70歳以上を代表的な好発年齢とする説明ではありません。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "浮動性めまいが出現する。",
+        "explanation": "典型的発作は回転性のめまいで、浮動感だけで説明しません。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "蝸牛の機能は保たれている。",
+        "explanation": "難聴など蝸牛症状もあるため、機能が保たれるとはいえません。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-PM-053",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "残尿感",
+        "explanation": "評価は必要ですが、完全に排尿できない状態より優先度は低くなります。"
+      },
+      {
+        "choice": 2,
+        "correct": true,
+        "title": "尿 閉",
+        "explanation": "尿閉は尿が膀胱にあるのに排出できない状態で、速やかな評価と排尿路の確保が必要です。頻度や不快感の問題より緊急性を考えます。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "排尿痛",
+        "explanation": "原因評価と症状緩和は必要ですが、本問では尿閉を優先します。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "頻 尿",
+        "explanation": "頻尿の原因も調べますが、排尿不能の緊急性が高い状態です。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-PM-054",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "腹臥位で行う。",
+        "explanation": "通常は仰臥位などで乳房を観察します。"
+      },
+      {
+        "choice": 2,
+        "correct": true,
+        "title": "妊娠中も受けられる。",
+        "explanation": "超音波検査は電離放射線を使わず、妊娠中にも必要に応じて受けられます。乳房を圧迫するマンモグラフィとは方法と得意な所見が異なります。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "乳房を板状のものではさむ。",
+        "explanation": "板で挟むのはマンモグラフィの方法です。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "石灰化した病変を発見しやすい。",
+        "explanation": "微細石灰化の評価を得意とするマンモグラフィとの違いに注意します。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-PM-055",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "Clinical Dementia Rating〈CDR〉",
+        "explanation": "臨床的な重症度を評価する尺度で、本問の課題の名称ではありません。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "Functional Assessment Staging〈FAST〉",
+        "explanation": "生活機能から認知症の進行段階を評価する尺度です。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "改訂長谷川式簡易認知評価スケール〈HDS-R〉",
+        "explanation": "別の認知機能評価尺度で、MMSEの課題と混同しません。"
+      },
+      {
+        "choice": 4,
+        "correct": true,
+        "title": "Mini-Mental State Examination〈MMSE〉",
+        "explanation": "MMSEには指示を理解して順番に実行する課題が含まれます。評価尺度は名前だけでなく、どの能力をどの方法で見るかを対応させます。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-PM-056",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "水痘の感染歴と関連する。\nvaricella",
+        "explanation": "水痘の既往を原因とする病態ではありません。"
+      },
+      {
+        "choice": 2,
+        "correct": true,
+        "title": "症状の範囲は全身性である。",
+        "explanation": "加齢に伴う皮膚の乾燥などで、明らかな発疹がないのに全身がかゆくなることがあります。他疾患によるかゆみの除外も必要です。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "治療は原因物質の除去である。",
+        "explanation": "アレルゲンの除去だけではなく、乾燥などへの対応を考えます。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "強い痒みを伴う紅斑性丘疹である。",
+        "explanation": "紅斑性丘疹が必須の病態ではありません。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-PM-057",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "昨晩、夕食を食べたことを覚えていない。",
+        "explanation": "食べた体験自体が抜けており、単純な加齢変化とは扱いません。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "家族から電話がかかってきたことを忘れてしまった。",
+        "explanation": "電話があった体験そのものの忘却で、評価が必要です。"
+      },
+      {
+        "choice": 3,
+        "correct": true,
+        "title": "友人の顔を見て名前を思い出すのに時間がかかった。",
+        "explanation": "加齢によるもの忘れでは、知っている名前を取り出すのに時間がかかることがあります。出来事全体の欠落や場所が分からない状態とは区別します。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "買い物に出たが、自分が今どこにいるのか分からない。",
+        "explanation": "場所の見当識の問題であり、通常のもの忘れと区別します。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-PM-059",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "今後は全身清拭を行う。",
+        "explanation": "一度の拒否で今後すべて清拭に変更しません。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "浴槽の使い方を説明する。",
+        "explanation": "使い方が分からないという情報はありません。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "自宅で入浴することを勧める。",
+        "explanation": "自宅の妻に負担を戻すだけでは解決しません。"
+      },
+      {
+        "choice": 4,
+        "correct": true,
+        "title": "時間をおいてから再度入浴を勧める。",
+        "explanation": "入浴を拒否する理由や気分を尊重し、無理強いせず時間を変えて提案します。一度の拒否から今後の方法を固定しません。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-PM-060",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": true,
+        "title": "肋骨はほぼ水平位である。",
+        "explanation": "乳児は肋骨が水平に近く、胸郭の動きが成人と異なります。気道も狭く、呼吸障害が進みやすい特徴を押さえます。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "肺胞数は成人に比べて多い。",
+        "explanation": "肺胞は成長に伴って増え、成人より多いとはしません。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "胸郭の左右径は前後径の 2 倍である。",
+        "explanation": "乳児の胸郭は成人ほど扁平ではありません。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "気道内径は成人に比べて相対的に太い。",
+        "explanation": "気道は細く、少しの腫れでも影響を受けやすい状態です。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-PM-061",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "麻しんは解熱するまで。\nmeasles",
+        "explanation": "解熱した直後だけで解除する基準ではありません。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "伝染性紅斑は紅斑が消失するまで。\nerythema infectiosum",
+        "explanation": "紅斑が消えるまでの一律の停止基準とはしません。"
+      },
+      {
+        "choice": 3,
+        "correct": true,
+        "title": "水痘は発疹がすべて痂皮化するまで。\nvaricella",
+        "explanation": "全ての発疹が痂皮化することが本問の基準です。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "流行性耳下腺炎は腫脹消失後 7 日を経過するまで。\nmumps",
+        "explanation": "腫脹消失後7日という基準は適切ではありません。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-PM-062",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": true,
+        "title": "穿刺部位が上後腸骨棘のとき、体位は腹臥位である。",
+        "explanation": "上後腸骨棘からの骨髄穿刺では、穿刺部位を出しやすい腹臥位をとります。鎮静中は呼吸の観察も必要です。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "骨髄液は骨膜から採取される。",
+        "explanation": "骨膜ではなく骨髄から採取します。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "穿刺直後の穿刺部位はヨード系消毒薬で消毒する。",
+        "explanation": "直後は圧迫止血などを行い、再消毒を主処置としません。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "検査終了後 12 時間は水平仰臥位を保つ。",
+        "explanation": "一律12時間の水平仰臥位を求める検査ではありません。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-PM-063",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "育児時間",
+        "explanation": "労働基準法による育児時間と区別します。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "産後休業",
+        "explanation": "労働基準法による産後休業です。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "育児休業給付",
+        "explanation": "給付は雇用保険の制度と区別します。"
+      },
+      {
+        "choice": 4,
+        "correct": true,
+        "title": "労働時間の短縮",
+        "explanation": "育児・介護休業法には仕事と家庭の両立のための短時間勤務等の制度があります。他法に基づく休業や給付と区別します。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-PM-064",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "胚移植",
+        "explanation": "体外で扱った胚を子宮へ戻す生殖補助医療です。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "顕微授精",
+        "explanation": "卵子へ精子を注入する生殖補助医療です。"
+      },
+      {
+        "choice": 3,
+        "correct": true,
+        "title": "人工授精",
+        "explanation": "人工授精は一般不妊治療に含まれます。体外で受精や胚の操作を行う生殖補助医療との違いを押さえます。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "体外受精",
+        "explanation": "体外で受精させる生殖補助医療です。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-PM-065",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "トキソプラズマ",
+        "explanation": "代表的には胎内感染を考えます。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "パルボウイルス",
+        "explanation": "代表的には胎内感染を考えます。"
+      },
+      {
+        "choice": 3,
+        "correct": true,
+        "title": "B 群溶血性レンサ球菌",
+        "explanation": "B群溶血性レンサ球菌は、分娩時に産道を通る児へ感染することがあります。母子感染には胎内・分娩時・授乳など異なる経路があります。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "成人 T 細胞白血病ウイルス",
+        "explanation": "代表的な母子感染経路は母乳で、産道感染と区別します。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-PM-066",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": true,
+        "title": "授乳を継続する。",
+        "explanation": "乳汁のうっ滞に対し、適切な授乳を続けることが基本です。ただし強い揉み出しや過剰な搾乳を勧める意味ではなく、症状に応じて専門家に相談します。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "自覚症状が乏しい。",
+        "explanation": "痛みや張りなどの症状があり、乏しいとはしません。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "感染によって生じる。",
+        "explanation": "うっ滞を感染そのものと同義にはしません。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "分娩直後に発症することが多い。",
+        "explanation": "乳汁分泌の増加との関係を考え、分娩直後に最多とはしません。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-PM-067",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "安静臥床を保つ。",
+        "explanation": "安静だけでは子宮収縮不良への対応が不足します。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "直接授乳を控える。",
+        "explanation": "授乳による収縮への刺激を一律に控える根拠はありません。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "下腹部を温罨法する。",
+        "explanation": "温めることを出血への優先処置とはしません。"
+      },
+      {
+        "choice": 4,
+        "correct": true,
+        "title": "子宮底をマッサージする。",
+        "explanation": "大きく柔らかい子宮と多い悪露は、子宮収縮が不十分な可能性を示します。子宮底マッサージで収縮を促し、出血量や全身状態も評価します。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-PM-068",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "応急入院は患者の保護者等の同意が必要である。",
+        "explanation": "応急入院は同意を得られない緊急時の制度と区別します。"
+      },
+      {
+        "choice": 2,
+        "correct": true,
+        "title": "任意入院をした患者は処遇改善の請求が可能である。",
+        "explanation": "任意入院であっても処遇改善の請求が可能です。本人の権利と、入院形態ごとの同意・診察・期間の要件を分けます。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "緊急措置入院は 2 名の精神保健指定医の判断が必要である。",
+        "explanation": "通常の措置入院と緊急措置入院の診察要件を混同しています。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "措置入院は 72 時間以内に他の入院形態へ切り替える必要がある。",
+        "explanation": "72時間という制限を通常の措置入院に当てはめません。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-PM-069",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "公認心理師",
+        "explanation": "心理的支援はできますが、当事者経験の共有という希望にはピア支援です。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "成年後見人",
+        "explanation": "権利や財産等の支援と、本問の交流希望は異なります。"
+      },
+      {
+        "choice": 3,
+        "correct": true,
+        "title": "ピアサポーター",
+        "explanation": "同じような体験を持つ人と話したいという希望には、当事者経験を生かすピアサポーターとのつながりが適しています。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "就労継続支援事業所の管理者",
+        "explanation": "就労の相談より、現在の孤独と経験共有への支援を優先します。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-PM-070",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": true,
+        "title": "看護師の離職率",
+        "explanation": "ストラクチャーは、人員や組織などサービス提供の体制です。離職率は人員の安定性を捉える情報として本問の正答です。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "患者教育の方法",
+        "explanation": "患者教育をどう行うかはプロセスです。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "有害事象の発生数",
+        "explanation": "有害事象の件数はアウトカムに関わります。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "ケアに対する患者・家族の満足度",
+        "explanation": "満足度は提供されたケアのアウトカムです。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-PM-071",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "優先度の判断",
+        "explanation": "優先度は患者の状態に基づいて判断します。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "個別的な看護の促進",
+        "explanation": "個別化は必要ですが、標準手順そのものの主目的とは区別します。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "看護業務の負担の軽減",
+        "explanation": "負担軽減だけを目的とするものではありません。"
+      },
+      {
+        "choice": 4,
+        "correct": true,
+        "title": "看護ケアの水準の保持",
+        "explanation": "看護手順は基本的な実施方法を共有し、担当者によるばらつきを減らしてケアの水準を保ちます。患者の個別性に応じた判断は別途必要です。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-PM-072",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": true,
+        "title": "与薬の業務プロセスを見直す。",
+        "explanation": "事故予防では、個人を責めるだけでなく誤りが生じる業務の仕組みを見直します。与薬過程を分析して再発を防ぐ対策を考えます。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "事故を起こした職員の責任を追及する。",
+        "explanation": "責任追及だけでは再発の仕組みを改善できません。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "病棟ごとに与薬マニュアルを作成する。",
+        "explanation": "病棟ごとの不統一を増やす前に、院内で安全な標準を検討します。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "事故の対象となった患者の個人情報を病院内で共有する。",
+        "explanation": "学習に必要な情報と個人情報を区別し、無制限には共有しません。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-PM-073",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "災害用物資の点検",
+        "explanation": "平時の備えとして行う活動です。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "災害対応マニュアルの整備",
+        "explanation": "主に平時の準備・見直しに当たります。"
+      },
+      {
+        "choice": 3,
+        "correct": true,
+        "title": "急性ストレス障害〈ASD〉に対するケア\nacute stress disorder",
+        "explanation": "被災後早期の強いストレス反応への支援です。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "心的外傷後ストレス障害〈PTSD〉への介入\npost-traumatic stress disorder",
+        "explanation": "より長く続く症状の経過を踏まえて評価するため、時期を区別します。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-PM-074",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "「日本での出生届は不要です」",
+        "explanation": "日本での出生届が不要という説明ではありません。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "「妊娠の届出は大使館にします」",
+        "explanation": "妊娠の届出は居住地の市町村への手続を案内します。"
+      },
+      {
+        "choice": 3,
+        "correct": true,
+        "title": "「出産時に出産育児一時金が支給されます」",
+        "explanation": "国民健康保険に加入しているという条件から、出産育児一時金の対象を考えます。外国籍というだけで母子保健サービスから除外しません。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "「妊婦健康診査における公費負担を受けることはできません」",
+        "explanation": "外国籍だけで公費負担を受けられないとはいえません。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-PM-075",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "単 球",
+        "explanation": "通常一つの核です。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "好中球",
+        "explanation": "核が分葉していますが、独立した複数核とは区別します。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "神経細胞",
+        "explanation": "通常一つの核です。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "卵母細胞",
+        "explanation": "通常一つの核です。"
+      },
+      {
+        "choice": 5,
+        "correct": true,
+        "title": "骨格筋細胞",
+        "explanation": "骨格筋線維は複数の細胞の融合によって形成され、多くの核を持ちます。好中球の分葉核を複数の独立した核と数えないことが重要です。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-PM-076",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "静脈還流量より多い。",
+        "explanation": "定常状態では拍出量と静脈還流量はつり合います。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "左心系の方が右心系より多い。",
+        "explanation": "左右の拍出量は定常状態ではほぼ同じです。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "左右の動脈弁は同時に閉まる。",
+        "explanation": "左右の動脈弁の閉鎖時刻は厳密に同時ではありません。"
+      },
+      {
+        "choice": 4,
+        "correct": true,
+        "title": "心房拡張期の途中で房室弁が開く。",
+        "explanation": "心房が弛緩している間にも心室の収縮と拡張が進み、心室圧が下がると房室弁が開きます。心房と心室の時相を分けて考えます。"
+      },
+      {
+        "choice": 5,
+        "correct": false,
+        "title": "心室収縮期は動脈弁が開いて開始する。",
+        "explanation": "心室収縮は等容収縮から始まり、動脈弁が開く前の時期があります。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-PM-078",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "喀 血",
+        "explanation": "原因疾患で起こり得ますが、上大静脈症候群の代表的所見ではありません。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "上腕痛",
+        "explanation": "本問の静脈うっ滞を最も直接示す所見ではありません。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "眼瞼下垂",
+        "explanation": "神経障害などとの区別が必要です。"
+      },
+      {
+        "choice": 4,
+        "correct": true,
+        "title": "顔面浮腫",
+        "explanation": "上大静脈の流れが妨げられると、頭頸部や上肢からの静脈還流が滞ります。その結果として顔面の浮腫がみられます。"
+      },
+      {
+        "choice": 5,
+        "correct": false,
+        "title": "胸水貯留",
+        "explanation": "生じる場合もありますが、本問の代表的症状としては顔面浮腫です。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-PM-079",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "炎症期",
+        "explanation": "炎症細胞が働く時期で、肉芽形成の主な時期とは区別します。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "止血期",
+        "explanation": "血餅を作って出血を止める時期です。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "出血期",
+        "explanation": "肉芽形成の時期を表す区分ではありません。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "成熟期",
+        "explanation": "形成された組織を再構築する時期です。"
+      },
+      {
+        "choice": 5,
+        "correct": true,
+        "title": "増殖期",
+        "explanation": "増殖期には毛細血管や線維芽細胞が増え、創を埋める肉芽組織ができます。その後、組織が成熟し再構築されます。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-PM-080",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "関節痛",
+        "explanation": "急性腎不全の代表的症状として選びません。"
+      },
+      {
+        "choice": 2,
+        "correct": true,
+        "title": "頻呼吸",
+        "explanation": "急性腎不全では酸を排泄しにくくなり、代謝性アシドーシスに対する呼吸性の代償で呼吸が増えることがあります。体液過剰も呼吸状態に影響します。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "食欲増進",
+        "explanation": "むしろ食欲低下などが問題となります。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "視力低下",
+        "explanation": "本問の代表的症状ではありません。"
+      },
+      {
+        "choice": 5,
+        "correct": false,
+        "title": "足のムズムズ",
+        "explanation": "慢性の腎疾患などでみられることはありますが、本問の急性の所見とは区別します。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-PM-081",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "就労を前提に支援する。",
+        "explanation": "就労できることだけを条件にしません。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "緊急時の対応や訪問を行う。",
+        "explanation": "地域定着支援の役割との違いに注意します。"
+      },
+      {
+        "choice": 3,
+        "correct": true,
+        "title": "長期入院患者の退院を促進する。",
+        "explanation": "地域移行支援は、病院や施設から地域生活へ移る準備を支えます。退院後に地域生活を続けるための地域定着支援と区別します。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "精神保健福祉手帳の申請が必要である。",
+        "explanation": "手帳の申請を全例必須とする説明ではありません。"
+      },
+      {
+        "choice": 5,
+        "correct": false,
+        "title": "1 人で暮らしている精神障害者が対象である。",
+        "explanation": "すでに一人暮らしの人だけを対象とする制度ではありません。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-PM-082",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "外 傷",
+        "explanation": "外傷後の血管障害はあり得ますが、本問の代表的2因子ではありません。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "喫 煙",
+        "explanation": "他の血管疾患の危険因子と混同しません。"
+      },
+      {
+        "choice": 3,
+        "correct": true,
+        "title": "高 齢",
+        "explanation": "加齢による静脈弁などの変化が関係します。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "手 術",
+        "explanation": "手術と深部静脈血栓症の危険を、静脈瘤と同一視しません。"
+      },
+      {
+        "choice": 5,
+        "correct": true,
+        "title": "妊 娠",
+        "explanation": "血液量や静脈への圧の変化などが関係します。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-PM-083",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "先天性の疾患である。",
+        "explanation": "一般に後天的な感染に続いて起こります。"
+      },
+      {
+        "choice": 2,
+        "correct": true,
+        "title": "悪性腫瘍の発生がある。\nmalignant tumor",
+        "explanation": "長期経過例では悪性腫瘍が生じることがあります。"
+      },
+      {
+        "choice": 3,
+        "correct": true,
+        "title": "手術療法が原則である。",
+        "explanation": "瘻孔の状態を評価して手術療法を検討します。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "上下直腸静脈の静脈瘤である。\nvarix",
+        "explanation": "痔瘻は肛門周囲の感染に関連してできる瘻孔であり、静脈が拡張する病態を指す言葉ではありません。肛門周囲膿瘍から皮膚へ膿の通り道が残る仕組みを理解します。"
+      },
+      {
+        "choice": 5,
+        "correct": false,
+        "title": "骨盤底筋群の虚弱が原因である。",
+        "explanation": "骨盤底筋の弱さを主な原因とはしません。"
+      }
+    ],
+    "status": "FIXED",
+    "review_reason": "選択肢の説明不足・確認待ちの部分を補足。",
+    "fixes_made": [
+      "選択肢4の解説を修正。"
+    ]
+  },
+  {
+    "id": "115-PM-084",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "基本的な治療は手術である。",
+        "explanation": "全例の基本治療を手術とはしません。"
+      },
+      {
+        "choice": 2,
+        "correct": true,
+        "title": "初発症状は上腹部痛である。",
+        "explanation": "代表的な初発症状です。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "鎮痛薬の投与は禁忌である。",
+        "explanation": "疼痛管理は重要で、鎮痛薬が一律禁忌ではありません。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "血中アミラーゼ値が低下する。",
+        "explanation": "一般に上昇を考えますが、値だけで重症度や診断を決めません。"
+      },
+      {
+        "choice": 5,
+        "correct": true,
+        "title": "重症度判定には造影 CT が重要である。",
+        "explanation": "壊死などを評価する重要な検査です。実施条件は個別に判断します。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-PM-085",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": true,
+        "title": "施設系サービスを含む。",
+        "explanation": "在宅だけでなく施設サービスも含みます。"
+      },
+      {
+        "choice": 2,
+        "correct": true,
+        "title": "地域における老人クラブや自治会などの活動を含む。",
+        "explanation": "自治会や老人クラブなどの支え合いも含みます。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "おおむね 60 分以内の日常生活圏域を単位として想定している。",
+        "explanation": "60分という圏域の説明は本問の想定に合いません。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "サービスのコーディネートを担う中核的な機関は都道府県である。",
+        "explanation": "都道府県だけを個別サービス調整の中核とはしません。"
+      },
+      {
+        "choice": 5,
+        "correct": false,
+        "title": "地域特性に関わらず、同じサービスが受けられることを目指している。",
+        "explanation": "全国一律ではなく、地域の特性に応じた構築を目指します。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-PM-086",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": true,
+        "title": "児童委員を兼ねる。",
+        "explanation": "児童委員も兼ねます。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "任期は 5 年である。",
+        "explanation": "5年という任期は本問の規定に合いません。"
+      },
+      {
+        "choice": 3,
+        "correct": true,
+        "title": "厚生労働大臣から委嘱される。",
+        "explanation": "厚生労働大臣が委嘱します。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "社会福祉法に基づいて置かれる。",
+        "explanation": "直接の根拠は民生委員法です。"
+      },
+      {
+        "choice": 5,
+        "correct": false,
+        "title": "全国で約 50 万人が活動している。",
+        "explanation": "活動人数は統計年を確認し、本問の50万人とはしません。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-PM-087",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "尿濃縮力の亢進",
+        "explanation": "濃縮力は低下する傾向があります。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "排尿回数の減少",
+        "explanation": "頻尿が起こりやすく、回数の減少を代表的変化としません。"
+      },
+      {
+        "choice": 3,
+        "correct": true,
+        "title": "膀胱収縮力の低下",
+        "explanation": "排出する力が低下し、残尿などに関係します。"
+      },
+      {
+        "choice": 4,
+        "correct": true,
+        "title": "尿細管の基底膜の肥厚",
+        "explanation": "加齢に伴う腎臓の組織変化には、尿細管の基底膜が厚くなることがあります。構造の変化は腎機能の予備力低下と併せて理解し、加齢によって尿を濃くする力や濾過量が増えると考えないようにします。"
+      },
+      {
+        "choice": 5,
+        "correct": false,
+        "title": "糸球体濾過量〈GFR〉の増加",
+        "explanation": "GFRは低下する傾向があり、増加ではありません。"
+      }
+    ],
+    "status": "FIXED",
+    "review_reason": "選択肢の説明不足・確認待ちの部分を補足。",
+    "fixes_made": [
+      "選択肢4の解説を修正。"
+    ]
+  },
+  {
+    "id": "115-PM-088",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": true,
+        "title": "胸囲は頭囲より大きい。",
+        "explanation": "幼児期には胸囲が頭囲を上回ります。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "大泉門は 3 歳ころに閉鎖する。",
+        "explanation": "通常の閉鎖時期として3歳は遅い説明です。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "乳歯は 5 歳ころに生えそろう。",
+        "explanation": "通常の乳歯の完成時期として5歳は遅い説明です。"
+      },
+      {
+        "choice": 4,
+        "correct": true,
+        "title": "1 分間の心拍数は乳児期よりも減少する。",
+        "explanation": "成長に伴い心拍数は乳児期より少なくなります。"
+      },
+      {
+        "choice": 5,
+        "correct": false,
+        "title": "体重あたりの必要水分量は乳児期よりも多い。",
+        "explanation": "体重当たりの必要水分量は乳児の方が多い傾向です。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-PM-089",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "職員に、こころの健康に関する研修を行う。",
+        "explanation": "健康教育は一次予防に当たります。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "働きやすい職場環境づくりのために職員の意見を聞く。",
+        "explanation": "職場環境の改善は一次予防です。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "うつ病で休職中の職員に職場復帰プログラムを提供する。\ndepression",
+        "explanation": "休職後の復帰支援は三次予防です。"
+      },
+      {
+        "choice": 4,
+        "correct": true,
+        "title": "メンタルヘルスの不調を訴える職員に医療機関を紹介する。",
+        "explanation": "不調を早く治療につなぐ二次予防です。"
+      },
+      {
+        "choice": 5,
+        "correct": true,
+        "title": "ストレスチェックにおいて高ストレスであった者に面談を行う。",
+        "explanation": "高ストレス者を早期に評価し支援する二次予防です。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-PM-090",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "看護管理者に対して職員の部署異動を指示する。",
+        "explanation": "部署異動を独自に指示する権限ではありません。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "せん妄がみられる患者に対する処方内容を変更する。",
+        "explanation": "処方内容を看護師の判断だけで変更しません。"
+      },
+      {
+        "choice": 3,
+        "correct": true,
+        "title": "多職種から依頼を受けてコンサルテーションを行う。",
+        "explanation": "他職種の相談に専門的な助言を行います。"
+      },
+      {
+        "choice": 4,
+        "correct": true,
+        "title": "強い不安を訴える身体疾患患者に心理的ケアを行う。",
+        "explanation": "身体疾患に伴う強い不安などに心理的に関わります。"
+      },
+      {
+        "choice": 5,
+        "correct": false,
+        "title": "身体疾患をもつ患者に対する身体的拘束の判断を行う。",
+        "explanation": "拘束を看護師が単独で決めるという説明ではありません。最小化に向けた相談は行います。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-PM-091",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "「外出時は水分制限をしてください」",
+        "explanation": "外出時だけ一律に水分を制限する根拠はありません。"
+      },
+      {
+        "choice": 2,
+        "correct": true,
+        "title": "「A さんに息切れが出たら休憩してください」",
+        "explanation": "心不全があり、買い物で疲れやすくなっています。息切れを運動負荷のサインとして捉え、休憩しながら本人の活動を支えます。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "「食品は A さんの好きなものを買ってください」",
+        "explanation": "食事療法との調整もあり、好きな物だけで決めません。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "「A さんを車椅子に乗せて買い物に行ってください」",
+        "explanation": "歩行不能の情報はなく、最初から車椅子に限定しません。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-PM-092",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "経済的な状況",
+        "explanation": "費用の検討も必要ですが、現在生じている夫の不調を先に共有します。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "室内の清掃状況",
+        "explanation": "清掃不良を示す情報はありません。"
+      },
+      {
+        "choice": 3,
+        "correct": true,
+        "title": "A さんの夫の体調",
+        "explanation": "家事を担う夫に腰痛が出ており、介護を支える体制が変わる可能性があります。介護者の健康状態を共有してサービスを調整します。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "A さんの夫への気持ち",
+        "explanation": "関係の確認も大切ですが、現在の具体的課題は夫の体調です。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-PM-093",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": true,
+        "title": "「自宅内の避難経路を点検してください」",
+        "explanation": "転倒や出口の閉塞を防ぐために必要です。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "「訪問看護師は災害が発生したらすぐに誘導します」",
+        "explanation": "直ちに来られると保証してはいけません。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "「災害が発生してから近くの避難所の場所を確認しましょう」",
+        "explanation": "避難先は事前に確認します。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "「災害発生時は長女さんの家族が来てから避難してください」",
+        "explanation": "家族の到着を必ず待つと避難が遅れる危険があります。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-PM-094",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "腹部 MRI 検査",
+        "explanation": "大腸粘膜の直接観察・生検はできません。"
+      },
+      {
+        "choice": 2,
+        "correct": true,
+        "title": "大腸内視鏡検査",
+        "explanation": "便潜血陽性の精密検査では、大腸の粘膜を直接観察し必要に応じ組織を採取できる大腸内視鏡が有用です。自覚症状がなくても精査が必要です。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "腹部超音波検査",
+        "explanation": "大腸粘膜病変の精査の第一選択とはしません。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "腹部造影 CT 検査",
+        "explanation": "広がりの評価に用いますが、粘膜観察と生検には内視鏡です。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-PM-095",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "局所麻酔で行う。",
+        "explanation": "通常は全身麻酔で行います。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "上行結腸側を切除する。",
+        "explanation": "上行結腸は右側で、左半結腸切除とは異なります。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "20 cm 程の切開創ができる。",
+        "explanation": "腹腔鏡手術を一律に20cmの切開と説明しません。"
+      },
+      {
+        "choice": 4,
+        "correct": true,
+        "title": "二酸化炭素を腹腔内に入れる。",
+        "explanation": "腹腔鏡手術の気腹法では、二酸化炭素で腹腔を広げて操作する空間を作ります。左半結腸切除の部位と開腹術を混同しません。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-PM-096",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "貧血が進行する。",
+        "explanation": "提示された検査値から進行する貧血は示されていません。"
+      },
+      {
+        "choice": 2,
+        "correct": true,
+        "title": "下痢をしやすくなる。",
+        "explanation": "結腸切除後は水分の吸収や便の保持が変わり、下痢をしやすくなることがあります。胃切除後の病態をそのまま当てはめません。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "体重を減らす必要がある。",
+        "explanation": "体重をさらに減らす必要性は示されていません。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "食後に低血糖が起こりやすくなる。",
+        "explanation": "胃切除後のダンピングなどと混同しません。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-PM-097",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "果 物",
+        "explanation": "本問のヨウ素源として主に制限する食品ではありません。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "肉 類",
+        "explanation": "海藻ほど代表的なヨウ素源として選びません。"
+      },
+      {
+        "choice": 3,
+        "correct": true,
+        "title": "海藻類",
+        "explanation": "ヨウ素を多く含むため、検査前の制限対象になります。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "緑黄色野菜",
+        "explanation": "本問の主な制限対象ではありません。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-PM-098",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "口 渇",
+        "explanation": "訴えは確認しますが、本問で特に早期受診を要する徴候は発熱です。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "脱 毛",
+        "explanation": "相談は必要ですが、感染への抵抗性低下を示す発熱を優先します。"
+      },
+      {
+        "choice": 3,
+        "correct": true,
+        "title": "発 熱",
+        "explanation": "抗甲状腺薬使用中の発熱は、無顆粒球症など重い副作用のサインになり得ます。かぜと自己判断せず、処方元へ速やかに相談します。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "皮膚の搔痒感",
+        "explanation": "皮膚症状も相談しますが、発熱の緊急性に注意します。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-PM-099",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "「自宅療養が必要です」",
+        "explanation": "全員に自宅療養が必要とする根拠はありません。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "「眼が出ることはありません」",
+        "explanation": "眼症状が起こらないと保証できません。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "「妊娠、出産は避けてください」",
+        "explanation": "適切な治療・管理を検討せず一律に避けさせません。"
+      },
+      {
+        "choice": 4,
+        "correct": true,
+        "title": "「症状が落ちつけば運動できます」",
+        "explanation": "治療で症状が落ち着けば活動を再開できる見通しを伝えます。就労や妊娠を一律に否定せず、病状と治療を調整して生活を支えます。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-PM-100",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "左変形性膝関節症の悪化\nosteoarthritis of the left knee",
+        "explanation": "膝痛だけでは左の人に気付かないことを説明できません。"
+      },
+      {
+        "choice": 2,
+        "correct": true,
+        "title": "半側空間無視",
+        "explanation": "左側の壁や人に気付かない行動から、左側への注意が向きにくい半側空間無視を考えます。筋力低下だけでは説明できない行動です。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "聴覚障害",
+        "explanation": "音だけでなく空間全体への反応の問題です。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "視野障害",
+        "explanation": "視野検査も必要ですが、提示行動からは注意の偏りを考えます。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-PM-101",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "「もっと訓練を頑張りましょう」",
+        "explanation": "すでに努力している人に負担を重ねます。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "「訓練の回数を増やしてみましょう」",
+        "explanation": "疲労や意欲低下を評価せず回数を増やしません。"
+      },
+      {
+        "choice": 3,
+        "correct": true,
+        "title": "「ゆっくり訓練をしていきましょう」",
+        "explanation": "家族への責任感から焦り、訓練への意欲が下がっています。努力を増やすよう迫らず、本人のペースで続けられるよう支えます。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "「家族に訓練を手伝ってもらいましょう」",
+        "explanation": "家族の負担を心配する本人への最初の返答として適切ではありません。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-PM-102",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "台所に厚いマットを敷く。",
+        "explanation": "厚いマットは段差やつまずきの原因になり得ます。"
+      },
+      {
+        "choice": 2,
+        "correct": true,
+        "title": "廊下に足元灯を設置する。",
+        "explanation": "暗い場所でも足元が見え、移動しやすくなります。"
+      },
+      {
+        "choice": 3,
+        "correct": true,
+        "title": "室内にある家具を固定する。",
+        "explanation": "つかまった家具が動いて転ぶのを防ぎます。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "室内用スリッパを準備する。",
+        "explanation": "脱げやすいスリッパは転倒につながり得ます。"
+      },
+      {
+        "choice": 5,
+        "correct": false,
+        "title": "室内用の車椅子を購入する。",
+        "explanation": "歩行可能な状態に対し車椅子を必須とはしません。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-PM-103",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "「A さんはまだまだ頑張れますよ」",
+        "explanation": "本人の死への思いを打ち消す返答になります。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "「できるだけ A さんのそばにいます」",
+        "explanation": "そばにいることも支えですが、まず希望の内容を確認します。"
+      },
+      {
+        "choice": 3,
+        "correct": true,
+        "title": "「A さんがどうしたいか教えてください」",
+        "explanation": "『私らしく』の内容は本人によって異なります。看護師が意味を決めず、どのように過ごしたいかを聞いて支援へつなぎます。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "「そんなことを言うとご家族が悲しみますよ」",
+        "explanation": "家族の悲しみを理由に本人の表現を抑えません。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-PM-104",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "「もう何も感じませんよ」",
+        "explanation": "何も感じないと断定できません。"
+      },
+      {
+        "choice": 2,
+        "correct": true,
+        "title": "「これからの経過についてお話しします」",
+        "explanation": "看取りの経過が分からない家族に、予想される変化と関われることを説明します。家族の不安を聞き、そばで過ごすことを支えます。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "「状態が不安定なのでケアは職員で行います」",
+        "explanation": "家族をケアから一律に遠ざける必要はありません。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "「これからはご家族が目を離さないでください」",
+        "explanation": "常に監視する責任を家族へ負わせません。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-PM-105",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "足浴を行う。",
+        "explanation": "この時期の負担と利益を考え、足浴を最優先とはしません。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "口腔内吸引を行う。",
+        "explanation": "音だけを理由に一律吸引せず、苦痛と必要性を評価します。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "心肺蘇生の準備をする。",
+        "explanation": "確認された延命処置を望まない意思に合いません。"
+      },
+      {
+        "choice": 4,
+        "correct": true,
+        "title": "家族と過ごせるよう居室を整備する。",
+        "explanation": "本人と家族は延命処置を希望せず施設での看取りに同意しています。苦痛を評価しながら、家族が落ち着いてそばにいられる環境を優先します。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-PM-106",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "ばち指",
+        "explanation": "慢性的な病態でみられる指の形状変化です。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "クリックサイン",
+        "explanation": "本問の術後循環障害の所見ではありません。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "Gowers〈 ガワーズ〉徴候",
+        "explanation": "筋力低下に関する徴候で、骨折後の虚血とは異なります。"
+      },
+      {
+        "choice": 4,
+        "correct": true,
+        "title": "Volkmann〈フォルクマン〉拘縮",
+        "explanation": "上腕骨骨折とギプス固定後は前腕の循環障害に注意します。虚血が続くとフォルクマン拘縮につながるため、疼痛・腫脹・末梢循環などを観察します。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-PM-107",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": true,
+        "title": "「左手で食べる練習をしよう」",
+        "explanation": "母親の負担を気にし、自分でできることを増やしたい児の気持ちを生かします。健側の左手で食べる練習を支援します。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "「お姉ちゃんだから、頑張ろう」",
+        "explanation": "姉という役割を理由に負担をかけます。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "「看護師さんが食べさせてあげるね」",
+        "explanation": "全面介助より、できる動作を一緒に探します。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "「お母さんのことは気にしなくていいよ」",
+        "explanation": "母親を思う気持ちを否定しません。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-PM-108",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "「A ちゃんは、前回、頑張れたから大丈夫ですよ」",
+        "explanation": "前回できたことだけで今回の不安を否定しません。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "「お母さんに手術前のオリエンテーションをしますね」",
+        "explanation": "母親だけでなく本人にも説明が必要です。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "「お母さんから、手術が必要であることを説明してください」",
+        "explanation": "説明を母親に任せきりにしません。"
+      },
+      {
+        "choice": 4,
+        "correct": true,
+        "title": "「手術に対してポジティブに取り組めるよう、A ちゃんに説明しますね」",
+        "explanation": "急な前回手術の記憶が乏しく、不安を感じています。年齢に合う説明で見通しを持ち、本人が対処できるよう準備を支えます。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-PM-109",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "感染徴候がある。",
+        "explanation": "提示された体温などから感染を示す根拠はありません。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "前駆陣痛である。",
+        "explanation": "規則的な陣痛と開大があり、前駆陣痛とはしません。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "分娩第 2 期である。",
+        "explanation": "子宮口全開大前であり第2期ではありません。"
+      },
+      {
+        "choice": 4,
+        "correct": true,
+        "title": "正期産の時期である。",
+        "explanation": "妊娠40週5日は正期産の時期です。規則的な陣痛と子宮口の変化があり、全開大前なので分娩第1期と考えます。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-PM-110",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "頻脈である。",
+        "explanation": "提示された心拍数を新生児の頻脈とはしません。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "多呼吸である。",
+        "explanation": "提示された呼吸数を多呼吸とはしません。"
+      },
+      {
+        "choice": 3,
+        "correct": true,
+        "title": "新生児月経がある。",
+        "explanation": "日齢と血性分泌の記述に合う生理的変化です。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "生理的体重減少を逸脱している。",
+        "explanation": "出生体重からの減少は、この情報では生理的範囲を逸脱するとは判断しません。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-PM-111",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "「母乳を中止します」",
+        "explanation": "母乳を一律に中止する治療ではありません。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "「母児同室は継続できます」",
+        "explanation": "本例は保育器収容のため、同室継続を無条件に約束できません。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "「薄い衣服を着て治療します」",
+        "explanation": "衣服で照射範囲を覆う方法を基本とはしません。"
+      },
+      {
+        "choice": 4,
+        "correct": true,
+        "title": "「アイマスクをして治療します」",
+        "explanation": "スタンド型光線療法では、皮膚に光を当てつつ眼を保護します。治療方式や収容先に応じた具体的な管理を説明します。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-PM-112",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "「パートナーの気持ちを考えましょう」",
+        "explanation": "他人の気持ちを優先させる前に本人の苦痛を聞きます。"
+      },
+      {
+        "choice": 2,
+        "correct": true,
+        "title": "「死にたいと思うほどつらかったのですね」",
+        "explanation": "自傷後に希死念慮を語る本人の苦痛を、まず否定せず受け止めます。共感と同時に、現在の安全や自殺の危険の評価も必要です。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "「メールの返信はすぐにはできないものですよ」",
+        "explanation": "一般論で諭すだけでは今の苦痛に応えられません。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "「つらくても自分を傷つけることはやめましょう」",
+        "explanation": "禁止だけで対処方法や安全を支えることはできません。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-PM-113",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "B 看護師の担当患者を減らす。",
+        "explanation": "担当数だけを変えても関係の課題は解決しません。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "A さんの希望に応じて担当者を変更する。",
+        "explanation": "要求のたびに担当変更すると一貫性を失います。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "パートナーに、A さんに電話をするよう連絡する。",
+        "explanation": "本人の不安を支える代わりに要求を代行する対応です。"
+      },
+      {
+        "choice": 4,
+        "correct": true,
+        "title": "カンファレンスでチーム内の看護師の感情を共有する。",
+        "explanation": "スタッフの感情を共有し、責めずに対応を検討します。"
+      },
+      {
+        "choice": 5,
+        "correct": true,
+        "title": "日中に時間を決めて話を聞くことを、A さんに伝える。",
+        "explanation": "話を聞く機会を確保し、予測できる関わりにします。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-PM-114",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "他の患者に大声を出さないよう指導する。",
+        "explanation": "注意だけでは引き金と苦痛に対応できません。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "過去のつらい体験は思い出さないよう伝える。",
+        "explanation": "思い出さないよう命じることはできません。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "日中、大音量のテレビに慣れる練習を提案する。",
+        "explanation": "専門的な計画なく強い刺激へ慣らす提案は適切ではありません。"
+      },
+      {
+        "choice": 4,
+        "correct": true,
+        "title": "気持ちを言語化したことを肯定的にフィードバックする。",
+        "explanation": "怒りの背景にある怖さを本人が言葉にできています。その表現を肯定し、刺激を調整しながら安全な対処を考えます。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-PM-115",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": true,
+        "title": "予期不安がある。",
+        "explanation": "また発作が起こるのではと恐れて外出できない状態は予期不安です。まだ起きていない発作への恐れが生活を制限しています。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "うつ症状が悪化している。",
+        "explanation": "うつ症状の悪化を示す具体的情報はありません。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "睡眠薬の持ち越し効果がある。",
+        "explanation": "翌日の眠気など薬の持ち越しを示す情報ではありません。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "仕事に対するストレスが増している。",
+        "explanation": "職場の負担が増えたとする情報はありません。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-PM-116",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "目的地までの別の通勤経路を検討する。",
+        "explanation": "経路変更だけでは電車への恐れに対処できません。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "抗うつ薬の効果についての正しい知識を教育する。",
+        "explanation": "薬の理解も必要ですが、本人が求める通勤場面の対処を優先します。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "同じ症状を持つ人々との話し合いができる場を紹介する。",
+        "explanation": "交流も支えになりますが、現在の場面に対する練習がより直接的です。"
+      },
+      {
+        "choice": 4,
+        "correct": true,
+        "title": "発作を起こしそうな場面を想定した対処法を看護師と一緒に練習する。",
+        "explanation": "電車通勤を続けたいという希望に合わせ、発作が起こりそうな時の対処を一緒に練習します。不安による回避だけを広げない支援です。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-PM-117",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "「休日は昼まで寝るようにしましょう」",
+        "explanation": "遅い起床は生活リズムをずらし得ます。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "「帰宅後に短時間の睡眠をとりましょう」",
+        "explanation": "夕方以降の睡眠は夜の眠気を弱める場合があります。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "「寝る前に熱めのお風呂に浸かると良いですよ」",
+        "explanation": "就寝直前の熱い入浴は覚醒を高めることがあります。"
+      },
+      {
+        "choice": 4,
+        "correct": true,
+        "title": "「眠くなってからベッドに横になると良いですよ」",
+        "explanation": "眠くないのに寝床で長く過ごすと、眠れないことへの不安が強くなる場合があります。眠気に合わせて寝床に入り、生活リズムを保ちます。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-PM-118",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": false,
+        "title": "B さんを一般病棟に転棟する。",
+        "explanation": "大声だけを理由に必要なICU管理を変更しません。"
+      },
+      {
+        "choice": 2,
+        "correct": true,
+        "title": "意識が清明な患者に声かけを行う。",
+        "explanation": "状況を伝え安心できるよう関わります。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "A さんの人工呼吸器を外し手動で補助呼吸を行う。",
+        "explanation": "正常作動中の人工呼吸器を外す必要は示されていません。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "輸液ポンプ使用者の輸液ラインを自然滴下に切り替える。",
+        "explanation": "正常作動中のポンプを自然滴下に変えると投与精度が変わります。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-PM-119",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": true,
+        "title": "睡眠と食事の状況を聞く。",
+        "explanation": "苦痛が生活と健康にどう影響しているか確認します。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "娘のことを早く忘れるよう促す。",
+        "explanation": "娘への思いを否定する対応です。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "待っていれば娘は見つかると励ます。",
+        "explanation": "安否について根拠なく保証できません。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "気分転換をするために近所の友人と新しいことを始めるよう提案する。",
+        "explanation": "本人の気持ちを聞かず新しい活動を急がせません。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  },
+  {
+    "id": "115-PM-120",
+    "choice_explanations": [
+      {
+        "choice": 1,
+        "correct": true,
+        "title": "複数人で静かな環境に案内する。",
+        "explanation": "興奮時は刺激を減らし、安全を確保して話を聞きます。複数のスタッフで落ち着いた場所へ案内し、威圧や不意の接触を避けます。"
+      },
+      {
+        "choice": 2,
+        "correct": false,
+        "title": "大きな声で落ち着くように注意する。",
+        "explanation": "大声の注意は対立と興奮を強め得ます。"
+      },
+      {
+        "choice": 3,
+        "correct": false,
+        "title": "背後からゆっくりとタッチングを行う。",
+        "explanation": "背後からの接触は驚きや恐怖を招きます。"
+      },
+      {
+        "choice": 4,
+        "correct": false,
+        "title": "他の人も我慢しているので D さんも我慢するよう説明する。",
+        "explanation": "他者と比較して我慢を求めても苦痛を理解する対応になりません。"
+      }
+    ],
+    "status": "PASS",
+    "review_reason": "",
+    "fixes_made": []
+  }
+]
