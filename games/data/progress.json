@@ -1,0 +1,62 @@
+{
+  "status": "incomplete",
+  "years": {
+    "113": {
+      "stage": "extracted_and_mechanically_checked",
+      "semantic_review_complete": false,
+      "visual_full_review_complete": false
+    },
+    "112": {
+      "stage": "extracted_and_mechanically_checked",
+      "semantic_review_complete": false,
+      "visual_full_review_complete": false
+    },
+    "111": {
+      "stage": "extracted_and_mechanically_checked",
+      "semantic_review_complete": false,
+      "visual_full_review_complete": false
+    },
+    "110": {
+      "stage": "extracted_and_mechanically_checked",
+      "semantic_review_complete": false,
+      "visual_full_review_complete": false
+    },
+    "109": {
+      "stage": "extracted_and_mechanically_checked",
+      "semantic_review_complete": false,
+      "visual_full_review_complete": false
+    },
+    "108": {
+      "stage": "extracted_and_mechanically_checked",
+      "semantic_review_complete": false,
+      "visual_full_review_complete": false
+    },
+    "107": {
+      "stage": "extracted_and_mechanically_checked",
+      "semantic_review_complete": false,
+      "visual_full_review_complete": false
+    },
+    "106": {
+      "stage": "extracted_and_mechanically_checked",
+      "semantic_review_complete": false,
+      "visual_full_review_complete": false
+    },
+    "115": {
+      "stage": "reviewed_with_two_pending_text_questions",
+      "semantic_review_complete": true,
+      "visual_full_review_complete": false,
+      "game_adopted": 228
+    },
+    "114": {
+      "stage": "extracted_and_mechanically_checked",
+      "semantic_review_complete": false,
+      "visual_full_review_complete": false
+    }
+  },
+  "game": {
+    "source": "questions.json",
+    "adopted": 228,
+    "required": 46,
+    "original_banks_removed": true
+  }
+}

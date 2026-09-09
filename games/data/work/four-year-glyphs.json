@@ -1,0 +1,2100 @@
+{
+  "111-AM": {
+    "fonts": {
+      "MIFHKJ+MS-UIGothic..": 2451,
+      "MIFHKK+MS-UIGothic": 120,
+      "MIFHKL+FutoGoB101Pr6-Bold": 615,
+      "MIFHKM+RyuminPr6-Regular": 18287,
+      "MIFHKN+RyuminPr6-Regular.": 196,
+      "MIFHLO+ZZ-PIStd-819": 6,
+      "MIFIBN+FutoGoB101Pr6-Bold.": 7,
+      "MIFLAM+B2MathRegularItalic": 6,
+      "MIGBND+RyuminPr6-Regular..": 1
+    },
+    "glyphs": {
+      "MIFHKN+RyuminPr6-Regular.|(cid:2)": {
+        "page": 0,
+        "box": [
+          388.5935,
+          260.85360000000003,
+          400.6407,
+          272.9008
+        ],
+        "text": "(cid:2)",
+        "font": "MIFHKN+RyuminPr6-Regular."
+      },
+      "MIFHKM+RyuminPr6-Regular|(cid:31)": {
+        "page": 0,
+        "box": [
+          183.79109999999997,
+          309.04239999999993,
+          189.81469999999996,
+          321.0895999999999
+        ],
+        "text": "(cid:31)",
+        "font": "MIFHKM+RyuminPr6-Regular"
+      },
+      "MIFHKN+RyuminPr6-Regular.|(cid:4)": {
+        "page": 0,
+        "box": [
+          201.86189999999996,
+          309.04239999999993,
+          213.90909999999997,
+          321.0895999999999
+        ],
+        "text": "(cid:4)",
+        "font": "MIFHKN+RyuminPr6-Regular."
+      },
+      "MIFHKM+RyuminPr6-Regular|!": {
+        "page": 0,
+        "box": [
+          213.90909999999997,
+          309.04239999999993,
+          219.93269999999995,
+          321.0895999999999
+        ],
+        "text": "!",
+        "font": "MIFHKM+RyuminPr6-Regular"
+      },
+      "MIFHKN+RyuminPr6-Regular.|(cid:5)": {
+        "page": 0,
+        "box": [
+          310.28669999999994,
+          309.04239999999993,
+          322.3338999999999,
+          321.0895999999999
+        ],
+        "text": "(cid:5)",
+        "font": "MIFHKN+RyuminPr6-Regular."
+      },
+      "MIFHKN+RyuminPr6-Regular.|(cid:6)": {
+        "page": 0,
+        "box": [
+          424.73509999999993,
+          309.04239999999993,
+          436.7822999999999,
+          321.0895999999999
+        ],
+        "text": "(cid:6)",
+        "font": "MIFHKN+RyuminPr6-Regular."
+      },
+      "MIFHKN+RyuminPr6-Regular.|(cid:7)": {
+        "page": 0,
+        "box": [
+          221.48558407999988,
+          333.1367999999999,
+          233.53278407999989,
+          345.18399999999986
+        ],
+        "text": "(cid:7)",
+        "font": "MIFHKN+RyuminPr6-Regular."
+      },
+      "MIFHKM+RyuminPr6-Regular|,": {
+        "page": 0,
+        "box": [
+          261.4231481,
+          490.26149999999996,
+          262.8652786,
+          498.05679999999995
+        ],
+        "text": ",",
+        "font": "MIFHKM+RyuminPr6-Regular"
+      },
+      "MIFHKM+RyuminPr6-Regular|.": {
+        "page": 0,
+        "box": [
+          268.9222267,
+          490.26149999999996,
+          270.36435720000003,
+          498.05679999999995
+        ],
+        "text": ".",
+        "font": "MIFHKM+RyuminPr6-Regular"
+      },
+      "MIFHKM+RyuminPr6-Regular|-": {
+        "page": 0,
+        "box": [
+          556.3004591,
+          871.5212,
+          560.1981091,
+          879.3165
+        ],
+        "text": "-",
+        "font": "MIFHKM+RyuminPr6-Regular"
+      },
+      "MIFHKN+RyuminPr6-Regular.|(cid:8)": {
+        "page": 0,
+        "box": [
+          436.7828999999999,
+          188.57010000000002,
+          448.8300999999999,
+          200.6173
+        ],
+        "text": "(cid:8)",
+        "font": "MIFHKN+RyuminPr6-Regular."
+      },
+      "MIFIBN+FutoGoB101Pr6-Bold.|(cid:2)": {
+        "page": 1,
+        "box": [
+          400.641746,
+          532.9787507200001,
+          412.688946,
+          545.0259507200001
+        ],
+        "text": "(cid:2)",
+        "font": "MIFIBN+FutoGoB101Pr6-Bold."
+      },
+      "MIFHKM+RyuminPr6-Regular|%": {
+        "page": 2,
+        "box": [
+          292.2159999999999,
+          336.15047863999985,
+          302.0344679999999,
+          348.1976786399998
+        ],
+        "text": "%",
+        "font": "MIFHKM+RyuminPr6-Regular"
+      },
+      "MIFHKN+RyuminPr6-Regular.|(cid:10)": {
+        "page": 2,
+        "box": [
+          250.0511,
+          386.6413308,
+          262.0983,
+          398.68853079999997
+        ],
+        "text": "(cid:10)",
+        "font": "MIFHKN+RyuminPr6-Regular."
+      },
+      "MIFHKN+RyuminPr6-Regular.|(cid:11)": {
+        "page": 2,
+        "box": [
+          250.0511,
+          507.8241155999998,
+          262.0983,
+          519.8713155999998
+        ],
+        "text": "(cid:11)",
+        "font": "MIFHKN+RyuminPr6-Regular."
+      },
+      "MIFHKN+RyuminPr6-Regular.|(cid:12)": {
+        "page": 2,
+        "box": [
+          250.0511,
+          528.0212463999999,
+          262.0983,
+          540.0684463999999
+        ],
+        "text": "(cid:12)",
+        "font": "MIFHKN+RyuminPr6-Regular."
+      },
+      "MIFHKN+RyuminPr6-Regular.|(cid:13)": {
+        "page": 2,
+        "box": [
+          250.0511,
+          548.2183771999998,
+          262.0983,
+          560.2655771999998
+        ],
+        "text": "(cid:13)",
+        "font": "MIFHKN+RyuminPr6-Regular."
+      },
+      "MIFHKM+RyuminPr6-Regular|/": {
+        "page": 7,
+        "box": [
+          231.98048071999992,
+          694.5530999999999,
+          238.0040807199999,
+          706.6002999999998
+        ],
+        "text": "/",
+        "font": "MIFHKM+RyuminPr6-Regular"
+      },
+      "MIFHKM+RyuminPr6-Regular|(cid:141)": {
+        "page": 11,
+        "box": [
+          274.33785520000004,
+          164.47570000000007,
+          280.3614552,
+          176.52290000000005
+        ],
+        "text": "(cid:141)",
+        "font": "MIFHKM+RyuminPr6-Regular"
+      },
+      "MIFHKM+RyuminPr6-Regular|(cid:143)": {
+        "page": 11,
+        "box": [
+          352.64465520000005,
+          164.47570000000007,
+          358.66825520000003,
+          176.52290000000005
+        ],
+        "text": "(cid:143)",
+        "font": "MIFHKM+RyuminPr6-Regular"
+      },
+      "MIFHKN+RyuminPr6-Regular.|(cid:14)": {
+        "page": 20,
+        "box": [
+          183.79149999999981,
+          574.0804999999996,
+          195.83869999999982,
+          586.1276999999995
+        ],
+        "text": "(cid:14)",
+        "font": "MIFHKN+RyuminPr6-Regular."
+      },
+      "MIGBND+RyuminPr6-Regular..|(cid:2)": {
+        "page": 28,
+        "box": [
+          183.79197599999978,
+          453.6091999999999,
+          195.83917599999978,
+          465.65639999999985
+        ],
+        "text": "(cid:2)",
+        "font": "MIGBND+RyuminPr6-Regular.."
+      }
+    }
+  },
+  "111-PM": {
+    "fonts": {
+      "LJJPGP+MS-UIGothic..": 2451,
+      "LJJPHA+MS-UIGothic": 120,
+      "LJJPHB+FutoGoB101Pr6-Bold": 619,
+      "LJJPIB+RyuminPr6-Regular": 17921,
+      "LJJPIC+RyuminPr6-Regular.": 179,
+      "LJJPJD+ZZ-PIStd-819": 26,
+      "LJKADA+FutoGoB101Pr6-Bold.": 7,
+      "LJKLAP+RyuminPr6-Regular..": 3,
+      "LJLBHI+B2MathRegularItalic": 1
+    },
+    "glyphs": {
+      "LJJPIC+RyuminPr6-Regular.|(cid:2)": {
+        "page": 0,
+        "box": [
+          388.5935,
+          260.85360000000003,
+          400.6407,
+          272.9008
+        ],
+        "text": "(cid:2)",
+        "font": "LJJPIC+RyuminPr6-Regular."
+      },
+      "LJJPIB+RyuminPr6-Regular|(cid:31)": {
+        "page": 0,
+        "box": [
+          183.79109999999997,
+          309.04239999999993,
+          189.81469999999996,
+          321.0895999999999
+        ],
+        "text": "(cid:31)",
+        "font": "LJJPIB+RyuminPr6-Regular"
+      },
+      "LJJPIC+RyuminPr6-Regular.|(cid:4)": {
+        "page": 0,
+        "box": [
+          201.86189999999996,
+          309.04239999999993,
+          213.90909999999997,
+          321.0895999999999
+        ],
+        "text": "(cid:4)",
+        "font": "LJJPIC+RyuminPr6-Regular."
+      },
+      "LJJPIB+RyuminPr6-Regular|!": {
+        "page": 0,
+        "box": [
+          213.90909999999997,
+          309.04239999999993,
+          219.93269999999995,
+          321.0895999999999
+        ],
+        "text": "!",
+        "font": "LJJPIB+RyuminPr6-Regular"
+      },
+      "LJJPIC+RyuminPr6-Regular.|(cid:5)": {
+        "page": 0,
+        "box": [
+          310.28669999999994,
+          309.04239999999993,
+          322.3338999999999,
+          321.0895999999999
+        ],
+        "text": "(cid:5)",
+        "font": "LJJPIC+RyuminPr6-Regular."
+      },
+      "LJJPIC+RyuminPr6-Regular.|(cid:6)": {
+        "page": 0,
+        "box": [
+          424.73509999999993,
+          309.04239999999993,
+          436.7822999999999,
+          321.0895999999999
+        ],
+        "text": "(cid:6)",
+        "font": "LJJPIC+RyuminPr6-Regular."
+      },
+      "LJJPIC+RyuminPr6-Regular.|(cid:7)": {
+        "page": 0,
+        "box": [
+          221.48558407999988,
+          333.1367999999999,
+          233.53278407999989,
+          345.18399999999986
+        ],
+        "text": "(cid:7)",
+        "font": "LJJPIC+RyuminPr6-Regular."
+      },
+      "LJJPIB+RyuminPr6-Regular|-": {
+        "page": 0,
+        "box": [
+          556.3004591,
+          871.5212,
+          560.1981091,
+          879.3165
+        ],
+        "text": "-",
+        "font": "LJJPIB+RyuminPr6-Regular"
+      },
+      "LJKADA+FutoGoB101Pr6-Bold.|(cid:2)": {
+        "page": 1,
+        "box": [
+          400.6408,
+          532.9795,
+          412.688,
+          545.0267
+        ],
+        "text": "(cid:2)",
+        "font": "LJKADA+FutoGoB101Pr6-Bold."
+      },
+      "LJJPIB+RyuminPr6-Regular|%": {
+        "page": 2,
+        "box": [
+          292.2159999999999,
+          336.15047863999985,
+          302.0344679999999,
+          348.1976786399998
+        ],
+        "text": "%",
+        "font": "LJJPIB+RyuminPr6-Regular"
+      },
+      "LJJPIC+RyuminPr6-Regular.|(cid:9)": {
+        "page": 2,
+        "box": [
+          250.0511,
+          386.6413308,
+          262.0983,
+          398.68853079999997
+        ],
+        "text": "(cid:9)",
+        "font": "LJJPIC+RyuminPr6-Regular."
+      },
+      "LJJPIC+RyuminPr6-Regular.|(cid:10)": {
+        "page": 2,
+        "box": [
+          250.0511,
+          507.8241155999998,
+          262.0983,
+          519.8713155999998
+        ],
+        "text": "(cid:10)",
+        "font": "LJJPIC+RyuminPr6-Regular."
+      },
+      "LJJPIC+RyuminPr6-Regular.|(cid:11)": {
+        "page": 2,
+        "box": [
+          250.0511,
+          528.0212463999999,
+          262.0983,
+          540.0684463999999
+        ],
+        "text": "(cid:11)",
+        "font": "LJJPIC+RyuminPr6-Regular."
+      },
+      "LJJPIC+RyuminPr6-Regular.|(cid:12)": {
+        "page": 2,
+        "box": [
+          250.0511,
+          548.2183771999998,
+          262.0983,
+          560.2655771999998
+        ],
+        "text": "(cid:12)",
+        "font": "LJJPIC+RyuminPr6-Regular."
+      },
+      "LJJPIC+RyuminPr6-Regular.|(cid:13)": {
+        "page": 2,
+        "box": [
+          250.0511,
+          568.4155079999998,
+          262.0983,
+          580.4627079999998
+        ],
+        "text": "(cid:13)",
+        "font": "LJJPIC+RyuminPr6-Regular."
+      },
+      "LJJPIB+RyuminPr6-Regular|,": {
+        "page": 6,
+        "box": [
+          216.9209,
+          212.66449999999998,
+          222.94449999999998,
+          224.71169999999995
+        ],
+        "text": ",",
+        "font": "LJJPIB+RyuminPr6-Regular"
+      },
+      "LJJPIB+RyuminPr6-Regular|(cid:214)": {
+        "page": 6,
+        "box": [
+          304.2630999999999,
+          525.8916999999996,
+          310.2866999999999,
+          537.9388999999995
+        ],
+        "text": "(cid:214)",
+        "font": "LJJPIB+RyuminPr6-Regular"
+      },
+      "LJJPIB+RyuminPr6-Regular|(cid:217)": {
+        "page": 6,
+        "box": [
+          337.71817439999995,
+          525.8916999999996,
+          343.74177439999994,
+          537.9388999999995
+        ],
+        "text": "(cid:217)",
+        "font": "LJJPIB+RyuminPr6-Regular"
+      },
+      "LJJPIB+RyuminPr6-Regular|.": {
+        "page": 7,
+        "box": [
+          221.0410424,
+          333.13649999999984,
+          223.26977440000002,
+          345.1836999999998
+        ],
+        "text": ".",
+        "font": "LJJPIB+RyuminPr6-Regular"
+      },
+      "LJJPIB+RyuminPr6-Regular|(cid:181)": {
+        "page": 10,
+        "box": [
+          195.83859999999999,
+          381.32589999999993,
+          207.8858,
+          393.3730999999999
+        ],
+        "text": "(cid:181)",
+        "font": "LJJPIB+RyuminPr6-Regular"
+      },
+      "LJJPIC+RyuminPr6-Regular.|(cid:14)": {
+        "page": 17,
+        "box": [
+          304.26368559999986,
+          525.8925999999999,
+          316.31088559999984,
+          537.9397999999999
+        ],
+        "text": "(cid:14)",
+        "font": "LJJPIC+RyuminPr6-Regular."
+      },
+      "LJJPIB+RyuminPr6-Regular|/": {
+        "page": 18,
+        "box": [
+          210.89727407999996,
+          212.66449999999998,
+          216.92087407999995,
+          224.71169999999995
+        ],
+        "text": "/",
+        "font": "LJJPIB+RyuminPr6-Regular"
+      },
+      "LJKLAP+RyuminPr6-Regular..|(cid:2)": {
+        "page": 18,
+        "box": [
+          244.02739999999997,
+          598.1764000000001,
+          256.0746,
+          610.2236
+        ],
+        "text": "(cid:2)",
+        "font": "LJKLAP+RyuminPr6-Regular.."
+      },
+      "LJJPIC+RyuminPr6-Regular.|(cid:15)": {
+        "page": 29,
+        "box": [
+          183.7913999999998,
+          284.9476999999998,
+          195.83859999999981,
+          296.9948999999998
+        ],
+        "text": "(cid:15)",
+        "font": "LJJPIC+RyuminPr6-Regular."
+      }
+    }
+  },
+  "112-AM": {
+    "fonts": {
+      "LDEPAH+MS-UIGothic..": 2287,
+      "LDEPAI+MS-UIGothic": 112,
+      "LDEPAJ+FutoGoB101Pr6-Bold": 615,
+      "LDEPAK+RyuminPr6-Regular": 18024,
+      "LDEPAL+RyuminPr6-Regular.": 179,
+      "LDEPBM+ZZ-PIStd-819": 9,
+      "LDEPOI+FutoGoB101Pr6-Bold.": 7,
+      "LDFNIF+RyuminPr6-Regular..": 1,
+      "LDGJAP+B2MathRegularItalic": 9
+    },
+    "glyphs": {
+      "LDEPAL+RyuminPr6-Regular.|(cid:2)": {
+        "page": 0,
+        "box": [
+          388.5935,
+          260.85360000000003,
+          400.6407,
+          272.9008
+        ],
+        "text": "(cid:2)",
+        "font": "LDEPAL+RyuminPr6-Regular."
+      },
+      "LDEPAK+RyuminPr6-Regular|(cid:31)": {
+        "page": 0,
+        "box": [
+          183.79109999999997,
+          309.04239999999993,
+          189.81469999999996,
+          321.0895999999999
+        ],
+        "text": "(cid:31)",
+        "font": "LDEPAK+RyuminPr6-Regular"
+      },
+      "LDEPAL+RyuminPr6-Regular.|(cid:4)": {
+        "page": 0,
+        "box": [
+          201.86189999999996,
+          309.04239999999993,
+          213.90909999999997,
+          321.0895999999999
+        ],
+        "text": "(cid:4)",
+        "font": "LDEPAL+RyuminPr6-Regular."
+      },
+      "LDEPAK+RyuminPr6-Regular|!": {
+        "page": 0,
+        "box": [
+          213.90909999999997,
+          309.04239999999993,
+          219.93269999999995,
+          321.0895999999999
+        ],
+        "text": "!",
+        "font": "LDEPAK+RyuminPr6-Regular"
+      },
+      "LDEPAL+RyuminPr6-Regular.|(cid:5)": {
+        "page": 0,
+        "box": [
+          310.28669999999994,
+          309.04239999999993,
+          322.3338999999999,
+          321.0895999999999
+        ],
+        "text": "(cid:5)",
+        "font": "LDEPAL+RyuminPr6-Regular."
+      },
+      "LDEPAL+RyuminPr6-Regular.|(cid:6)": {
+        "page": 0,
+        "box": [
+          424.73509999999993,
+          309.04239999999993,
+          436.7822999999999,
+          321.0895999999999
+        ],
+        "text": "(cid:6)",
+        "font": "LDEPAL+RyuminPr6-Regular."
+      },
+      "LDEPAL+RyuminPr6-Regular.|(cid:7)": {
+        "page": 0,
+        "box": [
+          221.48558407999988,
+          333.1367999999999,
+          233.53278407999989,
+          345.18399999999986
+        ],
+        "text": "(cid:7)",
+        "font": "LDEPAL+RyuminPr6-Regular."
+      },
+      "LDEPAK+RyuminPr6-Regular|,": {
+        "page": 0,
+        "box": [
+          261.4231481,
+          490.26149999999996,
+          262.8652786,
+          498.05679999999995
+        ],
+        "text": ",",
+        "font": "LDEPAK+RyuminPr6-Regular"
+      },
+      "LDEPAK+RyuminPr6-Regular|.": {
+        "page": 0,
+        "box": [
+          268.9222267,
+          490.26149999999996,
+          270.36435720000003,
+          498.05679999999995
+        ],
+        "text": ".",
+        "font": "LDEPAK+RyuminPr6-Regular"
+      },
+      "LDEPAK+RyuminPr6-Regular|-": {
+        "page": 0,
+        "box": [
+          556.3004591,
+          871.5212,
+          560.1981091,
+          879.3165
+        ],
+        "text": "-",
+        "font": "LDEPAK+RyuminPr6-Regular"
+      },
+      "LDEPAL+RyuminPr6-Regular.|(cid:8)": {
+        "page": 0,
+        "box": [
+          436.7828999999999,
+          188.57010000000002,
+          448.8300999999999,
+          200.6173
+        ],
+        "text": "(cid:8)",
+        "font": "LDEPAL+RyuminPr6-Regular."
+      },
+      "LDEPOI+FutoGoB101Pr6-Bold.|(cid:2)": {
+        "page": 1,
+        "box": [
+          400.641746,
+          532.9787507200001,
+          412.688946,
+          545.0259507200001
+        ],
+        "text": "(cid:2)",
+        "font": "LDEPOI+FutoGoB101Pr6-Bold."
+      },
+      "LDEPAK+RyuminPr6-Regular|%": {
+        "page": 2,
+        "box": [
+          292.2159999999999,
+          336.15047863999985,
+          302.0344679999999,
+          348.1976786399998
+        ],
+        "text": "%",
+        "font": "LDEPAK+RyuminPr6-Regular"
+      },
+      "LDEPAL+RyuminPr6-Regular.|(cid:10)": {
+        "page": 2,
+        "box": [
+          250.0511,
+          386.6413308,
+          262.0983,
+          398.68853079999997
+        ],
+        "text": "(cid:10)",
+        "font": "LDEPAL+RyuminPr6-Regular."
+      },
+      "LDEPAL+RyuminPr6-Regular.|(cid:11)": {
+        "page": 2,
+        "box": [
+          250.0511,
+          507.8241155999998,
+          262.0983,
+          519.8713155999998
+        ],
+        "text": "(cid:11)",
+        "font": "LDEPAL+RyuminPr6-Regular."
+      },
+      "LDEPAL+RyuminPr6-Regular.|(cid:12)": {
+        "page": 2,
+        "box": [
+          250.0511,
+          528.0212463999999,
+          262.0983,
+          540.0684463999999
+        ],
+        "text": "(cid:12)",
+        "font": "LDEPAL+RyuminPr6-Regular."
+      },
+      "LDEPAL+RyuminPr6-Regular.|(cid:13)": {
+        "page": 2,
+        "box": [
+          250.0511,
+          548.2183771999998,
+          262.0983,
+          560.2655771999998
+        ],
+        "text": "(cid:13)",
+        "font": "LDEPAL+RyuminPr6-Regular."
+      },
+      "LDEPAK+RyuminPr6-Regular|(cid:239)": {
+        "page": 6,
+        "box": [
+          269.03949664,
+          525.8916999999996,
+          275.06309663999997,
+          537.9388999999995
+        ],
+        "text": "(cid:239)",
+        "font": "LDEPAK+RyuminPr6-Regular"
+      },
+      "LDEPAL+RyuminPr6-Regular.|(cid:14)": {
+        "page": 15,
+        "box": [
+          159.6966999999999,
+          712.6247000000001,
+          171.7438999999999,
+          724.6719
+        ],
+        "text": "(cid:14)",
+        "font": "LDEPAL+RyuminPr6-Regular."
+      },
+      "LDFNIF+RyuminPr6-Regular..|(cid:2)": {
+        "page": 18,
+        "box": [
+          219.93319999999994,
+          766.8375000000001,
+          231.98039999999995,
+          778.8847000000001
+        ],
+        "text": "(cid:2)",
+        "font": "LDFNIF+RyuminPr6-Regular.."
+      },
+      "LDEPAK+RyuminPr6-Regular|/": {
+        "page": 23,
+        "box": [
+          238.6312355,
+          803.4898000000001,
+          242.5288855,
+          811.2851
+        ],
+        "text": "/",
+        "font": "LDEPAK+RyuminPr6-Regular"
+      },
+      "LDEPAK+RyuminPr6-Regular|&": {
+        "page": 39,
+        "box": [
+          259.2229566400001,
+          236.7591,
+          269.0414246400001,
+          248.80629999999996
+        ],
+        "text": "&",
+        "font": "LDEPAK+RyuminPr6-Regular"
+      }
+    }
+  },
+  "112-PM": {
+    "fonts": {
+      "GFEDAP+MS-UIGothic..": 2451,
+      "GFEDBA+MS-UIGothic": 120,
+      "GFEDCB+FutoGoB101Pr6-Bold": 612,
+      "GFEDCC+RyuminPr6-Regular": 19769,
+      "GFEDCD+RyuminPr6-Regular.": 229,
+      "GFEDDD+ZZ-PIStd-819": 9,
+      "GFEDJC+FutoGoB101Pr6-Bold.": 10,
+      "GFFDFC+B2MathRegularItalic": 6
+    },
+    "glyphs": {
+      "GFEDCD+RyuminPr6-Regular.|(cid:2)": {
+        "page": 0,
+        "box": [
+          388.5935,
+          260.85360000000003,
+          400.6407,
+          272.9008
+        ],
+        "text": "(cid:2)",
+        "font": "GFEDCD+RyuminPr6-Regular."
+      },
+      "GFEDCC+RyuminPr6-Regular|(cid:31)": {
+        "page": 0,
+        "box": [
+          183.79109999999997,
+          309.04239999999993,
+          189.81469999999996,
+          321.0895999999999
+        ],
+        "text": "(cid:31)",
+        "font": "GFEDCC+RyuminPr6-Regular"
+      },
+      "GFEDCD+RyuminPr6-Regular.|(cid:4)": {
+        "page": 0,
+        "box": [
+          201.86189999999996,
+          309.04239999999993,
+          213.90909999999997,
+          321.0895999999999
+        ],
+        "text": "(cid:4)",
+        "font": "GFEDCD+RyuminPr6-Regular."
+      },
+      "GFEDCC+RyuminPr6-Regular|!": {
+        "page": 0,
+        "box": [
+          213.90909999999997,
+          309.04239999999993,
+          219.93269999999995,
+          321.0895999999999
+        ],
+        "text": "!",
+        "font": "GFEDCC+RyuminPr6-Regular"
+      },
+      "GFEDCD+RyuminPr6-Regular.|(cid:5)": {
+        "page": 0,
+        "box": [
+          310.28669999999994,
+          309.04239999999993,
+          322.3338999999999,
+          321.0895999999999
+        ],
+        "text": "(cid:5)",
+        "font": "GFEDCD+RyuminPr6-Regular."
+      },
+      "GFEDCD+RyuminPr6-Regular.|(cid:6)": {
+        "page": 0,
+        "box": [
+          424.73509999999993,
+          309.04239999999993,
+          436.7822999999999,
+          321.0895999999999
+        ],
+        "text": "(cid:6)",
+        "font": "GFEDCD+RyuminPr6-Regular."
+      },
+      "GFEDCD+RyuminPr6-Regular.|(cid:7)": {
+        "page": 0,
+        "box": [
+          221.48558407999988,
+          333.1367999999999,
+          233.53278407999989,
+          345.18399999999986
+        ],
+        "text": "(cid:7)",
+        "font": "GFEDCD+RyuminPr6-Regular."
+      },
+      "GFEDCC+RyuminPr6-Regular|-": {
+        "page": 0,
+        "box": [
+          556.3004591,
+          871.5212,
+          560.1981091,
+          879.3165
+        ],
+        "text": "-",
+        "font": "GFEDCC+RyuminPr6-Regular"
+      },
+      "GFEDJC+FutoGoB101Pr6-Bold.|(cid:2)": {
+        "page": 1,
+        "box": [
+          400.6408,
+          532.9795,
+          412.688,
+          545.0267
+        ],
+        "text": "(cid:2)",
+        "font": "GFEDJC+FutoGoB101Pr6-Bold."
+      },
+      "GFEDCC+RyuminPr6-Regular|%": {
+        "page": 2,
+        "box": [
+          292.2159999999999,
+          336.15047863999985,
+          302.0344679999999,
+          348.1976786399998
+        ],
+        "text": "%",
+        "font": "GFEDCC+RyuminPr6-Regular"
+      },
+      "GFEDCD+RyuminPr6-Regular.|(cid:9)": {
+        "page": 2,
+        "box": [
+          250.0511,
+          386.6413308,
+          262.0983,
+          398.68853079999997
+        ],
+        "text": "(cid:9)",
+        "font": "GFEDCD+RyuminPr6-Regular."
+      },
+      "GFEDCD+RyuminPr6-Regular.|(cid:10)": {
+        "page": 2,
+        "box": [
+          250.0511,
+          507.8241155999998,
+          262.0983,
+          519.8713155999998
+        ],
+        "text": "(cid:10)",
+        "font": "GFEDCD+RyuminPr6-Regular."
+      },
+      "GFEDCD+RyuminPr6-Regular.|(cid:11)": {
+        "page": 2,
+        "box": [
+          250.0511,
+          528.0212463999999,
+          262.0983,
+          540.0684463999999
+        ],
+        "text": "(cid:11)",
+        "font": "GFEDCD+RyuminPr6-Regular."
+      },
+      "GFEDCD+RyuminPr6-Regular.|(cid:12)": {
+        "page": 2,
+        "box": [
+          250.0511,
+          548.2183771999998,
+          262.0983,
+          560.2655771999998
+        ],
+        "text": "(cid:12)",
+        "font": "GFEDCD+RyuminPr6-Regular."
+      },
+      "GFEDCD+RyuminPr6-Regular.|(cid:13)": {
+        "page": 2,
+        "box": [
+          250.0511,
+          568.4155079999998,
+          262.0983,
+          580.4627079999998
+        ],
+        "text": "(cid:13)",
+        "font": "GFEDCD+RyuminPr6-Regular."
+      },
+      "GFEDCC+RyuminPr6-Regular|.": {
+        "page": 6,
+        "box": [
+          195.83829999999995,
+          188.57010000000002,
+          201.86189999999993,
+          200.6173
+        ],
+        "text": ".",
+        "font": "GFEDCC+RyuminPr6-Regular"
+      },
+      "GFEDCC+RyuminPr6-Regular|,": {
+        "page": 7,
+        "box": [
+          186.82444399999997,
+          707.1118,
+          188.26657449999996,
+          714.9071
+        ],
+        "text": ",",
+        "font": "GFEDCC+RyuminPr6-Regular"
+      },
+      "GFEDCC+RyuminPr6-Regular|/": {
+        "page": 9,
+        "box": [
+          447.78982664000006,
+          333.13649999999984,
+          453.81342664000005,
+          345.1836999999998
+        ],
+        "text": "/",
+        "font": "GFEDCC+RyuminPr6-Regular"
+      },
+      "GFEDCD+RyuminPr6-Regular.|(cid:14)": {
+        "page": 11,
+        "box": [
+          231.9798999999998,
+          501.7972999999996,
+          244.0270999999998,
+          513.8444999999996
+        ],
+        "text": "(cid:14)",
+        "font": "GFEDCD+RyuminPr6-Regular."
+      },
+      "GFEDCC+RyuminPr6-Regular|?": {
+        "page": 13,
+        "box": [
+          244.0271,
+          236.75889999999993,
+          256.0743,
+          248.8060999999999
+        ],
+        "text": "?",
+        "font": "GFEDCC+RyuminPr6-Regular"
+      },
+      "GFEDCC+RyuminPr6-Regular|(cid:159)": {
+        "page": 24,
+        "box": [
+          268.1230197599998,
+          453.6091999999999,
+          280.1702197599998,
+          465.65639999999985
+        ],
+        "text": "(cid:159)",
+        "font": "GFEDCC+RyuminPr6-Regular"
+      }
+    }
+  },
+  "113-AM": {
+    "fonts": {
+      "HMCLBC+MS-UIGothic..": 2451,
+      "HMCLCD+MS-UIGothic": 120,
+      "HMCLCE+FutoGoB101Pr6-Bold": 626,
+      "HMCLCF+RyuminPr6-Regular": 19318,
+      "HMCLCG+RyuminPr6-Regular.": 201,
+      "HMCLDH+ZZ-PIStd-819": 7,
+      "HMCLJF+FutoGoB101Pr6-Bold.": 10,
+      "HMECLI+RyuminPr6-Regular..": 3,
+      "HMEINE+B2MathRegularItalic": 5
+    },
+    "glyphs": {
+      "HMCLCG+RyuminPr6-Regular.|(cid:2)": {
+        "page": 0,
+        "box": [
+          388.5935,
+          260.85360000000003,
+          400.6407,
+          272.9008
+        ],
+        "text": "(cid:2)",
+        "font": "HMCLCG+RyuminPr6-Regular."
+      },
+      "HMCLCF+RyuminPr6-Regular|(cid:31)": {
+        "page": 0,
+        "box": [
+          183.79109999999997,
+          309.04239999999993,
+          189.81469999999996,
+          321.0895999999999
+        ],
+        "text": "(cid:31)",
+        "font": "HMCLCF+RyuminPr6-Regular"
+      },
+      "HMCLCG+RyuminPr6-Regular.|(cid:4)": {
+        "page": 0,
+        "box": [
+          201.86189999999996,
+          309.04239999999993,
+          213.90909999999997,
+          321.0895999999999
+        ],
+        "text": "(cid:4)",
+        "font": "HMCLCG+RyuminPr6-Regular."
+      },
+      "HMCLCF+RyuminPr6-Regular|!": {
+        "page": 0,
+        "box": [
+          213.90909999999997,
+          309.04239999999993,
+          219.93269999999995,
+          321.0895999999999
+        ],
+        "text": "!",
+        "font": "HMCLCF+RyuminPr6-Regular"
+      },
+      "HMCLCG+RyuminPr6-Regular.|(cid:5)": {
+        "page": 0,
+        "box": [
+          310.28669999999994,
+          309.04239999999993,
+          322.3338999999999,
+          321.0895999999999
+        ],
+        "text": "(cid:5)",
+        "font": "HMCLCG+RyuminPr6-Regular."
+      },
+      "HMCLCG+RyuminPr6-Regular.|(cid:6)": {
+        "page": 0,
+        "box": [
+          424.73509999999993,
+          309.04239999999993,
+          436.7822999999999,
+          321.0895999999999
+        ],
+        "text": "(cid:6)",
+        "font": "HMCLCG+RyuminPr6-Regular."
+      },
+      "HMCLCG+RyuminPr6-Regular.|(cid:7)": {
+        "page": 0,
+        "box": [
+          221.48558407999988,
+          333.1367999999999,
+          233.53278407999989,
+          345.18399999999986
+        ],
+        "text": "(cid:7)",
+        "font": "HMCLCG+RyuminPr6-Regular."
+      },
+      "HMCLCF+RyuminPr6-Regular|,": {
+        "page": 0,
+        "box": [
+          261.4231481,
+          490.26149999999996,
+          262.8652786,
+          498.05679999999995
+        ],
+        "text": ",",
+        "font": "HMCLCF+RyuminPr6-Regular"
+      },
+      "HMCLCF+RyuminPr6-Regular|.": {
+        "page": 0,
+        "box": [
+          268.9222267,
+          490.26149999999996,
+          270.36435720000003,
+          498.05679999999995
+        ],
+        "text": ".",
+        "font": "HMCLCF+RyuminPr6-Regular"
+      },
+      "HMCLCF+RyuminPr6-Regular|-": {
+        "page": 0,
+        "box": [
+          556.3004591,
+          871.5212,
+          560.1981091,
+          879.3165
+        ],
+        "text": "-",
+        "font": "HMCLCF+RyuminPr6-Regular"
+      },
+      "HMCLCG+RyuminPr6-Regular.|(cid:8)": {
+        "page": 0,
+        "box": [
+          346.4289,
+          188.57010000000002,
+          358.4761,
+          200.6173
+        ],
+        "text": "(cid:8)",
+        "font": "HMCLCG+RyuminPr6-Regular."
+      },
+      "HMCLCG+RyuminPr6-Regular.|(cid:9)": {
+        "page": 0,
+        "box": [
+          436.7828999999999,
+          188.57010000000002,
+          448.8300999999999,
+          200.6173
+        ],
+        "text": "(cid:9)",
+        "font": "HMCLCG+RyuminPr6-Regular."
+      },
+      "HMCLJF+FutoGoB101Pr6-Bold.|(cid:2)": {
+        "page": 1,
+        "box": [
+          400.641746,
+          532.9787507200001,
+          412.688946,
+          545.0259507200001
+        ],
+        "text": "(cid:2)",
+        "font": "HMCLJF+FutoGoB101Pr6-Bold."
+      },
+      "HMCLCF+RyuminPr6-Regular|%": {
+        "page": 2,
+        "box": [
+          292.2159999999999,
+          336.15047863999985,
+          302.0344679999999,
+          348.1976786399998
+        ],
+        "text": "%",
+        "font": "HMCLCF+RyuminPr6-Regular"
+      },
+      "HMCLCG+RyuminPr6-Regular.|(cid:11)": {
+        "page": 2,
+        "box": [
+          250.0511,
+          386.6413308,
+          262.0983,
+          398.68853079999997
+        ],
+        "text": "(cid:11)",
+        "font": "HMCLCG+RyuminPr6-Regular."
+      },
+      "HMCLCG+RyuminPr6-Regular.|(cid:12)": {
+        "page": 2,
+        "box": [
+          250.0511,
+          528.0212463999999,
+          262.0983,
+          540.0684463999999
+        ],
+        "text": "(cid:12)",
+        "font": "HMCLCG+RyuminPr6-Regular."
+      },
+      "HMCLCG+RyuminPr6-Regular.|(cid:13)": {
+        "page": 2,
+        "box": [
+          250.0511,
+          548.2183771999998,
+          262.0983,
+          560.2655771999998
+        ],
+        "text": "(cid:13)",
+        "font": "HMCLCG+RyuminPr6-Regular."
+      },
+      "HMCLCF+RyuminPr6-Regular|(": {
+        "page": 12,
+        "box": [
+          244.0270999999997,
+          525.8916999999996,
+          256.0742999999997,
+          537.9388999999995
+        ],
+        "text": "(",
+        "font": "HMCLCF+RyuminPr6-Regular"
+      },
+      "HMECLI+RyuminPr6-Regular..|(cid:2)": {
+        "page": 21,
+        "box": [
+          268.12151872000004,
+          188.57010000000002,
+          280.16871872,
+          200.6173
+        ],
+        "text": "(cid:2)",
+        "font": "HMECLI+RyuminPr6-Regular.."
+      },
+      "HMCLCF+RyuminPr6-Regular|(cid:19)": {
+        "page": 22,
+        "box": [
+          195.83709528000006,
+          260.8532999999999,
+          207.88429528000006,
+          272.90049999999985
+        ],
+        "text": "(cid:19)",
+        "font": "HMCLCF+RyuminPr6-Regular"
+      },
+      "HMCLCG+RyuminPr6-Regular.|(cid:14)": {
+        "page": 22,
+        "box": [
+          195.83829999999983,
+          549.9874,
+          207.88549999999984,
+          562.0346
+        ],
+        "text": "(cid:14)",
+        "font": "HMCLCG+RyuminPr6-Regular."
+      },
+      "HMCLCF+RyuminPr6-Regular|/": {
+        "page": 24,
+        "box": [
+          382.5707999999997,
+          429.5148999999999,
+          388.59439999999967,
+          441.5620999999999
+        ],
+        "text": "/",
+        "font": "HMCLCF+RyuminPr6-Regular"
+      }
+    }
+  },
+  "113-PM": {
+    "fonts": {
+      "MIINIE+MS-UIGothic..": 2451,
+      "MIINIF+MS-UIGothic": 120,
+      "MIINIG+FutoGoB101Pr6-Bold": 609,
+      "MIINIH+RyuminPr6-Regular": 19093,
+      "MIINII+RyuminPr6-Regular.": 199,
+      "MIINJJ+ZZ-PIStd-819": 7,
+      "MIINPH+FutoGoB101Pr6-Bold.": 9,
+      "MIJKDN+RyuminPr6-Regular..": 1,
+      "MIKKGL+B2MathRegularItalic": 4
+    },
+    "glyphs": {
+      "MIINII+RyuminPr6-Regular.|(cid:2)": {
+        "page": 0,
+        "box": [
+          388.5935,
+          260.85360000000003,
+          400.6407,
+          272.9008
+        ],
+        "text": "(cid:2)",
+        "font": "MIINII+RyuminPr6-Regular."
+      },
+      "MIINIH+RyuminPr6-Regular|(cid:31)": {
+        "page": 0,
+        "box": [
+          183.79109999999997,
+          309.04239999999993,
+          189.81469999999996,
+          321.0895999999999
+        ],
+        "text": "(cid:31)",
+        "font": "MIINIH+RyuminPr6-Regular"
+      },
+      "MIINII+RyuminPr6-Regular.|(cid:4)": {
+        "page": 0,
+        "box": [
+          201.86189999999996,
+          309.04239999999993,
+          213.90909999999997,
+          321.0895999999999
+        ],
+        "text": "(cid:4)",
+        "font": "MIINII+RyuminPr6-Regular."
+      },
+      "MIINIH+RyuminPr6-Regular|!": {
+        "page": 0,
+        "box": [
+          213.90909999999997,
+          309.04239999999993,
+          219.93269999999995,
+          321.0895999999999
+        ],
+        "text": "!",
+        "font": "MIINIH+RyuminPr6-Regular"
+      },
+      "MIINII+RyuminPr6-Regular.|(cid:5)": {
+        "page": 0,
+        "box": [
+          310.28669999999994,
+          309.04239999999993,
+          322.3338999999999,
+          321.0895999999999
+        ],
+        "text": "(cid:5)",
+        "font": "MIINII+RyuminPr6-Regular."
+      },
+      "MIINII+RyuminPr6-Regular.|(cid:6)": {
+        "page": 0,
+        "box": [
+          424.73509999999993,
+          309.04239999999993,
+          436.7822999999999,
+          321.0895999999999
+        ],
+        "text": "(cid:6)",
+        "font": "MIINII+RyuminPr6-Regular."
+      },
+      "MIINII+RyuminPr6-Regular.|(cid:7)": {
+        "page": 0,
+        "box": [
+          221.48558407999988,
+          333.1367999999999,
+          233.53278407999989,
+          345.18399999999986
+        ],
+        "text": "(cid:7)",
+        "font": "MIINII+RyuminPr6-Regular."
+      },
+      "MIINIH+RyuminPr6-Regular|-": {
+        "page": 0,
+        "box": [
+          556.3004591,
+          871.5212,
+          560.1981091,
+          879.3165
+        ],
+        "text": "-",
+        "font": "MIINIH+RyuminPr6-Regular"
+      },
+      "MIINII+RyuminPr6-Regular.|(cid:8)": {
+        "page": 0,
+        "box": [
+          346.4289,
+          188.57010000000002,
+          358.4761,
+          200.6173
+        ],
+        "text": "(cid:8)",
+        "font": "MIINII+RyuminPr6-Regular."
+      },
+      "MIINPH+FutoGoB101Pr6-Bold.|(cid:2)": {
+        "page": 1,
+        "box": [
+          400.6408,
+          532.9795,
+          412.688,
+          545.0267
+        ],
+        "text": "(cid:2)",
+        "font": "MIINPH+FutoGoB101Pr6-Bold."
+      },
+      "MIINIH+RyuminPr6-Regular|%": {
+        "page": 2,
+        "box": [
+          292.2159999999999,
+          336.15047863999985,
+          302.0344679999999,
+          348.1976786399998
+        ],
+        "text": "%",
+        "font": "MIINIH+RyuminPr6-Regular"
+      },
+      "MIINII+RyuminPr6-Regular.|(cid:10)": {
+        "page": 2,
+        "box": [
+          250.0511,
+          386.6413308,
+          262.0983,
+          398.68853079999997
+        ],
+        "text": "(cid:10)",
+        "font": "MIINII+RyuminPr6-Regular."
+      },
+      "MIINII+RyuminPr6-Regular.|(cid:11)": {
+        "page": 2,
+        "box": [
+          250.0511,
+          528.0212463999999,
+          262.0983,
+          540.0684463999999
+        ],
+        "text": "(cid:11)",
+        "font": "MIINII+RyuminPr6-Regular."
+      },
+      "MIINII+RyuminPr6-Regular.|(cid:12)": {
+        "page": 2,
+        "box": [
+          250.0511,
+          548.2183771999998,
+          262.0983,
+          560.2655771999998
+        ],
+        "text": "(cid:12)",
+        "font": "MIINII+RyuminPr6-Regular."
+      },
+      "MIINII+RyuminPr6-Regular.|(cid:13)": {
+        "page": 2,
+        "box": [
+          250.0511,
+          568.4155079999998,
+          262.0983,
+          580.4627079999998
+        ],
+        "text": "(cid:13)",
+        "font": "MIINII+RyuminPr6-Regular."
+      },
+      "MIINIH+RyuminPr6-Regular|.": {
+        "page": 6,
+        "box": [
+          195.83829999999992,
+          405.4196999999997,
+          201.8618999999999,
+          417.46689999999967
+        ],
+        "text": ".",
+        "font": "MIINIH+RyuminPr6-Regular"
+      },
+      "MIINIH+RyuminPr6-Regular|/": {
+        "page": 6,
+        "box": [
+          228.29345679999992,
+          405.4196999999997,
+          234.3170567999999,
+          417.46689999999967
+        ],
+        "text": "/",
+        "font": "MIINIH+RyuminPr6-Regular"
+      },
+      "MIINII+RyuminPr6-Regular.|(cid:14)": {
+        "page": 11,
+        "box": [
+          268.12149999999997,
+          670.4599000000001,
+          280.16869999999994,
+          682.5071
+        ],
+        "text": "(cid:14)",
+        "font": "MIINII+RyuminPr6-Regular."
+      },
+      "MIINIH+RyuminPr6-Regular|,": {
+        "page": 22,
+        "box": [
+          207.88550000000004,
+          164.47570000000007,
+          210.11423200000004,
+          176.52290000000005
+        ],
+        "text": ",",
+        "font": "MIINIH+RyuminPr6-Regular"
+      },
+      "MIJKDN+RyuminPr6-Regular..|(cid:2)": {
+        "page": 22,
+        "box": [
+          519.3176456799999,
+          357.23160000000007,
+          531.3648456799999,
+          369.27880000000005
+        ],
+        "text": "(cid:2)",
+        "font": "MIJKDN+RyuminPr6-Regular.."
+      },
+      "MIINII+RyuminPr6-Regular.|(cid:15)": {
+        "page": 41,
+        "box": [
+          352.4482858399999,
+          212.66449999999998,
+          364.4954858399999,
+          224.71169999999995
+        ],
+        "text": "(cid:15)",
+        "font": "MIINII+RyuminPr6-Regular."
+      },
+      "MIINIH+RyuminPr6-Regular|(cid:138)": {
+        "page": 49,
+        "box": [
+          376.9351198399999,
+          549.9872,
+          382.9587198399999,
+          562.0344
+        ],
+        "text": "(cid:138)",
+        "font": "MIINIH+RyuminPr6-Regular"
+      },
+      "MIINIH+RyuminPr6-Regular|(cid:139)": {
+        "page": 49,
+        "box": [
+          207.88639999999995,
+          574.0816,
+          213.90999999999994,
+          586.1288
+        ],
+        "text": "(cid:139)",
+        "font": "MIINIH+RyuminPr6-Regular"
+      }
+    }
+  },
+  "114-AM": {
+    "fonts": {
+      "NAEDAE+MS-UIGothic..": 2287,
+      "NAEDAF+MS-UIGothic": 112,
+      "NAEDAG+FutoGoB101Pr6-Bold": 639,
+      "NAEDAH+RyuminPr6-Regular": 18189,
+      "NAEDAI+RyuminPr6-Regular.": 168,
+      "NAEDBJ+ZZ-PIStd-819": 12,
+      "NAEDFI+FutoGoB101Pr6-Bold.": 12,
+      "NAELFI+RyuminPr6-Regular..": 5,
+      "NAFBKC+B2MathRegularItalic": 4
+    },
+    "glyphs": {
+      "NAEDAI+RyuminPr6-Regular.|(cid:2)": {
+        "page": 0,
+        "box": [
+          388.5935,
+          260.85360000000003,
+          400.6407,
+          272.9008
+        ],
+        "text": "(cid:2)",
+        "font": "NAEDAI+RyuminPr6-Regular."
+      },
+      "NAEDAH+RyuminPr6-Regular|(cid:31)": {
+        "page": 0,
+        "box": [
+          183.79109999999997,
+          309.04239999999993,
+          189.81469999999996,
+          321.0895999999999
+        ],
+        "text": "(cid:31)",
+        "font": "NAEDAH+RyuminPr6-Regular"
+      },
+      "NAEDAI+RyuminPr6-Regular.|(cid:4)": {
+        "page": 0,
+        "box": [
+          201.86189999999996,
+          309.04239999999993,
+          213.90909999999997,
+          321.0895999999999
+        ],
+        "text": "(cid:4)",
+        "font": "NAEDAI+RyuminPr6-Regular."
+      },
+      "NAEDAH+RyuminPr6-Regular|!": {
+        "page": 0,
+        "box": [
+          213.90909999999997,
+          309.04239999999993,
+          219.93269999999995,
+          321.0895999999999
+        ],
+        "text": "!",
+        "font": "NAEDAH+RyuminPr6-Regular"
+      },
+      "NAEDAI+RyuminPr6-Regular.|(cid:5)": {
+        "page": 0,
+        "box": [
+          310.28669999999994,
+          309.04239999999993,
+          322.3338999999999,
+          321.0895999999999
+        ],
+        "text": "(cid:5)",
+        "font": "NAEDAI+RyuminPr6-Regular."
+      },
+      "NAEDAI+RyuminPr6-Regular.|(cid:6)": {
+        "page": 0,
+        "box": [
+          424.73509999999993,
+          309.04239999999993,
+          436.7822999999999,
+          321.0895999999999
+        ],
+        "text": "(cid:6)",
+        "font": "NAEDAI+RyuminPr6-Regular."
+      },
+      "NAEDAI+RyuminPr6-Regular.|(cid:7)": {
+        "page": 0,
+        "box": [
+          221.48558407999988,
+          333.1367999999999,
+          233.53278407999989,
+          345.18399999999986
+        ],
+        "text": "(cid:7)",
+        "font": "NAEDAI+RyuminPr6-Regular."
+      },
+      "NAEDAH+RyuminPr6-Regular|,": {
+        "page": 0,
+        "box": [
+          261.4231481,
+          490.26149999999996,
+          262.8652786,
+          498.05679999999995
+        ],
+        "text": ",",
+        "font": "NAEDAH+RyuminPr6-Regular"
+      },
+      "NAEDAH+RyuminPr6-Regular|.": {
+        "page": 0,
+        "box": [
+          268.9222267,
+          490.26149999999996,
+          270.36435720000003,
+          498.05679999999995
+        ],
+        "text": ".",
+        "font": "NAEDAH+RyuminPr6-Regular"
+      },
+      "NAEDAH+RyuminPr6-Regular|-": {
+        "page": 0,
+        "box": [
+          556.3004591,
+          871.5212,
+          560.1981091,
+          879.3165
+        ],
+        "text": "-",
+        "font": "NAEDAH+RyuminPr6-Regular"
+      },
+      "NAEDAI+RyuminPr6-Regular.|(cid:8)": {
+        "page": 0,
+        "box": [
+          346.4289,
+          188.57010000000002,
+          358.4761,
+          200.6173
+        ],
+        "text": "(cid:8)",
+        "font": "NAEDAI+RyuminPr6-Regular."
+      },
+      "NAEDAI+RyuminPr6-Regular.|(cid:9)": {
+        "page": 0,
+        "box": [
+          436.7828999999999,
+          188.57010000000002,
+          448.8300999999999,
+          200.6173
+        ],
+        "text": "(cid:9)",
+        "font": "NAEDAI+RyuminPr6-Regular."
+      },
+      "NAEDFI+FutoGoB101Pr6-Bold.|(cid:2)": {
+        "page": 1,
+        "box": [
+          400.641746,
+          532.9787507200001,
+          412.688946,
+          545.0259507200001
+        ],
+        "text": "(cid:2)",
+        "font": "NAEDFI+FutoGoB101Pr6-Bold."
+      },
+      "NAEDAH+RyuminPr6-Regular|%": {
+        "page": 2,
+        "box": [
+          292.2159999999999,
+          336.15047863999985,
+          302.0344679999999,
+          348.1976786399998
+        ],
+        "text": "%",
+        "font": "NAEDAH+RyuminPr6-Regular"
+      },
+      "NAEDAI+RyuminPr6-Regular.|(cid:11)": {
+        "page": 2,
+        "box": [
+          250.0511,
+          386.6413308,
+          262.0983,
+          398.68853079999997
+        ],
+        "text": "(cid:11)",
+        "font": "NAEDAI+RyuminPr6-Regular."
+      },
+      "NAEDAI+RyuminPr6-Regular.|(cid:12)": {
+        "page": 2,
+        "box": [
+          250.0511,
+          507.8241155999998,
+          262.0983,
+          519.8713155999998
+        ],
+        "text": "(cid:12)",
+        "font": "NAEDAI+RyuminPr6-Regular."
+      },
+      "NAEDAI+RyuminPr6-Regular.|(cid:13)": {
+        "page": 2,
+        "box": [
+          250.0511,
+          548.2183771999998,
+          262.0983,
+          560.2655771999998
+        ],
+        "text": "(cid:13)",
+        "font": "NAEDAI+RyuminPr6-Regular."
+      },
+      "NAEDAH+RyuminPr6-Regular|?": {
+        "page": 8,
+        "box": [
+          212.7887104,
+          188.57010000000002,
+          218.8123104,
+          200.6173
+        ],
+        "text": "?",
+        "font": "NAEDAH+RyuminPr6-Regular"
+      },
+      "NAEDAH+RyuminPr6-Regular|/": {
+        "page": 8,
+        "box": [
+          204.87369999999984,
+          742.7412999999996,
+          210.89729999999983,
+          754.7884999999995
+        ],
+        "text": "/",
+        "font": "NAEDAH+RyuminPr6-Regular"
+      },
+      "NAEDAH+RyuminPr6-Regular|(cid:201)": {
+        "page": 10,
+        "box": [
+          183.79109999999997,
+          694.5536999999999,
+          195.83829999999998,
+          706.6008999999999
+        ],
+        "text": "(cid:201)",
+        "font": "NAEDAH+RyuminPr6-Regular"
+      },
+      "NAELFI+RyuminPr6-Regular..|(cid:2)": {
+        "page": 20,
+        "box": [
+          219.93299999999954,
+          718.6481,
+          231.98019999999954,
+          730.6953
+        ],
+        "text": "(cid:2)",
+        "font": "NAELFI+RyuminPr6-Regular.."
+      },
+      "NAEDAH+RyuminPr6-Regular|(cid:231)": {
+        "page": 20,
+        "box": [
+          195.83859999999953,
+          766.8369,
+          207.88579999999953,
+          778.8841
+        ],
+        "text": "(cid:231)",
+        "font": "NAEDAH+RyuminPr6-Regular"
+      },
+      "NAEDAI+RyuminPr6-Regular.|(cid:14)": {
+        "page": 21,
+        "box": [
+          402.14419055999974,
+          357.2308999999998,
+          414.1913905599997,
+          369.27809999999977
+        ],
+        "text": "(cid:14)",
+        "font": "NAEDAI+RyuminPr6-Regular."
+      },
+      "NAEDAI+RyuminPr6-Regular.|(cid:15)": {
+        "page": 22,
+        "box": [
+          256.07429999999965,
+          333.13649999999984,
+          268.1214999999996,
+          345.1836999999998
+        ],
+        "text": "(cid:15)",
+        "font": "NAEDAI+RyuminPr6-Regular."
+      },
+      "NAEDAH+RyuminPr6-Regular|(cid:244)": {
+        "page": 39,
+        "box": [
+          159.70031415999972,
+          236.75889999999993,
+          171.74751415999972,
+          248.8060999999999
+        ],
+        "text": "(cid:244)",
+        "font": "NAEDAH+RyuminPr6-Regular"
+      }
+    }
+  },
+  "114-PM": {
+    "fonts": {
+      "KCCJJA+MS-UIGothic..": 2451,
+      "KCCJJB+MS-UIGothic": 120,
+      "KCCJJC+FutoGoB101Pr6-Bold": 615,
+      "KCCJJD+RyuminPr6-Regular": 18883,
+      "KCCJJE+RyuminPr6-Regular.": 219,
+      "KCCJKF+ZZ-PIStd-819": 11,
+      "KCCKCD+FutoGoB101Pr6-Bold.": 11,
+      "KCEDNG+B2MathRegularItalic": 1
+    },
+    "glyphs": {
+      "KCCJJE+RyuminPr6-Regular.|(cid:2)": {
+        "page": 0,
+        "box": [
+          388.5935,
+          260.85360000000003,
+          400.6407,
+          272.9008
+        ],
+        "text": "(cid:2)",
+        "font": "KCCJJE+RyuminPr6-Regular."
+      },
+      "KCCJJD+RyuminPr6-Regular|(cid:31)": {
+        "page": 0,
+        "box": [
+          183.79109999999997,
+          309.04239999999993,
+          189.81469999999996,
+          321.0895999999999
+        ],
+        "text": "(cid:31)",
+        "font": "KCCJJD+RyuminPr6-Regular"
+      },
+      "KCCJJE+RyuminPr6-Regular.|(cid:4)": {
+        "page": 0,
+        "box": [
+          201.86189999999996,
+          309.04239999999993,
+          213.90909999999997,
+          321.0895999999999
+        ],
+        "text": "(cid:4)",
+        "font": "KCCJJE+RyuminPr6-Regular."
+      },
+      "KCCJJD+RyuminPr6-Regular|!": {
+        "page": 0,
+        "box": [
+          213.90909999999997,
+          309.04239999999993,
+          219.93269999999995,
+          321.0895999999999
+        ],
+        "text": "!",
+        "font": "KCCJJD+RyuminPr6-Regular"
+      },
+      "KCCJJE+RyuminPr6-Regular.|(cid:5)": {
+        "page": 0,
+        "box": [
+          310.28669999999994,
+          309.04239999999993,
+          322.3338999999999,
+          321.0895999999999
+        ],
+        "text": "(cid:5)",
+        "font": "KCCJJE+RyuminPr6-Regular."
+      },
+      "KCCJJE+RyuminPr6-Regular.|(cid:6)": {
+        "page": 0,
+        "box": [
+          424.73509999999993,
+          309.04239999999993,
+          436.7822999999999,
+          321.0895999999999
+        ],
+        "text": "(cid:6)",
+        "font": "KCCJJE+RyuminPr6-Regular."
+      },
+      "KCCJJE+RyuminPr6-Regular.|(cid:7)": {
+        "page": 0,
+        "box": [
+          221.48558407999988,
+          333.1367999999999,
+          233.53278407999989,
+          345.18399999999986
+        ],
+        "text": "(cid:7)",
+        "font": "KCCJJE+RyuminPr6-Regular."
+      },
+      "KCCJJD+RyuminPr6-Regular|-": {
+        "page": 0,
+        "box": [
+          556.3004591,
+          871.5212,
+          560.1981091,
+          879.3165
+        ],
+        "text": "-",
+        "font": "KCCJJD+RyuminPr6-Regular"
+      },
+      "KCCJJE+RyuminPr6-Regular.|(cid:8)": {
+        "page": 0,
+        "box": [
+          346.4289,
+          188.57010000000002,
+          358.4761,
+          200.6173
+        ],
+        "text": "(cid:8)",
+        "font": "KCCJJE+RyuminPr6-Regular."
+      },
+      "KCCKCD+FutoGoB101Pr6-Bold.|(cid:2)": {
+        "page": 1,
+        "box": [
+          400.6408,
+          532.9795,
+          412.688,
+          545.0267
+        ],
+        "text": "(cid:2)",
+        "font": "KCCKCD+FutoGoB101Pr6-Bold."
+      },
+      "KCCJJD+RyuminPr6-Regular|%": {
+        "page": 2,
+        "box": [
+          292.2159999999999,
+          336.15047863999985,
+          302.0344679999999,
+          348.1976786399998
+        ],
+        "text": "%",
+        "font": "KCCJJD+RyuminPr6-Regular"
+      },
+      "KCCJJE+RyuminPr6-Regular.|(cid:10)": {
+        "page": 2,
+        "box": [
+          250.0511,
+          386.6413308,
+          262.0983,
+          398.68853079999997
+        ],
+        "text": "(cid:10)",
+        "font": "KCCJJE+RyuminPr6-Regular."
+      },
+      "KCCJJE+RyuminPr6-Regular.|(cid:11)": {
+        "page": 2,
+        "box": [
+          250.0511,
+          507.8241155999998,
+          262.0983,
+          519.8713155999998
+        ],
+        "text": "(cid:11)",
+        "font": "KCCJJE+RyuminPr6-Regular."
+      },
+      "KCCJJE+RyuminPr6-Regular.|(cid:12)": {
+        "page": 2,
+        "box": [
+          250.0511,
+          548.2183771999998,
+          262.0983,
+          560.2655771999998
+        ],
+        "text": "(cid:12)",
+        "font": "KCCJJE+RyuminPr6-Regular."
+      },
+      "KCCJJE+RyuminPr6-Regular.|(cid:13)": {
+        "page": 2,
+        "box": [
+          250.0511,
+          568.4155079999998,
+          262.0983,
+          580.4627079999998
+        ],
+        "text": "(cid:13)",
+        "font": "KCCJJE+RyuminPr6-Regular."
+      },
+      "KCCJJD+RyuminPr6-Regular|,": {
+        "page": 14,
+        "box": [
+          207.88579999999973,
+          525.8927,
+          210.11453199999974,
+          537.9399
+        ],
+        "text": ",",
+        "font": "KCCJJD+RyuminPr6-Regular"
+      },
+      "KCCJJD+RyuminPr6-Regular|.": {
+        "page": 14,
+        "box": [
+          221.04134239999973,
+          525.8927,
+          223.27007439999974,
+          537.9399
+        ],
+        "text": ".",
+        "font": "KCCJJD+RyuminPr6-Regular"
+      },
+      "KCCJJE+RyuminPr6-Regular.|(cid:26)": {
+        "page": 20,
+        "box": [
+          207.8891141600001,
+          453.6084999999996,
+          219.9363141600001,
+          465.65569999999957
+        ],
+        "text": "(cid:26)",
+        "font": "KCCJJE+RyuminPr6-Regular."
+      },
+      "KCCJJD+RyuminPr6-Regular|/": {
+        "page": 23,
+        "box": [
+          241.01566159999993,
+          598.1757999999998,
+          247.03926159999992,
+          610.2229999999997
+        ],
+        "text": "/",
+        "font": "KCCJJD+RyuminPr6-Regular"
+      },
+      "KCCJJD+RyuminPr6-Regular|(cid:226)": {
+        "page": 33,
+        "box": [
+          304.26349999999985,
+          598.1760999999999,
+          316.3106999999998,
+          610.2232999999999
+        ],
+        "text": "(cid:226)",
+        "font": "KCCJJD+RyuminPr6-Regular"
+      },
+      "KCCJJD+RyuminPr6-Regular|(cid:139)": {
+        "page": 53,
+        "box": [
+          147.79165695999956,
+          260.8532999999999,
+          159.83885695999956,
+          272.90049999999985
+        ],
+        "text": "(cid:139)",
+        "font": "KCCJJD+RyuminPr6-Regular"
+      }
+    }
+  }
+}

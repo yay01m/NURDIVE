@@ -1,0 +1,914 @@
+{
+  "115-AM-001": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-AM-002": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-AM-003": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-AM-004": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-AM-005": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-AM-006": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-AM-007": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-AM-008": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-AM-009": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-AM-010": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-AM-011": {
+    "result": "REVIEW",
+    "reason": "リンパ液にも凝固因子と凝固能があり、「止血機構」の範囲によって選択肢4との区別に疑義がある。公式正答1は変更しない。"
+  },
+  "115-AM-012": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-AM-014": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-AM-015": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-AM-017": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-AM-018": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-AM-019": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-AM-020": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-AM-021": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-AM-023": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-AM-024": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-AM-025": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-AM-026": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-AM-027": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-AM-028": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-AM-029": {
+    "result": "REVIEW",
+    "reason": "Dダイマー高値だけでは肺血栓塞栓症を確定できず、設問の「確定診断」に重大な疑義がある。公式正答1は変更しない。"
+  },
+  "115-AM-030": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-AM-033": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-AM-035": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-AM-036": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-AM-037": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-AM-038": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-AM-039": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-AM-040": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-AM-041": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-AM-042": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-AM-043": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-AM-044": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-AM-045": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-AM-046": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-AM-047": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-AM-048": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-AM-049": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-AM-050": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-AM-051": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-AM-052": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-AM-053": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-AM-054": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-AM-055": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-AM-056": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-AM-057": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-AM-058": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-AM-059": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-AM-060": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-AM-061": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-AM-062": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-AM-064": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-AM-065": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-AM-066": {
+    "result": "REVIEW",
+    "reason": "納豆を「多く」摂取する推奨の条件・根拠が不明で、解説もビタミンKを出題意図と推測している。公式正答3を固定し、過剰摂取の推奨として確定しない。"
+  },
+  "115-AM-067": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-AM-068": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-AM-069": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-AM-070": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-AM-071": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-AM-072": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-AM-073": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-AM-074": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-AM-075": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-AM-076": {
+    "result": "REVIEW",
+    "reason": "バソプレシンは集合管以外の遠位ネフロンにも作用するため、作用部位を限定しない設問には複数正答の疑義がある。公式正答2は変更しない。"
+  },
+  "115-AM-077": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-AM-078": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-AM-079": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-AM-080": {
+    "result": "REVIEW",
+    "reason": "公式の許容正答は4または5の一方。段差でのつまずきも活動上の問題と解釈でき、選択肢3との区分に疑義がある。公式の採点条件は変更しない。"
+  },
+  "115-AM-081": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-AM-082": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-AM-083": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-AM-084": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-AM-085": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-AM-086": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-AM-087": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-AM-088": {
+    "result": "REVIEW",
+    "reason": "水晶体の硬化・弾力性低下は説明できるが、毛様体筋の萎縮を老視の原因として確定する医学的根拠には疑義が残る。公式正答2・5は変更しない。"
+  },
+  "115-AM-089": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-AM-091": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-AM-092": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-AM-093": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-AM-094": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-AM-095": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-AM-096": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-AM-097": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-AM-098": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-AM-099": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-AM-100": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-AM-101": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-AM-102": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-AM-103": {
+    "result": "REVIEW",
+    "reason": "SpO2と会話・睡眠の所見が異なる発作強度の判定項目に対応し、中発作とする根拠に疑義がある。公式正答2は変更しない。"
+  },
+  "115-AM-104": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-AM-105": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-AM-106": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-AM-107": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-AM-108": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-AM-109": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-AM-110": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-AM-111": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-AM-112": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-AM-113": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-AM-114": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-AM-115": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-AM-116": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-AM-117": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-AM-118": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-AM-119": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-AM-120": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-001": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-002": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-003": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-004": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-005": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-006": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-007": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-008": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-009": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-010": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-011": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-012": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-013": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-014": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-015": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-016": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-017": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-018": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-019": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-021": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-022": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-023": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-024": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-025": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-026": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-027": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-029": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-030": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-031": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-032": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-033": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-034": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-035": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-036": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-037": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-038": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-039": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-040": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-041": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-042": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-043": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-044": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-045": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-046": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-047": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-048": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-049": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-050": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-051": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-052": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-053": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-054": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-055": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-056": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-057": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-059": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-060": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-061": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-062": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-063": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-064": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-065": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-066": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-067": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-068": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-069": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-070": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-071": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-072": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-073": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-074": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-075": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-076": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-078": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-079": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-080": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-081": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-082": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-083": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-084": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-085": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-086": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-087": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-088": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-089": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-090": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-091": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-092": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-093": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-094": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-095": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-096": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-097": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-098": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-099": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-100": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-101": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-102": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-103": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-104": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-105": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-106": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-107": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-108": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-109": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-110": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-111": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-112": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-113": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-114": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-115": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-116": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-117": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-118": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-119": {
+    "result": "PASS",
+    "reason": ""
+  },
+  "115-PM-120": {
+    "result": "PASS",
+    "reason": ""
+  }
+}

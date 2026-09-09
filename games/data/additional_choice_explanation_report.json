@@ -1,0 +1,37 @@
+{
+  "input": 897,
+  "drafted": 758,
+  "processed": 451,
+  "PASS": 331,
+  "VERIFIED": 109,
+  "FIXED": 0,
+  "UNKNOWN": 11,
+  "REJECT": 0,
+  "missing": 446,
+  "by_exam": {
+    "111": {
+      "input": 224,
+      "drafted": 224,
+      "processed": 224,
+      "unknown": 6
+    },
+    "112": {
+      "input": 227,
+      "drafted": 227,
+      "processed": 227,
+      "unknown": 5
+    },
+    "113": {
+      "input": 221,
+      "drafted": 139,
+      "processed": 0,
+      "unknown": 0
+    },
+    "114": {
+      "input": 225,
+      "drafted": 168,
+      "processed": 0,
+      "unknown": 0
+    }
+  }
+}

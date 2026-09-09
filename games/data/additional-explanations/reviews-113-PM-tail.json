@@ -1,0 +1,649 @@
+{
+  "113-PM-091": {
+    "status": "VERIFIED",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "check_labels": [
+      "公式正答との整合",
+      "重大な医学的誤り",
+      "複数正答・制度・情報不足の疑義"
+    ],
+    "review_reason": "",
+    "sources": [
+      {
+        "title": "日本呼吸器学会：肺機能検査",
+        "url": "https://www.jrs.or.jp/citizen/faq/q27.html"
+      }
+    ],
+    "fixes_made": [],
+    "review_method": "症例・先行設問・各選択肢と公式正答を個別に読み合わせ。",
+    "independent_review": {
+      "result": "重大な誤りを認めず",
+      "reviewer": "別AI担当による読み合わせ"
+    }
+  },
+  "113-PM-092": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "check_labels": [
+      "公式正答との整合",
+      "重大な医学的誤り",
+      "複数正答・制度・情報不足の疑義"
+    ],
+    "review_reason": "",
+    "sources": [],
+    "fixes_made": [],
+    "review_method": "症例・先行設問・各選択肢と公式正答を個別に読み合わせ。",
+    "independent_review": {
+      "result": "重大な誤りを認めず",
+      "reviewer": "別AI担当による読み合わせ"
+    }
+  },
+  "113-PM-093": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "check_labels": [
+      "公式正答との整合",
+      "重大な医学的誤り",
+      "複数正答・制度・情報不足の疑義"
+    ],
+    "review_reason": "",
+    "sources": [],
+    "fixes_made": [],
+    "review_method": "症例・先行設問・各選択肢と公式正答を個別に読み合わせ。",
+    "independent_review": {
+      "result": "重大な誤りを認めず",
+      "reviewer": "別AI担当による読み合わせ"
+    }
+  },
+  "113-PM-094": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "check_labels": [
+      "公式正答との整合",
+      "重大な医学的誤り",
+      "複数正答・制度・情報不足の疑義"
+    ],
+    "review_reason": "",
+    "sources": [],
+    "fixes_made": [],
+    "review_method": "症例・先行設問・各選択肢と公式正答を個別に読み合わせ。",
+    "independent_review": {
+      "result": "重大な誤りを認めず",
+      "reviewer": "別AI担当による読み合わせ"
+    }
+  },
+  "113-PM-095": {
+    "status": "VERIFIED",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "check_labels": [
+      "公式正答との整合",
+      "重大な医学的誤り",
+      "複数正答・制度・情報不足の疑義"
+    ],
+    "review_reason": "",
+    "sources": [
+      {
+        "title": "PMDA：リツキサン資料（初回投与後の腫瘍崩壊症候群）",
+        "url": "https://www.pmda.go.jp/drugs/2016/P20160308001/380101000_21300AMY00273_B100_1.pdf"
+      }
+    ],
+    "fixes_made": [],
+    "review_method": "症例・先行設問・各選択肢と公式正答を個別に読み合わせ。",
+    "independent_review": {
+      "result": "重大な誤りを認めず",
+      "reviewer": "別AI担当による読み合わせ"
+    }
+  },
+  "113-PM-096": {
+    "status": "VERIFIED",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "check_labels": [
+      "公式正答との整合",
+      "重大な医学的誤り",
+      "複数正答・制度・情報不足の疑義"
+    ],
+    "review_reason": "",
+    "sources": [
+      {
+        "title": "国立がん研究センター：吐き気・嘔吐について",
+        "url": "https://www.ncc.go.jp/jp/ncce/division/pharmacy/kouganzai/supportivecare_antiemetic.html"
+      }
+    ],
+    "fixes_made": [
+      "減量の判断権限だけでなく、支持療法による治療効果維持を説明"
+    ],
+    "review_method": "症例・先行設問・各選択肢と公式正答を個別に読み合わせ。",
+    "independent_review": {
+      "result": "重大な誤りを認めず",
+      "reviewer": "別AI担当による読み合わせ"
+    }
+  },
+  "113-PM-097": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "check_labels": [
+      "公式正答との整合",
+      "重大な医学的誤り",
+      "複数正答・制度・情報不足の疑義"
+    ],
+    "review_reason": "",
+    "sources": [],
+    "fixes_made": [],
+    "review_method": "症例・先行設問・各選択肢と公式正答を個別に読み合わせ。",
+    "independent_review": {
+      "result": "重大な誤りを認めず",
+      "reviewer": "別AI担当による読み合わせ"
+    }
+  },
+  "113-PM-099": {
+    "status": "VERIFIED",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "check_labels": [
+      "公式正答との整合",
+      "重大な医学的誤り",
+      "複数正答・制度・情報不足の疑義"
+    ],
+    "review_reason": "",
+    "sources": [
+      {
+        "title": "NHS・UKHSA：尿路感染予防（パッド交換と清潔保持）",
+        "url": "https://www.england.nhs.uk/2023/10/new-awareness-campaign-to-help-reduce-hospital-admissions-for-urinary-tract-infections/"
+      }
+    ],
+    "fixes_made": [],
+    "review_method": "症例・先行設問・各選択肢と公式正答を個別に読み合わせ。",
+    "independent_review": {
+      "result": "重大な誤りを認めず",
+      "reviewer": "別AI担当による読み合わせ"
+    },
+    "context_review": "別担当が公式午後PDFの先行設問098で発熱37.5℃と抗菌薬指示を確認。原データは変更せず。"
+  },
+  "113-PM-100": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "check_labels": [
+      "公式正答との整合",
+      "重大な医学的誤り",
+      "複数正答・制度・情報不足の疑義"
+    ],
+    "review_reason": "",
+    "sources": [],
+    "fixes_made": [],
+    "review_method": "症例・先行設問・各選択肢と公式正答を個別に読み合わせ。",
+    "independent_review": {
+      "result": "重大な誤りを認めず",
+      "reviewer": "別AI担当による読み合わせ"
+    }
+  },
+  "113-PM-101": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "check_labels": [
+      "公式正答との整合",
+      "重大な医学的誤り",
+      "複数正答・制度・情報不足の疑義"
+    ],
+    "review_reason": "",
+    "sources": [],
+    "fixes_made": [],
+    "review_method": "症例・先行設問・各選択肢と公式正答を個別に読み合わせ。",
+    "independent_review": {
+      "result": "重大な誤りを認めず",
+      "reviewer": "別AI担当による読み合わせ"
+    }
+  },
+  "113-PM-102": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "check_labels": [
+      "公式正答との整合",
+      "重大な医学的誤り",
+      "複数正答・制度・情報不足の疑義"
+    ],
+    "review_reason": "",
+    "sources": [],
+    "fixes_made": [],
+    "review_method": "症例・先行設問・各選択肢と公式正答を個別に読み合わせ。",
+    "independent_review": {
+      "result": "重大な誤りを認めず",
+      "reviewer": "別AI担当による読み合わせ"
+    }
+  },
+  "113-PM-103": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "check_labels": [
+      "公式正答との整合",
+      "重大な医学的誤り",
+      "複数正答・制度・情報不足の疑義"
+    ],
+    "review_reason": "",
+    "sources": [],
+    "fixes_made": [],
+    "review_method": "症例・先行設問・各選択肢と公式正答を個別に読み合わせ。",
+    "independent_review": {
+      "result": "重大な誤りを認めず",
+      "reviewer": "別AI担当による読み合わせ"
+    }
+  },
+  "113-PM-104": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "check_labels": [
+      "公式正答との整合",
+      "重大な医学的誤り",
+      "複数正答・制度・情報不足の疑義"
+    ],
+    "review_reason": "",
+    "sources": [],
+    "fixes_made": [],
+    "review_method": "症例・先行設問・各選択肢と公式正答を個別に読み合わせ。",
+    "independent_review": {
+      "result": "重大な誤りを認めず",
+      "reviewer": "別AI担当による読み合わせ"
+    }
+  },
+  "113-PM-105": {
+    "status": "VERIFIED",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "check_labels": [
+      "公式正答との整合",
+      "重大な医学的誤り",
+      "複数正答・制度・情報不足の疑義"
+    ],
+    "review_reason": "",
+    "sources": [
+      {
+        "title": "文部科学省：初めて通級による指導を担当する教師のためのガイド",
+        "url": "https://www.mext.go.jp/tsukyu-guide/index.html"
+      }
+    ],
+    "fixes_made": [],
+    "review_method": "症例・先行設問・各選択肢と公式正答を個別に読み合わせ。",
+    "independent_review": {
+      "result": "重大な誤りを認めず",
+      "reviewer": "別AI担当による読み合わせ"
+    }
+  },
+  "113-PM-106": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "check_labels": [
+      "公式正答との整合",
+      "重大な医学的誤り",
+      "複数正答・制度・情報不足の疑義"
+    ],
+    "review_reason": "",
+    "sources": [],
+    "fixes_made": [],
+    "review_method": "症例・先行設問・各選択肢と公式正答を個別に読み合わせ。",
+    "independent_review": {
+      "result": "重大な誤りを認めず",
+      "reviewer": "別AI担当による読み合わせ"
+    }
+  },
+  "113-PM-107": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "check_labels": [
+      "公式正答との整合",
+      "重大な医学的誤り",
+      "複数正答・制度・情報不足の疑義"
+    ],
+    "review_reason": "",
+    "sources": [],
+    "fixes_made": [],
+    "review_method": "症例・先行設問・各選択肢と公式正答を個別に読み合わせ。",
+    "independent_review": {
+      "result": "重大な誤りを認めず",
+      "reviewer": "別AI担当による読み合わせ"
+    }
+  },
+  "113-PM-108": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "check_labels": [
+      "公式正答との整合",
+      "重大な医学的誤り",
+      "複数正答・制度・情報不足の疑義"
+    ],
+    "review_reason": "",
+    "sources": [],
+    "fixes_made": [],
+    "review_method": "症例・先行設問・各選択肢と公式正答を個別に読み合わせ。",
+    "independent_review": {
+      "result": "重大な誤りを認めず",
+      "reviewer": "別AI担当による読み合わせ"
+    }
+  },
+  "113-PM-109": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "check_labels": [
+      "公式正答との整合",
+      "重大な医学的誤り",
+      "複数正答・制度・情報不足の疑義"
+    ],
+    "review_reason": "",
+    "sources": [],
+    "fixes_made": [],
+    "review_method": "症例・先行設問・各選択肢と公式正答を個別に読み合わせ。",
+    "independent_review": {
+      "result": "重大な誤りを認めず",
+      "reviewer": "別AI担当による読み合わせ"
+    }
+  },
+  "113-PM-110": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "check_labels": [
+      "公式正答との整合",
+      "重大な医学的誤り",
+      "複数正答・制度・情報不足の疑義"
+    ],
+    "review_reason": "",
+    "sources": [],
+    "fixes_made": [],
+    "review_method": "症例・先行設問・各選択肢と公式正答を個別に読み合わせ。",
+    "independent_review": {
+      "result": "重大な誤りを認めず",
+      "reviewer": "別AI担当による読み合わせ"
+    }
+  },
+  "113-PM-111": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "check_labels": [
+      "公式正答との整合",
+      "重大な医学的誤り",
+      "複数正答・制度・情報不足の疑義"
+    ],
+    "review_reason": "",
+    "sources": [],
+    "fixes_made": [],
+    "review_method": "症例・先行設問・各選択肢と公式正答を個別に読み合わせ。",
+    "independent_review": {
+      "result": "重大な誤りを認めず",
+      "reviewer": "別AI担当による読み合わせ"
+    }
+  },
+  "113-PM-112": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "check_labels": [
+      "公式正答との整合",
+      "重大な医学的誤り",
+      "複数正答・制度・情報不足の疑義"
+    ],
+    "review_reason": "",
+    "sources": [],
+    "fixes_made": [],
+    "review_method": "症例・先行設問・各選択肢と公式正答を個別に読み合わせ。",
+    "independent_review": {
+      "result": "重大な誤りを認めず",
+      "reviewer": "別AI担当による読み合わせ"
+    }
+  },
+  "113-PM-113": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "check_labels": [
+      "公式正答との整合",
+      "重大な医学的誤り",
+      "複数正答・制度・情報不足の疑義"
+    ],
+    "review_reason": "",
+    "sources": [],
+    "fixes_made": [],
+    "review_method": "症例・先行設問・各選択肢と公式正答を個別に読み合わせ。",
+    "independent_review": {
+      "result": "重大な誤りを認めず",
+      "reviewer": "別AI担当による読み合わせ"
+    }
+  },
+  "113-PM-114": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "check_labels": [
+      "公式正答との整合",
+      "重大な医学的誤り",
+      "複数正答・制度・情報不足の疑義"
+    ],
+    "review_reason": "",
+    "sources": [],
+    "fixes_made": [],
+    "review_method": "症例・先行設問・各選択肢と公式正答を個別に読み合わせ。",
+    "independent_review": {
+      "result": "重大な誤りを認めず",
+      "reviewer": "別AI担当による読み合わせ"
+    }
+  },
+  "113-PM-115": {
+    "status": "VERIFIED",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "check_labels": [
+      "公式正答との整合",
+      "重大な医学的誤り",
+      "複数正答・制度・情報不足の疑義"
+    ],
+    "review_reason": "",
+    "sources": [
+      {
+        "title": "厚生労働省：人工呼吸器の安全管理",
+        "url": "https://www.mhlw.go.jp/topics/bukyoku/isei/i-anzen/1/torikumi/naiyou/manual/2a.html"
+      }
+    ],
+    "fixes_made": [],
+    "review_method": "症例・先行設問・各選択肢と公式正答を個別に読み合わせ。",
+    "independent_review": {
+      "result": "重大な誤りを認めず",
+      "reviewer": "別AI担当による読み合わせ"
+    }
+  },
+  "113-PM-116": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "check_labels": [
+      "公式正答との整合",
+      "重大な医学的誤り",
+      "複数正答・制度・情報不足の疑義"
+    ],
+    "review_reason": "",
+    "sources": [],
+    "fixes_made": [],
+    "review_method": "症例・先行設問・各選択肢と公式正答を個別に読み合わせ。",
+    "independent_review": {
+      "result": "重大な誤りを認めず",
+      "reviewer": "別AI担当による読み合わせ"
+    }
+  },
+  "113-PM-117": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "check_labels": [
+      "公式正答との整合",
+      "重大な医学的誤り",
+      "複数正答・制度・情報不足の疑義"
+    ],
+    "review_reason": "",
+    "sources": [],
+    "fixes_made": [],
+    "review_method": "症例・先行設問・各選択肢と公式正答を個別に読み合わせ。",
+    "independent_review": {
+      "result": "重大な誤りを認めず",
+      "reviewer": "別AI担当による読み合わせ"
+    }
+  },
+  "113-PM-118": {
+    "status": "VERIFIED",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "check_labels": [
+      "公式正答との整合",
+      "重大な医学的誤り",
+      "複数正答・制度・情報不足の疑義"
+    ],
+    "review_reason": "",
+    "sources": [
+      {
+        "title": "国立がん研究センター：放射線治療中のスキンケア",
+        "url": "https://www.ncc.go.jp/jp/ncch/division/nursing/power/010/080/index.html"
+      }
+    ],
+    "fixes_made": [],
+    "review_method": "症例・先行設問・各選択肢と公式正答を個別に読み合わせ。",
+    "independent_review": {
+      "result": "重大な誤りを認めず",
+      "reviewer": "別AI担当による読み合わせ"
+    }
+  },
+  "113-PM-119": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "check_labels": [
+      "公式正答との整合",
+      "重大な医学的誤り",
+      "複数正答・制度・情報不足の疑義"
+    ],
+    "review_reason": "",
+    "sources": [],
+    "fixes_made": [],
+    "review_method": "症例・先行設問・各選択肢と公式正答を個別に読み合わせ。",
+    "independent_review": {
+      "result": "重大な誤りを認めず",
+      "reviewer": "別AI担当による読み合わせ"
+    }
+  },
+  "113-PM-120": {
+    "status": "PASS",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "check_labels": [
+      "公式正答との整合",
+      "重大な医学的誤り",
+      "複数正答・制度・情報不足の疑義"
+    ],
+    "review_reason": "",
+    "sources": [],
+    "fixes_made": [],
+    "review_method": "症例・先行設問・各選択肢と公式正答を個別に読み合わせ。",
+    "independent_review": {
+      "result": "重大な誤りを認めず",
+      "reviewer": "別AI担当による読み合わせ"
+    }
+  }
+}

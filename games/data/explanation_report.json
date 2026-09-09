@@ -1,0 +1,22 @@
+{
+  "status": "final_review_complete",
+  "final_reviewed": 7,
+  "final_fixed": 2,
+  "rejected": 5,
+  "displayed_review": 0,
+  "validation_scope": "公式正答との矛盾・重大な医学的誤り・重大な疑義のみ。文章表現は評価しない。",
+  "written": 228,
+  "unwritten": 0,
+  "verification_pending": 0,
+  "total": 228,
+  "displayable": 223,
+  "pass": 223,
+  "review": 5,
+  "text_reviewed": 228,
+  "evidence_pending": 60,
+  "evidence_note": "旧方式の出典照合状況。3点検証の未着手件数ではない。",
+  "individual_review_required": 5,
+  "input_sha256": "1d4c906d807332123f14935d809048240e689919db065285af29ecf341ffb0ae",
+  "official_input_unchanged": true,
+  "human_reviewed": false
+}
