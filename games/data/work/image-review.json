@@ -1,9 +1,0 @@
-{
-  "114-AM-041": {"requires_image":true,"reason":"回復体位の選択肢がイラスト。公式PDFの該当ページを画像で確認。"},
-  "112-AM-057": {"requires_image":true,"reason":"身体発育曲線のグラフが必要。公式PDFの該当ページを画像で確認。"},
-  "112-PM-095": {"requires_image":true,"reason":"瞳孔の状態の選択肢がイラスト。公式PDFの該当ページを画像で確認。"},
-  "109-AM-015": {"requires_image":true,"reason":"脈拍測定方法の選択肢がイラスト。公式PDFの該当ページを画像で確認。"},
-  "108-AM-017": {"requires_image":true,"reason":"心音聴取部位の選択肢が図。公式PDFの該当ページを画像で確認。"},
-  "107-AM-027": {"requires_image":true,"reason":"胸腔内圧の曲線の選択肢がグラフ。公式PDFの該当ページを画像で確認。"},
-  "107-AM-097": {"requires_image":true,"reason":"骨折固定法の選択肢がイラスト。公式PDFの該当ページを画像で確認。"}
-}
