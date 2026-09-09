@@ -1,7 +1,7 @@
 (()=>{
 const cfg=window.RECARE_CLOUD_CONFIG||{},SESSION="recare-cloud-session",PENDING="recare-cloud-pending";
 const enabled=()=>/^https:\/\/.+\.supabase\.co$/.test(cfg.url)&&cfg.publishableKey.length>20;
-async function rpc(name,body){let response=await fetch(`${cfg.url}/rest/v1/rpc/${name}`,{method:"POST",headers:{apikey:cfg.publishableKey,Authorization:`Bearer ${cfg.publishableKey}`,"Content-Type":"application/json"},body:JSON.stringify(body)}),data=await response.json().catch(()=>null);if(!response.ok)throw Object.assign(new Error(data?.message||data?.error||"クラウドへ接続できません"),{code:data?.code});return data}
+async function rpc(name,body,signal){let response=await fetch(`${cfg.url}/rest/v1/rpc/${name}`,{method:"POST",signal,headers:{apikey:cfg.publishableKey,Authorization:`Bearer ${cfg.publishableKey}`,"Content-Type":"application/json"},body:JSON.stringify(body)}),data=await response.json().catch(()=>null);if(!response.ok)throw Object.assign(new Error(data?.message||data?.error||"クラウドへ接続できません"),{code:data?.code});return data}
 function session(){try{return JSON.parse(localStorage.getItem(SESSION))}catch{return null}}
 async function login(username,pin,displayName,mode='login'){
 // Existing recare_login creates missing users. A NULL display name makes that
@@ -23,5 +23,12 @@ async function leaderboard(limit=50){return await rpc("recare_leaderboard",{p_li
 async function challengeLeaderboard(kind,limit=50){return await rpc("recare_challenge_leaderboard",{p_kind:kind,p_limit:limit})}
 async function adminDashboard(){let s=session();if(!s)throw new Error("再ログインが必要です");return await rpc("recare_admin_dashboard",{p_username:s.username,p_session_token:s.token})}
 window.addEventListener("online",()=>{try{let pending=JSON.parse(localStorage.getItem(PENDING));if(pending)flush(pending)}catch{}});
-window.RECARE_CLOUD={enabled,login,save,logout,session,updateAccount,deleteAccount,leaderboard,challengeLeaderboard,adminDashboard};
+async function battle(action,args={}){
+  if(!['create','join','state','start','answer','leave'].includes(action))throw new Error('対戦操作を確認できません。');
+  const s=session();if(!enabled()||!s?.token)throw new Error('オンライン対戦には再ログインが必要です。');
+  const controller=new AbortController(),timer=setTimeout(()=>controller.abort(),15000);
+  try{const data=await rpc('recare_battle_'+action,{...args,p_username:s.username,p_session_token:s.token},controller.signal);
+  if(data?.error)throw Object.assign(new Error(data.error),{code:data.error_code});return data;}finally{clearTimeout(timer)}
+}
+window.RECARE_CLOUD={enabled,login,save,logout,session,updateAccount,deleteAccount,leaderboard,challengeLeaderboard,adminDashboard,battle};
 })();

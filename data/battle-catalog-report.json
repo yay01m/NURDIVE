@@ -1,0 +1,20 @@
+{
+  "catalog_version": "ea8e16e11d6e9e2eba2a4d8393010105bf8b0a295b135c43558f0521385215ec",
+  "hash_algorithm": "sha256",
+  "hash_input": "Question rows sorted by ID; UTF-8 JSON with sorted keys and compact separators",
+  "answer_index_base": 0,
+  "questions": 1125,
+  "by_exam": {
+    "111": 224,
+    "112": 227,
+    "113": 221,
+    "114": 225,
+    "115": 228
+  },
+  "questions_with_alternate_answer_sets": 3,
+  "input_files": [
+    "data/questions.json",
+    "data/additional_questions.json"
+  ],
+  "output_file": "setup/battle-question-seed.sql"
+}

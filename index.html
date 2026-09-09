@@ -24,6 +24,7 @@
   <link rel="stylesheet" href="question-source.css">
   <link rel="stylesheet" href="projection.css">
   <link rel="stylesheet" href="ui-polish.css">
+  <link rel="stylesheet" href="battle.css">
 </head>
 <body>
   <div class="noise"></div>
@@ -113,7 +114,9 @@
         </div>
         <div class="question-body">
           <p class="lead" id="scenario"></p>
+          <div class="case-context" id="caseContext" hidden></div>
           <h1 id="question"></h1>
+          <details class="question-annotations" id="questionAnnotations" hidden><summary>原資料の英語表記</summary><p></p></details>
           <div class="choices" id="choices"></div>
         </div>
         <div class="feedback" id="feedback" aria-live="polite">
@@ -194,6 +197,8 @@
   <script src="config.js"></script>
   <script src="official-questions.js"></script>
   <script src="official-bank.js"></script>
+  <script src="question-presentations.js"></script>
+  <script src="question-presentation.js"></script>
   <script src="explanations.js"></script>
   <script src="additional-explanations.js"></script>
   <script src="explanation-bank.js"></script>
@@ -212,5 +217,6 @@
   <script src="challenge-modes.js"></script>
   <script src="question-source.js"></script>
   <script src="ui-polish.js"></script>
+  <script src="battle.js"></script>
 </body>
 </html>

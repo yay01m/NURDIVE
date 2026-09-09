@@ -3,7 +3,7 @@ function selectionIndices(value){return value===null?[]:Array.isArray(value)?val
 function canSubmitAnswer(q,value){const selected=selectionIndices(value);return selected.length>0&&new Set(selected).size===selected.length&&selected.every(i=>Number.isInteger(i)&&i>=0&&i<q.choices.length)&&q.acceptedAnswerSets.some(set=>set.length===selected.length)}
 function isCorrectAnswer(q,value){const selected=selectionIndices(value);return canSubmitAnswer(q,value)&&q.acceptedAnswerSets.some(set=>set.length===selected.length&&set.every(i=>selected.includes(i)))}
 function isCorrectOption(q,i){return q.acceptedAnswerSets.some(set=>set.includes(i))}
-function formatSelection(q,value){return selectionIndices(value).map(i=>`${i+1}. ${q.choices[i]}`).join(' ／ ')||'未回答'}
+function formatSelection(q,value){return selectionIndices(value).map(i=>`${i+1}. ${typeof choiceTextForDisplay==='function'?choiceTextForDisplay(q,i):q.choices[i]}`).join(' ／ ')||'未回答'}
 function formatCorrectAnswers(q){return q.acceptedAnswerSets.map(set=>formatSelection(q,set)).join(' または ')}
 function escapeQuestionText(value){return String(value??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]))}
 function officialDisplayQuestion(q){return [q.case_text,...(q.preceding_context||[]).map(item=>item.question),q.question].filter(Boolean).join('\n\n')}
