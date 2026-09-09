@@ -23,7 +23,7 @@ if(e?.disease){el.feedbackLabel.textContent="PATHOLOGY TRANSFER";el.feedbackTitl
 projectionVisual(e);
 }
 
-function next(){if(mistakeLimitReached()){death();return}state.index<QUESTION_BANK.length-1?(state.index++,render()):finish()}
+function next(){if(mistakeLimitReached()){death();return}if(state.index<QUESTION_BANK.length-1){state.index++;render();document.querySelector("#questionPanel").scrollIntoView({block:"start",behavior:"instant"})}else finish()}
 function finish(){$("#finalScore").textContent=state.score;$("#finalHealth").textContent=state.health;$("#reviewCount").textContent=state.review.length;$("#resultMessage").textContent=state.score>=8?"病態の連鎖を断ち切りました。":state.score>=5?"夜勤完了。誤答症例を確認しましょう。":"症状が蓄積しました。再挑戦しましょう。";el.modal.hidden=false;save()}
 function death(){$("#resultCard").classList.add("death");$("#resultEyebrow").textContent="IDENTITY LOST";$("#resultTitle").textContent="自分に戻れなくなった";$("#finalScore").textContent=state.score;$("#finalHealth").textContent=0;$("#reviewCount").textContent=state.review.length;$("#resultMessage").textContent="投影から抜け出せず、今回の夜勤は終了です。解説を振り返り、次の夜勤へ。";el.modal.hidden=false;save()}
 function save(){localStorage.setItem("recare-last",JSON.stringify({score:state.score,review:state.review,records:state.records,date:new Date().toISOString()}))}

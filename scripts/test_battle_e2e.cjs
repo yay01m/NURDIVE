@@ -26,7 +26,10 @@ const {chromium}=require('C:/Users/sa1j0/.cache/codex-runtimes/codex-primary-run
   const page=pages[name]=await context.newPage();page.on('pageerror',e=>errors.push(name+': '+e.message));await page.goto('http://127.0.0.1:8765');await page.click('#openBattleButton');
  }
  const a=pages.alice,b=pages.bob;
+ // Reproduce an older cloud bundle remaining in the browser during an update.
+ await a.evaluate(()=>{delete window.RECARE_CLOUD.battle});
  await a.click('[data-battle="create"]');await a.waitForSelector('.battle-code');const code=(await a.locator('.battle-code').innerText()).trim();
+ assert.equal(await a.evaluate(()=>typeof window.RECARE_CLOUD.battle),'function');
  await b.fill('#battleRoomCode',code);await b.click('#battleJoinForm button');await a.waitForFunction(()=>!document.querySelector('[data-battle="start"]').disabled);
  await a.screenshot({path:'tmp/battle-lobby-mobile.png',fullPage:true});await a.click('[data-battle="start"]');
  for(let round=0;round<10;round++){

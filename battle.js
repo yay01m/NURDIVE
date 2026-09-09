@@ -2,7 +2,19 @@
 const esc=escapeQuestionText,RESUME='recare-battle-room';
 let room=null,snapshot=null,selection=[],requestBusy=false,pollTimer=null,tickTimer=null,generation=0,serverOffset=0,renderKey='',open=false;
 const me=()=>window.RECARE_CLOUD?.session()?.username;
-const request=(action,args={})=>window.RECARE_CLOUD.battle(action,args);
+let cloudReady=null;
+async function ensureBattleCloud(){
+ if(typeof window.RECARE_CLOUD?.battle==='function')return;
+ if(!cloudReady)cloudReady=new Promise((resolve,reject)=>{
+  const script=document.createElement('script');script.src=new URL('cloud-sync.js?v=69',document.baseURI).href;
+  const finish=(error)=>{clearTimeout(timeout);script.onload=script.onerror=null;script.remove();error?reject(error):resolve()};
+  const failure=()=>new Error('対戦機能の更新を読み込めませんでした。通信環境を確認して、画面を再読み込みしてください。');
+  const timeout=setTimeout(()=>finish(failure()),15000);
+  script.onload=()=>finish(typeof window.RECARE_CLOUD?.battle==='function'?null:failure());script.onerror=()=>finish(failure());document.head.appendChild(script);
+ }).catch(error=>{cloudReady=null;throw error});
+ await cloudReady;
+}
+const request=async(action,args={})=>{await ensureBattleCloud();return window.RECARE_CLOUD.battle(action,args)};
 const now=()=>Date.now()+serverOffset;
 const duration=ms=>`${(Math.max(0,ms||0)/1000).toFixed(1)}秒`;
 const stamp=value=>value?Date.parse(value):0;
