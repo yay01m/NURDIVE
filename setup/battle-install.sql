@@ -1,4 +1,3 @@
--- RE:CARE friend battle installation. Requires existing account schema.
 BEGIN;
 -- Run after supabase-schema.sql, then load battle question catalog seed.
 -- All gameplay writes and scoring run on the server; clients can only call RPCs.
@@ -39,6 +38,10 @@ create table if not exists public.recare_battle_answers (
   foreign key (room_code,username) references public.recare_battle_players(room_code,username) on delete cascade
 );
 alter table public.recare_battle_players add column if not exists forfeited_at timestamptz;
+alter table public.recare_battle_rooms add column if not exists match_kind text not null default 'friend';
+alter table public.recare_battle_rooms add column if not exists match_start_at timestamptz;
+alter table public.recare_battle_players add column if not exists last_seen_at timestamptz not null default clock_timestamp();
+create index if not exists recare_battle_random_lobby_idx on public.recare_battle_rooms(created_at) where match_kind='random' and status='lobby';
 -- Update existing installations as well as new tables.
 alter table public.recare_battle_answers drop constraint if exists recare_battle_answers_elapsed_ms_check;
 alter table public.recare_battle_answers add constraint recare_battle_answers_elapsed_ms_check check (elapsed_ms between 0 and 150000);
@@ -57,27 +60,39 @@ declare
   u public.recare_users; r public.recare_battle_rooms; q public.recare_battle_questions;
   code_value text:=trim(p_room_code); active_code text; t timestamptz; selected integer[]; answer_key jsonb;
   total_players integer; answer_count integer; player_json jsonb; own_json jsonb; review_json jsonb:='[]'::jsonb;
-  is_correct boolean; winner text; tied integer; ids text[]; visible_round integer;
+  is_correct boolean; winner text; tied integer; ids text[]; visible_round integer; auto_start boolean:=false;
 begin
   select * into u from public.recare_users where username=lower(trim(p_username)) and session_token=p_session_token and token_expires_at>clock_timestamp();
   if not found then return jsonb_build_object('error','ログインし直してください','error_code','AUTH_REQUIRED'); end if;
   -- Always take the user lock before any room lock, for both create and join.
-  if p_action in ('create','join') then
+  if p_action in ('create','join','match') then
     perform pg_advisory_xact_lock(hashtextextended(u.username,73115));
     select br.code into active_code from public.recare_battle_rooms br join public.recare_battle_players bp on bp.room_code=br.code where bp.username=u.username and br.expires_at>clock_timestamp() and br.status<>'finished' and bp.forfeited_at is null order by br.created_at desc limit 1;
     if p_action='join' and active_code is not null and active_code is distinct from code_value then
       return jsonb_build_object('error','参加中のルームがあります。先に退出してください','error_code','ALREADY_IN_ROOM','room_code',active_code);
     end if;
   end if;
-  if p_action='create' then
+  if p_action='match' then
+    -- User lock -> matchmaking lock -> room lock; no other path takes the queue lock.
+    perform pg_advisory_xact_lock(73115,4);
+    code_value:=active_code;
+    if code_value is null then
+      select br.code into code_value from public.recare_battle_rooms br
+      where br.match_kind='random' and br.status='lobby' and br.expires_at>clock_timestamp()
+        and (br.match_start_at is null or br.match_start_at>clock_timestamp())
+        and (select count(*) from public.recare_battle_players bp where bp.room_code=br.code and bp.last_seen_at>clock_timestamp()-interval '30 seconds') between 1 and 3
+      order by br.created_at,br.code limit 1 for update of br;
+    end if;
+  end if;
+  if p_action in ('create','match') then
     if (select count(*) from public.recare_battle_questions)<10 then return jsonb_build_object('error','対戦用の問題がまだ準備されていません'); end if;
     -- Serialize room creation per user and reuse an active room after a retry.
-    code_value:=active_code;
+    if p_action='create' then code_value:=active_code; end if;
     if code_value is null then
       loop
         code_value:=lpad(floor(random()*1000000)::integer::text,6,'0');
         begin
-          insert into public.recare_battle_rooms(code,host_username) values(code_value,u.username);
+          insert into public.recare_battle_rooms(code,host_username,match_kind) values(code_value,u.username,case when p_action='match' then 'random' else 'friend' end);
           exit;
         exception when unique_violation then null;
         end;
@@ -90,17 +105,27 @@ begin
   if not found then return jsonb_build_object('error','ルームが見つかりません','error_code','ROOM_NOT_FOUND'); end if;
   t:=clock_timestamp();
   if r.expires_at<=t then return jsonb_build_object('error','このルームの有効期限が切れました','error_code','ROOM_EXPIRED'); end if;
-  if p_action='join' and not exists(select 1 from public.recare_battle_players where room_code=code_value and username=u.username) then
+  if r.match_kind='random' and r.status='lobby' then
+    delete from public.recare_battle_players where room_code=code_value and last_seen_at<=t-interval '30 seconds';
+  end if;
+  if p_action='join' and r.match_kind='random' then return jsonb_build_object('error','ランダムマッチから参加してください'); end if;
+  if p_action in ('join','match') and not exists(select 1 from public.recare_battle_players where room_code=code_value and username=u.username) then
     if r.status<>'lobby' then return jsonb_build_object('error','この対戦はすでに開始されています'); end if;
     if (select count(*) from public.recare_battle_players where room_code=code_value)>=4 then return jsonb_build_object('error','ルームは満員です'); end if;
     insert into public.recare_battle_players(room_code,username,display_name) values(code_value,u.username,u.display_name);
   end if;
   if not exists(select 1 from public.recare_battle_players where room_code=code_value and username=u.username) then return jsonb_build_object('error','このルームには参加していません','error_code','NOT_MEMBER'); end if;
+  update public.recare_battle_players set last_seen_at=t where room_code=code_value and username=u.username;
   select count(*) into total_players from public.recare_battle_players where room_code=code_value;
   if p_action in ('join','answer','start') and exists(select 1 from public.recare_battle_players where room_code=code_value and username=u.username and forfeited_at is not null) then return jsonb_build_object('error','この対戦は棄権済みです','error_code','FORFEITED'); end if;
-  if p_action='leave' then
+  if p_action='cancel' and (r.match_kind<>'random' or r.status<>'lobby') then return jsonb_build_object('error','対戦が開始されました。最新の状態を確認してください','error_code','MATCH_STARTED'); end if;
+  if p_action in ('leave','cancel') then
     if r.status='lobby' then
-      if r.host_username=u.username then
+      if r.match_kind='random' then
+        delete from public.recare_battle_players where room_code=code_value and username=u.username;
+        select count(*),min(username) into total_players,winner from public.recare_battle_players where room_code=code_value;
+        update public.recare_battle_rooms set host_username=coalesce(winner,host_username),match_start_at=case when total_players<2 then null else match_start_at end,status=case when total_players=0 then 'finished' else 'lobby' end,finish_reason=case when total_players=0 then 'cancelled' else null end where code=code_value;
+      elsif r.host_username=u.username then
         update public.recare_battle_rooms set status='finished',finish_reason='cancelled' where code=code_value;
       else
         delete from public.recare_battle_players where room_code=code_value and username=u.username;
@@ -114,8 +139,13 @@ begin
       end if;
     end if;
   end if;
-  if p_action='start' then
-    if r.host_username<>u.username then return jsonb_build_object('error','対戦を開始できるのはルームを作った人です'); end if;
+  if r.match_kind='random' and r.status='lobby' then
+    if p_action='start' then return jsonb_build_object('error','ランダムマッチは自動で開始します'); end if;
+    update public.recare_battle_rooms set host_username=(select min(username) from public.recare_battle_players where room_code=code_value),match_start_at=case when total_players<2 then null else coalesce(match_start_at,t+interval '15 seconds') end where code=code_value returning * into r;
+    auto_start:=total_players>=2 and (total_players=4 or t>=r.match_start_at);
+  end if;
+  if p_action='start' or auto_start then
+    if not auto_start and r.host_username<>u.username then return jsonb_build_object('error','対戦を開始できるのはルームを作った人です'); end if;
     if r.status='lobby' then
       if total_players<2 or total_players>4 then return jsonb_build_object('error','相手の参加を待ってください'); end if;
       select array_agg(id) into ids from (select id from public.recare_battle_questions order by random() limit 10) picked;
@@ -170,7 +200,7 @@ begin
     join public.recare_battle_questions catalog on catalog.id=picked.id
     left join public.recare_battle_answers a on a.room_code=code_value and a.username=u.username and a.round_index=picked.ordinality-1;
   end if;
-  return jsonb_build_object('room_code',code_value,'host_username',r.host_username,'phase',case when r.status='playing' then case when t<r.round_started_at then 'countdown' else 'question' end else r.status end,'round_index',r.round_index,'round_count',10,'max_players',4,'question_id',r.question_ids[r.round_index+1],'server_now',t,'round_started_at',r.round_started_at,'deadline_at',r.deadline_at,'review_until',r.review_until,'players',coalesce(player_json,'[]'::jsonb),'own_answer',own_json,'correct_answers',answer_key,'reviews',review_json,'result',case when r.status='finished' then jsonb_build_object('winner_username',r.winner_username,'reason',r.finish_reason) else null end);
+  return jsonb_build_object('room_code',code_value,'host_username',r.host_username,'phase',case when r.status='playing' then case when t<r.round_started_at then 'countdown' else 'question' end else r.status end,'round_index',r.round_index,'round_count',10,'max_players',4,'match_kind',r.match_kind,'match_start_at',r.match_start_at,'question_id',r.question_ids[r.round_index+1],'server_now',t,'round_started_at',r.round_started_at,'deadline_at',r.deadline_at,'review_until',r.review_until,'players',coalesce(player_json,'[]'::jsonb),'own_answer',own_json,'correct_answers',answer_key,'reviews',review_json,'result',case when r.status='finished' then jsonb_build_object('winner_username',r.winner_username,'reason',r.finish_reason) else null end);
 end $$;
 revoke all on function public.recare_battle_dispatch(text,text,uuid,text,integer,integer[]) from public,anon,authenticated;
 
@@ -185,6 +215,11 @@ grant execute on function public.recare_battle_create(text,uuid),public.recare_b
 
 -- Optional housekeeping for the database owner (never exposed as a client RPC):
 -- delete from public.recare_battle_rooms where expires_at < now() - interval '1 day';
+
+create or replace function public.recare_battle_match(p_username text,p_session_token uuid) returns jsonb language sql security definer set search_path='' as $$ select public.recare_battle_dispatch('match',p_username,p_session_token) $$;
+create or replace function public.recare_battle_cancel(p_username text,p_session_token uuid,p_room_code text) returns jsonb language sql security definer set search_path='' as $$ select public.recare_battle_dispatch('cancel',p_username,p_session_token,p_room_code) $$;
+revoke all on function public.recare_battle_match(text,uuid),public.recare_battle_cancel(text,uuid,text) from public;
+grant execute on function public.recare_battle_match(text,uuid),public.recare_battle_cancel(text,uuid,text) to anon,authenticated;
 
 -- Generated by scripts/build_battle_catalog.py; do not edit manually.
 -- Apply after the battle schema. Answers use zero-based choice indices.

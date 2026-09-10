@@ -1,23 +1,10 @@
-create extension if not exists pgcrypto;
-
-create table if not exists public.recare_users (
-  username text primary key,
-  display_name text not null,
-  pin_hash text not null,
-  profile jsonb not null default '{"xp":0,"answered":0,"correct":0,"stats":{},"bookmarks":[],"achievements":[]}'::jsonb,
-  session_token uuid,
-  token_expires_at timestamptz,
-  failed_attempts integer not null default 0,
-  locked_until timestamptz,
-  created_at timestamptz not null default now(),
-  updated_at timestamptz not null default now()
-);
-
+-- Apply after supabase-schema.sql and any optional feature setup scripts.
+-- Transactional security upgrade; never changes users' passwords or deletes profiles.
+begin;
 alter table public.recare_users add column if not exists is_admin boolean not null default false;
 alter table public.recare_users add column if not exists credential_strength integer not null default 0;
-alter table public.recare_users enable row level security;
-revoke all on table public.recare_users from anon, authenticated;
-
+-- Preserve only the pre-existing administrator's role; reserve the name in registration/rename.
+update public.recare_users set is_admin=true where username='test';
 create or replace function public.recare_login(p_username text,p_pin text,p_display_name text)
 returns jsonb language plpgsql security definer set search_path = '' as $$
 declare u public.recare_users; clean_name text; new_token uuid:=gen_random_uuid(); created boolean:=false; attempts integer;
@@ -43,22 +30,6 @@ begin
   end if;
   return jsonb_build_object('username',u.username,'display_name',u.display_name,'session_token',new_token,'profile',u.profile,'is_new',created,'is_admin',u.is_admin);
 end $$;
-
-create or replace function public.recare_save(p_username text,p_session_token uuid,p_profile jsonb)
-returns boolean language plpgsql security definer set search_path='' as $$
-begin
- if not exists(select 1 from public.recare_users where username=lower(trim(p_username)) and session_token=p_session_token and token_expires_at>now()) then return false; end if;
- if not public.recare_valid_profile(p_profile) then raise exception using errcode='22023',message='学習記録の形式またはサイズを確認してください'; end if;
- update public.recare_users set profile=p_profile,updated_at=now()
- where username=lower(trim(p_username)) and session_token=p_session_token and token_expires_at>now();
- return found;
-end $$;
-
-revoke execute on function public.recare_login(text,text,text) from public;
-revoke execute on function public.recare_save(text,uuid,jsonb) from public;
-grant execute on function public.recare_login(text,text,text) to anon;
-grant execute on function public.recare_save(text,uuid,jsonb) to anon;
-
 create or replace function public.recare_update_account(p_username text,p_session_token uuid,p_new_username text,p_new_pin text default null)
 returns jsonb language plpgsql security definer set search_path = '' as $$
 declare clean_old text:=lower(trim(p_username)); clean_new text:=lower(trim(p_new_username)); u public.recare_users;
@@ -72,40 +43,6 @@ begin
   update public.recare_users set username=clean_new,display_name=trim(p_new_username),pin_hash=case when p_new_pin is null then pin_hash else extensions.crypt(p_new_pin,extensions.gen_salt('bf',10)) end,credential_strength=case when p_new_pin is null then credential_strength else char_length(p_new_pin) end,session_token=case when p_new_pin is null then session_token else gen_random_uuid() end,updated_at=now() where username=clean_old returning * into u;
   return jsonb_build_object('username',u.username,'display_name',u.display_name,'session_token',u.session_token,'is_admin',u.is_admin);
 end $$;
-
-create or replace function public.recare_delete_account(p_username text,p_session_token uuid)
-returns boolean language plpgsql security definer set search_path = '' as $$
-begin
-  delete from public.recare_users where username=lower(trim(p_username)) and session_token=p_session_token and token_expires_at>now();
-  return found;
-end $$;
-
-revoke execute on function public.recare_update_account(text,uuid,text,text) from public;
-revoke execute on function public.recare_delete_account(text,uuid) from public;
-grant execute on function public.recare_update_account(text,uuid,text,text) to anon;
-grant execute on function public.recare_delete_account(text,uuid) to anon;
-
--- ランキングには公開してよい成績だけを返し、PIN・トークン・回答履歴は返さない。
-create or replace function public.recare_leaderboard(p_limit integer default 50)
-returns table(rank bigint,username text,display_name text,xp integer,answered integer,correct integer,accuracy integer,level integer)
-language sql stable security definer set search_path = '' as $$
-  with scores as (
-    select u.username,u.display_name,
-      case when coalesce(u.profile->>'xp','') ~ '^[0-9]+$' then (u.profile->>'xp')::integer else 0 end as xp,
-      case when coalesce(u.profile->>'answered','') ~ '^[0-9]+$' then (u.profile->>'answered')::integer else 0 end as answered,
-      case when coalesce(u.profile->>'correct','') ~ '^[0-9]+$' then (u.profile->>'correct')::integer else 0 end as correct,
-      u.updated_at from public.recare_users u
-  ), ranked as (
-    select dense_rank() over(order by xp desc,correct desc,updated_at asc) as rank,* from scores where answered>0 and username<>'test'
-  )
-  select rank,username,display_name,xp,answered,correct,
-    case when answered>0 then round(correct*100.0/answered)::integer else 0 end,
-    floor(xp/250.0)::integer+1
-  from ranked order by rank,username limit least(greatest(coalesce(p_limit,50),1),100)
-$$;
-revoke execute on function public.recare_leaderboard(integer) from public;
-grant execute on function public.recare_leaderboard(integer) to anon;
-
 create or replace function public.recare_admin_dashboard(p_username text,p_session_token uuid)
 returns jsonb language plpgsql stable security definer set search_path = '' as $$
 declare result jsonb;
@@ -116,10 +53,6 @@ begin
     'answers',coalesce((select jsonb_agg(a.item order by a.answered_at desc) from (select jsonb_build_object('username',u.username,'displayName',u.display_name,'at',h->>'at','questionId',h->>'id','category',h->>'category','question',h->>'question','selected',h->>'selected','correctAnswer',h->>'correctAnswer','correct',coalesce((h->>'correct')::boolean,false)) item,coalesce((h->>'at')::timestamptz,to_timestamp(0)) answered_at from public.recare_users u cross join lateral jsonb_array_elements(coalesce(u.profile->'history','[]'::jsonb)) h order by answered_at desc limit 500) a),'[]'::jsonb)
   ) into result; return result;
 end $$;
-revoke execute on function public.recare_admin_dashboard(text,uuid) from public;
-grant execute on function public.recare_admin_dashboard(text,uuid) to anon;
-notify pgrst, 'reload schema';
-
 -- Included by build_security_migration.cjs. Internal validator, not a public RPC.
 create or replace function public.recare_valid_profile(p jsonb)
 returns boolean language plpgsql immutable set search_path='' as $$
@@ -181,3 +114,6 @@ begin
 end $$;
 revoke all on function public.recare_logout(text,uuid) from public,authenticated;
 grant execute on function public.recare_logout(text,uuid) to anon;
+
+notify pgrst, 'reload schema';
+commit;

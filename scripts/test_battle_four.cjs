@@ -7,6 +7,7 @@ const fs=require('fs'),assert=require('node:assert/strict');
  for(const n of names)await db.query("insert into recare_users values($1,$1,$2,now()+interval '1 day')",[n,tokens[n]]);
  for(let i=0;i<2;i++)await db.exec(fs.readFileSync('setup/battle-install.sql','utf8'));
  await db.exec(fs.readFileSync('setup/battle-four-player-update.sql','utf8'));
+ await db.exec(fs.readFileSync('setup/battle-random-match-update.sql','utf8'));
  const rpc=async(action,n,...args)=>{const p=[n,tokens[n],...args];return (await db.query(`select recare_battle_${action}(${p.map((_,i)=>'$'+(i+1)).join(',')}) value`,p)).rows[0].value};
  const advance=async code=>db.query("update recare_battle_rooms set round_started_at=now()-interval '1 second',review_until=now()-interval '1 second' where code=$1",[code]);
  const make=async count=>{const s=await rpc('create','alice');for(const n of names.slice(1,count))assert(!(await rpc('join',n,s.room_code)).error);return s.room_code};

@@ -1,6 +1,6 @@
 (()=>{
 const localUser=localStorage.getItem("recare-active-user"),cloudUser=window.RECARE_CLOUD?.session()?.username;
-if(localUser!=="test"||(window.RECARE_CLOUD?.enabled()&&cloudUser!=="test"))return;
+if(!window.RECARE_CLOUD?.session()?.isAdmin)return;
 let visible=true;
 function ensure(){
   if(!$("#adminAnswerGuide"))document.querySelector(".question-body")?.insertAdjacentHTML("afterbegin",`<aside class="admin-answer-guide" id="adminAnswerGuide"><header><b>ADMIN ANSWER GUIDE</b><button id="adminGuideToggle" type="button">正答表示 ON</button></header><div id="adminGuideAnswer"></div><p id="adminGuideExplanation"></p></aside>`);

@@ -1,3 +1,4 @@
+BEGIN;
 -- Run after supabase-schema.sql, then load battle question catalog seed.
 -- All gameplay writes and scoring run on the server; clients can only call RPCs.
 create table if not exists public.recare_battle_questions (
@@ -219,3 +220,6 @@ create or replace function public.recare_battle_match(p_username text,p_session_
 create or replace function public.recare_battle_cancel(p_username text,p_session_token uuid,p_room_code text) returns jsonb language sql security definer set search_path='' as $$ select public.recare_battle_dispatch('cancel',p_username,p_session_token,p_room_code) $$;
 revoke all on function public.recare_battle_match(text,uuid),public.recare_battle_cancel(text,uuid,text) from public;
 grant execute on function public.recare_battle_match(text,uuid),public.recare_battle_cancel(text,uuid,text) to anon,authenticated;
+
+NOTIFY pgrst, 'reload schema';
+COMMIT;
