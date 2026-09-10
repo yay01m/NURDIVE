@@ -1,0 +1,141 @@
+{
+  "reviewed_at": "2026-09-09",
+  "method": "AIによる執筆・資料照合。医療専門職による監修なし。計算2問は算術で検証。",
+  "sources": {
+    "circulation": "https://www.nhlbi.nih.gov/health/heart/blood-flow",
+    "renal": "https://www.niddk.nih.gov/health-information/kidney-disease/anemia",
+    "diabetes": "https://www.niddk.nih.gov/health-information/diabetes/overview/symptoms-causes",
+    "infection": "https://www.mhlw.go.jp/web/t_doc?dataId=00tc0640&dataType=1&pageNo=1",
+    "heart": "https://www.nhlbi.nih.gov/health/heart-failure/symptoms",
+    "hypoglycemia": "https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia",
+    "stroke": "https://www.ninds.nih.gov/health-information/stroke/signs-and-symptoms",
+    "hydration": "https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults",
+    "falls": "https://www.nia.nih.gov/sites/default/files/2022-08/tips-prevent-falls-infographic.pdf",
+    "dementia": "https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers",
+    "sleep": "https://www.cdc.gov/reproductive-health/features/babies-sleep.html",
+    "ors": "https://www.who.int/publications/i/item/WHO-FCH-CAH-06.1",
+    "maternal": "https://www.cdc.gov/hearher/maternal-warning-signs/index.html",
+    "vaccines": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou/yobou-sesshu/vaccine/mr/index.html",
+    "psychosis": "https://www.nimh.nih.gov/health/topics/schizophrenia",
+    "suicide": "https://www.nimh.nih.gov/health/publications/5-action-steps-to-help-someone-having-thoughts-of-suicide",
+    "acp": "https://www.mhlw.go.jp/acp-jinseikaigi/about/"
+  },
+  "questions": [
+    {
+      "id": "ORG-001-001",
+      "reference_keys": [
+        "circulation"
+      ]
+    },
+    {
+      "id": "ORG-001-002",
+      "reference_keys": [
+        "renal"
+      ]
+    },
+    {
+      "id": "ORG-001-003",
+      "reference_keys": [
+        "diabetes"
+      ]
+    },
+    {
+      "id": "ORG-001-004",
+      "reference_keys": [
+        "infection"
+      ]
+    },
+    {
+      "id": "ORG-001-005",
+      "reference_keys": [
+        "infection"
+      ]
+    },
+    {
+      "id": "ORG-001-006",
+      "reference_keys": []
+    },
+    {
+      "id": "ORG-001-007",
+      "reference_keys": [
+        "heart"
+      ]
+    },
+    {
+      "id": "ORG-001-008",
+      "reference_keys": [
+        "hypoglycemia"
+      ]
+    },
+    {
+      "id": "ORG-001-009",
+      "reference_keys": [
+        "stroke"
+      ]
+    },
+    {
+      "id": "ORG-001-010",
+      "reference_keys": [
+        "hydration"
+      ]
+    },
+    {
+      "id": "ORG-001-011",
+      "reference_keys": [
+        "falls"
+      ]
+    },
+    {
+      "id": "ORG-001-012",
+      "reference_keys": [
+        "dementia"
+      ]
+    },
+    {
+      "id": "ORG-001-013",
+      "reference_keys": [
+        "sleep"
+      ]
+    },
+    {
+      "id": "ORG-001-014",
+      "reference_keys": [
+        "ors"
+      ]
+    },
+    {
+      "id": "ORG-001-015",
+      "reference_keys": [
+        "maternal"
+      ]
+    },
+    {
+      "id": "ORG-001-016",
+      "reference_keys": [
+        "vaccines"
+      ]
+    },
+    {
+      "id": "ORG-001-017",
+      "reference_keys": [
+        "psychosis"
+      ]
+    },
+    {
+      "id": "ORG-001-018",
+      "reference_keys": [
+        "suicide"
+      ]
+    },
+    {
+      "id": "ORG-001-019",
+      "reference_keys": [
+        "acp"
+      ]
+    },
+    {
+      "id": "ORG-001-020",
+      "reference_keys": []
+    }
+  ]
+}

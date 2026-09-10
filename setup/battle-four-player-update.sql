@@ -1,3 +1,5 @@
+-- Upgrade existing friend battles to 2-4 players without deleting records.
+BEGIN;
 -- Run after supabase-schema.sql, then load battle question catalog seed.
 -- All gameplay writes and scoring run on the server; clients can only call RPCs.
 create table if not exists public.recare_battle_questions (
@@ -183,3 +185,6 @@ grant execute on function public.recare_battle_create(text,uuid),public.recare_b
 
 -- Optional housekeeping for the database owner (never exposed as a client RPC):
 -- delete from public.recare_battle_rooms where expires_at < now() - interval '1 day';
+
+NOTIFY pgrst, 'reload schema';
+COMMIT;

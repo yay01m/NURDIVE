@@ -1,0 +1,2986 @@
+{
+  "category": "小児看護学",
+  "sources": {
+    "PED_asthma": {
+      "title": "国立成育医療研究センター：ぜん息",
+      "url": "https://www.ncchd.go.jp/hospital/sickness/children/allergy/asthma.html",
+      "checked_at": "2026-09-10"
+    },
+    "PED_food": {
+      "title": "国立成育医療研究センター：食物アレルギー",
+      "url": "https://www.ncchd.go.jp/hospital/sickness/children/allergy/food_allergy.html",
+      "checked_at": "2026-09-10"
+    },
+    "PED_skin": {
+      "title": "国立成育医療研究センター：アトピー性皮膚炎",
+      "url": "https://www.ncchd.go.jp/hospital/sickness/children/allergy/atopic_dermatitis.html",
+      "checked_at": "2026-09-10"
+    },
+    "PED_rs": {
+      "title": "国立成育医療研究センター：RSウイルス感染症",
+      "url": "https://www.ncchd.go.jp/hospital/sickness/children/rs.html",
+      "checked_at": "2026-09-10"
+    },
+    "PED_epilepsy": {
+      "title": "国立成育医療研究センター：てんかん",
+      "url": "https://www.ncchd.go.jp/hospital/sickness/children/tenkan.html",
+      "checked_at": "2026-09-10"
+    },
+    "PED_leukemia": {
+      "title": "国立成育医療研究センター：白血病",
+      "url": "https://www.ncchd.go.jp/hospital/sickness/children/leukemia.html",
+      "checked_at": "2026-09-10"
+    },
+    "PED_cleft": {
+      "title": "国立成育医療研究センター：口唇口蓋裂",
+      "url": "https://www.ncchd.go.jp/hospital/sickness/children/cleft-lip-and-palate.html",
+      "checked_at": "2026-09-10"
+    },
+    "PED_hearing": {
+      "title": "国立成育医療研究センター：小児難聴",
+      "url": "https://www.ncchd.go.jp/hospital/sickness/children/021.html",
+      "checked_at": "2026-09-10"
+    },
+    "PED_kawasaki": {
+      "title": "国立成育医療研究センター：川崎病",
+      "url": "https://www.ncchd.go.jp/hospital/sickness/children/030.html",
+      "checked_at": "2026-09-10"
+    },
+    "PED_accident": {
+      "title": "消費者庁：子どもの事故防止ハンドブック",
+      "url": "https://www.caa.go.jp/policies/policy/consumer_safety/child/project_002/assets/consumer_safety_cms205_230131_01.pdf",
+      "checked_at": "2026-09-10"
+    },
+    "PED_rights": {
+      "title": "日本小児科学会：医療における子ども憲章",
+      "url": "https://www.jpeds.or.jp/uploads/files/20220817_kensho_p.pdf",
+      "checked_at": "2026-09-10"
+    },
+    "PED_toddler": {
+      "title": "CDC：1〜2歳児の養育支援",
+      "url": "https://www.cdc.gov/child-development/positive-parenting-tips/toddlers-1-2-years.html",
+      "checked_at": "2026-09-10"
+    },
+    "PED_development": {
+      "title": "CDC：発達の観察とスクリーニング",
+      "url": "https://cdc.gov/act-early/hcp/index.html",
+      "checked_at": "2026-09-10"
+    },
+    "PED_seizure": {
+      "title": "日本小児科学会：こどもの救急・けいれん時の看病",
+      "url": "https://www2.kodomo-qq.jp/index.php?pname=keiren%2Fr3",
+      "checked_at": "2026-09-10"
+    },
+    "PED_nephrosis": {
+      "title": "国際小児腎臓学会：小児ステロイド感受性ネフローゼ症候群診療推奨日本語版",
+      "url": "https://theipna.org/wp-content/uploads/2023/03/IPNA_SSNS_Japanese-Ver._230225.pdf",
+      "checked_at": "2026-09-10"
+    },
+    "PED_ibd": {
+      "title": "国立成育医療研究センター：小児炎症性腸疾患",
+      "url": "https://www.ncchd.go.jp/hospital/sickness/children/ibd/",
+      "checked_at": "2026-09-10"
+    },
+    "PED_crohn": {
+      "title": "国立成育医療研究センター：クローン病",
+      "url": "https://www.ncchd.go.jp/hospital/sickness/children/ibd/cd.html",
+      "checked_at": "2026-09-10"
+    },
+    "PED_weaning": {
+      "title": "厚生労働省：授乳・離乳の支援ガイド（離乳編）",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00tb6885&dataType=1",
+      "checked_at": "2026-09-10"
+    },
+    "PED_feeding2019": {
+      "title": "厚生労働省：授乳・離乳の支援ガイド2019年改定の要点",
+      "url": "https://www.mhlw.go.jp/content/11908000/000596077.pdf",
+      "checked_at": "2026-09-10"
+    },
+    "PED_honey": {
+      "title": "厚生労働省：乳児へのハチミツと食事の注意",
+      "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/shokuhin/syokuchu/01_00004.html",
+      "checked_at": "2026-09-10"
+    },
+    "PED_diabetes": {
+      "title": "糖尿病情報センター：こども・思春期",
+      "url": "https://dmic.jihs.go.jp/general/about-dm/080/060/01.html",
+      "checked_at": "2026-09-10"
+    },
+    "PED_jds": {
+      "title": "日本糖尿病学会：小児・思春期糖尿病コンセンサス・ガイドライン2024 1型糖尿病",
+      "url": "https://www.jds.or.jp/uploads/files/publications/pediatric_and_adolescent_gl_2024/09.pdf",
+      "checked_at": "2026-09-10"
+    },
+    "PED_preparation": {
+      "title": "滋賀県立小児保健医療センター：プレパレーション等の取り組み",
+      "url": "https://www.pref.shiga.lg.jp/kensou/19235.html",
+      "checked_at": "2026-09-10"
+    },
+    "PED_bile": {
+      "title": "国立成育医療研究センター：胆道閉鎖症早期発見のために",
+      "url": "https://www.ncchd.go.jp/hospital/about/information/benshoku.html",
+      "checked_at": "2026-09-10"
+    },
+    "PED_measles": {
+      "title": "国立成育医療研究センター：はしか",
+      "url": "https://www.ncchd.go.jp/center/pr/info/0526.html",
+      "checked_at": "2026-09-10"
+    },
+    "PED_hfmd": {
+      "title": "国立成育医療研究センター：手足口病",
+      "url": "https://www.ncchd.go.jp/hospital/sickness/children/HFMD.html",
+      "checked_at": "2026-09-10"
+    },
+    "PED_strep": {
+      "title": "国立成育医療研究センター：溶連菌感染症",
+      "url": "https://www.ncchd.go.jp/hospital/sickness/children/yorenkin.html",
+      "checked_at": "2026-09-10"
+    },
+    "PED_down": {
+      "title": "国立成育医療研究センター：ダウン症候群",
+      "url": "https://www.ncchd.go.jp/hospital/sickness/children/006.html",
+      "checked_at": "2026-09-10"
+    },
+    "PED_cataract": {
+      "title": "国立成育医療研究センター：先天白内障",
+      "url": "https://www.ncchd.go.jp/hospital/sickness/children/029.html",
+      "checked_at": "2026-09-10"
+    },
+    "PED_rop": {
+      "title": "国立成育医療研究センター：未熟児網膜症",
+      "url": "https://www.ncchd.go.jp/hospital/sickness/children/retinopathy.html",
+      "checked_at": "2026-09-10"
+    },
+    "PED_trachea": {
+      "title": "国立成育医療研究センター：気管軟化症",
+      "url": "https://www.ncchd.go.jp/hospital/sickness/children/kidou/kikannankasyo.html",
+      "checked_at": "2026-09-10"
+    },
+    "PED_pain": {
+      "title": "NIH：言語的報告が難しい児のFLACC疼痛評価",
+      "url": "https://www.nih.gov/node/20836",
+      "checked_at": "2026-09-10"
+    },
+    "PED_transition": {
+      "title": "国立成育医療研究センター：成人移行支援の考え方",
+      "url": "https://www.ncchd.go.jp/hospital/about/information/transition.html",
+      "checked_at": "2026-09-10"
+    },
+    "PED_chronic": {
+      "title": "厚生労働省：小児慢性特定疾病対策の概要",
+      "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000078973.html",
+      "checked_at": "2026-09-10"
+    },
+    "PED_vaccine": {
+      "title": "厚生労働省：5種混合ワクチン",
+      "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou/yobou-sesshu/vaccine/dpt-ipv-hib/index.html",
+      "checked_at": "2026-09-10"
+    },
+    "PED_dev1": {
+      "title": "CDC：1歳までの発達と支援",
+      "url": "https://www.cdc.gov/act-early/milestones/1-year.html",
+      "checked_at": "2026-09-10"
+    },
+    "PED_dev2": {
+      "title": "CDC：2歳までの発達と支援",
+      "url": "https://www.cdc.gov/act-early/milestones/2-years.html",
+      "checked_at": "2026-09-10"
+    },
+    "PED_dev4": {
+      "title": "CDC：4歳までの発達と支援",
+      "url": "https://www.cdc.gov/act-early/milestones/4-years.html",
+      "checked_at": "2026-09-10"
+    },
+    "PED_neuroblastoma": {
+      "title": "国立がん研究センター：神経芽腫",
+      "url": "https://ganjoho.jp/public/cancer/neuroblastoma/about.html",
+      "checked_at": "2026-09-10"
+    },
+    "PED_survivor": {
+      "title": "国立成育医療研究センター：長期フォローアップ科",
+      "url": "https://www.ncchd.go.jp/hospital/about/section/cancer/followup.html",
+      "checked_at": "2026-09-10"
+    },
+    "PED_lch": {
+      "title": "国立成育医療研究センター：ランゲルハンス細胞組織球症",
+      "url": "https://www.ncchd.go.jp/hospital/sickness/children/lch.html",
+      "checked_at": "2026-09-10"
+    },
+    "PED_all": {
+      "title": "国立成育医療研究センター：小児急性リンパ性白血病における維持療法の意義",
+      "url": "https://www.ncchd.go.jp/press/2016/ALL-maintenance-therapy.html",
+      "checked_at": "2026-09-10"
+    }
+  },
+  "questions": [
+    {
+      "id": "ORG-PED-001",
+      "category": "小児看護学",
+      "topic": "喘息の長期管理",
+      "question": "喘息で吸入ステロイド薬を毎日使用している学童が、最近発作がないので薬をやめたいと話した。薬の目的の説明で適切なのはどれか。",
+      "choices": [
+        "発作がない時期にも気道の炎症を抑える",
+        "発作時に速やかに気管支を拡張する",
+        "発作の前兆がある日だけ炎症を抑える",
+        "細菌感染を防いで喘息発作を抑える"
+      ],
+      "answer": 1,
+      "notes": [
+        "吸入ステロイド薬は気道の炎症を抑える長期管理薬で、指示どおり継続する。",
+        "速やかな気管支拡張は短時間作用性の気管支拡張薬などの役割である。",
+        "症状のない時期も炎症が残り得るため、前兆のある日だけの使用にはしない。",
+        "抗菌薬ではなく、細菌を除去して喘息を管理する薬ではない。"
+      ],
+      "reference_keys": [
+        "PED_asthma"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "資料の喘息の長期管理に関連する病態・支援方針を確認し、4選択肢の成立条件を点検。独自設問。 二次確認：正答を維持し、無関係な誤答を医学・看護上の取り違えに修正。",
+      "effect": {
+        "name": "喘息に関する学習",
+        "detail": "設問の状態に関連する部位をゲーム内で強調します。実際の発症や病変の位置・重症度を示すものではありません。",
+        "disease": true,
+        "avatarClasses": "affected-airway",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-PED-002",
+      "category": "小児看護学",
+      "topic": "喘息発作の重症化",
+      "question": "喘息のある7歳児について、直ちに医療者へ報告すべき発作時の状態はどれか。",
+      "choices": [
+        "会話しながら絵を描ける",
+        "呼吸が苦しく言葉を続けられない",
+        "発作のない日の食欲が良い",
+        "就寝中の咳がなく朝まで眠れた"
+      ],
+      "answer": 2,
+      "notes": [
+        "活動できることだけで安心はできないが、会話困難より切迫性は低い。",
+        "話せないほどの呼吸困難は重い発作の徴候で、迅速な評価が必要である。",
+        "発作のない日の食欲は、現在の呼吸状態の悪化を示さない。",
+        "安眠できたことは夜間症状が抑えられていた可能性を示す。"
+      ],
+      "reference_keys": [
+        "PED_asthma"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "資料の喘息発作の重症化に関連する病態・支援方針を確認し、4選択肢の成立条件を点検。独自設問。",
+      "effect": {
+        "name": "喘息発作時の呼吸困難",
+        "detail": "設問の状態に関連する部位をゲーム内で強調します。実際の発症や病変の位置・重症度を示すものではありません。",
+        "disease": true,
+        "avatarClasses": "affected-airway sim-breathing",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-PED-003",
+      "category": "小児看護学",
+      "topic": "ピークフローの意味",
+      "question": "喘息日誌に記録するピークフロー値は何を表すか。",
+      "choices": [
+        "肺に残る空気の総量",
+        "血液中の酸素飽和度",
+        "強く息を吐いたときの最大流速",
+        "安静時の呼吸数"
+      ],
+      "answer": 3,
+      "notes": [
+        "残気量をピークフローメーターで測定することはできない。",
+        "酸素飽和度はパルスオキシメーターなどで評価する。",
+        "呼気の最大流速を測り、気道の狭まりや日々の変化を把握する。",
+        "1分間の呼吸回数と呼気流速は異なる指標である。"
+      ],
+      "reference_keys": [
+        "PED_asthma"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "資料のピークフローの意味に関連する病態・支援方針を確認し、4選択肢の成立条件を点検。独自設問。",
+      "effect": {
+        "name": "喘息に関する学習",
+        "detail": "設問の状態に関連する部位をゲーム内で強調します。実際の発症や病変の位置・重症度を示すものではありません。",
+        "disease": true,
+        "avatarClasses": "affected-airway",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-PED-004",
+      "category": "小児看護学",
+      "topic": "喘息と運動",
+      "question": "喘息の治療で症状が安定している学童の体育参加を検討する。適切なのはどれか。",
+      "choices": [
+        "成人になるまで体育を免除する",
+        "発作治療薬だけ使用して管理薬を中止する",
+        "呼吸が苦しくても運動を続けさせる",
+        "主治医と発作時の対応を共有して参加を支える"
+      ],
+      "answer": 4,
+      "notes": [
+        "喘息を理由に運動を一律に禁止せず、管理して参加を支える。",
+        "発作時の薬だけでは慢性炎症への対策が不足する。",
+        "呼吸困難があれば中止し、決めた対応を取る必要がある。",
+        "症状管理と対応計画を整え、成長に必要な活動を保障する。"
+      ],
+      "reference_keys": [
+        "PED_asthma"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "資料の喘息と運動に関連する病態・支援方針を確認し、4選択肢の成立条件を点検。独自設問。",
+      "effect": {
+        "name": "喘息に関する学習",
+        "detail": "設問の状態に関連する部位をゲーム内で強調します。実際の発症や病変の位置・重症度を示すものではありません。",
+        "disease": true,
+        "avatarClasses": "affected-airway",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-PED-005",
+      "category": "小児看護学",
+      "topic": "アレルギーの多臓器症状",
+      "question": "卵摂取後にじんま疹と声のかすれ、呼吸困難が出た幼児がいる。適切な判断はどれか。",
+      "choices": [
+        "皮膚症状だけの軽い反応である",
+        "アナフィラキシーを疑い緊急対応する",
+        "発熱がなければアレルギーではない",
+        "下痢がなければ経過観察だけでよい"
+      ],
+      "answer": 2,
+      "notes": [
+        "皮膚に加えて喉頭・呼吸器の症状があり、軽症とは扱えない。",
+        "食物摂取後の複数臓器症状と呼吸困難は緊急対応を要する。",
+        "食物アレルギーの判定に発熱は必須ではない。",
+        "消化器症状がなくても生命に関わる反応は起こり得る。"
+      ],
+      "reference_keys": [
+        "PED_food"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "資料のアレルギーの多臓器症状に関連する病態・支援方針を確認し、4選択肢の成立条件を点検。独自設問。",
+      "effect": {
+        "name": "アナフィラキシーを疑う状態",
+        "detail": "設問の状態に関連する部位をゲーム内で強調します。実際の発症や病変の位置・重症度を示すものではありません。",
+        "disease": true,
+        "avatarClasses": "affected-systemic sim-skin sim-breathing",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-PED-006",
+      "category": "小児看護学",
+      "topic": "RSウイルスの感染経路",
+      "question": "RSウイルス感染症の乳児の家族に説明する感染予防として適切なのはどれか。",
+      "choices": [
+        "おもちゃの共有では感染しない",
+        "蚊の駆除だけを徹底する",
+        "手指衛生と咳などの飛沫への対策を行う",
+        "食器を洗えば手洗いは不要である"
+      ],
+      "answer": 3,
+      "notes": [
+        "分泌物が付いたおもちゃを介した接触感染に注意する。",
+        "RSウイルスの主な感染経路は蚊による媒介ではない。",
+        "手や物を介した接触と飛沫の両方を減らすことが大切である。",
+        "食器の衛生だけでは手を介した粘膜への感染を防げない。"
+      ],
+      "reference_keys": [
+        "PED_rs"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "資料のRSウイルスの感染経路に関連する病態・支援方針を確認し、4選択肢の成立条件を点検。独自設問。",
+      "effect": {
+        "name": "RSウイルス感染症",
+        "detail": "設問の状態に関連する部位をゲーム内で強調します。実際の発症や病変の位置・重症度を示すものではありません。",
+        "disease": true,
+        "avatarClasses": "affected-airway",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-PED-007",
+      "category": "小児看護学",
+      "topic": "乳児のRS感染重症化",
+      "question": "RSウイルス感染症の生後1か月児で、観察を特に重視するのはどれか。",
+      "choices": [
+        "呼吸状態と哺乳量の変化",
+        "解熱後の皮疹の広がり",
+        "耳漏と耳痛の有無",
+        "下痢便の回数と性状"
+      ],
+      "answer": 1,
+      "notes": [
+        "低月齢児では無呼吸や呼吸状態の悪化、哺乳低下に注意して観察する。",
+        "皮疹を主な回復指標とする疾患ではなく、呼吸と哺乳を優先して捉える。",
+        "中耳炎を合併することはあるが、低月齢児のRS感染では呼吸状態の観察が特に重要である。",
+        "便の観察も必要に応じて行うが、この疾患で特に重視するのは呼吸と哺乳である。"
+      ],
+      "reference_keys": [
+        "PED_rs"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "資料の乳児のRS感染重症化に関連する病態・支援方針を確認し、4選択肢の成立条件を点検。独自設問。 二次確認：正答を維持し、無関係な誤答を医学・看護上の取り違えに修正。",
+      "effect": {
+        "name": "RSウイルス感染症",
+        "detail": "設問の状態に関連する部位をゲーム内で強調します。実際の発症や病変の位置・重症度を示すものではありません。",
+        "disease": true,
+        "avatarClasses": "affected-airway",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-PED-008",
+      "category": "小児看護学",
+      "topic": "てんかんの症状",
+      "question": "てんかんが疑われる児の観察について適切なのはどれか。",
+      "choices": [
+        "全身のけいれんがなければ発作ではない",
+        "発作の様子だけで必ず病型を確定できる",
+        "発作は常に同じ年齢で発症する",
+        "短い意識の途切れも時間や様子を記録する"
+      ],
+      "answer": 4,
+      "notes": [
+        "てんかんにはけいれんを伴わない発作もある。",
+        "診断には病歴、診察、脳波などを合わせた評価が必要である。",
+        "新生児期から思春期まで、病型により発症時期が異なる。",
+        "ぼんやりするだけの発作もあり、経過の具体的記録が診断に役立つ。"
+      ],
+      "reference_keys": [
+        "PED_epilepsy"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "資料のてんかんの症状に関連する病態・支援方針を確認し、4選択肢の成立条件を点検。独自設問。"
+    },
+    {
+      "id": "ORG-PED-009",
+      "category": "小児看護学",
+      "topic": "乳児てんかん性スパズム",
+      "question": "乳児が体を一瞬折り曲げる動作を何度も繰り返し、できていた動作が減ってきた。適切なのはどれか。",
+      "choices": [
+        "発達の後退も含めて速やかに診察につなぐ",
+        "眠いときの癖と断定する",
+        "離乳食の種類だけを変える",
+        "1歳健診まで記録せず待つ"
+      ],
+      "answer": 1,
+      "notes": [
+        "反復するスパズムと発達退行は、専門的な神経学的評価が必要な所見である。",
+        "見た目だけで癖と判断すると治療が必要な発作を見逃す。",
+        "栄養内容の変更だけでは反復する発作と退行を説明できない。",
+        "発達の後退を伴う場合、次の定期健診まで放置しない。"
+      ],
+      "reference_keys": [
+        "PED_epilepsy"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "資料の乳児てんかん性スパズムに関連する病態・支援方針を確認し、4選択肢の成立条件を点検。独自設問。"
+    },
+    {
+      "id": "ORG-PED-010",
+      "category": "小児看護学",
+      "topic": "白血病と感染防御",
+      "question": "白血病の児で正常な好中球が著しく減少している。特に関連する問題はどれか。",
+      "choices": [
+        "出血を止める働きの低下",
+        "感染に対する防御力の低下",
+        "血液の酸素運搬能の低下",
+        "血漿膠質浸透圧の低下"
+      ],
+      "answer": 2,
+      "notes": [
+        "一次止血には主に血小板が関わり、好中球減少とは区別する。",
+        "好中球は病原体の排除に関わり、著しい減少では感染リスクが高まる。",
+        "酸素運搬の低下は主に赤血球やヘモグロビンの減少と関係する。",
+        "膠質浸透圧には主にアルブミンが関わり、好中球の数とは区別する。"
+      ],
+      "reference_keys": [
+        "PED_leukemia"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "資料の白血病と感染防御に関連する病態・支援方針を確認し、4選択肢の成立条件を点検。独自設問。 二次確認：正答を維持し、無関係な誤答を医学・看護上の取り違えに修正。",
+      "effect": {
+        "name": "白血病に関する学習",
+        "detail": "設問の状態に関連する部位をゲーム内で強調します。実際の発症や病変の位置・重症度を示すものではありません。",
+        "disease": true,
+        "avatarClasses": "affected-systemic",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-PED-011",
+      "category": "小児看護学",
+      "topic": "白血病と出血",
+      "question": "白血病治療中の児に点状出血が増えた。関連が最も強い検査値はどれか。",
+      "choices": [
+        "血清ナトリウム",
+        "血糖",
+        "血小板数",
+        "血清クレアチニン"
+      ],
+      "answer": 3,
+      "notes": [
+        "ナトリウムは水・電解質バランスの指標で、点状出血の主因を直接示さない。",
+        "血糖は糖代謝の指標であり、一次止血の評価とは異なる。",
+        "血小板減少では止血が障害され、点状出血などが出現する。",
+        "クレアチニンは主に腎機能を評価する指標である。"
+      ],
+      "reference_keys": [
+        "PED_leukemia"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "資料の白血病と出血に関連する病態・支援方針を確認し、4選択肢の成立条件を点検。独自設問。",
+      "effect": {
+        "name": "白血病に関する学習",
+        "detail": "設問の状態に関連する部位をゲーム内で強調します。実際の発症や病変の位置・重症度を示すものではありません。",
+        "disease": true,
+        "avatarClasses": "affected-systemic",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-PED-012",
+      "category": "小児看護学",
+      "topic": "口蓋裂の機能的影響",
+      "question": "口蓋裂の児に鼻へ食物が漏れたり、発話時に空気が鼻から漏れたりする理由はどれか。",
+      "choices": [
+        "耳管の開閉によって食物が鼻へ流れるため",
+        "舌小帯が短く舌の動きが制限されるため",
+        "胃の内容物が食道へ逆流するため",
+        "口腔と鼻腔を十分に隔てにくいため"
+      ],
+      "answer": 4,
+      "notes": [
+        "耳管は中耳と咽頭をつなぐが、口蓋裂による鼻への漏れの直接の説明ではない。",
+        "舌小帯短縮では舌運動の問題が起こり得るが、口腔と鼻腔の隔たりの問題とは異なる。",
+        "胃食道逆流は胃内容が食道へ戻る現象で、発話時の鼻への空気漏れを説明しない。",
+        "口蓋の裂や閉鎖機能の問題によって口腔と鼻腔を隔てにくく、食物や呼気が鼻へ漏れ得る。"
+      ],
+      "reference_keys": [
+        "PED_cleft"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "資料の口蓋裂の機能的影響に関連する病態・支援方針を確認し、4選択肢の成立条件を点検。独自設問。 二次確認：正答を維持し、無関係な誤答を医学・看護上の取り違えに修正。",
+      "effect": {
+        "name": "口唇口蓋裂に関する学習",
+        "detail": "設問の状態に関連する部位をゲーム内で強調します。実際の発症や病変の位置・重症度を示すものではありません。",
+        "disease": true,
+        "avatarClasses": "affected-airway sim-pharynx",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-PED-013",
+      "category": "小児看護学",
+      "topic": "口唇口蓋裂の継続支援",
+      "question": "口唇口蓋裂の児への長期的な支援として適切なのはどれか。",
+      "choices": [
+        "口唇の形が改善したらすべての受診を終える",
+        "摂食・聴力・発話・歯列を多職種で支える",
+        "聴力は口蓋の状態と無関係なので調べない",
+        "言語発達は成人後に初めて評価する"
+      ],
+      "answer": 2,
+      "notes": [
+        "外見の改善後も成長に伴う機能的な課題が残ることがある。",
+        "摂食、言語、歯列、中耳炎など多面的な課題へ継続して対応する。",
+        "口蓋裂では中耳炎が起こりやすく、耳鼻咽喉科との連携も重要である。",
+        "言語発達への支援を成人まで延期すると早期の援助機会を逃す。"
+      ],
+      "reference_keys": [
+        "PED_cleft"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "資料の口唇口蓋裂の継続支援に関連する病態・支援方針を確認し、4選択肢の成立条件を点検。独自設問。",
+      "effect": {
+        "name": "口唇口蓋裂に関する学習",
+        "detail": "設問の状態に関連する部位をゲーム内で強調します。実際の発症や病変の位置・重症度を示すものではありません。",
+        "disease": true,
+        "avatarClasses": "affected-airway sim-pharynx",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-PED-014",
+      "category": "小児看護学",
+      "topic": "新生児聴覚スクリーニング",
+      "question": "聴覚スクリーニングで要精査となった新生児の保護者に適切な説明はどれか。",
+      "choices": [
+        "難聴が確定したという意味である",
+        "言葉が出るまで精密検査はできない",
+        "精密検査を受け、必要なら早期の支援につなげる",
+        "家庭で大きな音に反応すれば受診を取り消す"
+      ],
+      "answer": 3,
+      "notes": [
+        "スクリーニングの要精査だけで難聴を確定しない。",
+        "乳児期から専門的な聴力検査を進められる。",
+        "早期発見と療育のため、結果に応じた精密評価が重要である。",
+        "家庭での反応だけでは聴力を十分に評価できない。"
+      ],
+      "reference_keys": [
+        "PED_hearing"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "資料の新生児聴覚スクリーニングに関連する病態・支援方針を確認し、4選択肢の成立条件を点検。独自設問。"
+    },
+    {
+      "id": "ORG-PED-015",
+      "category": "小児看護学",
+      "topic": "滲出性中耳炎",
+      "question": "テレビの音量が大きくなった幼児が滲出性中耳炎と診断された。病態はどれか。",
+      "choices": [
+        "中耳に液体がたまり、聞こえに影響する",
+        "外耳道に耳垢が詰まり、音が伝わりにくくなる",
+        "内耳の有毛細胞が障害され、音を感じにくくなる",
+        "鼓膜に孔があき、耳漏が続く"
+      ],
+      "answer": 1,
+      "notes": [
+        "滲出性中耳炎では中耳腔に液がたまり、音の伝達が妨げられる。",
+        "耳垢栓塞も難聴の原因になるが、滲出性中耳炎の病態ではない。",
+        "有毛細胞の障害は感音難聴に関わり、中耳の液体貯留とは区別する。",
+        "鼓膜穿孔や耳漏は滲出性中耳炎の必須所見ではない。"
+      ],
+      "reference_keys": [
+        "PED_hearing"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "資料の滲出性中耳炎に関連する病態・支援方針を確認し、4選択肢の成立条件を点検。独自設問。 二次確認：正答を維持し、無関係な誤答を医学・看護上の取り違えに修正。",
+      "effect": {
+        "name": "滲出性中耳炎",
+        "detail": "設問の状態に関連する部位をゲーム内で強調します。実際の発症や病変の位置・重症度を示すものではありません。",
+        "disease": true,
+        "avatarClasses": "sim-ears",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-PED-016",
+      "category": "小児看護学",
+      "topic": "川崎病の合併症",
+      "question": "川崎病の児が解熱後も心臓の検査を受ける主な理由はどれか。",
+      "choices": [
+        "僧帽弁の癒着や狭窄を確認するため",
+        "心房中隔の先天的な欠損を確認するため",
+        "動脈管の出生後の閉鎖を確認するため",
+        "冠動脈の拡張や瘤などを確認するため"
+      ],
+      "answer": 4,
+      "notes": [
+        "弁膜の評価を行う場合はあるが、川崎病の継続検査では冠動脈病変が重要である。",
+        "心房中隔欠損は先天性心疾患で、川崎病後に新たに生じる主な合併症ではない。",
+        "動脈管閉鎖の評価は川崎病後の検査を続ける主目的ではない。",
+        "解熱しても冠動脈病変の有無や経過を確認する必要がある。"
+      ],
+      "reference_keys": [
+        "PED_kawasaki"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "資料の川崎病の合併症に関連する病態・支援方針を確認し、4選択肢の成立条件を点検。独自設問。 二次確認：正答を維持し、無関係な誤答を医学・看護上の取り違えに修正。",
+      "effect": {
+        "name": "川崎病に関する学習",
+        "detail": "設問の状態に関連する部位をゲーム内で強調します。実際の発症や病変の位置・重症度を示すものではありません。",
+        "disease": true,
+        "avatarClasses": "affected-heart",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-PED-017",
+      "category": "小児看護学",
+      "topic": "川崎病の急性期治療",
+      "question": "川崎病急性期に免疫グロブリン療法を行う主なねらいはどれか。",
+      "choices": [
+        "血管の炎症を抑え冠動脈病変を減らす",
+        "血小板の凝集を直接抑える",
+        "形成された冠動脈血栓を溶かす",
+        "血管炎の原因となる細菌を殺菌する"
+      ],
+      "answer": 1,
+      "notes": [
+        "免疫グロブリン療法は強い炎症を抑え、冠動脈病変の発生を減らすことを目指す。",
+        "抗血小板作用は主にアスピリンなどの役割で、免疫グロブリン療法の主作用とは異なる。",
+        "免疫グロブリンは血栓溶解薬ではなく、形成済み血栓を溶かす目的の治療ではない。",
+        "川崎病は細菌を殺菌すれば治る疾患として扱わず、免疫グロブリンも抗菌薬ではない。"
+      ],
+      "reference_keys": [
+        "PED_kawasaki"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "資料の川崎病の急性期治療に関連する病態・支援方針を確認し、4選択肢の成立条件を点検。独自設問。 二次確認：正答を維持し、無関係な誤答を医学・看護上の取り違えに修正。",
+      "effect": {
+        "name": "川崎病に関する学習",
+        "detail": "設問の状態に関連する部位をゲーム内で強調します。実際の発症や病変の位置・重症度を示すものではありません。",
+        "disease": true,
+        "avatarClasses": "affected-heart",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-PED-018",
+      "category": "小児看護学",
+      "topic": "アトピー性皮膚炎の病態",
+      "question": "アトピー性皮膚炎の児が皮膚をかくと、さらにかゆみが強くなる。説明として適切なのはどれか。",
+      "choices": [
+        "かくことで皮膚の防御機能が完全に回復する",
+        "かくことで皮膚が傷つき、刺激が入りやすくなる",
+        "皮脂が必ず過剰になり角層が厚くなる",
+        "血中酸素濃度が上昇するためである"
+      ],
+      "answer": 2,
+      "notes": [
+        "掻破はバリア機能の回復ではなく悪化を招く。",
+        "炎症とかゆみに掻破が加わると、皮膚障害が悪循環をつくる。",
+        "かゆみの悪循環を皮脂過剰だけで説明することはできない。",
+        "局所の皮膚障害の説明に血中酸素の上昇は当てはまらない。"
+      ],
+      "reference_keys": [
+        "PED_skin"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "資料のアトピー性皮膚炎の病態に関連する病態・支援方針を確認し、4選択肢の成立条件を点検。独自設問。",
+      "effect": {
+        "name": "湿疹・皮膚炎",
+        "detail": "設問の状態に関連する部位をゲーム内で強調します。実際の発症や病変の位置・重症度を示すものではありません。",
+        "disease": true,
+        "avatarClasses": "sim-skin",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-PED-019",
+      "category": "小児看護学",
+      "topic": "ボタン電池の誤飲",
+      "question": "幼児がボタン電池を飲み込んだ可能性がある。症状がない場合の対応はどれか。",
+      "choices": [
+        "便に出るまで待つ",
+        "無理に吐かせる",
+        "直ちに医療機関へ連絡し受診する",
+        "食事で胃に押し流す"
+      ],
+      "answer": 3,
+      "notes": [
+        "無症状でも消化管を損傷する危険がある。",
+        "吐かせる操作は安全な対処ではない。",
+        "短時間で重い損傷を生じ得るため、速やかな診療が必要である。",
+        "飲食で押し流そうとせず医療者の指示を受ける。"
+      ],
+      "reference_keys": [
+        "PED_accident"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "ボタン電池の誤飲の事実・安全上の条件を掲載資料に照合。症例と選択肢は独自作成。"
+    },
+    {
+      "id": "ORG-PED-020",
+      "category": "小児看護学",
+      "topic": "磁石の誤飲",
+      "question": "複数の小型磁石を誤飲した幼児で懸念される合併症はどれか。",
+      "choices": [
+        "腸壁を挟み込むことによる穿孔",
+        "食道で電流が流れることによる腐食",
+        "消化管から吸収された鉄の中毒",
+        "磁気による腸内細菌の死滅"
+      ],
+      "answer": 1,
+      "notes": [
+        "複数の磁石は腸壁を間に挟んで引き合い、圧迫壊死や穿孔を起こし得る。",
+        "電流による腐食は主にボタン電池の誤飲で問題となる機序である。",
+        "鉄剤の大量誤飲による中毒とは異なり、磁石同士の吸着が重要である。",
+        "磁気で腸内細菌が死滅することを主な危険とするものではない。"
+      ],
+      "reference_keys": [
+        "PED_accident"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "磁石の誤飲の事実・安全上の条件を掲載資料に照合。症例と選択肢は独自作成。 二次確認：正答を維持し、無関係な誤答を医学・看護上の取り違えに修正。"
+    },
+    {
+      "id": "ORG-PED-021",
+      "category": "小児看護学",
+      "topic": "食物による窒息予防",
+      "question": "3歳児のおやつを準備する際、窒息予防として適切なのはどれか。",
+      "choices": [
+        "丸いブドウをそのまま出す",
+        "硬いナッツを避ける",
+        "泣いている間に食べさせる",
+        "走りながら少量ずつ食べさせる"
+      ],
+      "answer": 2,
+      "notes": [
+        "球状の食品は気道を塞ぎ得るので形状を調整する。",
+        "かみ砕きにくい豆・ナッツ類は幼児の誤嚥リスクが高い。",
+        "泣いて吸い込むと食物が気道へ入りやすい。",
+        "食べるときは座り、口に入れたまま運動させない。"
+      ],
+      "reference_keys": [
+        "PED_accident"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "食物による窒息予防の事実・安全上の条件を掲載資料に照合。症例と選択肢は独自作成。"
+    },
+    {
+      "id": "ORG-PED-022",
+      "category": "小児看護学",
+      "topic": "浴槽の溺水予防",
+      "question": "1歳児のいる家庭で入浴後に行う安全対策はどれか。",
+      "choices": [
+        "浴槽のふただけを閉める",
+        "浮き輪を浴槽に置く",
+        "きょうだいに見張りを任せる",
+        "湯を抜き、幼児が浴室へ入れないようにする"
+      ],
+      "answer": 4,
+      "notes": [
+        "ふたは踏み抜きや転落を確実に防げない。",
+        "浮き輪があっても溺水は起こる。",
+        "子どもだけの監視を安全対策の代わりにしない。",
+        "残り湯をなくし浴室へのアクセスを制限すると危険を減らせる。"
+      ],
+      "reference_keys": [
+        "PED_accident"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "浴槽の溺水予防の事実・安全上の条件を掲載資料に照合。症例と選択肢は独自作成。"
+    },
+    {
+      "id": "ORG-PED-023",
+      "category": "小児看護学",
+      "topic": "乳児の転落予防",
+      "question": "おむつ交換台に乳児を寝かせた直後、離れた棚に物品があると気づいた。適切なのはどれか。",
+      "choices": [
+        "寝返り前なのでそのまま取りに行く",
+        "枕で囲って離れる",
+        "乳児を安全な場所へ移してから取りに行く",
+        "タオルで顔を覆って動きを止める"
+      ],
+      "answer": 3,
+      "notes": [
+        "予想外に動くことがあり、月齢だけで安全と判断しない。",
+        "枕では転落を防げず、顔を覆う危険もある。",
+        "高い台に残さず、安全を確保して必要物品をそろえる。",
+        "顔を覆うと窒息の危険があり、転落防止にもならない。"
+      ],
+      "reference_keys": [
+        "PED_accident"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "乳児の転落予防の事実・安全上の条件を掲載資料に照合。症例と選択肢は独自作成。"
+    },
+    {
+      "id": "ORG-PED-024",
+      "category": "小児看護学",
+      "topic": "熱湯による熱傷予防",
+      "question": "つかまり立ちをする児の家庭で電気ケトルを使用する。適切な配置はどれか。",
+      "choices": [
+        "本体もコードも手の届かない位置",
+        "本体は高くしてコードを垂らす",
+        "床に置いて熱いと教える",
+        "テーブルクロスの端に置く"
+      ],
+      "answer": 1,
+      "notes": [
+        "本体を倒したりコードを引いたりできない配置にする。",
+        "コードを引くと熱湯がこぼれる危険がある。",
+        "乳児への言葉の注意だけで接触を防ぐことはできない。",
+        "布を引く動作で容器が落下する危険がある。"
+      ],
+      "reference_keys": [
+        "PED_accident"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "熱湯による熱傷予防の事実・安全上の条件を掲載資料に照合。症例と選択肢は独自作成。"
+    },
+    {
+      "id": "ORG-PED-025",
+      "category": "小児看護学",
+      "topic": "医薬品の保管",
+      "question": "祖父母宅を訪ねる2歳児の誤飲予防として適切なのはどれか。",
+      "choices": [
+        "錠剤を菓子の缶にまとめる",
+        "薬を施錠できる手の届かない場所にしまう",
+        "苦い薬だけ低い棚に置く",
+        "飲む直前の薬を食卓に並べておく"
+      ],
+      "answer": 2,
+      "notes": [
+        "食品の容器への移し替えは誤認につながる。",
+        "見つけにくく、開けたり触れたりできない保管が重要である。",
+        "味では誤飲を防げず、少量でも有害な薬がある。",
+        "一時的に出した薬も誤飲の原因になる。"
+      ],
+      "reference_keys": [
+        "PED_accident"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "医薬品の保管の事実・安全上の条件を掲載資料に照合。症例と選択肢は独自作成。"
+    },
+    {
+      "id": "ORG-PED-026",
+      "category": "小児看護学",
+      "topic": "窓からの転落",
+      "question": "椅子に登れる幼児の転落予防として適切なのはどれか。",
+      "choices": [
+        "網戸を閉めれば施錠しない",
+        "窓の下に玩具箱を置く",
+        "窓際で遊ぶときだけ声をかける",
+        "窓の補助錠を用い、足場になる家具を離す"
+      ],
+      "answer": 4,
+      "notes": [
+        "網戸は子どもの体重を支える柵ではない。",
+        "玩具箱が窓へ登る足場になり得る。",
+        "声かけだけに頼らず物理的な環境調整が必要である。",
+        "開口部への接近と開放を防ぐ対策を組み合わせる。"
+      ],
+      "reference_keys": [
+        "PED_accident"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "窓からの転落の事実・安全上の条件を掲載資料に照合。症例と選択肢は独自作成。"
+    },
+    {
+      "id": "ORG-PED-027",
+      "category": "小児看護学",
+      "topic": "子どもへの説明",
+      "question": "検査を受ける幼児にも説明する理由として適切なのはどれか。",
+      "choices": [
+        "保護者の同意を不要にするため",
+        "泣かないことを約束させるため",
+        "理解に合った方法で情報を得る権利があるため",
+        "検査の結果を本人に責任を負わせるため"
+      ],
+      "answer": 3,
+      "notes": [
+        "本人への説明と保護者の同意は別々に必要な支援である。",
+        "説明は感情表出を禁止するために行うものではない。",
+        "子どもにも分かる説明を受ける権利があり、理解を支える。",
+        "治療結果の責任を子どもへ移すことが目的ではない。"
+      ],
+      "reference_keys": [
+        "PED_rights"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "子どもへの説明の事実・安全上の条件を掲載資料に照合。症例と選択肢は独自作成。"
+    },
+    {
+      "id": "ORG-PED-028",
+      "category": "小児看護学",
+      "topic": "子どもの最善の利益",
+      "question": "重い疾患のある児の治療方針を話し合う際、判断の中心に置くのはどれか。",
+      "choices": [
+        "病棟の運営上の都合",
+        "その子どもにとって最もよい利益",
+        "年長の親族だけの希望",
+        "担当者の個人的な価値観"
+      ],
+      "answer": 2,
+      "notes": [
+        "運営の都合だけで子どもの利益を後回しにしない。",
+        "本人の利益を第一に考え、家族・多職種で検討する。",
+        "家族の考えは大切だが、特定者の希望だけで決めない。",
+        "個人の価値観を唯一の基準にせず医学的事実と本人の利益を考える。"
+      ],
+      "reference_keys": [
+        "PED_rights"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "子どもの最善の利益の事実・安全上の条件を掲載資料に照合。症例と選択肢は独自作成。"
+    },
+    {
+      "id": "ORG-PED-029",
+      "category": "小児看護学",
+      "topic": "幼児の自立支援",
+      "question": "2歳児が入院中も自分でスプーンを持ちたがる。嚥下障害はない。適切なのはどれか。",
+      "choices": [
+        "こぼさないよう毎回全介助する",
+        "食べ終わるまで一人にする",
+        "自分で食べることを退院まで禁止する",
+        "安全を見守り、できない部分だけ援助する"
+      ],
+      "answer": 4,
+      "notes": [
+        "すべて代行すると、自分で試す機会がなくなる。",
+        "誤嚥などに備え見守りが必要である。",
+        "安全にできる活動まで一律に禁止する必要はない。",
+        "食事の自立への意欲を生かし、達成可能な範囲で援助する。"
+      ],
+      "reference_keys": [
+        "PED_toddler"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "幼児の自立支援の事実・安全上の条件を掲載資料に照合。症例と選択肢は独自作成。"
+    },
+    {
+      "id": "ORG-PED-030",
+      "category": "小児看護学",
+      "topic": "幼児の言語を支える応答",
+      "question": "幼児が車を指さし「ぶーぶ」と言った。言語発達を支える応答はどれか。",
+      "choices": [
+        "「赤い車が走っているね」と言葉を添える",
+        "正しい発音まで話しかけない",
+        "誤った言い方だと繰り返し叱る",
+        "言葉を使わずテレビだけ見せる"
+      ],
+      "answer": 1,
+      "notes": [
+        "子どもの表現を受け止め、関連した語を加えるとやり取りが広がる。",
+        "不完全な発語もコミュニケーションの出発点になる。",
+        "叱責で発話を抑えるより、自然な応答で言葉を示す。",
+        "受け身の視聴だけでは対人の応答を置き換えられない。"
+      ],
+      "reference_keys": [
+        "PED_toddler"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "幼児の言語を支える応答の事実・安全上の条件を掲載資料に照合。症例と選択肢は独自作成。"
+    },
+    {
+      "id": "ORG-PED-031",
+      "category": "小児看護学",
+      "topic": "発達の評価",
+      "question": "発達チェックリストを使用する際の理解として適切なのはどれか。",
+      "choices": [
+        "1項目できなければ診断が確定する",
+        "観察を専門的評価へつなぐ資料として用いる",
+        "保護者の気づきは評価に含めない",
+        "すべての子どもが同日に達成する基準である"
+      ],
+      "answer": 2,
+      "notes": [
+        "チェックリストだけで疾患を確定することはできない。",
+        "日常の発達を把握し、必要なスクリーニングや診察につなぐ。",
+        "家庭での様子は重要な情報であり、保護者と共有する。",
+        "発達には個人差があり、経過を含めて評価する。"
+      ],
+      "reference_keys": [
+        "PED_development"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "発達の評価の事実・安全上の条件を掲載資料に照合。症例と選択肢は独自作成。"
+    },
+    {
+      "id": "ORG-PED-032",
+      "category": "小児看護学",
+      "topic": "けいれん中の安全",
+      "question": "幼児が全身けいれんを起こした。口への対応で適切なのはどれか。",
+      "choices": [
+        "舌をかまないようスプーンを入れる",
+        "飲み薬を直ちに流し込む",
+        "指や物を口に入れない",
+        "タオルを強くくわえさせる"
+      ],
+      "answer": 3,
+      "notes": [
+        "器具を入れると歯や口腔を損傷し、気道を塞ぐ危険がある。",
+        "けいれん中の内服は誤嚥につながる。",
+        "気道を妨げないようにし、呼吸と持続時間を確認する。",
+        "タオルを口に入れることも窒息の原因となる。"
+      ],
+      "reference_keys": [
+        "PED_seizure"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "けいれん中の安全の事実・安全上の条件を掲載資料に照合。症例と選択肢は独自作成。",
+      "effect": {
+        "name": "けいれん",
+        "detail": "設問の状態に関連する部位をゲーム内で強調します。実際の発症や病変の位置・重症度を示すものではありません。",
+        "disease": true,
+        "avatarClasses": "affected-systemic sim-seizure",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-PED-033",
+      "category": "小児看護学",
+      "topic": "けいれんの持続時間",
+      "question": "家庭で幼児のけいれんが始まり、5分を過ぎても続いている。適切なのはどれか。",
+      "choices": [
+        "解熱するまで待つ",
+        "水で顔を洗う",
+        "眠れば止まるので寝室に置く",
+        "救急車を要請する"
+      ],
+      "answer": 4,
+      "notes": [
+        "体温の低下を待って救急対応を遅らせない。",
+        "顔を洗う行為は発作を止める処置ではない。",
+        "持続する発作を睡眠として扱わない。",
+        "5分以上持続するけいれんは救急要請が必要な状態である。"
+      ],
+      "reference_keys": [
+        "PED_seizure"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "けいれんの持続時間の事実・安全上の条件を掲載資料に照合。症例と選択肢は独自作成。",
+      "effect": {
+        "name": "けいれん",
+        "detail": "設問の状態に関連する部位をゲーム内で強調します。実際の発症や病変の位置・重症度を示すものではありません。",
+        "disease": true,
+        "avatarClasses": "affected-systemic sim-seizure",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-PED-034",
+      "category": "小児看護学",
+      "topic": "発作の観察記録",
+      "question": "けいれんが止まり呼吸を確認した後、医師へ伝える情報として適切なのはどれか。",
+      "choices": [
+        "開始時刻、持続時間、左右差、発熱の有無",
+        "前日のテレビ番組だけ",
+        "保護者の推測した病名だけ",
+        "発作後の身長だけ"
+      ],
+      "answer": 1,
+      "notes": [
+        "発作の時間的経過と特徴は診断や緊急度の判断に役立つ。",
+        "番組名だけでは発作の性質を評価できない。",
+        "推測より実際に見た症状を具体的に伝える。",
+        "身長は発作直後の状況を示す主要情報ではない。"
+      ],
+      "reference_keys": [
+        "PED_seizure"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "発作の観察記録の事実・安全上の条件を掲載資料に照合。症例と選択肢は独自作成。",
+      "effect": {
+        "name": "けいれん",
+        "detail": "設問の状態に関連する部位をゲーム内で強調します。実際の発症や病変の位置・重症度を示すものではありません。",
+        "disease": true,
+        "avatarClasses": "affected-systemic sim-seizure",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-PED-035",
+      "category": "小児看護学",
+      "topic": "ネフローゼの家庭観察",
+      "question": "ネフローゼ症候群の児の保護者へ、再発を早期に捉える方法として説明するのはどれか。",
+      "choices": [
+        "尿の色だけで蛋白尿を判断する",
+        "指示された頻度で尿試験紙を使い記録する",
+        "浮腫がなければ受診をすべて中止する",
+        "尿蛋白陽性なら家族の薬を追加する"
+      ],
+      "answer": 2,
+      "notes": [
+        "見た目が正常でも蛋白尿はあり得る。",
+        "家庭での尿蛋白モニタリングは再発の早期把握に役立つ。",
+        "浮腫の有無だけで寛解や治療中止を判断しない。",
+        "陽性時はあらかじめ決めた連絡・治療方針に従う。"
+      ],
+      "reference_keys": [
+        "PED_nephrosis"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "ネフローゼの家庭観察の事実・安全上の条件を掲載資料に照合。症例と選択肢は独自作成。",
+      "effect": {
+        "name": "ネフローゼ症候群",
+        "detail": "設問の状態に関連する部位をゲーム内で強調します。実際の発症や病変の位置・重症度を示すものではありません。",
+        "disease": true,
+        "avatarClasses": "affected-kidneys",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-PED-036",
+      "category": "小児看護学",
+      "topic": "ネフローゼの体液評価",
+      "question": "浮腫のあるネフローゼ症候群の児で、循環血液量について適切な理解はどれか。",
+      "choices": [
+        "浮腫があれば必ず循環血液量は多い",
+        "浮腫は必ず水分の飲み過ぎだけで起こる",
+        "浮腫があっても血管内の水分は不足し得る",
+        "浮腫があれば血圧測定は不要である"
+      ],
+      "answer": 3,
+      "notes": [
+        "組織間の水分増加と血管内の量は同じではない。",
+        "蛋白尿などによる体液分布の変化も関与する。",
+        "血圧、脈拍、尿量、末梢循環を合わせて評価する。",
+        "血圧は体液状態と治療上のリスクの重要な観察項目である。"
+      ],
+      "reference_keys": [
+        "PED_nephrosis"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "ネフローゼの体液評価の事実・安全上の条件を掲載資料に照合。症例と選択肢は独自作成。",
+      "effect": {
+        "name": "ネフローゼ症候群",
+        "detail": "設問の状態に関連する部位をゲーム内で強調します。実際の発症や病変の位置・重症度を示すものではありません。",
+        "disease": true,
+        "avatarClasses": "affected-kidneys",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-PED-037",
+      "category": "小児看護学",
+      "topic": "ステロイド治療中の成長観察",
+      "question": "ネフローゼ症候群でステロイド薬の治療を続ける児に必要な観察はどれか。",
+      "choices": [
+        "むくみがあれば身長測定をやめる",
+        "体重増加をすべて良好な発育とする",
+        "尿蛋白だけ記録すればよい",
+        "身長・体重を成長曲線に記録し経過をみる"
+      ],
+      "answer": 4,
+      "notes": [
+        "身長は薬剤や慢性疾患による成長への影響を把握する指標である。",
+        "浮腫や薬剤の影響もあり、体重増加だけで成長良好とはいえない。",
+        "治療効果に加え成長や副作用の観察が必要である。",
+        "単回値だけでなく成長速度と体重の変化を継続評価する。"
+      ],
+      "reference_keys": [
+        "PED_nephrosis"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "ステロイド治療中の成長観察の事実・安全上の条件を掲載資料に照合。症例と選択肢は独自作成。",
+      "effect": {
+        "name": "ネフローゼ症候群",
+        "detail": "設問の状態に関連する部位をゲーム内で強調します。実際の発症や病変の位置・重症度を示すものではありません。",
+        "disease": true,
+        "avatarClasses": "affected-kidneys",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-PED-038",
+      "category": "小児看護学",
+      "topic": "小児IBDの成長への影響",
+      "question": "腹痛と下痢を繰り返す学童に、体重減少と身長の伸びの鈍化がある。適切なのはどれか。",
+      "choices": [
+        "消化器症状と成長の経過を関連づけて評価する",
+        "成長の鈍化は消化器疾患と無関係とする",
+        "本人の偏食と断定する",
+        "血便がない限り経過を調べない"
+      ],
+      "answer": 1,
+      "notes": [
+        "小児IBDでは栄養・成長障害も重要な所見となる。",
+        "慢性炎症や栄養状態は成長に影響する。",
+        "偏食だけと決めつけず、疾患を含めて評価する。",
+        "クローン病などでは血便が目立たない場合もある。"
+      ],
+      "reference_keys": [
+        "PED_ibd"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "小児IBDの成長への影響の事実・安全上の条件を掲載資料に照合。症例と選択肢は独自作成。"
+    },
+    {
+      "id": "ORG-PED-039",
+      "category": "小児看護学",
+      "topic": "クローン病の病変範囲",
+      "question": "小児クローン病で炎症が生じ得る範囲はどれか。",
+      "choices": [
+        "直腸だけ",
+        "口から肛門までの消化管",
+        "胃だけ",
+        "肝臓の胆管だけ"
+      ],
+      "answer": 2,
+      "notes": [
+        "直腸に限定されず、さまざまな消化管部位に起こる。",
+        "小腸・大腸を含む消化管の広い範囲に病変を生じ得る。",
+        "胃だけの病気ではなく、部位により症状が異なる。",
+        "胆管炎に限定される疾患ではない。"
+      ],
+      "reference_keys": [
+        "PED_crohn"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "クローン病の病変範囲の事実・安全上の条件を掲載資料に照合。症例と選択肢は独自作成。",
+      "effect": {
+        "name": "炎症性腸疾患に関する学習",
+        "detail": "設問の状態に関連する部位をゲーム内で強調します。実際の発症や病変の位置・重症度を示すものではありません。",
+        "disease": true,
+        "avatarClasses": "affected-intestine",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-PED-040",
+      "category": "小児看護学",
+      "topic": "IBD児の学校生活",
+      "question": "IBDの学童が急な便意を心配し授業を休みがちである。適切な支援はどれか。",
+      "choices": [
+        "我慢する練習だけを勧める",
+        "病名を全校へ無断で公開する",
+        "本人と相談しトイレ利用などを学校と調整する",
+        "通学を永久に禁止する"
+      ],
+      "answer": 3,
+      "notes": [
+        "症状に応じた環境調整が必要で、我慢の強制では解決しない。",
+        "病気に関する情報共有には本人・家族の意向への配慮が必要である。",
+        "治療と教育の両立を支える具体的な調整が役立つ。",
+        "病状に合わせて支援し、一律に学習機会を奪わない。"
+      ],
+      "reference_keys": [
+        "PED_ibd"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "IBD児の学校生活の事実・安全上の条件を掲載資料に照合。症例と選択肢は独自作成。",
+      "effect": {
+        "name": "炎症性腸疾患に関する学習",
+        "detail": "設問の状態に関連する部位をゲーム内で強調します。実際の発症や病変の位置・重症度を示すものではありません。",
+        "disease": true,
+        "avatarClasses": "affected-intestine",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-PED-041",
+      "category": "小児看護学",
+      "topic": "離乳開始の準備",
+      "question": "離乳開始を検討する生後5〜6か月児で、発達面の目安となるのはどれか。",
+      "choices": [
+        "独歩できる",
+        "首が安定し、支えると座れる",
+        "奥歯がすべてそろっている",
+        "箸を使える"
+      ],
+      "answer": 2,
+      "notes": [
+        "独歩を待つ必要はなく、乳児期から離乳を進める。",
+        "姿勢や食物への関心、押し出し反射の減弱などを合わせて判断する。",
+        "離乳開始には乳歯の完成を必要としない。",
+        "箸の操作は離乳開始の条件ではない。"
+      ],
+      "reference_keys": [
+        "PED_weaning"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "離乳開始の準備の医学的事実・支援上の条件を資料で確認し、各選択肢を点検。"
+    },
+    {
+      "id": "ORG-PED-042",
+      "category": "小児看護学",
+      "topic": "離乳初期の食形態",
+      "question": "離乳を初めて開始する乳児の食形態として適切なのはどれか。",
+      "choices": [
+        "歯ぐきでかみ切る肉片",
+        "硬い粒状の穀類",
+        "なめらかにすりつぶした状態",
+        "大人と同じ硬さのご飯"
+      ],
+      "answer": 3,
+      "notes": [
+        "開始直後にはかみ切る動作を前提にしない。",
+        "硬い粒は飲み込みや窒息の面で不適切である。",
+        "まず飲み込みや舌ざわりに慣れる形態から始める。",
+        "成人と同じ硬さでは乳児の摂食機能に合わない。"
+      ],
+      "reference_keys": [
+        "PED_weaning"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "離乳初期の食形態の医学的事実・支援上の条件を資料で確認し、各選択肢を点検。"
+    },
+    {
+      "id": "ORG-PED-043",
+      "category": "小児看護学",
+      "topic": "離乳の完了",
+      "question": "離乳の完了について正しい理解はどれか。",
+      "choices": [
+        "主な栄養を乳汁以外の食物から得られる状態",
+        "母乳を一滴も飲まなくなること",
+        "初めておかゆを口にした時点",
+        "すべての乳歯が永久歯になること"
+      ],
+      "answer": 1,
+      "notes": [
+        "形のある食物をかみつぶし、栄養の大部分を食事からとれる状態をいう。",
+        "離乳完了後に授乳を続けていてもよい。",
+        "初めて食物を与えるのは離乳の開始である。",
+        "永久歯への交換は離乳よりずっと後の発達である。"
+      ],
+      "reference_keys": [
+        "PED_weaning"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "離乳の完了の医学的事実・支援上の条件を資料で確認し、各選択肢を点検。"
+    },
+    {
+      "id": "ORG-PED-044",
+      "category": "小児看護学",
+      "topic": "乳児とハチミツ",
+      "question": "生後8か月児に加熱したハチミツ入り飲料を与えてよいか聞かれた。適切なのはどれか。",
+      "choices": [
+        "沸騰させれば自由に与えてよい",
+        "少量なら毎日与えてよい",
+        "水で薄めれば安全になる",
+        "通常の加熱では防げないため1歳未満には与えない"
+      ],
+      "answer": 4,
+      "notes": [
+        "通常の調理加熱で芽胞の危険を取り除くことはできない。",
+        "少量という理由では乳児ボツリヌス症の危険を否定できない。",
+        "希釈しても芽胞を無害化できない。",
+        "ハチミツやそれを含む食品は1歳未満の乳児に避ける。"
+      ],
+      "reference_keys": [
+        "PED_honey"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "乳児とハチミツの医学的事実・支援上の条件を資料で確認し、各選択肢を点検。"
+    },
+    {
+      "id": "ORG-PED-045",
+      "category": "小児看護学",
+      "topic": "離乳支援と保護者の不安",
+      "question": "離乳食の量が育児書の目安より少ないと保護者が心配している。適切な支援はどれか。",
+      "choices": [
+        "目安量を必ず食べ終えるまで続ける",
+        "成長と食べる様子を確認し個別に進め方を考える",
+        "すぐに母乳をすべて中止する",
+        "不安は本人の問題として相談を断る"
+      ],
+      "answer": 2,
+      "notes": [
+        "強制よりも成長・発達と児の様子に応じた調整を行う。",
+        "一律の量に当てはめず、保護者の気持ちも受け止めて支援する。",
+        "摂取量の評価なしに授乳を一律中止しない。",
+        "授乳・離乳に伴う不安への継続的支援が必要である。"
+      ],
+      "reference_keys": [
+        "PED_feeding2019"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "離乳支援と保護者の不安の医学的事実・支援上の条件を資料で確認し、各選択肢を点検。"
+    },
+    {
+      "id": "ORG-PED-046",
+      "category": "小児看護学",
+      "topic": "離乳期の鉄",
+      "question": "生後9か月以降の離乳食で鉄の不足に配慮する工夫はどれか。",
+      "choices": [
+        "おかゆだけを増量する",
+        "果汁を主食にする",
+        "食べられる形にした赤身の肉や魚を取り入れる",
+        "離乳食を減らし水を増やす"
+      ],
+      "answer": 3,
+      "notes": [
+        "穀類だけの増量では鉄などの栄養を十分に補いにくい。",
+        "果汁は主食や鉄源の代わりにならない。",
+        "発達に合う調理で鉄を含む食品を組み合わせる。",
+        "水の増量は必要な栄養補給にならない。"
+      ],
+      "reference_keys": [
+        "PED_weaning"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "離乳期の鉄の医学的事実・支援上の条件を資料で確認し、各選択肢を点検。"
+    },
+    {
+      "id": "ORG-PED-047",
+      "category": "小児看護学",
+      "topic": "1型糖尿病の基本病態",
+      "question": "小児の1型糖尿病でインスリン補充が必要になる主な理由はどれか。",
+      "choices": [
+        "インスリン分泌が著しく不足するため",
+        "食物の糖がすべて吸収されなくなるため",
+        "腎臓がインスリンを過剰に産生するため",
+        "血液中の赤血球がインスリンを作るため"
+      ],
+      "answer": 1,
+      "notes": [
+        "膵β細胞の障害などでインスリンが欠乏し、補充が必要になる。",
+        "糖の吸収欠如ではなく、利用や代謝調節の障害が問題である。",
+        "インスリンの産生部位は膵臓のβ細胞である。",
+        "赤血球はインスリンの産生細胞ではない。"
+      ],
+      "reference_keys": [
+        "PED_jds"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "1型糖尿病の基本病態の医学的事実・支援上の条件を資料で確認し、各選択肢を点検。",
+      "effect": {
+        "name": "1型糖尿病に関する学習",
+        "detail": "設問の状態に関連する部位をゲーム内で強調します。実際の発症や病変の位置・重症度を示すものではありません。",
+        "disease": true,
+        "avatarClasses": "affected-systemic",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-PED-048",
+      "category": "小児看護学",
+      "topic": "低血糖時の補食",
+      "question": "インスリン治療中の学童の血糖が低く、意識は清明で嚥下できる。あらかじめ指示された低血糖対応に使う食品はどれか。",
+      "choices": [
+        "無糖のお茶",
+        "塩分だけを含むスープ",
+        "水だけ",
+        "ブドウ糖"
+      ],
+      "answer": 4,
+      "notes": [
+        "無糖のお茶には血糖を上げる糖が含まれない。",
+        "塩分を補うだけでは低血糖を改善しない。",
+        "水分のみでは不足したブドウ糖を補えない。",
+        "速やかに血糖を上げる目的で、指示量のブドウ糖を用いる。"
+      ],
+      "reference_keys": [
+        "PED_diabetes"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "低血糖時の補食の医学的事実・支援上の条件を資料で確認し、各選択肢を点検。",
+      "effect": {
+        "name": "低血糖",
+        "detail": "設問の状態に関連する部位をゲーム内で強調します。実際の発症や病変の位置・重症度を示すものではありません。",
+        "disease": true,
+        "avatarClasses": "affected-systemic",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-PED-049",
+      "category": "小児看護学",
+      "topic": "糖尿病児の校外活動",
+      "question": "1型糖尿病の児が普段より運動量の多い遠足に参加する。適切なのはどれか。",
+      "choices": [
+        "インスリンを自己判断で全量中止する",
+        "主治医と補食やインスリン調整を事前に相談する",
+        "糖尿病児は全員欠席する",
+        "低血糖の情報を引率者に一切伝えない"
+      ],
+      "answer": 2,
+      "notes": [
+        "必要なインスリンを一律に中止すると高血糖やケトーシスの危険がある。",
+        "活動量に合わせた対策を準備して安全な参加を支える。",
+        "適切な管理で友人と同じ活動に参加できる。",
+        "必要な対応を担う人には本人・家族と相談して情報共有する。"
+      ],
+      "reference_keys": [
+        "PED_diabetes"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "糖尿病児の校外活動の医学的事実・支援上の条件を資料で確認し、各選択肢を点検。",
+      "effect": {
+        "name": "1型糖尿病に関する学習",
+        "detail": "設問の状態に関連する部位をゲーム内で強調します。実際の発症や病変の位置・重症度を示すものではありません。",
+        "disease": true,
+        "avatarClasses": "affected-systemic",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-PED-050",
+      "category": "小児看護学",
+      "topic": "学校での血糖測定",
+      "question": "1型糖尿病の学童が学校で血糖測定する場所を決める。適切なのはどれか。",
+      "choices": [
+        "必ず誰もいない校外で行う",
+        "友達に針の操作を任せる",
+        "本人の希望と安全を踏まえ学校と相談する",
+        "登校中は測定を禁止する"
+      ],
+      "answer": 3,
+      "notes": [
+        "校外へ一人で出ることが安全やプライバシーを保証するわけではない。",
+        "穿刺器具は本人の治療用であり、友人に任せない。",
+        "教室や保健室など、負担と安全に配慮した場所を決める。",
+        "学校生活中も必要な自己管理を続けられる環境が大切である。"
+      ],
+      "reference_keys": [
+        "PED_diabetes"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "学校での血糖測定の医学的事実・支援上の条件を資料で確認し、各選択肢を点検。",
+      "effect": {
+        "name": "1型糖尿病に関する学習",
+        "detail": "設問の状態に関連する部位をゲーム内で強調します。実際の発症や病変の位置・重症度を示すものではありません。",
+        "disease": true,
+        "avatarClasses": "affected-systemic",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-PED-051",
+      "category": "小児看護学",
+      "topic": "幼い糖尿病児の観察共有",
+      "question": "低血糖を言葉で伝えにくい幼児の入園支援で大切なのはどれか。",
+      "choices": [
+        "その児にみられる低血糖のサインを園へ共有する",
+        "本人から申し出るまで対応を決めない",
+        "園で使う補食は準備しない",
+        "家庭の観察は医学的価値がないと考える"
+      ],
+      "answer": 1,
+      "notes": [
+        "児ごとの症状を知ることで周囲が早期に気づき対応できる。",
+        "幼児は症状を自覚・表現できない場合がある。",
+        "必要時に使える補食などの準備も相談する。",
+        "普段の変化を知る家族の情報は支援に重要である。"
+      ],
+      "reference_keys": [
+        "PED_diabetes"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "幼い糖尿病児の観察共有の医学的事実・支援上の条件を資料で確認し、各選択肢を点検。",
+      "effect": {
+        "name": "1型糖尿病に関する学習",
+        "detail": "設問の状態に関連する部位をゲーム内で強調します。実際の発症や病変の位置・重症度を示すものではありません。",
+        "disease": true,
+        "avatarClasses": "affected-systemic",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-PED-052",
+      "category": "小児看護学",
+      "topic": "プレパレーション",
+      "question": "初めてCT検査を受ける幼児へのプレパレーションはどれか。",
+      "choices": [
+        "検査が終わるまで内容を隠す",
+        "泣くと検査が増えると説明する",
+        "検査の専門用語を一覧で渡す",
+        "人形や写真で起こることを具体的に示す"
+      ],
+      "answer": 4,
+      "notes": [
+        "見通しがないまま処置を受けると不安が強まることがある。",
+        "脅しは検査への恐怖や不信につながる。",
+        "年齢や理解に合わない言葉だけでは準備になりにくい。",
+        "体験の見通しを子どもに分かる方法で伝える。"
+      ],
+      "reference_keys": [
+        "PED_preparation"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "プレパレーションの医学的事実・支援上の条件を資料で確認し、各選択肢を点検。"
+    },
+    {
+      "id": "ORG-PED-053",
+      "category": "小児看護学",
+      "topic": "ディストラクション",
+      "question": "採血中に幼児が希望した絵本を一緒に見る援助の主な目的はどれか。",
+      "choices": [
+        "採血の同意を省略する",
+        "痛みや恐怖以外へ注意を向ける",
+        "鎮痛薬の使用を永久に不要にする",
+        "採血結果を良くする"
+      ],
+      "answer": 2,
+      "notes": [
+        "注意をそらす支援をしても、必要な説明と同意は省略しない。",
+        "処置中の遊びなどで注意を別の対象へ向け、対処を支える。",
+        "非薬物的援助は必要な薬物的鎮痛の代わりを常に果たすわけではない。",
+        "検査値を変えるための援助ではない。"
+      ],
+      "reference_keys": [
+        "PED_preparation"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "ディストラクションの医学的事実・支援上の条件を資料で確認し、各選択肢を点検。"
+    },
+    {
+      "id": "ORG-PED-054",
+      "category": "小児看護学",
+      "topic": "胆道閉鎖症と便色",
+      "question": "生後1か月児の便が母子健康手帳の便色カードで白っぽい色に近い。適切なのはどれか。",
+      "choices": [
+        "ミルクの色なので記録しない",
+        "離乳が始まるまで待つ",
+        "便の色を伝え、早めに医療機関へ相談する",
+        "日光浴だけを勧める"
+      ],
+      "answer": 3,
+      "notes": [
+        "白っぽい便は胆汁排泄の異常を示すことがある。",
+        "胆道閉鎖症などの早期発見のため、長期に様子をみない。",
+        "便色カードは早期発見に使い、淡い便を医療者へ伝える。",
+        "日光浴は胆管の閉塞を解消する方法ではない。"
+      ],
+      "reference_keys": [
+        "PED_bile"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "胆道閉鎖症と便色の医学的事実・支援上の条件を資料で確認し、各選択肢を点検。",
+      "effect": {
+        "name": "胆道閉鎖症に関する学習",
+        "detail": "設問の状態に関連する部位をゲーム内で強調します。実際の発症や病変の位置・重症度を示すものではありません。",
+        "disease": true,
+        "avatarClasses": "affected-liver",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-PED-055",
+      "category": "小児看護学",
+      "topic": "胆道閉鎖症の病態",
+      "question": "胆道閉鎖症で便が白っぽくなる主な理由はどれか。",
+      "choices": [
+        "胆汁が腸へ流れにくい",
+        "胆汁色素が腸へ多量に流れる",
+        "消化管で出血している",
+        "腸管で乳糖を分解できない"
+      ],
+      "answer": 1,
+      "notes": [
+        "胆道の閉塞で胆汁色素が腸に届きにくくなり、便の色が淡くなる。",
+        "腸へ届く胆汁色素の増加ではなく、減少が淡色便と関係する。",
+        "消化管出血では血便や黒色便などを考え、白っぽい便の説明とは異なる。",
+        "乳糖不耐では下痢などが起こるが、胆道閉鎖症の淡色便の機序ではない。"
+      ],
+      "reference_keys": [
+        "PED_bile"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "胆道閉鎖症の病態の医学的事実・支援上の条件を資料で確認し、各選択肢を点検。 二次確認：正答を維持し、無関係な誤答を医学・看護上の取り違えに修正。",
+      "effect": {
+        "name": "胆道閉鎖症に関する学習",
+        "detail": "設問の状態に関連する部位をゲーム内で強調します。実際の発症や病変の位置・重症度を示すものではありません。",
+        "disease": true,
+        "avatarClasses": "affected-liver",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-PED-056",
+      "category": "小児看護学",
+      "topic": "麻疹の感染対策",
+      "question": "麻疹が疑われる児の受診について適切なのはどれか。",
+      "choices": [
+        "一般待合室で順番を待ってもらう",
+        "咳がなければ他児と一緒でよい",
+        "手袋をつければ同じ空間でよい",
+        "事前連絡により他者との接触を避ける動線を整える"
+      ],
+      "answer": 4,
+      "notes": [
+        "麻疹は空気感染し、待合室で感染を広げる危険がある。",
+        "咳の有無だけでは感染リスクを否定できない。",
+        "手袋だけでは空気を介した感染に対応できない。",
+        "感染力が強いため、受診前から感染管理につなぐ。"
+      ],
+      "reference_keys": [
+        "PED_measles"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "麻疹の感染対策の医学的事実・支援上の条件を資料で確認し、各選択肢を点検。",
+      "effect": {
+        "name": "麻疹に関する学習",
+        "detail": "設問の状態に関連する部位をゲーム内で強調します。実際の発症や病変の位置・重症度を示すものではありません。",
+        "disease": true,
+        "avatarClasses": "affected-systemic",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-PED-057",
+      "category": "小児看護学",
+      "topic": "麻疹の合併症",
+      "question": "麻疹の児で呼吸困難や意識の変化に注意する理由はどれか。",
+      "choices": [
+        "乳歯が永久歯へ急に変わるため",
+        "肺炎や脳炎を合併することがあるため",
+        "必ず糖尿病になるため",
+        "虫垂が必ず破裂するため"
+      ],
+      "answer": 2,
+      "notes": [
+        "歯の交換は麻疹の重症化の説明ではない。",
+        "肺炎や脳炎は重い合併症で、全身状態の変化を捉える。",
+        "麻疹が必ず糖尿病へ進むわけではない。",
+        "虫垂穿孔が必発の経過ではない。"
+      ],
+      "reference_keys": [
+        "PED_measles"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "麻疹の合併症の医学的事実・支援上の条件を資料で確認し、各選択肢を点検。",
+      "effect": {
+        "name": "麻疹に関する学習",
+        "detail": "設問の状態に関連する部位をゲーム内で強調します。実際の発症や病変の位置・重症度を示すものではありません。",
+        "disease": true,
+        "avatarClasses": "affected-systemic",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-PED-058",
+      "category": "小児看護学",
+      "topic": "手足口病後のおむつ交換",
+      "question": "手足口病の皮疹が改善した乳児のおむつ交換について適切なのはどれか。",
+      "choices": [
+        "皮疹が消えたら手洗いをやめる",
+        "便には病原体が出ないと考える",
+        "交換後の手洗いを続ける",
+        "手袋を使った日だけ手洗いする"
+      ],
+      "answer": 3,
+      "notes": [
+        "症状改善後も便へのウイルス排泄が続くことがある。",
+        "便を介する接触感染への注意が必要である。",
+        "おむつ交換後の手指衛生で家庭内の感染拡大を防ぐ。",
+        "手袋の有無にかかわらず適切な手指衛生を行う。"
+      ],
+      "reference_keys": [
+        "PED_hfmd"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "手足口病後のおむつ交換の医学的事実・支援上の条件を資料で確認し、各選択肢を点検。",
+      "effect": {
+        "name": "手足口病に関する学習",
+        "detail": "設問の状態に関連する部位をゲーム内で強調します。実際の発症や病変の位置・重症度を示すものではありません。",
+        "disease": true,
+        "avatarClasses": "sim-skin",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-PED-059",
+      "category": "小児看護学",
+      "topic": "手足口病の神経症状",
+      "question": "手足口病で経過をみていた幼児に、強い頭痛と繰り返す嘔吐、活気低下が出現した。適切なのはどれか。",
+      "choices": [
+        "髄膜炎などを考え速やかに再評価する",
+        "皮疹が少なければ相談しない",
+        "全員に起こる回復過程と説明する",
+        "口内炎用の食事変更だけを行う"
+      ],
+      "answer": 1,
+      "notes": [
+        "神経系合併症などを見逃さないため、病状の変化を診察につなぐ。",
+        "皮疹の量だけで全身の重症度を判断しない。",
+        "強い頭痛や嘔吐を通常の回復と決めつけない。",
+        "食事調整だけでは新たな神経症状への対応が不足する。"
+      ],
+      "reference_keys": [
+        "PED_hfmd"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "手足口病の神経症状の医学的事実・支援上の条件を資料で確認し、各選択肢を点検。",
+      "effect": {
+        "name": "手足口病に関する学習",
+        "detail": "設問の状態に関連する部位をゲーム内で強調します。実際の発症や病変の位置・重症度を示すものではありません。",
+        "disease": true,
+        "avatarClasses": "sim-skin",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-PED-060",
+      "category": "小児看護学",
+      "topic": "溶連菌感染後の観察",
+      "question": "溶連菌性咽頭炎の経過後に、顔のむくみと尿の異常が出現した。考慮する合併症はどれか。",
+      "choices": [
+        "ネフローゼ症候群の初発",
+        "尿路感染症",
+        "急性虫垂炎",
+        "糸球体腎炎"
+      ],
+      "answer": 4,
+      "notes": [
+        "ネフローゼでも浮腫はみられるが、溶連菌感染後の経過では糸球体腎炎を特に考慮する。",
+        "尿路感染症では発熱や排尿症状などを確認するが、感染後の浮腫を主に説明しない。",
+        "虫垂炎は腹痛などを来す疾患で、溶連菌感染後の顔面浮腫と尿異常を説明しない。",
+        "溶連菌感染の後に急性糸球体腎炎を起こすことがあり、浮腫や尿の異常を確認する。"
+      ],
+      "reference_keys": [
+        "PED_strep"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "溶連菌感染後の観察の医学的事実・支援上の条件を資料で確認し、各選択肢を点検。 二次確認：正答を維持し、無関係な誤答を医学・看護上の取り違えに修正。",
+      "effect": {
+        "name": "感染後の浮腫・尿の異常",
+        "detail": "設問の状態に関連する部位をゲーム内で強調します。実際の発症や病変の位置・重症度を示すものではありません。",
+        "disease": true,
+        "avatarClasses": "affected-kidneys",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-PED-061",
+      "category": "小児看護学",
+      "topic": "ダウン症候群の染色体",
+      "question": "ダウン症候群の多くでみられる染色体の特徴はどれか。",
+      "choices": [
+        "21番染色体が1本少ない",
+        "21番染色体が通常より1本多い",
+        "すべての常染色体が1本だけである",
+        "X染色体が必ず3本ある"
+      ],
+      "answer": 2,
+      "notes": [
+        "一般的なダウン症候群は21番染色体の減少ではない。",
+        "通常2本の21番染色体が3本ある21トリソミーが多い。",
+        "常染色体全体が半数となる疾患ではない。",
+        "X染色体の本数増加を意味する疾患ではない。"
+      ],
+      "reference_keys": [
+        "PED_down"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "ダウン症候群の染色体の医学的事実・支援上の条件を資料で確認し、各選択肢を点検。",
+      "effect": {
+        "name": "ダウン症候群に関する学習",
+        "detail": "設問の状態に関連する部位をゲーム内で強調します。実際の発症や病変の位置・重症度を示すものではありません。",
+        "disease": true,
+        "avatarClasses": "affected-systemic",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-PED-062",
+      "category": "小児看護学",
+      "topic": "ダウン症児の健康管理",
+      "question": "ダウン症候群の児の継続支援として適切なのはどれか。",
+      "choices": [
+        "発達がゆっくりなら身体の診察を省く",
+        "心疾患がない児には合併症がないとする",
+        "視聴覚や甲状腺機能なども定期的に評価する",
+        "全員に同じ発達速度を求める"
+      ],
+      "answer": 3,
+      "notes": [
+        "発達特性と身体的合併症の評価は両方必要である。",
+        "心臓以外にも視聴覚、内分泌、消化器などの合併症がある。",
+        "合併症の早期発見と、その児に合った発達支援を継続する。",
+        "発達には個人差があり、各児のペースを尊重する。"
+      ],
+      "reference_keys": [
+        "PED_down"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "ダウン症児の健康管理の医学的事実・支援上の条件を資料で確認し、各選択肢を点検。",
+      "effect": {
+        "name": "ダウン症候群に関する学習",
+        "detail": "設問の状態に関連する部位をゲーム内で強調します。実際の発症や病変の位置・重症度を示すものではありません。",
+        "disease": true,
+        "avatarClasses": "affected-systemic",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-PED-063",
+      "category": "小児看護学",
+      "topic": "先天白内障の早期対応",
+      "question": "乳児の瞳の中が白く濁って見える。適切な対応はどれか。",
+      "choices": [
+        "速やかに眼科で評価を受ける",
+        "言葉で見え方を説明できるまで待つ",
+        "市販点眼薬だけで経過を見る",
+        "光を強く当てて矯正する"
+      ],
+      "answer": 1,
+      "notes": [
+        "先天白内障などを早期に評価し、視覚発達への影響を減らす。",
+        "視覚発達の重要な時期を逃すため、言語獲得まで待たない。",
+        "原因診断なしの点眼では対応できない。",
+        "強い光を当てることは水晶体混濁の治療ではない。"
+      ],
+      "reference_keys": [
+        "PED_cataract"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "先天白内障の早期対応の医学的事実・支援上の条件を資料で確認し、各選択肢を点検。",
+      "effect": {
+        "name": "眼の異常を示す徴候",
+        "detail": "設問の状態に関連する部位をゲーム内で強調します。実際の発症や病変の位置・重症度を示すものではありません。",
+        "disease": true,
+        "avatarClasses": "sim-eyes",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-PED-064",
+      "category": "小児看護学",
+      "topic": "未熟児網膜症",
+      "question": "未熟児網膜症で眼底検査を継続する主な理由はどれか。",
+      "choices": [
+        "角膜の混濁の変化を確認するため",
+        "眼圧上昇による視神経障害を確認するため",
+        "水晶体の混濁の進行を確認するため",
+        "網膜血管の異常増殖や剥離への進行を捉えるため"
+      ],
+      "answer": 4,
+      "notes": [
+        "角膜の混濁と、未熟な網膜血管に生じる病変は区別する。",
+        "眼圧上昇による障害は緑内障で重要であり、未熟児網膜症の主な観察対象とは異なる。",
+        "水晶体の混濁は白内障であり、未熟児網膜症の主病変ではない。",
+        "未熟な網膜血管の発達過程で病変が生じるため、眼底検査で進行を追う。"
+      ],
+      "reference_keys": [
+        "PED_rop"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "未熟児網膜症の医学的事実・支援上の条件を資料で確認し、各選択肢を点検。 二次確認：正答を維持し、無関係な誤答を医学・看護上の取り違えに修正。",
+      "effect": {
+        "name": "未熟児網膜症",
+        "detail": "設問の状態に関連する部位をゲーム内で強調します。実際の発症や病変の位置・重症度を示すものではありません。",
+        "disease": true,
+        "avatarClasses": "sim-eyes",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-PED-065",
+      "category": "小児看護学",
+      "topic": "気管軟化症の呼吸",
+      "question": "気管軟化症の乳児が啼泣時に喘鳴を増強させる。病態として適切なのはどれか。",
+      "choices": [
+        "気管支の平滑筋が発作的に収縮する",
+        "気管がつぶれやすく、呼吸に伴い内腔が狭くなる",
+        "喉頭蓋の感染によって気道が狭くなる",
+        "鼻腔の分泌物だけで気流が妨げられる"
+      ],
+      "answer": 2,
+      "notes": [
+        "気管支平滑筋の収縮は喘息でみられる機序で、気管軟化症とは異なる。",
+        "気管壁の支持が弱く、呼吸などに伴って内腔が狭くなる。",
+        "感染による喉頭蓋の腫れは気管軟化症の機序ではない。",
+        "鼻閉も呼吸を妨げ得るが、気管自体のつぶれやすさとは区別する。"
+      ],
+      "reference_keys": [
+        "PED_trachea"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "気管軟化症の呼吸の医学的事実・支援上の条件を資料で確認し、各選択肢を点検。 二次確認：正答を維持し、無関係な誤答を医学・看護上の取り違えに修正。",
+      "effect": {
+        "name": "気管軟化症",
+        "detail": "設問の状態に関連する部位をゲーム内で強調します。実際の発症や病変の位置・重症度を示すものではありません。",
+        "disease": true,
+        "avatarClasses": "affected-airway",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-PED-066",
+      "category": "小児看護学",
+      "topic": "哺乳量の計算",
+      "question": "乳児が1回90 mLを1日7回飲んだ。ほかの摂取がない場合、1日の哺乳量はどれか。",
+      "choices": [
+        "540 mL",
+        "600 mL",
+        "630 mL",
+        "720 mL"
+      ],
+      "answer": 3,
+      "notes": [
+        "90×6回であり、1回分不足している。",
+        "90 mLを7回とした積になっていない。",
+        "90 mL×7回＝630 mLである。",
+        "90×8回であり、1回分多い。"
+      ],
+      "reference_keys": [],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "設問に明示した量・単位から再計算し正答と各誤答を照合。薬剤名や投与推奨は提示していない。"
+    },
+    {
+      "id": "ORG-PED-067",
+      "category": "小児看護学",
+      "topic": "体重当たり尿量",
+      "question": "体重12 kgの幼児の6時間の尿量が144 mLだった。体重当たり1時間尿量はどれか。",
+      "choices": [
+        "2 mL/kg/時",
+        "12 mL/kg/時",
+        "24 mL/kg/時",
+        "72 mL/kg/時"
+      ],
+      "answer": 1,
+      "notes": [
+        "144÷6÷12＝2 mL/kg/時となる。",
+        "体重と観察時間の両方で割る必要がある。",
+        "24 mLは1時間尿量で、体重当たりではない。",
+        "144 mLから体重と時間を除した値ではない。"
+      ],
+      "reference_keys": [],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "設問に明示した量・単位から再計算し正答と各誤答を照合。薬剤名や投与推奨は提示していない。"
+    },
+    {
+      "id": "ORG-PED-068",
+      "category": "小児看護学",
+      "topic": "小児の投与量計算",
+      "question": "体重18 kgの児に、ある薬を1日30 mg/kg、3回に等分して投与する指示がある。1回量はどれか。",
+      "choices": [
+        "30 mg",
+        "60 mg",
+        "540 mg",
+        "180 mg"
+      ],
+      "answer": 4,
+      "notes": [
+        "これは体重1 kg当たりの1日量である。",
+        "体重を含めた1日量から3等分する必要がある。",
+        "540 mgは18×30で求める1日量である。",
+        "18×30÷3＝180 mgが1回量となる。"
+      ],
+      "reference_keys": [],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "設問に明示した量・単位から再計算し正答と各誤答を照合。薬剤名や投与推奨は提示していない。"
+    },
+    {
+      "id": "ORG-PED-069",
+      "category": "小児看護学",
+      "topic": "水分出納の計算",
+      "question": "幼児の観察中の摂取が飲水240 mLと点滴360 mL、排出が尿410 mLと嘔吐50 mLであった。不感蒸泄を除く出納差はどれか。",
+      "choices": [
+        "−140 mL",
+        "＋140 mL",
+        "＋190 mL",
+        "＋600 mL"
+      ],
+      "answer": 2,
+      "notes": [
+        "摂取600 mLの方が排出460 mLより多く、負ではない。",
+        "240＋360−410−50＝＋140 mLとなる。",
+        "嘔吐50 mLを排出から除くと190 mLになる。",
+        "600 mLは摂取量の合計だけである。"
+      ],
+      "reference_keys": [],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "設問に明示した量・単位から再計算し正答と各誤答を照合。薬剤名や投与推奨は提示していない。"
+    },
+    {
+      "id": "ORG-PED-070",
+      "category": "小児看護学",
+      "topic": "調剤済み液剤の量",
+      "question": "1 mL中に薬剤5 mgを含む液剤を1回15 mg与える指示である。量はどれか。",
+      "choices": [
+        "1 mL",
+        "2 mL",
+        "3 mL",
+        "5 mL"
+      ],
+      "answer": 3,
+      "notes": [
+        "1 mLでは5 mgで、指示量の3分の1となる。",
+        "2 mLでは10 mgで不足する。",
+        "15 mg÷5 mg/mL＝3 mLである。",
+        "5 mLでは25 mgとなり過量になる。"
+      ],
+      "reference_keys": [],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "設問に明示した量・単位から再計算し正答と各誤答を照合。薬剤名や投与推奨は提示していない。"
+    },
+    {
+      "id": "ORG-PED-071",
+      "category": "小児看護学",
+      "topic": "言葉で表せない痛み",
+      "question": "術後の1歳児の痛みをFLACCスケールで評価する。対象となる項目はどれか。",
+      "choices": [
+        "本人が選んだ顔の絵の番号",
+        "表情・下肢・活動・啼泣・あやしやすさ",
+        "心拍数・血圧・酸素飽和度の合計",
+        "保護者が示す0〜10の数値"
+      ],
+      "answer": 2,
+      "notes": [
+        "顔の絵を選ぶ方法は本人の自己評価を用いる尺度で、FLACCの観察項目ではない。",
+        "FLACCは5つの行動項目を観察し、自己申告が難しい児の痛みを評価する。",
+        "バイタルサインは参考になるが、FLACCの5項目そのものには含まれない。",
+        "保護者の情報は大切だが、数値を尋ねるだけではFLACC評価にならない。"
+      ],
+      "reference_keys": [
+        "PED_pain"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "言葉で表せない痛みについて公開資料の該当事項を確認。年齢・病態の条件と単一正答を点検した独自設問。 二次確認：正答を維持し、無関係な誤答を医学・看護上の取り違えに修正。"
+    },
+    {
+      "id": "ORG-PED-072",
+      "category": "小児看護学",
+      "topic": "成人移行と自己理解",
+      "question": "慢性疾患の中学生が「薬は親がくれるから飲んでいる」と話す。成人移行支援の導入として適切なのはどれか。",
+      "choices": [
+        "薬の名前と目的を本人が理解できるよう説明する",
+        "翌日からすべての管理を一人に任せる",
+        "病名は成人まで伝えない",
+        "保護者の説明だけで本人と話さない"
+      ],
+      "answer": 1,
+      "notes": [
+        "病気と治療を自分なりに理解することが自己管理の基礎になる。",
+        "能力や準備状況を確認せず責任だけを移さない。",
+        "発達に合わせ、早い時期から病気を知る支援を行う。",
+        "本人が診療に参加し、疑問を表現できる機会が必要である。"
+      ],
+      "reference_keys": [
+        "PED_transition"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "成人移行と自己理解について公開資料の該当事項を確認。年齢・病態の条件と単一正答を点検した独自設問。"
+    },
+    {
+      "id": "ORG-PED-073",
+      "category": "小児看護学",
+      "topic": "成人移行の医療連携",
+      "question": "小児期発症の疾患を持つ青年の移行期医療で適切なのはどれか。",
+      "choices": [
+        "一定年齢で診療情報なしに受診を終了する",
+        "小児科が関わり続けることを禁止する",
+        "成人の健康課題も含め診療科間で役割を調整する",
+        "病名が珍しければ成人の健康管理を行わない"
+      ],
+      "answer": 3,
+      "notes": [
+        "切れ目のない診療のため、情報提供と調整が必要である。",
+        "疾患によって小児科と成人診療科が分担する場合もある。",
+        "原疾患だけでなく成人期の健康問題へ対応できる体制を整える。",
+        "希少疾患があっても成人特有の健康課題への支援は必要である。"
+      ],
+      "reference_keys": [
+        "PED_transition"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "成人移行の医療連携について公開資料の該当事項を確認。年齢・病態の条件と単一正答を点検した独自設問。"
+    },
+    {
+      "id": "ORG-PED-074",
+      "category": "小児看護学",
+      "topic": "診察への主体的参加",
+      "question": "慢性疾患の高校生が毎回保護者の後ろで黙っている。適切な援助はどれか。",
+      "choices": [
+        "本人の発言は診療を遅らせるので控えさせる",
+        "質問は成人後まで受け付けない",
+        "親にだけ体調を尋ねる",
+        "本人にも体調や困っていることを話す時間を設ける"
+      ],
+      "answer": 4,
+      "notes": [
+        "自分の状態を伝える経験は移行期の大切な学習になる。",
+        "疑問は現在の理解に合わせて相談できるようにする。",
+        "保護者の情報に加えて本人の経験や希望を聞く。",
+        "支援を受けながら自分の健康について伝える力を育てる。"
+      ],
+      "reference_keys": [
+        "PED_transition"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "診察への主体的参加について公開資料の該当事項を確認。年齢・病態の条件と単一正答を点検した独自設問。"
+    },
+    {
+      "id": "ORG-PED-075",
+      "category": "小児看護学",
+      "topic": "小児慢性疾患の自立支援",
+      "question": "小児慢性特定疾病の児の家庭が、療養と社会生活の両立に困っている。自立支援の考え方はどれか。",
+      "choices": [
+        "医療費の話以外は支援しない",
+        "環境に応じ地域資源を活用して成長・自立を支える",
+        "家族が対応できない場合は相談を終える",
+        "成人まで学習や就労の話を避ける"
+      ],
+      "answer": 2,
+      "notes": [
+        "自立支援事業は費用だけでなく生活・成長上の支援も含む。",
+        "児と家族の状況に応じた相談や社会資源との連携を行う。",
+        "家族の負担があることこそ支援を検討する契機になる。",
+        "将来へ向けた準備を発達段階に応じて支える。"
+      ],
+      "reference_keys": [
+        "PED_chronic"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "小児慢性疾患の自立支援について公開資料の該当事項を確認。年齢・病態の条件と単一正答を点検した独自設問。"
+    },
+    {
+      "id": "ORG-PED-076",
+      "category": "小児看護学",
+      "topic": "5種混合ワクチンの対象",
+      "question": "5種混合ワクチンに含まれる感染症の組合せはどれか。",
+      "choices": [
+        "ジフテリア・百日咳・破傷風・ポリオ・Hib感染症",
+        "麻疹・風疹・水痘・流行性耳下腺炎・結核",
+        "B型肝炎・日本脳炎・インフルエンザ・麻疹・破傷風",
+        "肺炎球菌・ロタウイルス・結核・風疹・ポリオ"
+      ],
+      "answer": 1,
+      "notes": [
+        "DPT-IPV-Hibとして、これら5種類への免疫を得る。",
+        "MRや水痘、BCGなど別のワクチンで予防する疾患を混同している。",
+        "破傷風以外は5種混合の構成と一致しない。",
+        "ポリオ以外は5種混合に含まれる組合せではない。"
+      ],
+      "reference_keys": [
+        "PED_vaccine"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "5種混合ワクチンの対象について公開資料の該当事項を確認。年齢・病態の条件と単一正答を点検した独自設問。"
+    },
+    {
+      "id": "ORG-PED-077",
+      "category": "小児看護学",
+      "topic": "接種前の健康確認",
+      "question": "予防接種に来た乳児の保護者が、前回接種後に全身の発疹が出たと話した。適切なのはどれか。",
+      "choices": [
+        "過去の反応なので記録しない",
+        "予定どおり説明なしで接種する",
+        "経過を確認し接種医へ伝える",
+        "今後すべての予防接種を永久に禁止する"
+      ],
+      "answer": 3,
+      "notes": [
+        "過去の反応は接種適否を判断する重要な情報である。",
+        "アレルギーなどの評価前に機械的に接種しない。",
+        "症状、時期、経過を共有し、安全性を医師が判断できるようにする。",
+        "原因や反応を評価し、必要な接種計画を個別に考える。"
+      ],
+      "reference_keys": [
+        "PED_vaccine"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "接種前の健康確認について公開資料の該当事項を確認。年齢・病態の条件と単一正答を点検した独自設問。"
+    },
+    {
+      "id": "ORG-PED-078",
+      "category": "小児看護学",
+      "topic": "予防接種歴の確認",
+      "question": "転居した幼児の接種計画を作るとき、まず確認する資料はどれか。",
+      "choices": [
+        "保護者の記憶だけ",
+        "出生時の写真",
+        "身長の現在値だけ",
+        "母子健康手帳などの接種記録"
+      ],
+      "answer": 4,
+      "notes": [
+        "記憶だけでは接種日や種類、回数を誤る可能性がある。",
+        "写真ではワクチンの接種履歴は分からない。",
+        "身長から接種済みのワクチンは判定できない。",
+        "種類・日付・回数を確認して次の接種を計画する。"
+      ],
+      "reference_keys": [
+        "PED_vaccine"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "予防接種歴の確認について公開資料の該当事項を確認。年齢・病態の条件と単一正答を点検した独自設問。"
+    },
+    {
+      "id": "ORG-PED-079",
+      "category": "小児看護学",
+      "topic": "微細運動の観察",
+      "question": "1歳頃の児が小さな食物をつまむ手の動きとして、発達の観察に適するのはどれか。",
+      "choices": [
+        "手掌で押さえるだけ",
+        "親指と人差し指でつまむ",
+        "箸で正確にはさむ",
+        "複雑な文字を鉛筆で書く"
+      ],
+      "answer": 2,
+      "notes": [
+        "手掌で触れる動作だけでは指先の巧緻性を把握しにくい。",
+        "指でつまむ動作は乳児期後半からの微細運動をみる手がかりである。",
+        "箸の巧緻な操作を1歳児の基準としない。",
+        "文字を書く技能は1歳児に期待する発達ではない。"
+      ],
+      "reference_keys": [
+        "PED_dev1"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "微細運動の観察について公開資料の該当事項を確認。年齢・病態の条件と単一正答を点検した独自設問。"
+    },
+    {
+      "id": "ORG-PED-080",
+      "category": "小児看護学",
+      "topic": "二語文の理解",
+      "question": "幼児の発語で、二語文に当たるのはどれか。",
+      "choices": [
+        "「ワンワン」という一語",
+        "「あー」という発声",
+        "「ママ、きた」という語の組合せ",
+        "泣き声の強さの変化"
+      ],
+      "answer": 3,
+      "notes": [
+        "繰り返す音からなる名称でも、意味上は一つの語である。",
+        "発声だけでは二つの意味のある語の結合にならない。",
+        "二つの語を組み合わせて意味を伝えている。",
+        "泣き方の変化は二語文とは区別する。"
+      ],
+      "reference_keys": [
+        "PED_dev2"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "二語文の理解について公開資料の該当事項を確認。年齢・病態の条件と単一正答を点検した独自設問。"
+    },
+    {
+      "id": "ORG-PED-081",
+      "category": "小児看護学",
+      "topic": "幼児のごっこ遊び",
+      "question": "4歳児が人形を患者に見立て看護師役を演じている。理解として適切なのはどれか。",
+      "choices": [
+        "象徴や想像を使う遊びである",
+        "現実が分からない病的状態と断定する",
+        "記憶が完全に失われた証拠である",
+        "運動能力の低下だけを表している"
+      ],
+      "answer": 1,
+      "notes": [
+        "物や役割を別のものに見立てる遊びは幼児期の発達にみられる。",
+        "ごっこ遊びだけで病的な混乱と判断しない。",
+        "体験を遊びに取り入れることは記憶喪失を示さない。",
+        "主に想像や社会的役割の表現として理解する。"
+      ],
+      "reference_keys": [
+        "PED_dev4"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "幼児のごっこ遊びについて公開資料の該当事項を確認。年齢・病態の条件と単一正答を点検した独自設問。"
+    },
+    {
+      "id": "ORG-PED-082",
+      "category": "小児看護学",
+      "topic": "幼児の就寝習慣",
+      "question": "4歳児が寝つきにくいときの生活調整として適切なのはどれか。",
+      "choices": [
+        "就寝直前まで刺激の強い動画を見せる",
+        "毎日就寝時刻を大きく変える",
+        "眠くなるまで激しい遊びを続ける",
+        "静かな読み聞かせなど一定の就寝手順をつくる"
+      ],
+      "answer": 4,
+      "notes": [
+        "画面や興奮する内容は眠る前の刺激になる。",
+        "一定した生活リズムが睡眠を整える助けになる。",
+        "激しい遊びで覚醒を高める方法は適切でない。",
+        "落ち着いた環境と繰り返す手順で入眠を支える。"
+      ],
+      "reference_keys": [
+        "PED_dev4"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "幼児の就寝習慣について公開資料の該当事項を確認。年齢・病態の条件と単一正答を点検した独自設問。"
+    },
+    {
+      "id": "ORG-PED-083",
+      "category": "小児看護学",
+      "topic": "排泄習慣の獲得",
+      "question": "排泄練習を始める幼児への援助で適切なのはどれか。",
+      "choices": [
+        "失敗するたびに罰を与える",
+        "発達や準備状況を確認して無理なく進める",
+        "水を一切飲ませず失敗を防ぐ",
+        "年齢だけで全員同日に開始する"
+      ],
+      "answer": 2,
+      "notes": [
+        "罰は不安や負担を強め、習慣形成を妨げ得る。",
+        "身体・行動の準備と個人差を踏まえた支援を行う。",
+        "水分制限で排泄を減らすのは健康を損なう危険がある。",
+        "開始の準備は個人差があり、一律に決めない。"
+      ],
+      "reference_keys": [
+        "PED_dev2"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "排泄習慣の獲得について公開資料の該当事項を確認。年齢・病態の条件と単一正答を点検した独自設問。"
+    },
+    {
+      "id": "ORG-PED-084",
+      "category": "小児看護学",
+      "topic": "新しい養育者への適応",
+      "question": "入院した1歳児が初対面の職員に不安を示す。安全な遊びの場で適切な対応はどれか。",
+      "choices": [
+        "慣れた保護者と過ごす時間を確保し少しずつ関わる",
+        "泣くまで保護者から無理に引き離す",
+        "すぐに多数の職員で囲む",
+        "慣れた玩具を必ずすべて取り上げる"
+      ],
+      "answer": 1,
+      "notes": [
+        "安心できる人や物を利用し、新しい関係に慣れる時間をつくる。",
+        "急な分離の強制は不安を強める場合がある。",
+        "多くの知らない人に囲まれると刺激が過大になることがある。",
+        "清潔・安全を確認できる慣れた玩具は安心に役立つ。"
+      ],
+      "reference_keys": [
+        "PED_dev1"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "新しい養育者への適応について公開資料の該当事項を確認。年齢・病態の条件と単一正答を点検した独自設問。"
+    },
+    {
+      "id": "ORG-PED-085",
+      "category": "小児看護学",
+      "topic": "神経芽腫の発生部位",
+      "question": "神経芽腫が発生する代表的な組織はどれか。",
+      "choices": [
+        "腎芽組織",
+        "網膜の細胞",
+        "副腎髄質や交感神経節",
+        "リンパ系の造血細胞"
+      ],
+      "answer": 3,
+      "notes": [
+        "腎芽組織に由来する代表的な小児腫瘍は腎芽腫である。",
+        "網膜に発生する代表的な小児腫瘍は網膜芽細胞腫である。",
+        "神経芽腫は交感神経系に由来し、副腎髄質などに発生する。",
+        "リンパ系の造血細胞に由来する腫瘍は白血病やリンパ腫などである。"
+      ],
+      "reference_keys": [
+        "PED_neuroblastoma"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "神経芽腫の発生部位について公開資料の該当事項を確認。年齢・病態の条件と単一正答を点検した独自設問。 二次確認：正答を維持し、無関係な誤答を医学・看護上の取り違えに修正。"
+    },
+    {
+      "id": "ORG-PED-086",
+      "category": "小児看護学",
+      "topic": "小児がんの晩期合併症",
+      "question": "小児がん治療後に症状がなくても長期的な診察を続ける理由はどれか。",
+      "choices": [
+        "すべての患者が必ず再発するため",
+        "成長すると治療歴が不要になるため",
+        "検査を続ければ成長が速くなるため",
+        "成長の過程で疾患や治療の影響が現れることがあるため"
+      ],
+      "answer": 4,
+      "notes": [
+        "再発が必発という意味ではなく、長期の健康管理を行う。",
+        "受けた治療内容は将来のリスク評価にも重要である。",
+        "検査自体が成長を速めるわけではない。",
+        "内分泌や臓器機能などへの晩期の影響を捉える。"
+      ],
+      "reference_keys": [
+        "PED_survivor"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "小児がんの晩期合併症について公開資料の該当事項を確認。年齢・病態の条件と単一正答を点検した独自設問。"
+    },
+    {
+      "id": "ORG-PED-087",
+      "category": "小児看護学",
+      "topic": "小児がん経験者の治療記録",
+      "question": "小児がん治療を終えた児へ治療サマリーを渡す目的はどれか。",
+      "choices": [
+        "今後の医療者に治療内容と注意点を伝える",
+        "すべての通院を直ちに不要にする",
+        "過去の診療記録を削除する",
+        "家族だけに病名を秘密にする"
+      ],
+      "answer": 1,
+      "notes": [
+        "治療歴に基づく長期的な健康管理や医療連携に役立つ。",
+        "サマリーを受け取っても必要なフォローは継続する。",
+        "情報を引き継ぐ目的であり、記録を消すためではない。",
+        "本人の年齢に合った理解を支える資料にもなる。"
+      ],
+      "reference_keys": [
+        "PED_survivor"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "小児がん経験者の治療記録について公開資料の該当事項を確認。年齢・病態の条件と単一正答を点検した独自設問。"
+    },
+    {
+      "id": "ORG-PED-088",
+      "category": "小児看護学",
+      "topic": "ネフローゼと水分制限",
+      "question": "ネフローゼ症候群の児の水分管理で適切なのはどれか。",
+      "choices": [
+        "浮腫があれば全員同じ量に厳しく制限する",
+        "循環状態や低ナトリウム血症の有無に応じ指示を確認する",
+        "尿量が少なくても評価しない",
+        "家族に飲水量を申告しないよう伝える"
+      ],
+      "answer": 2,
+      "notes": [
+        "一律の制限は血管内脱水などを悪化させる危険がある。",
+        "病態により適否が異なるため、体液評価に基づいて調整する。",
+        "乏尿は体液や腎機能評価で重要な変化である。",
+        "出納を把握するため実際の摂取量を共有する。"
+      ],
+      "reference_keys": [
+        "PED_nephrosis"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "ネフローゼと水分制限について公開資料の該当事項を確認。年齢・病態の条件と単一正答を点検した独自設問。",
+      "effect": {
+        "name": "ネフローゼ症候群",
+        "detail": "設問の状態に関連する部位をゲーム内で強調します。実際の発症や病変の位置・重症度を示すものではありません。",
+        "disease": true,
+        "avatarClasses": "affected-kidneys",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-PED-089",
+      "category": "小児看護学",
+      "topic": "特異的IgE検査の解釈",
+      "question": "毎日牛乳を飲んでも無症状の児で牛乳特異的IgEが陽性だった。適切な説明はどれか。",
+      "choices": [
+        "検査陽性だけで牛乳アレルギーが確定する",
+        "数値だけで重症度を正確に決められる",
+        "摂取時の症状などと合わせて判断する",
+        "検査陽性ならすべての食品を中止する"
+      ],
+      "answer": 3,
+      "notes": [
+        "感作を示す結果だけでは臨床的な食物アレルギーの確定にならない。",
+        "抗体値から症状の強さや摂取可能量を正確に予測できない。",
+        "食べたときの経過や必要な検査を総合して評価する。",
+        "無差別な除去は栄養や生活に不必要な負担を与える。"
+      ],
+      "reference_keys": [
+        "PED_food"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "特異的IgE検査の解釈について公開資料の該当事項を確認。年齢・病態の条件と単一正答を点検した独自設問。"
+    },
+    {
+      "id": "ORG-PED-090",
+      "category": "小児看護学",
+      "topic": "食物経口負荷試験",
+      "question": "食物経口負荷試験を医療者の管理下で行う理由はどれか。",
+      "choices": [
+        "採血を一切不要にするため",
+        "食べれば全員がその場で治るため",
+        "味覚の好みだけを判定するため",
+        "誘発される症状を観察し必要時に対応するため"
+      ],
+      "answer": 4,
+      "notes": [
+        "診断には問診や検査を組み合わせることがある。",
+        "試験はその場で全員を治癒させる処置ではない。",
+        "好みではなく摂取に伴うアレルギー症状を評価する。",
+        "症状を誘発する可能性があり、安全確保と対応体制が必要である。"
+      ],
+      "reference_keys": [
+        "PED_food"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "食物経口負荷試験について公開資料の該当事項を確認。年齢・病態の条件と単一正答を点検した独自設問。"
+    },
+    {
+      "id": "ORG-PED-091",
+      "category": "小児看護学",
+      "topic": "アトピー性皮膚炎の保湿",
+      "question": "アトピー性皮膚炎の児へのスキンケアの目的はどれか。",
+      "choices": [
+        "清潔とうるおいを保ち皮膚の防御機能を支える",
+        "皮膚を強くこすり角層をすべて除く",
+        "汗を固めて皮膚を密閉する",
+        "保湿だけで処方薬を必ず不要にする"
+      ],
+      "answer": 1,
+      "notes": [
+        "保湿と適切な清潔ケアを、炎症治療や悪化因子対策と組み合わせる。",
+        "強い摩擦は角層を傷つけ皮膚障害を悪化させ得る。",
+        "汗や汚れは刺激になり、適切に除く必要がある。",
+        "炎症がある場合は薬物療法も必要である。"
+      ],
+      "reference_keys": [
+        "PED_skin"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "アトピー性皮膚炎の保湿について公開資料の該当事項を確認。年齢・病態の条件と単一正答を点検した独自設問。",
+      "effect": {
+        "name": "湿疹・皮膚炎",
+        "detail": "設問の状態に関連する部位をゲーム内で強調します。実際の発症や病変の位置・重症度を示すものではありません。",
+        "disease": true,
+        "avatarClasses": "sim-skin",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-PED-092",
+      "category": "小児看護学",
+      "topic": "アトピー性皮膚炎の生活評価",
+      "question": "湿疹の治療効果を評価する際、皮膚の見た目に加えて確認するのはどれか。",
+      "choices": [
+        "血液型が変化したか",
+        "夜のかゆみと睡眠、学校生活への影響",
+        "永久歯の本数だけ",
+        "家族の身長だけ"
+      ],
+      "answer": 2,
+      "notes": [
+        "血液型は湿疹治療の効果を示す指標ではない。",
+        "かゆみによる睡眠や活動の支障も治療で改善を目指す。",
+        "歯数は現在の皮膚症状による負担を示さない。",
+        "児本人の生活機能と症状を評価する必要がある。"
+      ],
+      "reference_keys": [
+        "PED_skin"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "アトピー性皮膚炎の生活評価について公開資料の該当事項を確認。年齢・病態の条件と単一正答を点検した独自設問。",
+      "effect": {
+        "name": "湿疹・皮膚炎",
+        "detail": "設問の状態に関連する部位をゲーム内で強調します。実際の発症や病変の位置・重症度を示すものではありません。",
+        "disease": true,
+        "avatarClasses": "sim-skin",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-PED-093",
+      "category": "小児看護学",
+      "topic": "吸入手技の確認",
+      "question": "喘息の学童が吸入薬を使用しているが、効果が乏しいと話す。看護師の援助として適切なのはどれか。",
+      "choices": [
+        "使用回数だけ確認し手技は見ない",
+        "薬が効かないと決めつける",
+        "実際の吸入方法を見て使い方を確認する",
+        "本人に自己判断で倍量使用を勧める"
+      ],
+      "answer": 3,
+      "notes": [
+        "回数が合っていても吸入の方法が適切でない可能性がある。",
+        "手技や服薬状況なども確認して判断する。",
+        "吸入薬は正しく使って気道へ届くことが大切である。",
+        "増量は看護師や本人の独断では行わない。"
+      ],
+      "reference_keys": [
+        "PED_asthma"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "吸入手技の確認について公開資料の該当事項を確認。年齢・病態の条件と単一正答を点検した独自設問。",
+      "effect": {
+        "name": "喘息に関する学習",
+        "detail": "設問の状態に関連する部位をゲーム内で強調します。実際の発症や病変の位置・重症度を示すものではありません。",
+        "disease": true,
+        "avatarClasses": "affected-airway",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-PED-094",
+      "category": "小児看護学",
+      "topic": "購入母乳の安全",
+      "question": "インターネットで個人から購入した母乳について保護者へ説明する。適切なのはどれか。",
+      "choices": [
+        "冷凍されていれば衛生管理は不問である",
+        "見た目が白ければ安全である",
+        "健康と書かれていれば感染リスクはない",
+        "提供者の健康や保存状況が不明で、乳児の健康を害し得る"
+      ],
+      "answer": 4,
+      "notes": [
+        "冷凍だけで病原体や薬剤の混入などすべての危険を除けない。",
+        "外観から衛生状態や含有物を判定できない。",
+        "表示のみでは感染症や薬剤使用などを確認できない。",
+        "入手経路不明の母乳は適切な安全管理が確認できない。"
+      ],
+      "reference_keys": [
+        "PED_honey"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "購入母乳の安全について公開資料の該当事項を確認。年齢・病態の条件と単一正答を点検した独自設問。"
+    },
+    {
+      "id": "ORG-PED-095",
+      "category": "小児看護学",
+      "topic": "白血病と貧血",
+      "question": "白血病の児で正常な赤血球が減少している。これと関連する症状はどれか。",
+      "choices": [
+        "倦怠感や息切れ",
+        "点状出血や鼻出血",
+        "細菌感染による発熱",
+        "関節の腫れと骨痛"
+      ],
+      "answer": 1,
+      "notes": [
+        "赤血球減少による貧血では酸素運搬が低下し、倦怠感や息切れにつながる。",
+        "出血傾向は主に血小板減少と関連し、赤血球減少そのものとは区別する。",
+        "感染しやすさは好中球減少などと関連し、赤血球減少の直接の影響とは異なる。",
+        "白血病では骨痛も起こり得るが、赤血球減少による代表的症状とは異なる。"
+      ],
+      "reference_keys": [
+        "PED_leukemia"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "白血病と貧血について公開資料の該当事項を確認。年齢・病態の条件と単一正答を点検した独自設問。 二次確認：正答を維持し、無関係な誤答を医学・看護上の取り違えに修正。",
+      "effect": {
+        "name": "白血病に関する学習",
+        "detail": "設問の状態に関連する部位をゲーム内で強調します。実際の発症や病変の位置・重症度を示すものではありません。",
+        "disease": true,
+        "avatarClasses": "affected-systemic",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-PED-096",
+      "category": "小児看護学",
+      "topic": "LCHの内分泌合併症",
+      "question": "ランゲルハンス細胞組織球症の児で多飲・多尿が出現した。特に検討する合併症はどれか。",
+      "choices": [
+        "抗利尿ホルモン不適合分泌症候群",
+        "尿崩症",
+        "急性糸球体腎炎",
+        "ネフローゼ症候群"
+      ],
+      "answer": 2,
+      "notes": [
+        "抗利尿ホルモンの過剰作用では水分が保持されやすく、多量の希釈尿とは異なる。",
+        "視床下部・下垂体系への影響で尿崩症を生じることがあり、多飲・多尿に注意する。",
+        "糸球体腎炎では血尿や浮腫、尿量低下などを評価し、この疾患特有の合併症とは区別する。",
+        "ネフローゼでは蛋白尿や浮腫が中心で、ここで考慮する多飲・多尿の合併症ではない。"
+      ],
+      "reference_keys": [
+        "PED_lch"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "LCHの内分泌合併症について公開資料の該当事項を確認。年齢・病態の条件と単一正答を点検した独自設問。 二次確認：正答を維持し、無関係な誤答を医学・看護上の取り違えに修正。",
+      "effect": {
+        "name": "ランゲルハンス細胞組織球症に関する学習",
+        "detail": "設問の状態に関連する部位をゲーム内で強調します。実際の発症や病変の位置・重症度を示すものではありません。",
+        "disease": true,
+        "avatarClasses": "affected-systemic",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-PED-097",
+      "category": "小児看護学",
+      "topic": "ALLの維持療法",
+      "question": "急性リンパ性白血病で寛解となった学童が「元気だから薬は不要」と話す。適切なのはどれか。",
+      "choices": [
+        "症状がなければ処方を捨ててよい",
+        "飲み忘れた分を次回まとめて倍量にする",
+        "維持療法の目的を説明し処方どおり継続を支える",
+        "通院していれば服薬状況は確認しない"
+      ],
+      "answer": 3,
+      "notes": [
+        "寛解後も治療計画に沿った維持療法が必要な時期がある。",
+        "飲み忘れ時は指示を確認し、独断でまとめて増量しない。",
+        "治療継続の意味を本人に伝え、生活の中で実行できる方法を考える。",
+        "通院の有無と実際に内服できているかは別に確認する。"
+      ],
+      "reference_keys": [
+        "PED_all"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "ALLの維持療法について公開資料の該当事項を確認。年齢・病態の条件と単一正答を点検した独自設問。",
+      "effect": {
+        "name": "白血病に関する学習",
+        "detail": "設問の状態に関連する部位をゲーム内で強調します。実際の発症や病変の位置・重症度を示すものではありません。",
+        "disease": true,
+        "avatarClasses": "affected-systemic",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-PED-098",
+      "category": "小児看護学",
+      "topic": "遊びと順番の学習",
+      "question": "2歳児同士が同じ玩具を欲しがっている。発達を踏まえた援助はどれか。",
+      "choices": [
+        "譲れない児を性格が悪いと評価する",
+        "二人とも遊びを禁止する",
+        "大人は危険があっても関わらない",
+        "順番や言葉での伝え方を大人が示して支える"
+      ],
+      "answer": 4,
+      "notes": [
+        "共有や調整は学習の途中であり、人格の問題と決めつけない。",
+        "遊びを通じて他者との関わりを学ぶ機会をつくる。",
+        "安全を見守り、解決が難しいときは援助する。",
+        "この時期は自力での共有が難しく、具体的な仲立ちが役立つ。"
+      ],
+      "reference_keys": [
+        "PED_dev2"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "遊びと順番の学習について公開資料の該当事項を確認。年齢・病態の条件と単一正答を点検した独自設問。"
+    }
+  ]
+}

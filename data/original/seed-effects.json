@@ -1,0 +1,74 @@
+{
+  "ORG-001-002": {
+    "name": "慢性腎臓病・腎性貧血",
+    "detail": "腎機能低下に関する問題です。関連部位をゲーム内で強調します。",
+    "damage": 10,
+    "pulse": 0,
+    "spo2": 0,
+    "focus": 5,
+    "className": "",
+    "avatarClasses": "affected-kidneys",
+    "disease": true,
+    "kind": "condition"
+  },
+  "ORG-001-007": {
+    "name": "心不全の増悪",
+    "detail": "心不全に伴う息苦しさをゲーム内で表現します。",
+    "damage": 10,
+    "pulse": 0,
+    "spo2": 0,
+    "focus": 5,
+    "className": "",
+    "avatarClasses": "affected-heart sim-breathing",
+    "disease": true,
+    "kind": "condition"
+  },
+  "ORG-001-008": {
+    "name": "低血糖",
+    "detail": "低血糖に伴うふるえをゲーム内で表現します。特定臓器の病変を示すものではありません。",
+    "damage": 10,
+    "pulse": 0,
+    "spo2": 0,
+    "focus": 5,
+    "className": "",
+    "avatarClasses": "affected-systemic sim-tremor",
+    "disease": true,
+    "kind": "condition"
+  },
+  "ORG-001-009": {
+    "name": "脳卒中を疑う徴候",
+    "detail": "片側の脱力に関連する部位をゲーム内で強調します。病型や病変の左右を断定するものではありません。",
+    "damage": 10,
+    "pulse": 0,
+    "spo2": 0,
+    "focus": 5,
+    "className": "",
+    "avatarClasses": "affected-brain sim-hemiparesis",
+    "disease": true,
+    "kind": "condition"
+  },
+  "ORG-001-012": {
+    "name": "認知症のある人への支援",
+    "detail": "認知機能に関わる問題として関連部位を強調します。病変の位置を示すものではありません。",
+    "damage": 10,
+    "pulse": 0,
+    "spo2": 0,
+    "focus": 5,
+    "className": "",
+    "avatarClasses": "affected-brain",
+    "disease": true,
+    "kind": "condition"
+  },
+  "ORG-001-014": {
+    "name": "軽度の脱水",
+    "detail": "水分・電解質の不足を全身の表現で示します。特定臓器の病変を推定しません。",
+    "damage": 10,
+    "pulse": 0,
+    "spo2": 0,
+    "focus": 5,
+    "className": "",
+    "avatarClasses": "affected-systemic",
+    "disease": true,
+    "kind": "condition"
+  }
+}

@@ -1,0 +1,2582 @@
+{
+  "category": "人体の構造と機能",
+  "sources": {
+    "ANA_membrane": {
+      "title": "OpenStax Anatomy and Physiology 2e：細胞膜と膜輸送",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/3-1-the-cell-membrane",
+      "checked_at": "2026-09-10"
+    },
+    "ANA_organelle": {
+      "title": "OpenStax Anatomy and Physiology 2e：細胞小器官",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/3-2-the-cytoplasm-and-cellular-organelles",
+      "checked_at": "2026-09-10"
+    },
+    "ANA_skin": {
+      "title": "OpenStax Anatomy and Physiology 2e：皮膚の層",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/5-1-layers-of-the-skin",
+      "checked_at": "2026-09-10"
+    },
+    "ANA_bone": {
+      "title": "OpenStax Anatomy and Physiology 2e：骨の構造",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/6-3-bone-structure",
+      "checked_at": "2026-09-10"
+    },
+    "ANA_muscle": {
+      "title": "OpenStax Anatomy and Physiology 2e：骨格筋の収縮",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/10-3-muscle-fiber-contraction-and-relaxation",
+      "checked_at": "2026-09-10"
+    },
+    "ANA_neuron": {
+      "title": "OpenStax Anatomy and Physiology 2e：神経組織",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/12-2-nervous-tissue",
+      "checked_at": "2026-09-10"
+    },
+    "ANA_autonomic": {
+      "title": "OpenStax Anatomy and Physiology 2e：自律神経",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/15-1-divisions-of-the-autonomic-nervous-system",
+      "checked_at": "2026-09-10"
+    },
+    "ANA_brain": {
+      "title": "OpenStax Anatomy and Physiology 2e：中枢神経系",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/13-2-the-central-nervous-system",
+      "checked_at": "2026-09-10"
+    },
+    "ANA_sense": {
+      "title": "OpenStax Anatomy and Physiology 2e：感覚受容",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/14-1-sensory-perception",
+      "checked_at": "2026-09-10"
+    },
+    "ANA_pituitary": {
+      "title": "OpenStax Anatomy and Physiology 2e：視床下部と下垂体",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/17-3-the-pituitary-gland-and-hypothalamus",
+      "checked_at": "2026-09-10"
+    },
+    "ANA_thyroid": {
+      "title": "OpenStax Anatomy and Physiology 2e：甲状腺",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/17-4-the-thyroid-gland",
+      "checked_at": "2026-09-10"
+    },
+    "ANA_pth": {
+      "title": "OpenStax Anatomy and Physiology 2e：副甲状腺",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/17-5-the-parathyroid-glands",
+      "checked_at": "2026-09-10"
+    },
+    "ANA_adrenal": {
+      "title": "OpenStax Anatomy and Physiology 2e：副腎",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/17-6-the-adrenal-glands",
+      "checked_at": "2026-09-10"
+    },
+    "ANA_heart": {
+      "title": "OpenStax Anatomy and Physiology 2e：心臓の構造",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/19-1-heart-anatomy",
+      "checked_at": "2026-09-10"
+    },
+    "ANA_ecg": {
+      "title": "OpenStax Anatomy and Physiology 2e：心筋と刺激伝導",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/19-2-cardiac-muscle-and-electrical-activity",
+      "checked_at": "2026-09-10"
+    },
+    "ANA_rbc": {
+      "title": "OpenStax Anatomy and Physiology 2e：赤血球",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/18-3-erythrocytes",
+      "checked_at": "2026-09-10"
+    },
+    "ANA_wbc": {
+      "title": "OpenStax Anatomy and Physiology 2e：白血球と血小板",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/18-4-leukocytes-and-platelets",
+      "checked_at": "2026-09-10"
+    },
+    "ANA_clot": {
+      "title": "OpenStax Anatomy and Physiology 2e：止血",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/18-5-hemostasis",
+      "checked_at": "2026-09-10"
+    },
+    "ANA_lung": {
+      "title": "OpenStax Anatomy and Physiology 2e：肺",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/22-2-the-lungs",
+      "checked_at": "2026-09-10"
+    },
+    "ANA_breathing": {
+      "title": "OpenStax Anatomy and Physiology 2e：呼吸運動",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/22-3-the-process-of-breathing",
+      "checked_at": "2026-09-10"
+    },
+    "ANA_gas": {
+      "title": "OpenStax Anatomy and Physiology 2e：ガス交換",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/22-4-gas-exchange",
+      "checked_at": "2026-09-10"
+    },
+    "ANA_stomach": {
+      "title": "OpenStax Anatomy and Physiology 2e：胃",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/23-4-the-stomach",
+      "checked_at": "2026-09-10"
+    },
+    "ANA_bowel": {
+      "title": "OpenStax Anatomy and Physiology 2e：小腸と大腸",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/23-5-the-small-and-large-intestines",
+      "checked_at": "2026-09-10"
+    },
+    "ANA_liver": {
+      "title": "OpenStax Anatomy and Physiology 2e：肝臓・膵臓・胆嚢",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/23-6-accessory-organs-in-digestion-the-liver-pancreas-and-gallbladder",
+      "checked_at": "2026-09-10"
+    },
+    "ANA_kidney": {
+      "title": "OpenStax Anatomy and Physiology 2e：腎の微細構造",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/25-4-microscopic-anatomy-of-the-kidney",
+      "checked_at": "2026-09-10"
+    },
+    "ANA_tubule": {
+      "title": "OpenStax Anatomy and Physiology 2e：尿細管の再吸収",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/25-6-tubular-reabsorption",
+      "checked_at": "2026-09-10"
+    },
+    "ANA_acid": {
+      "title": "OpenStax Anatomy and Physiology 2e：酸塩基平衡",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/26-4-acid-base-balance",
+      "checked_at": "2026-09-10"
+    },
+    "ANA_antibody": {
+      "title": "OpenStax Anatomy and Physiology 2e：抗体",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/21-4-the-adaptive-immune-response-b-lymphocytes-and-antibodies",
+      "checked_at": "2026-09-10"
+    },
+    "ANA_bp": {
+      "title": "OpenStax Anatomy and Physiology 2e：血流と血圧",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/20-2-blood-flow-blood-pressure-and-resistance",
+      "checked_at": "2026-09-10"
+    },
+    "ANA_csf": {
+      "title": "OpenStax Anatomy and Physiology 2e：脳脊髄液循環",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/13-3-circulation-and-the-central-nervous-system",
+      "checked_at": "2026-09-10"
+    }
+  },
+  "questions": [
+    {
+      "id": "ORG-ANA-001",
+      "category": "人体の構造と機能",
+      "topic": "細胞膜の基本構造",
+      "question": "細胞の内外を隔てる細胞膜の主要な骨格を構成するのはどれか。",
+      "choices": [
+        "リン脂質二重層",
+        "コラーゲン線維の束",
+        "DNAの二重らせん",
+        "アクチンの厚い層"
+      ],
+      "answer": 1,
+      "notes": [
+        "リン脂質が二層に並び、選択的に物質を通す膜の基盤となる。",
+        "コラーゲンは主に細胞外で組織を支持する。",
+        "DNAは遺伝情報を担い、膜の骨格ではない。",
+        "アクチンは細胞骨格を構成し、脂質膜そのものではない。"
+      ],
+      "reference_keys": [
+        "ANA_membrane"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "細胞膜の基本構造の構造・機能を参照資料で照合し、4選択肢の内容と単一正答を確認。独自設問。"
+    },
+    {
+      "id": "ORG-ANA-002",
+      "category": "人体の構造と機能",
+      "topic": "能動輸送",
+      "question": "細胞膜のNa⁺/K⁺ポンプについて正しいのはどれか。",
+      "choices": [
+        "ATPを使わず作動する",
+        "Na⁺を細胞外へ、K⁺を細胞内へ運ぶ",
+        "水だけを通過させる",
+        "細胞内外の濃度差を完全になくす"
+      ],
+      "answer": 2,
+      "notes": [
+        "このポンプはATPのエネルギーを必要とする。",
+        "両イオンを濃度勾配に逆らって運び、内外の濃度差を保つ。",
+        "水の通過にはアクアポリンなどが関わる。",
+        "濃度差を維持する仕組みであり、均一化する装置ではない。"
+      ],
+      "reference_keys": [
+        "ANA_membrane"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "能動輸送の構造・機能を参照資料で照合し、4選択肢の内容と単一正答を確認。独自設問。"
+    },
+    {
+      "id": "ORG-ANA-003",
+      "category": "人体の構造と機能",
+      "topic": "浸透",
+      "question": "水は通すが溶質は通さない膜の両側に濃度の異なる液を置いた。浸透による水の移動はどれか。",
+      "choices": [
+        "溶質濃度の高い側から低い側へ",
+        "両側の水が完全に停止する",
+        "溶質濃度の低い側から高い側へ",
+        "ATPがある側へ必ず移動する"
+      ],
+      "answer": 3,
+      "notes": [
+        "水の移動方向を逆に説明している。",
+        "濃度差があれば水の正味の移動が起こる。",
+        "水は溶質濃度の高い側へ移り、濃度差を小さくする。",
+        "浸透はATP消費を必要とする輸送ではない。"
+      ],
+      "reference_keys": [
+        "ANA_membrane"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "浸透の構造・機能を参照資料で照合し、4選択肢の内容と単一正答を確認。独自設問。"
+    },
+    {
+      "id": "ORG-ANA-004",
+      "category": "人体の構造と機能",
+      "topic": "ミトコンドリア",
+      "question": "酸素を用いたエネルギー代謝でATPを産生する中心的な細胞小器官はどれか。",
+      "choices": [
+        "ゴルジ装置",
+        "リソソーム",
+        "核小体",
+        "ミトコンドリア"
+      ],
+      "answer": 4,
+      "notes": [
+        "ゴルジ装置は主に蛋白質の加工・仕分けを担う。",
+        "リソソームは細胞内の物質分解に関わる。",
+        "核小体ではリボソーム形成に関わる過程が進む。",
+        "ミトコンドリア内膜で酸化的リン酸化が行われる。"
+      ],
+      "reference_keys": [
+        "ANA_organelle"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "ミトコンドリアの構造・機能を参照資料で照合し、4選択肢の内容と単一正答を確認。独自設問。"
+    },
+    {
+      "id": "ORG-ANA-005",
+      "category": "人体の構造と機能",
+      "topic": "リボソーム",
+      "question": "アミノ酸をつないで蛋白質を合成する場はどれか。",
+      "choices": [
+        "リボソーム",
+        "リソソーム",
+        "中心小体",
+        "細胞膜の脂質部分"
+      ],
+      "answer": 1,
+      "notes": [
+        "リボソームはmRNAの情報に従い蛋白質を合成する。",
+        "リソソームの主な役割は加水分解酵素による分解である。",
+        "中心小体は細胞分裂時の微小管形成などに関わる。",
+        "脂質二重層は物質の境界であり、翻訳を行う場ではない。"
+      ],
+      "reference_keys": [
+        "ANA_organelle"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "リボソームの構造・機能を参照資料で照合し、4選択肢の内容と単一正答を確認。独自設問。"
+    },
+    {
+      "id": "ORG-ANA-006",
+      "category": "人体の構造と機能",
+      "topic": "細胞内消化",
+      "question": "細胞が取り込んだ異物を加水分解酵素で分解する小器官はどれか。",
+      "choices": [
+        "ミトコンドリア",
+        "リソソーム",
+        "リボソーム",
+        "ゴルジ装置"
+      ],
+      "answer": 2,
+      "notes": [
+        "ミトコンドリアは主にATP産生を担う。",
+        "リソソームは分解酵素を含み、異物や不要な構成物を処理する。",
+        "リボソームでは蛋白質を新しく合成する。",
+        "ゴルジ装置は分泌物の加工や輸送先の仕分けに関わる。"
+      ],
+      "reference_keys": [
+        "ANA_organelle"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "細胞内消化の構造・機能を参照資料で照合し、4選択肢の内容と単一正答を確認。独自設問。"
+    },
+    {
+      "id": "ORG-ANA-007",
+      "category": "人体の構造と機能",
+      "topic": "表皮の血管",
+      "question": "皮膚の構造について正しいのはどれか。",
+      "choices": [
+        "表皮には太い動脈が走る",
+        "表皮は主に脂肪細胞からなる",
+        "表皮自体には血管がない",
+        "表皮と真皮は同じ細胞層を指す"
+      ],
+      "answer": 3,
+      "notes": [
+        "血管は真皮や皮下組織に分布する。",
+        "表皮は主に角化細胞からなる上皮組織である。",
+        "表皮の栄養は下の組織からの拡散などで供給される。",
+        "表皮と真皮は構造も役割も異なる層である。"
+      ],
+      "reference_keys": [
+        "ANA_skin"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "表皮の血管の構造・機能を参照資料で照合し、4選択肢の内容と単一正答を確認。独自設問。"
+    },
+    {
+      "id": "ORG-ANA-008",
+      "category": "人体の構造と機能",
+      "topic": "メラニン",
+      "question": "皮膚で紫外線の影響を軽減する色素を産生するのはどれか。",
+      "choices": [
+        "線維芽細胞",
+        "脂肪細胞",
+        "角質細胞だけ",
+        "メラノサイト"
+      ],
+      "answer": 4,
+      "notes": [
+        "線維芽細胞は真皮のコラーゲンなどを産生する。",
+        "脂肪細胞はエネルギー貯蔵や断熱に関わる。",
+        "角化細胞はメラニンを受け取るが、その産生担当はメラノサイトである。",
+        "メラノサイトが作るメラニンは紫外線を吸収する。"
+      ],
+      "reference_keys": [
+        "ANA_skin"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "メラニンの構造・機能を参照資料で照合し、4選択肢の内容と単一正答を確認。独自設問。"
+    },
+    {
+      "id": "ORG-ANA-009",
+      "category": "人体の構造と機能",
+      "topic": "皮下組織",
+      "question": "皮下組織に多い脂肪組織の役割はどれか。",
+      "choices": [
+        "断熱と外力の緩衝",
+        "酸素を運ぶ血色素の合成",
+        "皮膚表面での角化",
+        "触覚情報の中枢処理"
+      ],
+      "answer": 1,
+      "notes": [
+        "皮下脂肪は熱の放散を抑え、衝撃を和らげる。",
+        "血色素は赤血球系の細胞で合成される。",
+        "角化は主に表皮で進む。",
+        "感覚の中枢処理は脳などで行われる。"
+      ],
+      "reference_keys": [
+        "ANA_skin"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "皮下組織の構造・機能を参照資料で照合し、4選択肢の内容と単一正答を確認。独自設問。"
+    },
+    {
+      "id": "ORG-ANA-010",
+      "category": "人体の構造と機能",
+      "topic": "角質層",
+      "question": "健常な皮膚で体内からの過剰な水分喪失を防ぐ表層の構造はどれか。",
+      "choices": [
+        "毛乳頭",
+        "角質層",
+        "皮下脂肪の血管",
+        "立毛筋"
+      ],
+      "answer": 2,
+      "notes": [
+        "毛乳頭は毛の成長を支える部分である。",
+        "角質層と細胞間脂質が水分のバリアを作る。",
+        "皮下血管は組織へ血液を供給するが、表面の防水層ではない。",
+        "立毛筋は毛を立てる筋であり、水分バリアではない。"
+      ],
+      "reference_keys": [
+        "ANA_skin"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "角質層の構造・機能を参照資料で照合し、4選択肢の内容と単一正答を確認。独自設問。"
+    },
+    {
+      "id": "ORG-ANA-011",
+      "category": "人体の構造と機能",
+      "topic": "骨形成",
+      "question": "骨基質を産生し、新しい骨の形成を担う細胞はどれか。",
+      "choices": [
+        "破骨細胞",
+        "骨細胞",
+        "骨芽細胞",
+        "軟骨細胞"
+      ],
+      "answer": 3,
+      "notes": [
+        "破骨細胞は骨を吸収し、骨の作り替えに関与する。",
+        "骨細胞は骨基質内で骨の状態を感知し維持に関わる。",
+        "骨芽細胞は骨基質を合成し、新しい骨の形成を担う。",
+        "軟骨細胞は軟骨基質を産生し、骨芽細胞とは異なる。"
+      ],
+      "reference_keys": [
+        "ANA_bone"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "骨形成の構造・機能を参照資料で照合し、4選択肢の内容と単一正答を確認。独自設問。 独立レビューで同じ学習領域の取り違えに選択肢を調整し、正答の一意性を再確認。"
+    },
+    {
+      "id": "ORG-ANA-012",
+      "category": "人体の構造と機能",
+      "topic": "骨吸収",
+      "question": "骨のリモデリングで古い骨を吸収する細胞はどれか。",
+      "choices": [
+        "骨芽細胞",
+        "軟骨細胞",
+        "骨細胞",
+        "破骨細胞"
+      ],
+      "answer": 4,
+      "notes": [
+        "骨芽細胞は新しい骨を作る側である。",
+        "軟骨細胞は軟骨の基質を維持する。",
+        "骨細胞は骨基質内で骨の維持や情報伝達に関わる。",
+        "破骨細胞は骨を分解し、骨形成との均衡を作る。"
+      ],
+      "reference_keys": [
+        "ANA_bone"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "骨吸収の構造・機能を参照資料で照合し、4選択肢の内容と単一正答を確認。独自設問。"
+    },
+    {
+      "id": "ORG-ANA-013",
+      "category": "人体の構造と機能",
+      "topic": "骨髄",
+      "question": "成人の骨で造血が行われる組織はどれか。",
+      "choices": [
+        "赤色骨髄",
+        "関節軟骨",
+        "骨膜の外層",
+        "黄色骨髄の脂肪そのもの"
+      ],
+      "answer": 1,
+      "notes": [
+        "赤色骨髄では血球のもとになる細胞が増殖・分化する。",
+        "関節軟骨は関節面の摩擦や荷重を軽減する。",
+        "骨膜は骨の栄養や修復に関わるが、主な造血組織ではない。",
+        "黄色骨髄は脂肪に富み、脂肪細胞自体が造血を担うわけではない。"
+      ],
+      "reference_keys": [
+        "ANA_bone"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "骨髄の構造・機能を参照資料で照合し、4選択肢の内容と単一正答を確認。独自設問。"
+    },
+    {
+      "id": "ORG-ANA-014",
+      "category": "人体の構造と機能",
+      "topic": "緻密骨と海綿骨",
+      "question": "海綿骨の特徴として正しいのはどれか。",
+      "choices": [
+        "骨基質を全く含まない",
+        "骨梁が網状に配置される",
+        "血球だけが密集した液体である",
+        "全体が関節軟骨で覆われる"
+      ],
+      "answer": 2,
+      "notes": [
+        "海綿骨にも石灰化した骨基質が存在する。",
+        "骨梁の間に空間を持つ構造が荷重を支える。",
+        "骨梁を持つ固い骨組織であり、血液そのものではない。",
+        "関節軟骨が覆うのは関節面であり、海綿骨全体ではない。"
+      ],
+      "reference_keys": [
+        "ANA_bone"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "緻密骨と海綿骨の構造・機能を参照資料で照合し、4選択肢の内容と単一正答を確認。独自設問。"
+    },
+    {
+      "id": "ORG-ANA-015",
+      "category": "人体の構造と機能",
+      "topic": "筋収縮とカルシウム",
+      "question": "骨格筋収縮の開始時、筋小胞体から放出されるイオンはどれか。",
+      "choices": [
+        "ナトリウムイオン",
+        "カリウムイオン",
+        "カルシウムイオン",
+        "塩化物イオン"
+      ],
+      "answer": 3,
+      "notes": [
+        "ナトリウムの流入は筋細胞膜の脱分極に関与する。",
+        "カリウムの流出は活動電位の再分極に関与する。",
+        "筋小胞体から放出されたカルシウムがトロポニンに結合し、収縮が始まる。",
+        "塩化物は膜電位の安定に関わるが、筋小胞体からの収縮開始信号ではない。"
+      ],
+      "reference_keys": [
+        "ANA_muscle"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "筋収縮とカルシウムの構造・機能を参照資料で照合し、4選択肢の内容と単一正答を確認。独自設問。 独立レビューで同じ学習領域の取り違えに選択肢を調整し、正答の一意性を再確認。"
+    },
+    {
+      "id": "ORG-ANA-016",
+      "category": "人体の構造と機能",
+      "topic": "滑走説",
+      "question": "骨格筋が収縮するときの説明として正しいのはどれか。",
+      "choices": [
+        "アクチン自体が分解される",
+        "ミオシンの長さが半分になる",
+        "筋節の両端が遠ざかる",
+        "アクチンとミオシンの重なりが増える"
+      ],
+      "answer": 4,
+      "notes": [
+        "収縮のたびにアクチンを分解するのではない。",
+        "太いフィラメントの長さが縮む仕組みではない。",
+        "収縮では筋節の両端のZ線が近づく。",
+        "フィラメントが互いに滑り、筋節が短くなる。"
+      ],
+      "reference_keys": [
+        "ANA_muscle"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "滑走説の構造・機能を参照資料で照合し、4選択肢の内容と単一正答を確認。独自設問。"
+    },
+    {
+      "id": "ORG-ANA-017",
+      "category": "人体の構造と機能",
+      "topic": "神経筋接合部",
+      "question": "運動神経終末から骨格筋への刺激伝達に使われる主な物質はどれか。",
+      "choices": [
+        "アセチルコリン",
+        "ノルアドレナリン",
+        "ドパミン",
+        "GABA"
+      ],
+      "answer": 1,
+      "notes": [
+        "神経筋接合部ではアセチルコリンがニコチン性受容体を刺激する。",
+        "ノルアドレナリンは主に交感神経の節後線維などで使われる。",
+        "ドパミンは中枢の運動調節などに関わり、神経筋接合部の伝達物質ではない。",
+        "GABAは中枢の主要な抑制性伝達物質であり、骨格筋への運動神経伝達とは異なる。"
+      ],
+      "reference_keys": [
+        "ANA_muscle"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "神経筋接合部の構造・機能を参照資料で照合し、4選択肢の内容と単一正答を確認。独自設問。 独立レビューで同じ学習領域の取り違えに選択肢を調整し、正答の一意性を再確認。"
+    },
+    {
+      "id": "ORG-ANA-018",
+      "category": "人体の構造と機能",
+      "topic": "筋弛緩",
+      "question": "刺激終了後に骨格筋が弛緩する過程として正しいのはどれか。",
+      "choices": [
+        "細胞内カルシウムが増え続ける",
+        "カルシウムが筋小胞体へ回収される",
+        "アクチンがすべて消失する",
+        "運動神経から刺激が増える"
+      ],
+      "answer": 2,
+      "notes": [
+        "カルシウムが高い状態は収縮の持続につながる。",
+        "筋小胞体への再取り込みで収縮を開始させる作用が解除される。",
+        "筋フィラメントを消失させずに弛緩する。",
+        "刺激増加は通常、弛緩ではなく収縮の維持に働く。"
+      ],
+      "reference_keys": [
+        "ANA_muscle"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "筋弛緩の構造・機能を参照資料で照合し、4選択肢の内容と単一正答を確認。独自設問。"
+    },
+    {
+      "id": "ORG-ANA-019",
+      "category": "人体の構造と機能",
+      "topic": "末梢の髄鞘",
+      "question": "末梢神経で髄鞘を形成する細胞はどれか。",
+      "choices": [
+        "ミクログリア",
+        "星状膠細胞",
+        "シュワン細胞",
+        "上衣細胞"
+      ],
+      "answer": 3,
+      "notes": [
+        "ミクログリアは中枢神経系の免疫防御を担う。",
+        "星状膠細胞は中枢で神経環境の維持を助ける。",
+        "シュワン細胞が末梢神経の軸索を取り巻く。",
+        "上衣細胞は脳室などの内面を覆う。"
+      ],
+      "reference_keys": [
+        "ANA_neuron"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "末梢の髄鞘の構造・機能を参照資料で照合し、4選択肢の内容と単一正答を確認。独自設問。"
+    },
+    {
+      "id": "ORG-ANA-020",
+      "category": "人体の構造と機能",
+      "topic": "中枢の髄鞘",
+      "question": "中枢神経系の髄鞘形成を担うのはどれか。",
+      "choices": [
+        "衛星細胞",
+        "シュワン細胞",
+        "星状膠細胞",
+        "希突起膠細胞"
+      ],
+      "answer": 4,
+      "notes": [
+        "神経節の衛星細胞は末梢神経の細胞体を支持する。",
+        "シュワン細胞は末梢神経系の髄鞘を形成する。",
+        "星状膠細胞は神経の環境維持や血液脳関門の機能に関わる。",
+        "希突起膠細胞は中枢神経系で複数の軸索に髄鞘を形成する。"
+      ],
+      "reference_keys": [
+        "ANA_neuron"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "中枢の髄鞘の構造・機能を参照資料で照合し、4選択肢の内容と単一正答を確認。独自設問。 独立レビューで同じ学習領域の取り違えに選択肢を調整し、正答の一意性を再確認。"
+    },
+    {
+      "id": "ORG-ANA-021",
+      "category": "人体の構造と機能",
+      "topic": "軸索と樹状突起",
+      "question": "一般的なニューロンで、細胞体から離れた部位へ興奮を伝える長い突起はどれか。",
+      "choices": [
+        "軸索",
+        "樹状突起",
+        "核小体",
+        "髄膜"
+      ],
+      "answer": 1,
+      "notes": [
+        "軸索は細胞体から終末へ信号を伝える。",
+        "樹状突起は主に他の細胞から入力を受ける。",
+        "核小体は核内構造で、神経突起ではない。",
+        "髄膜は脳・脊髄を外側から覆う膜である。"
+      ],
+      "reference_keys": [
+        "ANA_neuron"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "軸索と樹状突起の構造・機能を参照資料で照合し、4選択肢の内容と単一正答を確認。独自設問。"
+    },
+    {
+      "id": "ORG-ANA-022",
+      "category": "人体の構造と機能",
+      "topic": "小脳",
+      "question": "筋力が保たれているのに手足の運動がぎこちなく、目標へ正確に手を伸ばせない。運動の協調に特に関わるのはどれか。",
+      "choices": [
+        "視床下部",
+        "小脳",
+        "延髄の呼吸中枢",
+        "脳梁だけ"
+      ],
+      "answer": 2,
+      "notes": [
+        "視床下部は体温や内分泌などの恒常性に関わる。",
+        "小脳は運動のタイミングや精度を調整する。",
+        "呼吸中枢は呼吸のリズム形成に関わる。",
+        "脳梁は左右半球を連絡するが、協調運動の中心として問う部位ではない。"
+      ],
+      "reference_keys": [
+        "ANA_brain"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "小脳の構造・機能を参照資料で照合し、4選択肢の内容と単一正答を確認。独自設問。"
+    },
+    {
+      "id": "ORG-ANA-023",
+      "category": "人体の構造と機能",
+      "topic": "視床下部",
+      "question": "体温調節、摂食、内分泌調節を統合する脳の部位はどれか。",
+      "choices": [
+        "後頭葉",
+        "小脳",
+        "視床下部",
+        "中心後回"
+      ],
+      "answer": 3,
+      "notes": [
+        "後頭葉は主に視覚情報処理に関わる。",
+        "小脳は運動の協調や平衡に関わる。",
+        "視床下部は自律神経・内分泌を通して恒常性を保つ。",
+        "中心後回は一次体性感覚野に相当する。"
+      ],
+      "reference_keys": [
+        "ANA_brain"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "視床下部の構造・機能を参照資料で照合し、4選択肢の内容と単一正答を確認。独自設問。"
+    },
+    {
+      "id": "ORG-ANA-024",
+      "category": "人体の構造と機能",
+      "topic": "視覚野",
+      "question": "網膜から入った視覚情報を主に処理する大脳皮質の領域はどれか。",
+      "choices": [
+        "前頭葉の運動野",
+        "頭頂葉の体性感覚野",
+        "側頭葉の聴覚野",
+        "後頭葉の視覚野"
+      ],
+      "answer": 4,
+      "notes": [
+        "運動野は随意運動の出力に関わる。",
+        "体性感覚野は触覚などを処理する。",
+        "聴覚野は音の情報を処理する。",
+        "一次視覚野は後頭葉に位置する。"
+      ],
+      "reference_keys": [
+        "ANA_brain"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "視覚野の構造・機能を参照資料で照合し、4選択肢の内容と単一正答を確認。独自設問。"
+    },
+    {
+      "id": "ORG-ANA-025",
+      "category": "人体の構造と機能",
+      "topic": "脳梁",
+      "question": "左右の大脳半球間を結ぶ主要な白質の構造はどれか。",
+      "choices": [
+        "脳梁",
+        "視交叉",
+        "小脳虫部",
+        "下垂体柄"
+      ],
+      "answer": 1,
+      "notes": [
+        "脳梁は左右の大脳皮質の情報を連絡する。",
+        "視交叉は視神経線維の一部が交叉する部位である。",
+        "小脳虫部は小脳の正中部分である。",
+        "下垂体柄は視床下部と下垂体をつなぐ。"
+      ],
+      "reference_keys": [
+        "ANA_brain"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "脳梁の構造・機能を参照資料で照合し、4選択肢の内容と単一正答を確認。独自設問。"
+    },
+    {
+      "id": "ORG-ANA-026",
+      "category": "人体の構造と機能",
+      "topic": "脊髄の灰白質",
+      "question": "脊髄横断面で神経細胞体が集まる灰白質は主にどこにあるか。",
+      "choices": [
+        "外周の白質のさらに外側",
+        "中心部のH字状の領域",
+        "椎体の海綿骨内",
+        "硬膜の外側"
+      ],
+      "answer": 2,
+      "notes": [
+        "脊髄では白質が外側、灰白質が内側にある。",
+        "脊髄の中心付近にH字状の灰白質が見られる。",
+        "椎体は脊髄を保護する骨である。",
+        "硬膜外は脊髄灰白質ではなく脂肪などが存在する。"
+      ],
+      "reference_keys": [
+        "ANA_brain"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "脊髄の灰白質の構造・機能を参照資料で照合し、4選択肢の内容と単一正答を確認。独自設問。"
+    },
+    {
+      "id": "ORG-ANA-027",
+      "category": "人体の構造と機能",
+      "topic": "副交感神経",
+      "question": "迷走神経による心臓への副交感神経刺激が強まったとき、通常起こるのはどれか。",
+      "choices": [
+        "心拍数の増加",
+        "房室伝導の促進",
+        "心拍数の減少",
+        "洞結節の自動能の亢進"
+      ],
+      "answer": 3,
+      "notes": [
+        "心拍数を増やす作用は主に交感神経刺激でみられる。",
+        "迷走神経刺激は房室結節の伝導を遅くする方向に働く。",
+        "迷走神経刺激は洞結節の発火頻度を下げ、心拍数を減らす。",
+        "副交感神経刺激は洞結節の自動能を抑える方向に働く。"
+      ],
+      "reference_keys": [
+        "ANA_autonomic"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "副交感神経の構造・機能を参照資料で照合し、4選択肢の内容と単一正答を確認。独自設問。 独立レビューで同じ学習領域の取り違えに選択肢を調整し、正答の一意性を再確認。"
+    },
+    {
+      "id": "ORG-ANA-028",
+      "category": "人体の構造と機能",
+      "topic": "自律神経節",
+      "question": "交感神経・副交感神経に共通する、節前線維から放出される伝達物質はどれか。",
+      "choices": [
+        "ノルアドレナリン",
+        "ドパミン",
+        "セロトニン",
+        "アセチルコリン"
+      ],
+      "answer": 4,
+      "notes": [
+        "ノルアドレナリンは多くの交感神経節後線維の伝達物質である。",
+        "ドパミンが両系統の標準的な節前伝達を担うわけではない。",
+        "セロトニンは両自律神経節の共通伝達物質ではない。",
+        "両系統の節前線維はアセチルコリンを放出する。"
+      ],
+      "reference_keys": [
+        "ANA_autonomic"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "自律神経節の構造・機能を参照資料で照合し、4選択肢の内容と単一正答を確認。独自設問。"
+    },
+    {
+      "id": "ORG-ANA-029",
+      "category": "人体の構造と機能",
+      "topic": "脳脊髄液の産生",
+      "question": "脳脊髄液の主な産生部位はどれか。",
+      "choices": [
+        "脈絡叢",
+        "くも膜顆粒",
+        "硬膜静脈洞",
+        "頸静脈"
+      ],
+      "answer": 1,
+      "notes": [
+        "脳室内の脈絡叢で脳脊髄液が産生される。",
+        "くも膜顆粒は主に髄液を静脈側へ吸収する。",
+        "硬膜静脈洞は血液を集め、髄液の吸収先にもなる。",
+        "頸静脈は頭頸部からの血液を戻す。"
+      ],
+      "reference_keys": [
+        "ANA_csf"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "脳脊髄液の産生の構造・機能を参照資料で照合し、4選択肢の内容と単一正答を確認。独自設問。"
+    },
+    {
+      "id": "ORG-ANA-030",
+      "category": "人体の構造と機能",
+      "topic": "髄液の通り道",
+      "question": "脳と脊髄の表面を取り囲んで脳脊髄液が流れるのはどこか。",
+      "choices": [
+        "硬膜外腔",
+        "くも膜下腔",
+        "頭皮の皮下組織",
+        "脳実質の動脈内"
+      ],
+      "answer": 2,
+      "notes": [
+        "硬膜外腔は正常な髄液循環の場ではない。",
+        "くも膜と軟膜の間を髄液が流れ、衝撃を緩和する。",
+        "頭皮は頭蓋外の組織である。",
+        "髄液と動脈内の血液は別の区画を流れる。"
+      ],
+      "reference_keys": [
+        "ANA_csf"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "髄液の通り道の構造・機能を参照資料で照合し、4選択肢の内容と単一正答を確認。独自設問。"
+    },
+    {
+      "id": "ORG-ANA-031",
+      "category": "人体の構造と機能",
+      "topic": "耳小骨",
+      "question": "鼓膜から内耳へ音の振動を伝える耳小骨に含まれるのはどれか。",
+      "choices": [
+        "アブミ骨",
+        "頬骨",
+        "舌骨",
+        "篩骨"
+      ],
+      "answer": 1,
+      "notes": [
+        "アブミ骨はツチ骨・キヌタ骨とともに振動を伝える。",
+        "頬骨は顔面の骨格を作る。",
+        "舌骨は舌や喉頭に関係する筋の付着部となる。",
+        "篩骨は鼻腔や眼窩の形成に関わる。"
+      ],
+      "reference_keys": [
+        "ANA_sense"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "耳小骨の構造・機能を参照資料で照合し、4選択肢の内容と単一正答を確認。独自設問。"
+    },
+    {
+      "id": "ORG-ANA-032",
+      "category": "人体の構造と機能",
+      "topic": "耳管",
+      "question": "飛行機の降下時に嚥下すると耳の圧迫感が軽くなる。圧の調節に関わる通路はどれか。",
+      "choices": [
+        "外耳道と内耳を結ぶ管",
+        "中耳と咽頭を結ぶ耳管",
+        "蝸牛と鼓膜を結ぶ動脈",
+        "涙嚢と鼻腔を結ぶ管"
+      ],
+      "answer": 2,
+      "notes": [
+        "外耳道から内耳へ直接つながる通路はない。",
+        "耳管が開くことで鼓膜内外の圧の差が調整される。",
+        "振動は耳小骨を介して伝わり、動脈を使うわけではない。",
+        "鼻涙管は涙の排出経路である。"
+      ],
+      "reference_keys": [
+        "ANA_sense"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "耳管の構造・機能を参照資料で照合し、4選択肢の内容と単一正答を確認。独自設問。"
+    },
+    {
+      "id": "ORG-ANA-033",
+      "category": "人体の構造と機能",
+      "topic": "聴覚の受容",
+      "question": "音の振動を神経信号へ変換する有毛細胞があるのはどれか。",
+      "choices": [
+        "耳介",
+        "耳管",
+        "蝸牛",
+        "鼓膜の表面"
+      ],
+      "answer": 3,
+      "notes": [
+        "耳介は外界から音を集め、外耳道へ導く。",
+        "耳管は中耳の圧を調節する。",
+        "蝸牛内の有毛細胞が機械的刺激を神経信号へ変える。",
+        "鼓膜は振動する膜で、聴覚受容の有毛細胞はない。"
+      ],
+      "reference_keys": [
+        "ANA_sense"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "聴覚の受容の構造・機能を参照資料で照合し、4選択肢の内容と単一正答を確認。独自設問。"
+    },
+    {
+      "id": "ORG-ANA-034",
+      "category": "人体の構造と機能",
+      "topic": "平衡感覚",
+      "question": "頭部の回転運動の検出に特に関わる内耳の構造はどれか。",
+      "choices": [
+        "蝸牛",
+        "鼓膜",
+        "耳小骨",
+        "半規管"
+      ],
+      "answer": 4,
+      "notes": [
+        "蝸牛は音の刺激を受容して聴覚を担う。",
+        "鼓膜は音で振動する。",
+        "耳小骨は音の振動を内耳へ伝える。",
+        "半規管は回転による内リンパの動きを検出する。"
+      ],
+      "reference_keys": [
+        "ANA_sense"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "平衡感覚の構造・機能を参照資料で照合し、4選択肢の内容と単一正答を確認。独自設問。"
+    },
+    {
+      "id": "ORG-ANA-035",
+      "category": "人体の構造と機能",
+      "topic": "筋紡錘",
+      "question": "筋の長さや伸ばされる変化を検出する受容器はどれか。",
+      "choices": [
+        "筋紡錘",
+        "ゴルジ腱器官",
+        "パチニ小体",
+        "自由神経終末"
+      ],
+      "answer": 1,
+      "notes": [
+        "筋紡錘は筋の伸びや伸びる速さを検出し、伸張反射に関わる。",
+        "ゴルジ腱器官は主に筋収縮によって腱にかかる張力を検出する。",
+        "パチニ小体は深部の圧や振動を検出する受容器である。",
+        "自由神経終末は痛みや温度などの感覚に関わる。"
+      ],
+      "reference_keys": [
+        "ANA_sense"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "筋紡錘の構造・機能を参照資料で照合し、4選択肢の内容と単一正答を確認。独自設問。 独立レビューで同じ学習領域の取り違えに選択肢を調整し、正答の一意性を再確認。"
+    },
+    {
+      "id": "ORG-ANA-036",
+      "category": "人体の構造と機能",
+      "topic": "涙の排出",
+      "question": "涙が眼の表面を潤した後に流れ込む主な部位はどれか。",
+      "choices": [
+        "外耳道",
+        "鼻腔",
+        "中耳",
+        "食道の腺"
+      ],
+      "answer": 2,
+      "notes": [
+        "外耳道は涙の排出路ではない。",
+        "涙は内眼角側から涙道を経て鼻腔へ流れる。",
+        "中耳は耳管で咽頭へ通じるが、涙道とは別である。",
+        "食道腺は粘液を分泌し、涙の排出先ではない。"
+      ],
+      "reference_keys": [
+        "ANA_sense"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "涙の排出の構造・機能を参照資料で照合し、4選択肢の内容と単一正答を確認。独自設問。"
+    },
+    {
+      "id": "ORG-ANA-037",
+      "category": "人体の構造と機能",
+      "topic": "ADHの放出",
+      "question": "抗利尿ホルモン〈ADH〉が血中へ放出される部位はどれか。",
+      "choices": [
+        "副腎皮質",
+        "下垂体前葉",
+        "下垂体後葉",
+        "甲状腺濾胞"
+      ],
+      "answer": 3,
+      "notes": [
+        "副腎皮質はコルチゾールなどを分泌する。",
+        "前葉は成長ホルモンやTSHなどを分泌する。",
+        "ADHは視床下部で作られ、下垂体後葉から放出される。",
+        "甲状腺濾胞は甲状腺ホルモンの産生に関わる。"
+      ],
+      "reference_keys": [
+        "ANA_pituitary"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "ADHの放出の構造・機能を参照資料で照合し、4選択肢の内容と単一正答を確認。独自設問。"
+    },
+    {
+      "id": "ORG-ANA-038",
+      "category": "人体の構造と機能",
+      "topic": "オキシトシン",
+      "question": "授乳時の射乳反射で、乳腺周囲の筋上皮細胞を収縮させるのはどれか。",
+      "choices": [
+        "プロラクチン",
+        "コルチゾール",
+        "成長ホルモン",
+        "オキシトシン"
+      ],
+      "answer": 4,
+      "notes": [
+        "プロラクチンは主に乳汁の産生を促す。",
+        "コルチゾールは代謝やストレス応答に関わる。",
+        "成長ホルモンは組織の成長や代謝に関わる。",
+        "オキシトシンは乳汁を押し出す射乳を起こす。"
+      ],
+      "reference_keys": [
+        "ANA_pituitary"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "オキシトシンの構造・機能を参照資料で照合し、4選択肢の内容と単一正答を確認。独自設問。"
+    },
+    {
+      "id": "ORG-ANA-039",
+      "category": "人体の構造と機能",
+      "topic": "TSH",
+      "question": "甲状腺ホルモンの分泌を促す下垂体前葉ホルモンはどれか。",
+      "choices": [
+        "甲状腺刺激ホルモン",
+        "副甲状腺ホルモン",
+        "抗利尿ホルモン",
+        "メラトニン"
+      ],
+      "answer": 1,
+      "notes": [
+        "TSHは甲状腺に作用し、ホルモンの産生・分泌を促す。",
+        "副甲状腺ホルモンは血中カルシウムを調節する。",
+        "ADHは主に腎臓で水の保持を促す。",
+        "メラトニンは松果体由来で昼夜のリズムに関わる。"
+      ],
+      "reference_keys": [
+        "ANA_pituitary"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "TSHの構造・機能を参照資料で照合し、4選択肢の内容と単一正答を確認。独自設問。"
+    },
+    {
+      "id": "ORG-ANA-040",
+      "category": "人体の構造と機能",
+      "topic": "ACTH",
+      "question": "下垂体から副腎皮質への刺激を伝えるホルモンはどれか。",
+      "choices": [
+        "アドレナリン",
+        "副腎皮質刺激ホルモン",
+        "アルドステロン",
+        "ノルアドレナリン"
+      ],
+      "answer": 2,
+      "notes": [
+        "アドレナリンは副腎髄質から分泌される。",
+        "ACTHは下垂体前葉から分泌され副腎皮質に作用する。",
+        "アルドステロンは副腎皮質の産物である。",
+        "ノルアドレナリンは交感神経伝達などに関わる。"
+      ],
+      "reference_keys": [
+        "ANA_pituitary"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "ACTHの構造・機能を参照資料で照合し、4選択肢の内容と単一正答を確認。独自設問。"
+    },
+    {
+      "id": "ORG-ANA-041",
+      "category": "人体の構造と機能",
+      "topic": "甲状腺ホルモンの材料",
+      "question": "甲状腺ホルモンの合成に不可欠な元素はどれか。",
+      "choices": [
+        "鉄",
+        "亜鉛",
+        "ヨウ素",
+        "フッ素"
+      ],
+      "answer": 3,
+      "notes": [
+        "鉄はヘモグロビンなどの構成に重要である。",
+        "亜鉛は多くの酵素に必要だが、T3・T4の特徴的な構成元素ではない。",
+        "T3・T4は分子内にヨウ素を含む。",
+        "フッ素は歯の耐酸性などと関係する。"
+      ],
+      "reference_keys": [
+        "ANA_thyroid"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "甲状腺ホルモンの材料の構造・機能を参照資料で照合し、4選択肢の内容と単一正答を確認。独自設問。"
+    },
+    {
+      "id": "ORG-ANA-042",
+      "category": "人体の構造と機能",
+      "topic": "基礎代謝",
+      "question": "甲状腺ホルモンが増加したときに起こりやすい代謝の変化はどれか。",
+      "choices": [
+        "熱産生の低下",
+        "酸素消費の一律停止",
+        "全身の代謝の消失",
+        "基礎代謝の亢進"
+      ],
+      "answer": 4,
+      "notes": [
+        "甲状腺ホルモンは一般に熱産生を高める方向に働く。",
+        "細胞の酸素消費を停止させる作用ではない。",
+        "生命維持に必要な代謝がなくなるわけではない。",
+        "甲状腺ホルモンは多くの組織の代謝を高める。"
+      ],
+      "reference_keys": [
+        "ANA_thyroid"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "基礎代謝の構造・機能を参照資料で照合し、4選択肢の内容と単一正答を確認。独自設問。"
+    },
+    {
+      "id": "ORG-ANA-043",
+      "category": "人体の構造と機能",
+      "topic": "副甲状腺ホルモン",
+      "question": "血中カルシウム濃度が低下したとき、副甲状腺ホルモンの作用として適切なのはどれか。",
+      "choices": [
+        "血中カルシウムを上げる方向に働く",
+        "腎臓でのカルシウム再吸収を必ずゼロにする",
+        "活性型ビタミンDの産生を抑える",
+        "血中カルシウムをさらに低下させる"
+      ],
+      "answer": 1,
+      "notes": [
+        "骨・腎臓やビタミンDを介した作用で濃度の回復を助ける。",
+        "腎臓でのカルシウム保持を促す方向に働く。",
+        "活性型ビタミンDの産生を促す。",
+        "低下を強めず、恒常性を回復する方向に働く。"
+      ],
+      "reference_keys": [
+        "ANA_pth"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "副甲状腺ホルモンの構造・機能を参照資料で照合し、4選択肢の内容と単一正答を確認。独自設問。"
+    },
+    {
+      "id": "ORG-ANA-044",
+      "category": "人体の構造と機能",
+      "topic": "アルドステロン",
+      "question": "アルドステロンが腎臓で促すのはどれか。",
+      "choices": [
+        "Na⁺排泄とK⁺保持",
+        "Na⁺再吸収とK⁺排泄",
+        "Na⁺再吸収とK⁺保持",
+        "Na⁺排泄とK⁺排泄"
+      ],
+      "answer": 2,
+      "notes": [
+        "アルドステロンはNa⁺を保持しK⁺を排泄するため、作用が逆である。",
+        "遠位尿細管後半や集合管でNa⁺再吸収とK⁺分泌を促す。",
+        "Na⁺の保持は適切だが、K⁺は保持ではなく排泄が促される。",
+        "K⁺排泄は適切だが、Na⁺は排泄ではなく再吸収が促される。"
+      ],
+      "reference_keys": [
+        "ANA_adrenal"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "アルドステロンの構造・機能を参照資料で照合し、4選択肢の内容と単一正答を確認。独自設問。 独立レビューで同じ学習領域の取り違えに選択肢を調整し、正答の一意性を再確認。"
+    },
+    {
+      "id": "ORG-ANA-045",
+      "category": "人体の構造と機能",
+      "topic": "副腎の領域",
+      "question": "アドレナリンを分泌する部位はどれか。",
+      "choices": [
+        "副腎皮質球状帯",
+        "甲状腺C細胞",
+        "副腎髄質",
+        "下垂体前葉"
+      ],
+      "answer": 3,
+      "notes": [
+        "球状帯はアルドステロンを分泌する。",
+        "C細胞はカルシトニンを分泌する。",
+        "副腎髄質はカテコールアミンを血液へ放出する。",
+        "前葉はACTHなどを分泌する。"
+      ],
+      "reference_keys": [
+        "ANA_adrenal"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "副腎の領域の構造・機能を参照資料で照合し、4選択肢の内容と単一正答を確認。独自設問。"
+    },
+    {
+      "id": "ORG-ANA-046",
+      "category": "人体の構造と機能",
+      "topic": "コルチゾール",
+      "question": "副腎皮質で作られ、ストレス時のエネルギー動員に関わる糖質コルチコイドはどれか。",
+      "choices": [
+        "アドレナリン",
+        "バソプレシン",
+        "カルシトニン",
+        "コルチゾール"
+      ],
+      "answer": 4,
+      "notes": [
+        "アドレナリンは副腎髄質由来のカテコールアミンである。",
+        "バソプレシンはADHで、水分保持に関わる。",
+        "カルシトニンは甲状腺由来でカルシウム調節に関わる。",
+        "コルチゾールは糖代謝・ストレス応答に関わるステロイドである。"
+      ],
+      "reference_keys": [
+        "ANA_adrenal"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "コルチゾールの構造・機能を参照資料で照合し、4選択肢の内容と単一正答を確認。独自設問。"
+    },
+    {
+      "id": "ORG-ANA-047",
+      "category": "人体の構造と機能",
+      "topic": "僧帽弁",
+      "question": "左心房から左心室へ血液が流れるときに通過する弁はどれか。",
+      "choices": [
+        "僧帽弁",
+        "三尖弁",
+        "肺動脈弁",
+        "大動脈弁"
+      ],
+      "answer": 1,
+      "notes": [
+        "僧帽弁は左房と左室の間にある。",
+        "三尖弁は右房と右室の間にある。",
+        "肺動脈弁は右室から肺動脈への出口にある。",
+        "大動脈弁は左室から大動脈への出口にある。"
+      ],
+      "reference_keys": [
+        "ANA_heart"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "僧帽弁の構造・機能を参照資料で照合し、4選択肢の内容と単一正答を確認。独自設問。"
+    },
+    {
+      "id": "ORG-ANA-048",
+      "category": "人体の構造と機能",
+      "topic": "左室壁",
+      "question": "左心室の壁が右心室より厚い主な理由はどれか。",
+      "choices": [
+        "左心室だけに血液があるため",
+        "体循環へ高い圧で血液を送り出すため",
+        "左心室だけが弛緩しないため",
+        "肺へ最も低い圧で送るため"
+      ],
+      "answer": 2,
+      "notes": [
+        "右心室にも血液が流れる。",
+        "左室は全身へ拍出するため、肺循環を担う右室より厚い筋層を持つ。",
+        "左室にも収縮と弛緩がある。",
+        "左室は肺循環ではなく体循環を担う。"
+      ],
+      "reference_keys": [
+        "ANA_heart"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "左室壁の構造・機能を参照資料で照合し、4選択肢の内容と単一正答を確認。独自設問。"
+    },
+    {
+      "id": "ORG-ANA-049",
+      "category": "人体の構造と機能",
+      "topic": "冠動脈",
+      "question": "心筋に酸素や栄養を供給する主な血管はどれか。",
+      "choices": [
+        "肺静脈の末端",
+        "門脈",
+        "冠動脈",
+        "上大静脈"
+      ],
+      "answer": 3,
+      "notes": [
+        "肺静脈は肺から左房へ血液を戻す。",
+        "門脈は消化管などから肝臓へ血液を運ぶ。",
+        "冠動脈は大動脈起始部から分岐し心筋を養う。",
+        "上大静脈は上半身の静脈血を右房へ戻す。"
+      ],
+      "reference_keys": [
+        "ANA_heart"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "冠動脈の構造・機能を参照資料で照合し、4選択肢の内容と単一正答を確認。独自設問。"
+    },
+    {
+      "id": "ORG-ANA-050",
+      "category": "人体の構造と機能",
+      "topic": "洞結節",
+      "question": "正常な心臓で通常ペースメーカーとして働くのはどれか。",
+      "choices": [
+        "洞結節",
+        "房室結節",
+        "ヒス束",
+        "プルキンエ線維"
+      ],
+      "answer": 1,
+      "notes": [
+        "洞結節は通常最も速い頻度で自発興奮し、心臓全体のリズムを決める。",
+        "房室結節は房室間の伝導を遅延させ、洞結節が機能しない場合には補充調律に関わる。",
+        "ヒス束は興奮を心室へ伝える経路で、正常時の主ペースメーカーではない。",
+        "プルキンエ線維にも自動能があるが、通常は洞結節より発火頻度が低い。"
+      ],
+      "reference_keys": [
+        "ANA_ecg"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "洞結節の構造・機能を参照資料で照合し、4選択肢の内容と単一正答を確認。独自設問。 独立レビューで同じ学習領域の取り違えに選択肢を調整し、正答の一意性を再確認。"
+    },
+    {
+      "id": "ORG-ANA-051",
+      "category": "人体の構造と機能",
+      "topic": "心電図P波",
+      "question": "心電図のP波が主に表している電気的現象はどれか。",
+      "choices": [
+        "心室の再分極",
+        "心房の脱分極",
+        "心室の脱分極",
+        "心房の再分極"
+      ],
+      "answer": 2,
+      "notes": [
+        "心室の再分極は主にT波として現れる。",
+        "P波は左右の心房に脱分極が広がる過程を表す。",
+        "心室の脱分極はQRS波として現れる。",
+        "心房の再分極は通常QRS波と重なり、独立した波として見えにくい。"
+      ],
+      "reference_keys": [
+        "ANA_ecg"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "心電図P波の構造・機能を参照資料で照合し、4選択肢の内容と単一正答を確認。独自設問。 独立レビューで同じ学習領域の取り違えに選択肢を調整し、正答の一意性を再確認。"
+    },
+    {
+      "id": "ORG-ANA-052",
+      "category": "人体の構造と機能",
+      "topic": "心電図QRS波",
+      "question": "心電図のQRS波に対応するのはどれか。",
+      "choices": [
+        "心房の脱分極",
+        "心室の再分極",
+        "心室の脱分極",
+        "心房の再分極"
+      ],
+      "answer": 3,
+      "notes": [
+        "心房の脱分極に対応するのはP波である。",
+        "心室の再分極に対応するのはT波である。",
+        "QRS波は左右心室へ脱分極が広がる過程を表す。",
+        "心房の再分極はQRS波に重なるが、QRS波の主な成分ではない。"
+      ],
+      "reference_keys": [
+        "ANA_ecg"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "心電図QRS波の構造・機能を参照資料で照合し、4選択肢の内容と単一正答を確認。独自設問。 独立レビューで同じ学習領域の取り違えに選択肢を調整し、正答の一意性を再確認。"
+    },
+    {
+      "id": "ORG-ANA-053",
+      "category": "人体の構造と機能",
+      "topic": "心拍出量",
+      "question": "1回拍出量70mL、心拍数80回/分のとき、心拍出量はどれか。",
+      "choices": [
+        "0.56L/分",
+        "1.14L/分",
+        "56L/分",
+        "5.6L/分"
+      ],
+      "answer": 4,
+      "notes": [
+        "70×80の計算結果をLへ換算すると5.6Lである。",
+        "心拍出量は1回拍出量を心拍数で割らない。",
+        "5600mLは56Lではなく5.6Lである。",
+        "70mL/回×80回/分＝5600mL/分＝5.6L/分となる。"
+      ],
+      "reference_keys": [
+        "ANA_bp"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "心拍出量の構造・機能を参照資料で照合し、4選択肢の内容と単一正答を確認。独自設問。"
+    },
+    {
+      "id": "ORG-ANA-054",
+      "category": "人体の構造と機能",
+      "topic": "末梢血管抵抗",
+      "question": "他の条件が同じとき、細動脈が収縮して内径が小さくなると血流抵抗はどうなるか。",
+      "choices": [
+        "増加する",
+        "低下する",
+        "必ずゼロになる",
+        "血管径とは無関係である"
+      ],
+      "answer": 1,
+      "notes": [
+        "内径が小さくなるほど流れにくくなり抵抗が増す。",
+        "内径拡大のときに抵抗が低下する。",
+        "血管収縮で抵抗が消えるわけではない。",
+        "血管径は抵抗を大きく左右する要因である。"
+      ],
+      "reference_keys": [
+        "ANA_bp"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "末梢血管抵抗の構造・機能を参照資料で照合し、4選択肢の内容と単一正答を確認。独自設問。"
+    },
+    {
+      "id": "ORG-ANA-055",
+      "category": "人体の構造と機能",
+      "topic": "脈圧",
+      "question": "収縮期血圧126mmHg、拡張期血圧78mmHgのとき、脈圧はどれか。",
+      "choices": [
+        "204mmHg",
+        "48mmHg",
+        "102mmHg",
+        "78mmHg"
+      ],
+      "answer": 2,
+      "notes": [
+        "204は二つの血圧の和であり脈圧ではない。",
+        "脈圧は収縮期と拡張期の差で、126−78＝48となる。",
+        "102は二つの単純平均であり、脈圧ではない。",
+        "78はこの例の拡張期血圧そのものである。"
+      ],
+      "reference_keys": [
+        "ANA_bp"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "脈圧の構造・機能を参照資料で照合し、4選択肢の内容と単一正答を確認。独自設問。"
+    },
+    {
+      "id": "ORG-ANA-056",
+      "category": "人体の構造と機能",
+      "topic": "酸素運搬",
+      "question": "血液中の酸素の大部分はどのような形で運ばれるか。",
+      "choices": [
+        "血漿中に溶解",
+        "重炭酸イオンに変化",
+        "赤血球のヘモグロビンと結合",
+        "血漿蛋白質と結合"
+      ],
+      "answer": 3,
+      "notes": [
+        "酸素は血漿にも溶けるが、通常その割合は小さい。",
+        "重炭酸イオンとして多く運ばれるのは二酸化炭素である。",
+        "酸素の大部分は赤血球内のヘモグロビンに可逆的に結合して運ばれる。",
+        "血漿蛋白質との結合は酸素運搬の主要な形ではない。"
+      ],
+      "reference_keys": [
+        "ANA_rbc"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "酸素運搬の構造・機能を参照資料で照合し、4選択肢の内容と単一正答を確認。独自設問。 独立レビューで同じ学習領域の取り違えに選択肢を調整し、正答の一意性を再確認。"
+    },
+    {
+      "id": "ORG-ANA-057",
+      "category": "人体の構造と機能",
+      "topic": "成熟赤血球",
+      "question": "ヒトの成熟赤血球の特徴はどれか。",
+      "choices": [
+        "核が大きく中央にある",
+        "分裂して数を増やす",
+        "抗体を分泌する",
+        "通常、核を持たない"
+      ],
+      "answer": 4,
+      "notes": [
+        "成熟過程で核が失われる。",
+        "成熟赤血球自体は細胞分裂しない。",
+        "抗体の分泌は形質細胞が担う。",
+        "核を失い、ヘモグロビンを含む細胞として循環する。"
+      ],
+      "reference_keys": [
+        "ANA_rbc"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "成熟赤血球の構造・機能を参照資料で照合し、4選択肢の内容と単一正答を確認。独自設問。"
+    },
+    {
+      "id": "ORG-ANA-058",
+      "category": "人体の構造と機能",
+      "topic": "好中球",
+      "question": "細菌感染の局所に早期に集まり、貪食を行う白血球はどれか。",
+      "choices": [
+        "好中球",
+        "好酸球",
+        "好塩基球",
+        "リンパ球"
+      ],
+      "answer": 1,
+      "notes": [
+        "好中球は細菌感染の初期に集まり、細菌などを貪食する。",
+        "好酸球は寄生虫への防御やアレルギー反応への関与が特徴である。",
+        "好塩基球はヒスタミンなどを放出し、炎症やアレルギーに関与する。",
+        "リンパ球は抗体産生や細胞性免疫などを担い、早期の貪食の主役ではない。"
+      ],
+      "reference_keys": [
+        "ANA_wbc"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "好中球の構造・機能を参照資料で照合し、4選択肢の内容と単一正答を確認。独自設問。 独立レビューで同じ学習領域の取り違えに選択肢を調整し、正答の一意性を再確認。"
+    },
+    {
+      "id": "ORG-ANA-059",
+      "category": "人体の構造と機能",
+      "topic": "抗体産生細胞",
+      "question": "抗原刺激を受けたB細胞が分化し、大量の抗体を分泌する細胞はどれか。",
+      "choices": [
+        "ヘルパーT細胞",
+        "形質細胞",
+        "細胞傷害性T細胞",
+        "NK細胞"
+      ],
+      "answer": 2,
+      "notes": [
+        "ヘルパーT細胞は他の免疫細胞を調節するが、B細胞由来ではない。",
+        "B細胞は抗原刺激後に形質細胞へ分化し、抗体を分泌する。",
+        "細胞傷害性T細胞は感染細胞などを傷害し、抗体を大量分泌しない。",
+        "NK細胞は自然免疫に関わる細胞で、B細胞からの分化先ではない。"
+      ],
+      "reference_keys": [
+        "ANA_antibody"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "抗体産生細胞の構造・機能を参照資料で照合し、4選択肢の内容と単一正答を確認。独自設問。 独立レビューで同じ学習領域の取り違えに選択肢を調整し、正答の一意性を再確認。"
+    },
+    {
+      "id": "ORG-ANA-060",
+      "category": "人体の構造と機能",
+      "topic": "免疫記憶",
+      "question": "同じ抗原への2回目の曝露で、初回より速く強い抗体反応が起こる主な理由はどれか。",
+      "choices": [
+        "赤血球が抗原を記憶するため",
+        "血小板が抗体へ変化するため",
+        "記憶B細胞などが残っているため",
+        "抗原が人体の細胞へ変わるため"
+      ],
+      "answer": 3,
+      "notes": [
+        "赤血球に獲得免疫の記憶を担う役割はない。",
+        "血小板は抗体へ変化しない。",
+        "初回反応で生じた記憶細胞が迅速な二次応答を可能にする。",
+        "抗原の変身ではなく免疫系の記憶による反応である。"
+      ],
+      "reference_keys": [
+        "ANA_antibody"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "免疫記憶の構造・機能を参照資料で照合し、4選択肢の内容と単一正答を確認。独自設問。"
+    },
+    {
+      "id": "ORG-ANA-061",
+      "category": "人体の構造と機能",
+      "topic": "胎盤通過抗体",
+      "question": "母体から胎盤を通って胎児へ移行する主要な免疫グロブリンはどれか。",
+      "choices": [
+        "IgM",
+        "IgA",
+        "IgE",
+        "IgG"
+      ],
+      "answer": 4,
+      "notes": [
+        "IgMは大きな分子で胎盤を通常通過しない。",
+        "分泌型IgAは母乳や粘膜で重要である。",
+        "IgEは即時型アレルギーなどに関わる。",
+        "IgGは胎盤を通過し胎児に受動免疫を与える。"
+      ],
+      "reference_keys": [
+        "ANA_antibody"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "胎盤通過抗体の構造・機能を参照資料で照合し、4選択肢の内容と単一正答を確認。独自設問。"
+    },
+    {
+      "id": "ORG-ANA-062",
+      "category": "人体の構造と機能",
+      "topic": "血小板の役割",
+      "question": "小血管が損傷した直後の一次止血で中心的に働くのはどれか。",
+      "choices": [
+        "血小板の粘着・凝集",
+        "フィブリン網の形成",
+        "プラスミンによる分解",
+        "アンチトロンビンによる凝固抑制"
+      ],
+      "answer": 1,
+      "notes": [
+        "損傷部へ血小板が粘着して凝集し、一次止血栓を作る。",
+        "フィブリン網による止血栓の安定化は二次止血に当たる。",
+        "プラスミンはフィブリンを分解し、線溶に関わる。",
+        "アンチトロンビンは凝固反応を制御し、血小板血栓形成そのものではない。"
+      ],
+      "reference_keys": [
+        "ANA_clot"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "血小板の役割の構造・機能を参照資料で照合し、4選択肢の内容と単一正答を確認。独自設問。 独立レビューで同じ学習領域の取り違えに選択肢を調整し、正答の一意性を再確認。"
+    },
+    {
+      "id": "ORG-ANA-063",
+      "category": "人体の構造と機能",
+      "topic": "フィブリン",
+      "question": "血液凝固で網目を作り、血餅を安定させる蛋白質はどれか。",
+      "choices": [
+        "フィブリノゲン",
+        "フィブリン",
+        "トロンビン",
+        "プラスミン"
+      ],
+      "answer": 2,
+      "notes": [
+        "フィブリノゲンは血漿中の可溶性蛋白質で、フィブリンの材料となる。",
+        "不溶性のフィブリンが網目を作り、血小板血栓を安定させる。",
+        "トロンビンはフィブリノゲンをフィブリンへ変える酵素である。",
+        "プラスミンはフィブリンを分解する線溶系の酵素である。"
+      ],
+      "reference_keys": [
+        "ANA_clot"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "フィブリンの構造・機能を参照資料で照合し、4選択肢の内容と単一正答を確認。独自設問。 独立レビューで同じ学習領域の取り違えに選択肢を調整し、正答の一意性を再確認。"
+    },
+    {
+      "id": "ORG-ANA-064",
+      "category": "人体の構造と機能",
+      "topic": "肺葉",
+      "question": "健常成人の肺葉の数の組合せはどれか。",
+      "choices": [
+        "右2葉・左3葉",
+        "右1葉・左1葉",
+        "右3葉・左2葉",
+        "右4葉・左4葉"
+      ],
+      "answer": 3,
+      "notes": [
+        "右と左の数が逆である。",
+        "左右とも複数の肺葉に分かれる。",
+        "右は上・中・下葉、左は上・下葉からなる。",
+        "左右4葉ずつという構成ではない。"
+      ],
+      "reference_keys": [
+        "ANA_lung"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "肺葉の構造・機能を参照資料で照合し、4選択肢の内容と単一正答を確認。独自設問。"
+    },
+    {
+      "id": "ORG-ANA-065",
+      "category": "人体の構造と機能",
+      "topic": "吸気の横隔膜",
+      "question": "安静吸気時の横隔膜の動きとして正しいのはどれか。",
+      "choices": [
+        "弛緩して上がる",
+        "収縮して上がる",
+        "弛緩して胸腔を狭める",
+        "収縮して下がる"
+      ],
+      "answer": 4,
+      "notes": [
+        "これは主に呼気方向の動きである。",
+        "収縮では横隔膜は平坦化して下降する。",
+        "吸気では胸腔を広げる必要がある。",
+        "横隔膜の下降で胸腔容積が増し、空気が入る。"
+      ],
+      "reference_keys": [
+        "ANA_breathing"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "吸気の横隔膜の構造・機能を参照資料で照合し、4選択肢の内容と単一正答を確認。独自設問。"
+    },
+    {
+      "id": "ORG-ANA-066",
+      "category": "人体の構造と機能",
+      "topic": "安静呼気",
+      "question": "健常成人の安静呼気が起こる主な仕組みはどれか。",
+      "choices": [
+        "吸気筋の弛緩と肺の弾性収縮",
+        "横隔膜の持続的な強い収縮",
+        "腹筋群の強い収縮",
+        "内肋間筋による胸郭の強い引き下げ"
+      ],
+      "answer": 1,
+      "notes": [
+        "安静時は吸気筋が弛緩し、肺・胸郭が元に戻る力で呼気が進む。",
+        "横隔膜の収縮は胸腔を広げ、主に吸気に働く。",
+        "腹筋群による押し上げは努力呼気で用いられ、安静呼気の主因ではない。",
+        "内肋間筋などを使う能動的な胸郭縮小は主に努力呼気で起こる。"
+      ],
+      "reference_keys": [
+        "ANA_breathing"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "安静呼気の構造・機能を参照資料で照合し、4選択肢の内容と単一正答を確認。独自設問。 独立レビューで同じ学習領域の取り違えに選択肢を調整し、正答の一意性を再確認。"
+    },
+    {
+      "id": "ORG-ANA-067",
+      "category": "人体の構造と機能",
+      "topic": "肺サーファクタント",
+      "question": "肺サーファクタントの作用として正しいのはどれか。",
+      "choices": [
+        "肺胞表面の張力を増やす",
+        "肺胞表面の張力を低下させる",
+        "肺胞内を血液で満たす",
+        "肺胞を恒常的に閉鎖する"
+      ],
+      "answer": 2,
+      "notes": [
+        "表面張力が高いと肺胞はつぶれやすくなる。",
+        "表面張力を下げ、肺胞の虚脱を防ぐ。",
+        "肺胞はガス交換のため空気を含む。",
+        "サーファクタントは肺胞を開いた状態に保つ助けになる。"
+      ],
+      "reference_keys": [
+        "ANA_breathing"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "肺サーファクタントの構造・機能を参照資料で照合し、4選択肢の内容と単一正答を確認。独自設問。"
+    },
+    {
+      "id": "ORG-ANA-068",
+      "category": "人体の構造と機能",
+      "topic": "呼吸の圧差",
+      "question": "自然呼吸で空気が肺胞へ流入しているときの圧関係はどれか。",
+      "choices": [
+        "肺胞内圧が大気圧より高い",
+        "肺胞内圧と大気圧の差は不要",
+        "肺胞内圧が大気圧より低い",
+        "肺胞内圧が必ず血圧と等しい"
+      ],
+      "answer": 3,
+      "notes": [
+        "肺胞内圧が高い場合は空気が外へ流れやすい。",
+        "気流を生じさせるのは圧差である。",
+        "胸腔の拡大により肺胞内圧が下がり空気が入る。",
+        "肺胞内の気圧と血管の血圧は異なる。"
+      ],
+      "reference_keys": [
+        "ANA_breathing"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "呼吸の圧差の構造・機能を参照資料で照合し、4選択肢の内容と単一正答を確認。独自設問。"
+    },
+    {
+      "id": "ORG-ANA-069",
+      "category": "人体の構造と機能",
+      "topic": "ガス拡散",
+      "question": "肺胞と毛細血管の間で酸素が移動する直接の駆動力はどれか。",
+      "choices": [
+        "静水圧の差",
+        "膠質浸透圧の差",
+        "空気全体の圧の差",
+        "酸素分圧の差"
+      ],
+      "answer": 4,
+      "notes": [
+        "静水圧差は血管壁を介した水の移動などに関わる。",
+        "膠質浸透圧差は蛋白質による水の移動に関わり、酸素拡散の直接の駆動力ではない。",
+        "空気全体の圧差は換気の気流を生じるが、肺胞膜を介する酸素拡散とは異なる。",
+        "酸素は酸素分圧が高い肺胞側から低い血液側へ拡散する。"
+      ],
+      "reference_keys": [
+        "ANA_gas"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "ガス拡散の構造・機能を参照資料で照合し、4選択肢の内容と単一正答を確認。独自設問。 独立レビューで同じ学習領域の取り違えに選択肢を調整し、正答の一意性を再確認。"
+    },
+    {
+      "id": "ORG-ANA-070",
+      "category": "人体の構造と機能",
+      "topic": "気道抵抗",
+      "question": "気管支の平滑筋が収縮して内腔が狭くなると、一般にどうなるか。",
+      "choices": [
+        "気道抵抗が増加する",
+        "気道抵抗が低下する",
+        "肺胞の数が直ちに倍増する",
+        "換気に必要な圧差が必ずゼロになる"
+      ],
+      "answer": 1,
+      "notes": [
+        "狭い気道では空気が通りにくくなる。",
+        "拡張した場合に抵抗は低下する。",
+        "平滑筋収縮で肺胞数が増えるわけではない。",
+        "抵抗増加時は同じ気流を得るため大きい圧差が必要になる。"
+      ],
+      "reference_keys": [
+        "ANA_breathing"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "気道抵抗の構造・機能を参照資料で照合し、4選択肢の内容と単一正答を確認。独自設問。"
+    },
+    {
+      "id": "ORG-ANA-071",
+      "category": "人体の構造と機能",
+      "topic": "胃壁細胞",
+      "question": "胃の壁細胞から分泌される組合せはどれか。",
+      "choices": [
+        "胆汁とリパーゼ",
+        "塩酸と内因子",
+        "インスリンとグルカゴン",
+        "唾液とアミラーゼ"
+      ],
+      "answer": 2,
+      "notes": [
+        "胆汁は肝臓、膵リパーゼは膵臓に由来する。",
+        "壁細胞は胃酸とビタミンB12吸収に必要な内因子を分泌する。",
+        "両ホルモンは膵島から分泌される。",
+        "唾液は唾液腺から分泌される。"
+      ],
+      "reference_keys": [
+        "ANA_stomach"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "胃壁細胞の構造・機能を参照資料で照合し、4選択肢の内容と単一正答を確認。独自設問。"
+    },
+    {
+      "id": "ORG-ANA-072",
+      "category": "人体の構造と機能",
+      "topic": "ペプシン",
+      "question": "胃内で主に蛋白質の消化を開始する酵素はどれか。",
+      "choices": [
+        "ラクターゼ",
+        "膵アミラーゼ",
+        "ペプシン",
+        "マルターゼ"
+      ],
+      "answer": 3,
+      "notes": [
+        "ラクターゼは小腸で乳糖を分解する。",
+        "膵アミラーゼは膵液中にありデンプンを分解する。",
+        "ペプシンは酸性の胃内で蛋白質を分解する。",
+        "マルターゼは小腸で麦芽糖を分解する。"
+      ],
+      "reference_keys": [
+        "ANA_stomach"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "ペプシンの構造・機能を参照資料で照合し、4選択肢の内容と単一正答を確認。独自設問。"
+    },
+    {
+      "id": "ORG-ANA-073",
+      "category": "人体の構造と機能",
+      "topic": "ガストリン",
+      "question": "胃のG細胞から分泌され、胃酸分泌などを促すのはどれか。",
+      "choices": [
+        "セクレチン",
+        "インスリン",
+        "アルドステロン",
+        "ガストリン"
+      ],
+      "answer": 4,
+      "notes": [
+        "セクレチンは十二指腸から分泌され膵重炭酸分泌などを促す。",
+        "インスリンは膵β細胞由来の血糖調節ホルモンである。",
+        "アルドステロンは副腎皮質から分泌される。",
+        "ガストリンは胃の消化活動を促す。"
+      ],
+      "reference_keys": [
+        "ANA_stomach"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "ガストリンの構造・機能を参照資料で照合し、4選択肢の内容と単一正答を確認。独自設問。"
+    },
+    {
+      "id": "ORG-ANA-074",
+      "category": "人体の構造と機能",
+      "topic": "小腸の表面積",
+      "question": "小腸の栄養吸収面積を広げる構造の組合せはどれか。",
+      "choices": [
+        "輪状ひだ・絨毛・微絨毛",
+        "輪状ひだ・胃小窩・結腸ひも",
+        "絨毛・胃小窩・ハウストラ",
+        "結腸ひも・半月ひだ・胃小窩"
+      ],
+      "answer": 1,
+      "notes": [
+        "小腸では輪状ひだ、粘膜の絨毛、上皮細胞の微絨毛が表面積を広げる。",
+        "胃小窩は胃、結腸ひもは大腸の構造である。",
+        "絨毛は小腸にあるが、胃小窩は胃、ハウストラは大腸の構造である。",
+        "結腸ひもと半月ひだは大腸、胃小窩は胃の構造である。"
+      ],
+      "reference_keys": [
+        "ANA_bowel"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "小腸の表面積の構造・機能を参照資料で照合し、4選択肢の内容と単一正答を確認。独自設問。 独立レビューで同じ学習領域の取り違えに選択肢を調整し、正答の一意性を再確認。"
+    },
+    {
+      "id": "ORG-ANA-075",
+      "category": "人体の構造と機能",
+      "topic": "門脈",
+      "question": "小腸から吸収されたブドウ糖を含む血液が、肝臓へ入る主要な血管はどれか。",
+      "choices": [
+        "肝静脈",
+        "門脈",
+        "肺動脈",
+        "腎静脈"
+      ],
+      "answer": 2,
+      "notes": [
+        "肝静脈は肝臓から下大静脈へ血液を出す。",
+        "消化管からの栄養に富む血液が門脈を通り肝臓へ向かう。",
+        "肺動脈は右室から肺へ血液を運ぶ。",
+        "腎静脈は腎臓から血液を戻す。"
+      ],
+      "reference_keys": [
+        "ANA_bowel"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "門脈の構造・機能を参照資料で照合し、4選択肢の内容と単一正答を確認。独自設問。"
+    },
+    {
+      "id": "ORG-ANA-076",
+      "category": "人体の構造と機能",
+      "topic": "脂肪の吸収経路",
+      "question": "小腸で吸収・再合成された長鎖脂肪酸由来の脂質は、カイロミクロンとしてまず主にどこへ入るか。",
+      "choices": [
+        "胃の静脈",
+        "胆管",
+        "絨毛のリンパ管",
+        "尿細管"
+      ],
+      "answer": 3,
+      "notes": [
+        "胃の静脈が小腸脂質の最初の流入先ではない。",
+        "胆管は胆汁を腸へ運ぶ方向の経路である。",
+        "カイロミクロンは乳び管へ入り、リンパを経て血液へ運ばれる。",
+        "尿細管は尿の形成に関わる。"
+      ],
+      "reference_keys": [
+        "ANA_bowel"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "脂肪の吸収経路の構造・機能を参照資料で照合し、4選択肢の内容と単一正答を確認。独自設問。"
+    },
+    {
+      "id": "ORG-ANA-077",
+      "category": "人体の構造と機能",
+      "topic": "胆汁の産生と貯蔵",
+      "question": "胆汁について正しい組合せはどれか。",
+      "choices": [
+        "膵臓で産生・胃で貯蔵",
+        "胆嚢で産生・腎臓で貯蔵",
+        "小腸で産生・膵臓で貯蔵",
+        "肝臓で産生・胆嚢で貯蔵"
+      ],
+      "answer": 4,
+      "notes": [
+        "膵臓は膵液を作り、胃は胆汁の貯蔵庫ではない。",
+        "胆嚢は貯蔵・濃縮の場で、腎臓にも貯蔵しない。",
+        "小腸は胆汁の作用を受ける場所である。",
+        "肝細胞が胆汁を作り、胆嚢で濃縮・貯蔵される。"
+      ],
+      "reference_keys": [
+        "ANA_liver"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "胆汁の産生と貯蔵の構造・機能を参照資料で照合し、4選択肢の内容と単一正答を確認。独自設問。"
+    },
+    {
+      "id": "ORG-ANA-078",
+      "category": "人体の構造と機能",
+      "topic": "胆汁酸",
+      "question": "胆汁酸が消化を助ける主な仕組みはどれか。",
+      "choices": [
+        "脂肪を乳化し、消化・吸収を助ける",
+        "蛋白質をペプシンとして切断する",
+        "デンプンをアミラーゼとして分解する",
+        "食物のDNAを複製する"
+      ],
+      "answer": 1,
+      "notes": [
+        "脂肪を細かく分散させ、酵素が作用しやすくする。",
+        "胆汁酸は蛋白分解酵素ではない。",
+        "胆汁酸は糖質分解酵素でもない。",
+        "消化は栄養素の分解であり、DNA複製ではない。"
+      ],
+      "reference_keys": [
+        "ANA_liver"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "胆汁酸の構造・機能を参照資料で照合し、4選択肢の内容と単一正答を確認。独自設問。"
+    },
+    {
+      "id": "ORG-ANA-079",
+      "category": "人体の構造と機能",
+      "topic": "膵液の重炭酸",
+      "question": "十二指腸へ流れた酸性の胃内容を中和する膵液成分はどれか。",
+      "choices": [
+        "塩酸",
+        "重炭酸イオン",
+        "ペプシン",
+        "胆汁色素だけ"
+      ],
+      "answer": 2,
+      "notes": [
+        "塩酸は酸性を強める。",
+        "重炭酸が胃酸を中和し、腸内の酵素作用に適した環境を作る。",
+        "ペプシンは蛋白分解酵素で、中和剤ではない。",
+        "胆汁色素はヘムの代謝産物で、主な中和成分ではない。"
+      ],
+      "reference_keys": [
+        "ANA_liver"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "膵液の重炭酸の構造・機能を参照資料で照合し、4選択肢の内容と単一正答を確認。独自設問。"
+    },
+    {
+      "id": "ORG-ANA-080",
+      "category": "人体の構造と機能",
+      "topic": "膵リパーゼ",
+      "question": "膵リパーゼが主に分解する栄養素はどれか。",
+      "choices": [
+        "蛋白質",
+        "デンプン",
+        "脂肪",
+        "食物繊維すべて"
+      ],
+      "answer": 3,
+      "notes": [
+        "蛋白質はトリプシンなどで分解される。",
+        "デンプンはアミラーゼが分解する。",
+        "リパーゼは脂質の消化を担う。",
+        "ヒトの膵リパーゼで食物繊維すべてを分解できない。"
+      ],
+      "reference_keys": [
+        "ANA_liver"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "膵リパーゼの構造・機能を参照資料で照合し、4選択肢の内容と単一正答を確認。独自設問。"
+    },
+    {
+      "id": "ORG-ANA-081",
+      "category": "人体の構造と機能",
+      "topic": "胆汁酸の再利用",
+      "question": "腸内の胆汁酸が再吸収され、肝臓へ戻って再利用される循環はどれか。",
+      "choices": [
+        "肺循環",
+        "冠循環",
+        "胎児循環",
+        "腸肝循環"
+      ],
+      "answer": 4,
+      "notes": [
+        "肺循環は心臓と肺の間の血流である。",
+        "冠循環は心筋を養う血流である。",
+        "胎児循環は出生前に特徴的な血流経路である。",
+        "胆汁酸は回腸などで再吸収され門脈を介して肝臓へ戻る。"
+      ],
+      "reference_keys": [
+        "ANA_liver"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "胆汁酸の再利用の構造・機能を参照資料で照合し、4選択肢の内容と単一正答を確認。独自設問。"
+    },
+    {
+      "id": "ORG-ANA-082",
+      "category": "人体の構造と機能",
+      "topic": "糸球体濾過",
+      "question": "健常な糸球体で通常ほとんど濾過されないのはどれか。",
+      "choices": [
+        "血球と大きな血漿蛋白",
+        "水",
+        "ブドウ糖",
+        "尿素"
+      ],
+      "answer": 1,
+      "notes": [
+        "濾過障壁が血球や大きな蛋白の通過を制限する。",
+        "水は濾過され、その多くが再吸収される。",
+        "ブドウ糖は濾過後、正常ではほぼ再吸収される。",
+        "尿素は濾過され、排泄や再吸収を受ける。"
+      ],
+      "reference_keys": [
+        "ANA_kidney"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "糸球体濾過の構造・機能を参照資料で照合し、4選択肢の内容と単一正答を確認。独自設問。"
+    },
+    {
+      "id": "ORG-ANA-083",
+      "category": "人体の構造と機能",
+      "topic": "近位尿細管",
+      "question": "正常血糖の成人で、濾過されたブドウ糖のほぼ全量が再吸収される主な部位はどれか。",
+      "choices": [
+        "集合管",
+        "近位尿細管",
+        "遠位尿細管",
+        "ヘンレ係蹄"
+      ],
+      "answer": 2,
+      "notes": [
+        "集合管はホルモンの影響を受けて水や電解質を調整する。",
+        "ブドウ糖は正常血糖では主に近位尿細管でほぼ全量が再吸収される。",
+        "遠位尿細管は電解質調整などを行い、ブドウ糖再吸収の主部位ではない。",
+        "ヘンレ係蹄は尿濃縮に必要な浸透圧勾配の形成に関わる。"
+      ],
+      "reference_keys": [
+        "ANA_tubule"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "近位尿細管の構造・機能を参照資料で照合し、4選択肢の内容と単一正答を確認。独自設問。 独立レビューで同じ学習領域の取り違えに選択肢を調整し、正答の一意性を再確認。"
+    },
+    {
+      "id": "ORG-ANA-084",
+      "category": "人体の構造と機能",
+      "topic": "再吸収の方向",
+      "question": "尿細管での再吸収を正しく表すのはどれか。",
+      "choices": [
+        "血液から尿細管内へ移すこと",
+        "腎盂から膀胱へ流すこと",
+        "尿細管内から間質・血液側へ戻すこと",
+        "尿を体外へ出すことだけ"
+      ],
+      "answer": 3,
+      "notes": [
+        "血液側から尿細管内への移動は分泌である。",
+        "それは尿の輸送であり再吸収ではない。",
+        "必要な水や溶質を体内へ取り戻す過程である。",
+        "排尿と再吸収は異なる過程である。"
+      ],
+      "reference_keys": [
+        "ANA_tubule"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "再吸収の方向の構造・機能を参照資料で照合し、4選択肢の内容と単一正答を確認。独自設問。"
+    },
+    {
+      "id": "ORG-ANA-085",
+      "category": "人体の構造と機能",
+      "topic": "レニン",
+      "question": "腎血流の低下などに応じてレニンを分泌する細胞はどれか。",
+      "choices": [
+        "膀胱上皮細胞",
+        "肝細胞",
+        "胃壁細胞",
+        "腎臓の傍糸球体細胞"
+      ],
+      "answer": 4,
+      "notes": [
+        "膀胱上皮は尿の貯留環境を保つ。",
+        "肝臓はレニンが作用するアンジオテンシノゲンを作る。",
+        "胃壁細胞は塩酸と内因子を分泌する。",
+        "傍糸球体細胞がレニンを放出し、血圧維持機構を起動する。"
+      ],
+      "reference_keys": [
+        "ANA_kidney"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "レニンの構造・機能を参照資料で照合し、4選択肢の内容と単一正答を確認。独自設問。"
+    },
+    {
+      "id": "ORG-ANA-086",
+      "category": "人体の構造と機能",
+      "topic": "アンジオテンシンII",
+      "question": "アンジオテンシンIIの作用として正しいのはどれか。",
+      "choices": [
+        "血管収縮とアルドステロン分泌促進",
+        "全身血管の拡張だけ",
+        "副腎皮質の完全な停止",
+        "ナトリウム保持の全面的な抑制"
+      ],
+      "answer": 1,
+      "notes": [
+        "血管抵抗や体液量を増す方向に働き、血圧維持を助ける。",
+        "主要な作用は血管収縮である。",
+        "アルドステロンの分泌を促進する。",
+        "レニン系はNa⁺と水を保持する方向に働く。"
+      ],
+      "reference_keys": [
+        "ANA_kidney"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "アンジオテンシンIIの構造・機能を参照資料で照合し、4選択肢の内容と単一正答を確認。独自設問。"
+    },
+    {
+      "id": "ORG-ANA-087",
+      "category": "人体の構造と機能",
+      "topic": "ADHの腎作用",
+      "question": "脱水時に増加したADHが集合管へ作用すると、一般にどうなるか。",
+      "choices": [
+        "水再吸収が減り尿が薄くなる",
+        "水再吸収が増え尿が濃くなる",
+        "濾過された血球が増える",
+        "尿に全量の糖が排泄される"
+      ],
+      "answer": 2,
+      "notes": [
+        "ADH不足に近い方向の説明である。",
+        "集合管の水透過性が高まり、水が体内へ戻りやすくなる。",
+        "ADHは糸球体で血球を漏出させるホルモンではない。",
+        "ブドウ糖再吸収を全停止させる作用ではない。"
+      ],
+      "reference_keys": [
+        "ANA_tubule"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "ADHの腎作用の構造・機能を参照資料で照合し、4選択肢の内容と単一正答を確認。独自設問。"
+    },
+    {
+      "id": "ORG-ANA-088",
+      "category": "人体の構造と機能",
+      "topic": "尿細管の分泌",
+      "question": "腎臓による酸の排泄で、尿細管内へ分泌されるものはどれか。",
+      "choices": [
+        "酸素だけ",
+        "ヘモグロビン",
+        "水素イオン",
+        "全血"
+      ],
+      "answer": 3,
+      "notes": [
+        "酸素を分泌して酸を排泄するのではない。",
+        "ヘモグロビンは通常、酸排泄のために尿へ分泌されない。",
+        "尿細管は水素イオンを分泌し、酸塩基平衡を調節する。",
+        "全血を尿へ出すことは正常な腎機能ではない。"
+      ],
+      "reference_keys": [
+        "ANA_tubule"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "尿細管の分泌の構造・機能を参照資料で照合し、4選択肢の内容と単一正答を確認。独自設問。"
+    },
+    {
+      "id": "ORG-ANA-089",
+      "category": "人体の構造と機能",
+      "topic": "呼吸性アシドーシス",
+      "question": "肺胞換気が低下し二酸化炭素が体内に蓄積すると、血液pHは通常どちらへ変化するか。",
+      "choices": [
+        "必ず上昇する",
+        "二酸化炭素と無関係に一定である",
+        "水素イオンが減り続ける",
+        "低下する方向へ変化する"
+      ],
+      "answer": 4,
+      "notes": [
+        "CO₂蓄積は酸性化をもたらす。",
+        "CO₂は炭酸・重炭酸系を介してpHに影響する。",
+        "CO₂増加に伴い水素イオンは増える方向となる。",
+        "換気低下は呼吸性アシドーシスの原因となる。"
+      ],
+      "reference_keys": [
+        "ANA_acid"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "呼吸性アシドーシスの構造・機能を参照資料で照合し、4選択肢の内容と単一正答を確認。独自設問。"
+    },
+    {
+      "id": "ORG-ANA-090",
+      "category": "人体の構造と機能",
+      "topic": "過換気とpH",
+      "question": "必要量を超えた換気で二酸化炭素が過剰に排出されると、起こりやすいのはどれか。",
+      "choices": [
+        "呼吸性アルカローシス",
+        "呼吸性アシドーシス",
+        "二酸化炭素のさらなる蓄積",
+        "血液pHの必然的な低下"
+      ],
+      "answer": 1,
+      "notes": [
+        "CO₂が減少し、血液はアルカリ性へ傾く。",
+        "これは通常CO₂が蓄積する場合である。",
+        "換気による排出増加ではCO₂は減る。",
+        "CO₂の低下ではpHは上がる方向となる。"
+      ],
+      "reference_keys": [
+        "ANA_acid"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "過換気とpHの構造・機能を参照資料で照合し、4選択肢の内容と単一正答を確認。独自設問。"
+    },
+    {
+      "id": "ORG-ANA-091",
+      "category": "人体の構造と機能",
+      "topic": "緩衝系",
+      "question": "血液・細胞外液の酸塩基平衡に重要な緩衝系はどれか。",
+      "choices": [
+        "尿素と尿酸だけ",
+        "重炭酸と炭酸",
+        "ブドウ糖とグリコーゲンだけ",
+        "コレステロールと胆汁酸だけ"
+      ],
+      "answer": 2,
+      "notes": [
+        "窒素代謝産物の組合せは主要な細胞外緩衝系ではない。",
+        "酸や塩基の負荷に応じて平衡が動き、急なpH変化を緩和する。",
+        "糖の貯蔵系は酸塩基緩衝系とは異なる。",
+        "脂質代謝の組合せは主要な血液緩衝系ではない。"
+      ],
+      "reference_keys": [
+        "ANA_acid"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "緩衝系の構造・機能を参照資料で照合し、4選択肢の内容と単一正答を確認。独自設問。"
+    },
+    {
+      "id": "ORG-ANA-092",
+      "category": "人体の構造と機能",
+      "topic": "膵酵素の活性化",
+      "question": "膵臓がトリプシンをトリプシノゲンという不活性型で分泌する意義はどれか。",
+      "choices": [
+        "腸で絶対に働かせないため",
+        "脂肪だけを吸収するため",
+        "膵臓自身の蛋白質消化を防ぐため",
+        "胃酸を産生するため"
+      ],
+      "answer": 3,
+      "notes": [
+        "十二指腸で活性化され蛋白質消化に働く。",
+        "トリプシンは主に蛋白質を分解する。",
+        "不活性型として保つことは自己消化の防止に役立つ。",
+        "胃酸は胃の壁細胞が作る。"
+      ],
+      "reference_keys": [
+        "ANA_liver"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "膵酵素の活性化の構造・機能を参照資料で照合し、4選択肢の内容と単一正答を確認。独自設問。"
+    },
+    {
+      "id": "ORG-ANA-093",
+      "category": "人体の構造と機能",
+      "topic": "セクレチン",
+      "question": "酸性の胃内容が十二指腸へ入った際、重炭酸に富む膵液分泌を促すホルモンはどれか。",
+      "choices": [
+        "ガストリン",
+        "コレシストキニン",
+        "GIP",
+        "セクレチン"
+      ],
+      "answer": 4,
+      "notes": [
+        "ガストリンは主に胃酸分泌や胃粘膜の増殖を促す。",
+        "コレシストキニンは主に膵酵素分泌と胆嚢収縮を促す。",
+        "GIPは栄養摂取に応じたインスリン分泌促進などに関わる。",
+        "十二指腸への酸刺激で分泌され、重炭酸に富む膵液による中和を促す。"
+      ],
+      "reference_keys": [
+        "ANA_liver"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "セクレチンの構造・機能を参照資料で照合し、4選択肢の内容と単一正答を確認。独自設問。 独立レビューで同じ学習領域の取り違えに選択肢を調整し、正答の一意性を再確認。"
+    },
+    {
+      "id": "ORG-ANA-094",
+      "category": "人体の構造と機能",
+      "topic": "ビリルビン",
+      "question": "胆汁に排泄されるビリルビンの主な由来はどれか。",
+      "choices": [
+        "赤血球のヘムの分解",
+        "食物繊維の完全吸収",
+        "血小板が作るインスリン",
+        "骨のカルシウム分解"
+      ],
+      "answer": 1,
+      "notes": [
+        "古くなった赤血球などのヘム代謝でビリルビンができる。",
+        "食物繊維の吸収産物が主な胆汁色素になるのではない。",
+        "血小板はインスリンを作る細胞ではない。",
+        "カルシウムは色素へ分解される物質ではない。"
+      ],
+      "reference_keys": [
+        "ANA_liver"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "ビリルビンの構造・機能を参照資料で照合し、4選択肢の内容と単一正答を確認。独自設問。"
+    },
+    {
+      "id": "ORG-ANA-095",
+      "category": "人体の構造と機能",
+      "topic": "好酸球",
+      "question": "寄生虫に対する防御やアレルギー反応に関わる顆粒球はどれか。",
+      "choices": [
+        "好中球",
+        "好酸球",
+        "好塩基球",
+        "単球"
+      ],
+      "answer": 2,
+      "notes": [
+        "好中球は細菌などへの貪食が主要な役割である。",
+        "好酸球は寄生虫への防御に働き、アレルギー反応にも関与する。",
+        "好塩基球はアレルギーに関与するが、寄生虫防御を特徴とする本問では好酸球が適切である。",
+        "単球は組織でマクロファージなどへ分化し、無顆粒球に分類される。"
+      ],
+      "reference_keys": [
+        "ANA_wbc"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "好酸球の構造・機能を参照資料で照合し、4選択肢の内容と単一正答を確認。独自設問。 独立レビューで同じ学習領域の取り違えに選択肢を調整し、正答の一意性を再確認。"
+    },
+    {
+      "id": "ORG-ANA-096",
+      "category": "人体の構造と機能",
+      "topic": "心筋の不応期",
+      "question": "心筋が骨格筋のような持続的強縮を起こしにくい理由として適切なのはどれか。",
+      "choices": [
+        "活動電位が極めて短い",
+        "不応期が収縮時間より著しく短い",
+        "活動電位に伴う不応期が長い",
+        "収縮中も刺激ごとに必ず収縮が加重する"
+      ],
+      "answer": 3,
+      "notes": [
+        "心室筋の活動電位はプラトー相を持ち、骨格筋より長い。",
+        "短い不応期は収縮の加重を許しやすく、心筋の強縮しにくさの説明と逆である。",
+        "長い不応期が収縮時間の多くを占め、反復興奮の加重による強縮を防ぐ。",
+        "心筋は不応期中に新たな興奮を起こせず、骨格筋のような持続的強縮を生じにくい。"
+      ],
+      "reference_keys": [
+        "ANA_ecg"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "心筋の不応期の構造・機能を参照資料で照合し、4選択肢の内容と単一正答を確認。独自設問。 独立レビューで同じ学習領域の取り違えに選択肢を調整し、正答の一意性を再確認。"
+    },
+    {
+      "id": "ORG-ANA-097",
+      "category": "人体の構造と機能",
+      "topic": "カルシトニンの分泌細胞",
+      "question": "カルシトニンを産生する甲状腺の細胞はどれか。",
+      "choices": [
+        "濾胞細胞",
+        "副甲状腺主細胞",
+        "副腎皮質細胞",
+        "傍濾胞細胞〈C細胞〉"
+      ],
+      "answer": 4,
+      "notes": [
+        "濾胞細胞はT3・T4の合成・分泌を担う。",
+        "副甲状腺主細胞はPTHを分泌する。",
+        "副腎皮質はステロイドホルモンを分泌する。",
+        "C細胞はカルシトニンを分泌する。"
+      ],
+      "reference_keys": [
+        "ANA_thyroid"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "カルシトニンの分泌細胞の構造・機能を参照資料で照合し、4選択肢の内容と単一正答を確認。独自設問。"
+    }
+  ]
+}

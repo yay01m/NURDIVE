@@ -1,0 +1,3260 @@
+{
+  "category": "成人看護学",
+  "sources": {
+    "ADL_angina": {
+      "title": "NHS：狭心症",
+      "url": "https://www.nhs.uk/conditions/angina/",
+      "checked_at": "2026-09-10"
+    },
+    "ADL_mi": {
+      "title": "NHS：心筋梗塞",
+      "url": "https://www.nhs.uk/conditions/heart-attack/",
+      "checked_at": "2026-09-10"
+    },
+    "ADL_af": {
+      "title": "NHS：心房細動",
+      "url": "https://www.nhs.uk/conditions/atrial-fibrillation/",
+      "checked_at": "2026-09-10"
+    },
+    "ADL_hf": {
+      "title": "NHS：心不全",
+      "url": "https://www.nhs.uk/conditions/heart-failure/",
+      "checked_at": "2026-09-10"
+    },
+    "ADL_dvt": {
+      "title": "NHS：深部静脈血栓症",
+      "url": "https://www.nhs.uk/conditions/deep-vein-thrombosis-dvt/",
+      "checked_at": "2026-09-10"
+    },
+    "ADL_pe": {
+      "title": "NHS：肺塞栓",
+      "url": "https://www.nhs.uk/conditions/pulmonary-embolism/",
+      "checked_at": "2026-09-10"
+    },
+    "ADL_asthma": {
+      "title": "NHS：喘息",
+      "url": "https://www.nhs.uk/conditions/asthma/",
+      "checked_at": "2026-09-10"
+    },
+    "ADL_copd": {
+      "title": "NHS：COPD",
+      "url": "https://www.nhs.uk/conditions/chronic-obstructive-pulmonary-disease-copd/",
+      "checked_at": "2026-09-10"
+    },
+    "ADL_pneumonia": {
+      "title": "NHS：肺炎",
+      "url": "https://www.nhs.uk/conditions/pneumonia/",
+      "checked_at": "2026-09-10"
+    },
+    "ADL_tb": {
+      "title": "NHS：結核",
+      "url": "https://www.nhs.uk/conditions/tuberculosis-tb/",
+      "checked_at": "2026-09-10"
+    },
+    "ADL_dka": {
+      "title": "NHS：糖尿病ケトアシドーシス",
+      "url": "https://www.nhs.uk/conditions/diabetic-ketoacidosis/",
+      "checked_at": "2026-09-10"
+    },
+    "ADL_hyper": {
+      "title": "NHS：甲状腺機能亢進症",
+      "url": "https://www.nhs.uk/conditions/overactive-thyroid-hyperthyroidism/",
+      "checked_at": "2026-09-10"
+    },
+    "ADL_hypothyroid": {
+      "title": "NHS：甲状腺機能低下症",
+      "url": "https://www.nhs.uk/conditions/underactive-thyroid-hypothyroidism/",
+      "checked_at": "2026-09-10"
+    },
+    "ADL_adrenal": {
+      "title": "NHS：副腎不全",
+      "url": "https://www.nhs.uk/conditions/addisons-disease/",
+      "checked_at": "2026-09-10"
+    },
+    "ADL_ckd": {
+      "title": "NHS：慢性腎臓病",
+      "url": "https://www.nhs.uk/conditions/kidney-disease/",
+      "checked_at": "2026-09-10"
+    },
+    "ADL_aki": {
+      "title": "NHS：急性腎障害",
+      "url": "https://www.nhs.uk/conditions/acute-kidney-injury/",
+      "checked_at": "2026-09-10"
+    },
+    "ADL_stone": {
+      "title": "NHS：尿路結石",
+      "url": "https://www.nhs.uk/conditions/kidney-stones/",
+      "checked_at": "2026-09-10"
+    },
+    "ADL_ulcer": {
+      "title": "NHS：胃潰瘍",
+      "url": "https://www.nhs.uk/conditions/stomach-ulcer/",
+      "checked_at": "2026-09-10"
+    },
+    "ADL_cirrhosis": {
+      "title": "NHS：肝硬変",
+      "url": "https://www.nhs.uk/conditions/cirrhosis/",
+      "checked_at": "2026-09-10"
+    },
+    "ADL_crohn": {
+      "title": "NHS：クローン病",
+      "url": "https://www.nhs.uk/conditions/crohns-disease/",
+      "checked_at": "2026-09-10"
+    },
+    "ADL_uc": {
+      "title": "NHS：潰瘍性大腸炎",
+      "url": "https://www.nhs.uk/conditions/ulcerative-colitis/",
+      "checked_at": "2026-09-10"
+    },
+    "ADL_pancreas": {
+      "title": "NHS：急性膵炎",
+      "url": "https://www.nhs.uk/conditions/acute-pancreatitis/",
+      "checked_at": "2026-09-10"
+    },
+    "ADL_gallstone": {
+      "title": "NHS：胆石",
+      "url": "https://www.nhs.uk/conditions/gallstones/",
+      "checked_at": "2026-09-10"
+    },
+    "ADL_epilepsy": {
+      "title": "NHS：てんかん",
+      "url": "https://www.nhs.uk/conditions/epilepsy/",
+      "checked_at": "2026-09-10"
+    },
+    "ADL_parkinson": {
+      "title": "NHS：パーキンソン病",
+      "url": "https://www.nhs.uk/conditions/parkinsons-disease/",
+      "checked_at": "2026-09-10"
+    },
+    "ADL_ra": {
+      "title": "NHS：関節リウマチ",
+      "url": "https://www.nhs.uk/conditions/rheumatoid-arthritis/",
+      "checked_at": "2026-09-10"
+    },
+    "ADL_oa": {
+      "title": "NHS：変形性関節症",
+      "url": "https://www.nhs.uk/conditions/osteoarthritis/",
+      "checked_at": "2026-09-10"
+    },
+    "ADL_sepsis": {
+      "title": "NHS：敗血症",
+      "url": "https://www.nhs.uk/conditions/sepsis/",
+      "checked_at": "2026-09-10"
+    },
+    "ADL_anaphylaxis": {
+      "title": "NHS：アナフィラキシー",
+      "url": "https://www.nhs.uk/conditions/anaphylaxis/",
+      "checked_at": "2026-09-10"
+    },
+    "ADL_compartment": {
+      "title": "NHS：コンパートメント症候群",
+      "url": "https://www.nhs.uk/conditions/compartment-syndrome/",
+      "checked_at": "2026-09-10"
+    },
+    "ADL_anemia": {
+      "title": "NHS：鉄欠乏性貧血",
+      "url": "https://www.nhs.uk/conditions/iron-deficiency-anaemia/",
+      "checked_at": "2026-09-10"
+    },
+    "ADL_tia": {
+      "title": "NHS：一過性脳虚血発作",
+      "url": "https://www.nhs.uk/conditions/transient-ischaemic-attack-tia/",
+      "checked_at": "2026-09-10"
+    },
+    "ADL_diabetes": {
+      "title": "NIDDK：糖尿病の管理",
+      "url": "https://www.niddk.nih.gov/health-information/diabetes/overview/managing-diabetes",
+      "checked_at": "2026-09-10"
+    },
+    "ADL_hypo": {
+      "title": "NIDDK：低血糖",
+      "url": "https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia",
+      "checked_at": "2026-09-10"
+    },
+    "ADL_foot": {
+      "title": "NIDDK：糖尿病と足",
+      "url": "https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/foot-problems",
+      "checked_at": "2026-09-10"
+    },
+    "ADL_hd": {
+      "title": "NIDDK：血液透析",
+      "url": "https://www.niddk.nih.gov/health-information/kidney-disease/kidney-failure/hemodialysis",
+      "checked_at": "2026-09-10"
+    },
+    "ADL_pd": {
+      "title": "NIDDK：腹膜透析",
+      "url": "https://www.niddk.nih.gov/health-information/kidney-disease/kidney-failure/peritoneal-dialysis",
+      "checked_at": "2026-09-10"
+    },
+    "ADL_neutropenia": {
+      "title": "NCI：がん治療と感染・好中球減少",
+      "url": "https://www.cancer.gov/about-cancer/treatment/side-effects/infection",
+      "checked_at": "2026-09-10"
+    },
+    "ADL_platelet": {
+      "title": "NCI：がん治療と出血",
+      "url": "https://www.cancer.gov/about-cancer/treatment/side-effects/bleeding-bruising",
+      "checked_at": "2026-09-10"
+    },
+    "ADL_mouth": {
+      "title": "NCI：がん治療と口腔・咽頭",
+      "url": "https://www.cancer.gov/about-cancer/treatment/side-effects/mouth-throat",
+      "checked_at": "2026-09-10"
+    },
+    "ADL_radiation": {
+      "title": "NCI：外照射",
+      "url": "https://www.cancer.gov/about-cancer/treatment/types/radiation-therapy/external-beam",
+      "checked_at": "2026-09-10"
+    },
+    "ADL_stone_symptoms": {
+      "title": "NHS Kidney stones: Symptoms",
+      "url": "https://www.nhs.uk/conditions/kidney-stones/symptoms/",
+      "checked_at": "2026-09-10"
+    },
+    "ADL_copd_diagnosis": {
+      "title": "NHS COPD: Diagnosis",
+      "url": "https://www.nhs.uk/conditions/chronic-obstructive-pulmonary-disease-copd/diagnosis/",
+      "checked_at": "2026-09-10"
+    },
+    "ADL_seizure_firstaid": {
+      "title": "NHS What to do if someone has a seizure",
+      "url": "https://www.nhs.uk/symptoms/what-to-do-if-someone-has-a-seizure-fit/",
+      "checked_at": "2026-09-10"
+    },
+    "ADL_review_sickday": {
+      "title": "米国CDC：Diabetic Ketoacidosis",
+      "url": "https://www.cdc.gov/diabetes/about/diabetic-ketoacidosis.html",
+      "checked_at": "2026-09-10"
+    },
+    "ADL_review_seizure": {
+      "title": "日本てんかん協会：てんかんの診断・治療",
+      "url": "https://www.jea-net.jp/epilepsy/therapy",
+      "checked_at": "2026-09-10"
+    },
+    "ADL_review_peritonitis": {
+      "title": "日本透析医学会：腹膜透析ガイドライン2019 第六章 腹膜炎管理",
+      "url": "https://www.jsdt.or.jp/tools/file/download.cgi/2658/PDGL2019_09Part1%E7%AC%AC%E5%85%AD%E7%AB%A0_%E8%85%B9%E8%86%9C%E7%82%8E%E7%AE%A1%E7%90%86.pdf",
+      "checked_at": "2026-09-10"
+    },
+    "ADL_review_bath": {
+      "title": "Epilepsy Foundation：Safety at Home（医師執筆・浴室の安全）",
+      "url": "https://www.epilepsy.com/preparedness-safety/staying-safe/safety-home",
+      "checked_at": "2026-09-10"
+    }
+  },
+  "questions": [
+    {
+      "id": "ORG-ADL-001",
+      "category": "成人看護学",
+      "topic": "労作性狭心症の誘因",
+      "question": "安定狭心症のある患者が『寒い朝の坂道で胸が締め付けられる』と言う。説明として適切なのはどれか。",
+      "choices": [
+        "運動や寒冷で心筋の酸素需要が増すと症状が出ることがある",
+        "労作中の胸痛は心臓と関係しない",
+        "寒冷で冠動脈疾患が直ちに消失する",
+        "運動で症状が出ても強度を上げるほど改善する"
+      ],
+      "answer": 1,
+      "notes": [
+        "冠血流の供給が需要に追い付かず発作を誘発することがある。",
+        "心筋虚血は労作に伴って起こる場合がある。",
+        "寒冷は発作の誘因になり得る。",
+        "症状がある状態で負荷を増すと虚血を悪化させ得る。"
+      ],
+      "reference_keys": [
+        "ADL_angina"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "労作性狭心症の誘因の病態・観察・対応を参照資料で照合し、各肢の理由と単一正答を検証した独自設問。",
+      "effect": {
+        "name": "狭心症",
+        "detail": "心筋への血流が必要量に足りず、胸部症状を生じます。",
+        "disease": true,
+        "avatarClasses": "affected-heart",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-ADL-002",
+      "category": "成人看護学",
+      "topic": "狭心症の変化",
+      "question": "以前は長く歩いたときだけだった胸痛が、今朝は安静中にも起こった。対応はどれか。",
+      "choices": [
+        "次の定期受診まで記録だけする",
+        "変化を速やかに医療者へ伝え、緊急性を評価する",
+        "いつもの病気なので必ず安全と説明する",
+        "確認のため階段を上がってもらう"
+      ],
+      "answer": 2,
+      "notes": [
+        "安静時発症などの変化は危険な虚血の可能性がある。",
+        "頻度・強さ・持続時間の変化は迅速に評価すべき情報である。",
+        "既往があっても新しい発作を軽視しない。",
+        "追加の負荷で状態が悪化する危険がある。"
+      ],
+      "reference_keys": [
+        "ADL_angina"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "狭心症の変化の病態・観察・対応を参照資料で照合し、各肢の理由と単一正答を検証した独自設問。 独立再点検：設問の診断確度と演出を一致させ、未発症の疾患・不明な病変位置を断定しない表示を確認。",
+      "effect": {
+        "name": "安静時の胸痛",
+        "detail": "以前と異なる安静時の胸痛があり、心筋虚血などの緊急評価が必要です。",
+        "disease": true,
+        "avatarClasses": "affected-heart",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-ADL-003",
+      "category": "成人看護学",
+      "topic": "胸痛時の活動",
+      "question": "狭心症と診断され対処法を指示されている患者が歩行中に胸痛を訴えた。適切なのはどれか。",
+      "choices": [
+        "痛みが治まるまで歩き続ける",
+        "水分を一気に大量摂取する",
+        "活動を中止して休み、指示された発作時対応を行う",
+        "薬を他患者から借りて使う"
+      ],
+      "answer": 3,
+      "notes": [
+        "活動の継続は心筋への負担を増やす。",
+        "大量飲水は虚血への直接の対処ではない。",
+        "安静と指示された薬などで対応し、持続や悪化は緊急評価する。",
+        "処方されていない薬を流用してはいけない。"
+      ],
+      "reference_keys": [
+        "ADL_angina"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "胸痛時の活動の病態・観察・対応を参照資料で照合し、各肢の理由と単一正答を検証した独自設問。",
+      "effect": {
+        "name": "狭心症",
+        "detail": "心筋への血流が必要量に足りず、胸部症状を生じます。",
+        "disease": true,
+        "avatarClasses": "affected-heart",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-ADL-004",
+      "category": "成人看護学",
+      "topic": "狭心症の自己管理",
+      "question": "安定した狭心症患者の退院指導として適切なのはどれか。",
+      "choices": [
+        "症状がない日は全薬を中止する",
+        "発作薬は自宅だけに保管する",
+        "今後はどんな運動も一生禁止する",
+        "発作時の対処を理解し、処方された発作薬を携帯する"
+      ],
+      "answer": 4,
+      "notes": [
+        "予防薬は自己判断で中断しない。",
+        "外出先の発作にも備える必要がある。",
+        "状態に応じた安全な活動が検討される。",
+        "いつ使うか、改善しない場合の連絡方法も確認する。"
+      ],
+      "reference_keys": [
+        "ADL_angina"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "狭心症の自己管理の病態・観察・対応を参照資料で照合し、各肢の理由と単一正答を検証した独自設問。",
+      "effect": {
+        "name": "狭心症",
+        "detail": "心筋への血流が必要量に足りず、胸部症状を生じます。",
+        "disease": true,
+        "avatarClasses": "affected-heart",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-ADL-005",
+      "category": "成人看護学",
+      "topic": "持続する胸痛",
+      "question": "初めての強い胸部圧迫感が20分以上続き、冷汗と吐き気がある。適切なのはどれか。",
+      "choices": [
+        "急性冠症候群を疑い救急対応につなげる",
+        "食べ過ぎと断定する",
+        "痛む場所を温め翌日まで待つ",
+        "一人で運転して受診してもらう"
+      ],
+      "answer": 1,
+      "notes": [
+        "持続する胸痛と自律神経症状は緊急評価が必要である。",
+        "消化器症状に似た心筋梗塞もあり断定できない。",
+        "治療開始の遅れは心筋障害を増やす。",
+        "移動中の急変に備え救急搬送などを用いる。"
+      ],
+      "reference_keys": [
+        "ADL_mi"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "持続する胸痛の病態・観察・対応を参照資料で照合し、各肢の理由と単一正答を検証した独自設問。 独立再点検：設問の診断確度と演出を一致させ、未発症の疾患・不明な病変位置を断定しない表示を確認。",
+      "effect": {
+        "name": "急性冠症候群の疑い",
+        "detail": "持続する胸部圧迫感、冷汗、吐き気があり、緊急評価が必要です。",
+        "disease": true,
+        "avatarClasses": "affected-heart",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-ADL-006",
+      "category": "成人看護学",
+      "topic": "心筋梗塞の痛み",
+      "question": "心筋梗塞の症状について適切なのはどれか。",
+      "choices": [
+        "必ず胸の一点だけが痛む",
+        "腕・顎への放散痛や吐き気を伴うことがある",
+        "痛みがあれば必ず心筋梗塞である",
+        "冷汗は心臓の病気を否定する"
+      ],
+      "answer": 2,
+      "notes": [
+        "圧迫感や放散痛など多様な表現がある。",
+        "胸以外の部位や消化器症状も重要な手掛かりになる。",
+        "胸痛には他の原因もあり検査を含む評価が必要である。",
+        "冷汗は心筋虚血でみられることがある。"
+      ],
+      "reference_keys": [
+        "ADL_mi"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "心筋梗塞の痛みの病態・観察・対応を参照資料で照合し、各肢の理由と単一正答を検証した独自設問。",
+      "effect": {
+        "name": "心筋梗塞",
+        "detail": "心筋への血流障害が続き、心筋が損傷する病気です。",
+        "disease": true,
+        "avatarClasses": "affected-heart",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-ADL-007",
+      "category": "成人看護学",
+      "topic": "心筋梗塞の病態",
+      "question": "急性心筋梗塞の病態として最も適切なのはどれか。",
+      "choices": [
+        "心膜のみに炎症が起こる",
+        "全身の静脈が一時的に拡張するだけ",
+        "冠血流の途絶などにより心筋が障害される",
+        "心房の拍動が速くなることだけを指す"
+      ],
+      "answer": 3,
+      "notes": [
+        "心膜炎と心筋梗塞は異なる病態である。",
+        "持続する心筋虚血が中心である。",
+        "酸素供給の不足が続くと心筋壊死に至る。",
+        "頻拍だけでは心筋梗塞の定義にならない。"
+      ],
+      "reference_keys": [
+        "ADL_mi"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "心筋梗塞の病態の病態・観察・対応を参照資料で照合し、各肢の理由と単一正答を検証した独自設問。",
+      "effect": {
+        "name": "心筋梗塞",
+        "detail": "心筋への血流障害が続き、心筋が損傷する病気です。",
+        "disease": true,
+        "avatarClasses": "affected-heart",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-ADL-008",
+      "category": "成人看護学",
+      "topic": "心房細動と抗凝固",
+      "question": "心房細動患者に抗凝固薬が処方された。主な目的はどれか。",
+      "choices": [
+        "心房の筋力を直接増す",
+        "心拍を必ず一定にする",
+        "冠動脈を機械的に広げる",
+        "血栓による脳梗塞のリスクを減らす"
+      ],
+      "answer": 4,
+      "notes": [
+        "収縮力を増すことが主な作用ではない。",
+        "脈拍調整と抗凝固は異なる治療目的である。",
+        "血管を拡張する処置ではない。",
+        "心房内にできた血栓が脳へ飛ぶ危険を減らす。"
+      ],
+      "reference_keys": [
+        "ADL_af"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "心房細動と抗凝固の病態・観察・対応を参照資料で照合し、各肢の理由と単一正答を検証した独自設問。",
+      "effect": {
+        "name": "心房細動",
+        "detail": "心房の電気的な活動が乱れ、血栓にも注意が必要です。",
+        "disease": true,
+        "avatarClasses": "affected-heart sim-irregular",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-ADL-009",
+      "category": "成人看護学",
+      "topic": "心房細動の確認",
+      "question": "脈がばらばらで動悸がある患者に心房細動が疑われた。診断のため重要な検査はどれか。",
+      "choices": [
+        "心電図",
+        "便潜血検査のみ",
+        "骨密度測定のみ",
+        "呼吸機能検査のみ"
+      ],
+      "answer": 1,
+      "notes": [
+        "心房活動と心室のリズムを電気的に評価する。",
+        "消化管出血の検査で不整脈の種類は決められない。",
+        "骨密度は不整脈の診断には使わない。",
+        "呼吸機能だけでは心房細動を確定できない。"
+      ],
+      "reference_keys": [
+        "ADL_af"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "心房細動の確認の病態・観察・対応を参照資料で照合し、各肢の理由と単一正答を検証した独自設問。 独立再点検：設問の診断確度と演出を一致させ、未発症の疾患・不明な病変位置を断定しない表示を確認。",
+      "effect": {
+        "name": "心房細動の疑い",
+        "detail": "不規則な脈と動悸があり、心電図で不整脈を評価します。",
+        "disease": true,
+        "avatarClasses": "affected-heart sim-irregular",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-ADL-010",
+      "category": "成人看護学",
+      "topic": "心房細動の無症状期",
+      "question": "心房細動があるが今日は動悸がない患者が抗凝固薬を中止したいと言う。適切なのはどれか。",
+      "choices": [
+        "動悸がなければ血栓はできないと伝える",
+        "自己中止せず、必要性を処方者と確認する",
+        "一日おきに勝手に変えるよう勧める",
+        "出血リスクがあるので全員中止する"
+      ],
+      "answer": 2,
+      "notes": [
+        "無症状でも血栓リスクが残る場合がある。",
+        "塞栓と出血のリスクをもとに個別に判断する。",
+        "服薬間隔の独断変更では適切な予防ができない。",
+        "利益とリスクを比較し、全員一律には扱わない。"
+      ],
+      "reference_keys": [
+        "ADL_af"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "心房細動の無症状期の病態・観察・対応を参照資料で照合し、各肢の理由と単一正答を検証した独自設問。",
+      "effect": {
+        "name": "心房細動",
+        "detail": "心房の電気的な活動が乱れ、血栓にも注意が必要です。",
+        "disease": true,
+        "avatarClasses": "affected-heart sim-irregular",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-ADL-011",
+      "category": "成人看護学",
+      "topic": "心不全の体重記録",
+      "question": "慢性心不全患者が自宅で体重を記録する。比較しやすい方法はどれか。",
+      "choices": [
+        "食事前後を毎日変える",
+        "服装を重く変えて測る",
+        "同じ時間帯・同程度の服装など条件をそろえる",
+        "体重増加がある日は記録しない"
+      ],
+      "answer": 3,
+      "notes": [
+        "食事の影響と体液変化が混ざりやすい。",
+        "衣服の重さによる誤差が増える。",
+        "変化を捉え、症状とともに早期相談につなげる。",
+        "増加も悪化を示す重要な情報である。"
+      ],
+      "reference_keys": [
+        "ADL_hf"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "心不全の体重記録の病態・観察・対応を参照資料で照合し、各肢の理由と単一正答を検証した独自設問。",
+      "effect": {
+        "name": "心不全",
+        "detail": "心臓の働きが低下し、症状と体液状態の継続した観察が必要です。",
+        "disease": true,
+        "avatarClasses": "affected-heart",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-ADL-012",
+      "category": "成人看護学",
+      "topic": "心不全と活動",
+      "question": "治療で安定し、運動療法を勧められた心不全患者への支援はどれか。",
+      "choices": [
+        "息切れが強くなるまで必ず続ける",
+        "全ての活動を永続的に禁止する",
+        "他人と同じ負荷を一律に課す",
+        "心臓リハビリで決めた範囲で、症状を確認しながら行う"
+      ],
+      "answer": 4,
+      "notes": [
+        "症状増悪時は中止・評価が必要である。",
+        "安定期には適切な活動が機能維持に役立つ。",
+        "病態や体力によって安全な負荷は異なる。",
+        "個別に処方された運動と自己観察を組み合わせる。"
+      ],
+      "reference_keys": [
+        "ADL_hf"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "心不全と活動の病態・観察・対応を参照資料で照合し、各肢の理由と単一正答を検証した独自設問。",
+      "effect": {
+        "name": "心不全",
+        "detail": "心臓の働きが低下し、症状と体液状態の継続した観察が必要です。",
+        "disease": true,
+        "avatarClasses": "affected-heart",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-ADL-013",
+      "category": "成人看護学",
+      "topic": "心不全の継続治療",
+      "question": "息苦しさが改善した心不全患者の服薬指導はどれか。",
+      "choices": [
+        "処方を継続し、副作用や困り事は相談する",
+        "症状がない日は一律に飲まない",
+        "むくみがないので治癒と断定する",
+        "薬を家族と共用する"
+      ],
+      "answer": 1,
+      "notes": [
+        "安定維持の薬もあるため、自己中止せず確認する。",
+        "症状だけで薬の要否を決めない。",
+        "症状改善と原因疾患の消失は同じではない。",
+        "処方は個人の状態に合わせて行われる。"
+      ],
+      "reference_keys": [
+        "ADL_hf"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "心不全の継続治療の病態・観察・対応を参照資料で照合し、各肢の理由と単一正答を検証した独自設問。",
+      "effect": {
+        "name": "心不全",
+        "detail": "心臓の働きが低下し、症状と体液状態の継続した観察が必要です。",
+        "disease": true,
+        "avatarClasses": "affected-heart",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-ADL-014",
+      "category": "成人看護学",
+      "topic": "深部静脈血栓症の徴候",
+      "question": "手術後に臥床が続いた患者で、一方の下腿だけが腫れ、痛む。まず疑うべき病態はどれか。",
+      "choices": [
+        "両下肢の単純な疲労だけ",
+        "深部静脈血栓症",
+        "全身の低血糖だけ",
+        "慢性甲状腺機能低下だけ"
+      ],
+      "answer": 2,
+      "notes": [
+        "片側の急な腫脹を疲労と決めつけない。",
+        "臥床による静脈うっ滞に片側腫脹・疼痛が加わっている。",
+        "低血糖は通常、この局所所見を説明しない。",
+        "慢性内分泌異常だけで急な片側所見を説明しない。"
+      ],
+      "reference_keys": [
+        "ADL_dvt"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "深部静脈血栓症の徴候の病態・観察・対応を参照資料で照合し、各肢の理由と単一正答を検証した独自設問。 独立再点検：設問の診断確度と演出を一致させ、未発症の疾患・不明な病変位置を断定しない表示を確認。",
+      "effect": {
+        "name": "深部静脈血栓症の疑い",
+        "detail": "術後に片側の下腿の腫れと痛みがあり、血栓の有無を評価します。",
+        "disease": true,
+        "avatarClasses": "sim-leg-vessels",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-ADL-015",
+      "category": "成人看護学",
+      "topic": "静脈血栓の予防",
+      "question": "手術後、離床が許可された患者の血栓予防として適切なのはどれか。",
+      "choices": [
+        "痛くなるまで下腿を強く揉む",
+        "水分を全員一律にゼロにする",
+        "状態に合わせた早期離床や足関節運動を行う",
+        "動けるようになっても臥床を続ける"
+      ],
+      "answer": 3,
+      "notes": [
+        "血栓がある場合は揉む行為が危険になり得る。",
+        "水分は疾患・指示に合わせ、不要な脱水を避ける。",
+        "筋ポンプの働きを促し、静脈うっ滞を減らす。",
+        "不要な不動は血栓リスクを高める。"
+      ],
+      "reference_keys": [
+        "ADL_dvt"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "静脈血栓の予防の病態・観察・対応を参照資料で照合し、各肢の理由と単一正答を検証した独自設問。 独立再点検：設問の診断確度と演出を一致させ、未発症の疾患・不明な病変位置を断定しない表示を確認。"
+    },
+    {
+      "id": "ORG-ADL-016",
+      "category": "成人看護学",
+      "topic": "血栓の移動",
+      "question": "下肢の深部静脈にできた血栓が遊離した場合、血流に沿って閉塞を起こしやすいのはどれか。",
+      "choices": [
+        "冠静脈洞",
+        "頸動脈の起始部",
+        "門脈",
+        "肺動脈"
+      ],
+      "answer": 4,
+      "notes": [
+        "通常の下肢静脈血の行き先ではない。",
+        "右心系から直接頸動脈へ向かう経路ではない。",
+        "門脈は消化管などの静脈血を受ける。",
+        "大静脈・右心房・右心室を経て肺動脈に到達する。"
+      ],
+      "reference_keys": [
+        "ADL_pe"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "血栓の移動の病態・観察・対応を参照資料で照合し、各肢の理由と単一正答を検証した独自設問。 独立再点検：設問の診断確度と演出を一致させ、未発症の疾患・不明な病変位置を断定しない表示を確認。",
+      "effect": {
+        "name": "下肢の深部静脈血栓",
+        "detail": "問題で示された下肢の血栓を表します。肺への塞栓は起こり得る合併症です。",
+        "disease": true,
+        "avatarClasses": "sim-leg-vessels",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-ADL-017",
+      "category": "成人看護学",
+      "topic": "肺塞栓を疑う急変",
+      "question": "術後患者が突然の呼吸困難と吸気時胸痛を訴えた。適切なのはどれか。",
+      "choices": [
+        "肺塞栓などを疑い、活動を止めて救急評価につなげる",
+        "息切れがあるほど歩行を増やす",
+        "次の採血まで観察を保留する",
+        "不安だけと判断して呼吸を止めさせる"
+      ],
+      "answer": 1,
+      "notes": [
+        "生命に関わる急性呼吸循環障害を速やかに評価する。",
+        "負荷を増すと低酸素などが悪化し得る。",
+        "急な呼吸困難は待たずに評価する。",
+        "器質的な疾患を除外せず精神的原因と決めない。"
+      ],
+      "reference_keys": [
+        "ADL_pe"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "肺塞栓を疑う急変の病態・観察・対応を参照資料で照合し、各肢の理由と単一正答を検証した独自設問。 独立再点検：設問の診断確度と演出を一致させ、未発症の疾患・不明な病変位置を断定しない表示を確認。",
+      "effect": {
+        "name": "肺塞栓症の疑い",
+        "detail": "術後の突然の呼吸困難と吸気時胸痛があり、原因の緊急評価が必要です。",
+        "disease": true,
+        "avatarClasses": "affected-lungs",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-ADL-018",
+      "category": "成人看護学",
+      "topic": "喘息の継続管理",
+      "question": "喘息の維持吸入薬を処方されている患者が、症状のない日の使い方を質問した。適切なのはどれか。",
+      "choices": [
+        "症状がない日は必ず全て中止する",
+        "処方された維持計画に従い、変更は医療者と相談する",
+        "友人の吸入薬の使い方へ合わせる",
+        "発作薬だけを大量に使えばよい"
+      ],
+      "answer": 2,
+      "notes": [
+        "維持薬は炎症を抑え発作を予防する目的がある。",
+        "製剤・治療方式ごとに異なるため指示を守る。",
+        "処方された方式が異なる場合がある。",
+        "症状緩和だけに依存せず、コントロールを評価する。"
+      ],
+      "reference_keys": [
+        "ADL_asthma"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "喘息の継続管理の病態・観察・対応を参照資料で照合し、各肢の理由と単一正答を検証した独自設問。",
+      "effect": {
+        "name": "気管支喘息",
+        "detail": "気道に炎症があり、狭くなることで呼吸症状を生じます。",
+        "disease": true,
+        "avatarClasses": "affected-airway",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-ADL-019",
+      "category": "成人看護学",
+      "topic": "吸入手技の評価",
+      "question": "喘息患者が処方どおり吸入していると言うが症状が続く。看護師の対応はどれか。",
+      "choices": [
+        "回数を自己判断で倍にする",
+        "服薬不良と決めつける",
+        "実際の吸入動作と器具の使い方を確認する",
+        "吸入器の種類を確認しない"
+      ],
+      "answer": 3,
+      "notes": [
+        "投与量変更の前に原因評価と相談が必要である。",
+        "正しく使えていないだけの場合もある。",
+        "器具ごとに手順が違い、薬が届いているか確認する。",
+        "吸い方や準備が製品で異なる。"
+      ],
+      "reference_keys": [
+        "ADL_asthma"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "吸入手技の評価の病態・観察・対応を参照資料で照合し、各肢の理由と単一正答を検証した独自設問。",
+      "effect": {
+        "name": "気管支喘息",
+        "detail": "気道に炎症があり、狭くなることで呼吸症状を生じます。",
+        "disease": true,
+        "avatarClasses": "affected-airway",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-ADL-020",
+      "category": "成人看護学",
+      "topic": "喘息アクションプラン",
+      "question": "喘息患者が携帯する個別のアクションプランに必要なのはどれか。",
+      "choices": [
+        "過去の病室番号だけ",
+        "他患者の薬剤量だけ",
+        "一生受診しない方針",
+        "悪化時の薬の使い方と連絡・救急受診の基準"
+      ],
+      "answer": 4,
+      "notes": [
+        "緊急時の行動に役立つ情報が必要である。",
+        "本人の処方に合った内容でなければ危険である。",
+        "悪化時の速やかな受診が必要なことがある。",
+        "症状の変化に応じて具体的に行動できるようにする。"
+      ],
+      "reference_keys": [
+        "ADL_asthma"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "喘息アクションプランの病態・観察・対応を参照資料で照合し、各肢の理由と単一正答を検証した独自設問。",
+      "effect": {
+        "name": "気管支喘息",
+        "detail": "気道に炎症があり、狭くなることで呼吸症状を生じます。",
+        "disease": true,
+        "avatarClasses": "affected-airway",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-ADL-021",
+      "category": "成人看護学",
+      "topic": "喘息発作の増悪",
+      "question": "喘息発作に対して指示された発作治療を行っても息苦しさが増し、文章を続けて話せない。適切なのはどれか。",
+      "choices": [
+        "救急対応を要する悪化として直ちに連絡する",
+        "薬が効くまで翌朝まで待つ",
+        "横になって眠れば必ず治ると説明する",
+        "残薬を全量吸入するよう勧める"
+      ],
+      "answer": 1,
+      "notes": [
+        "会話困難や治療への反応不良は重症化の手掛かりとなる。",
+        "重症発作は急速に悪化する可能性がある。",
+        "体位や休息だけで安全を保証できない。",
+        "処方上限を超える無制限な使用は危険である。"
+      ],
+      "reference_keys": [
+        "ADL_asthma"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "喘息発作の増悪の病態・観察・対応を参照資料で照合し、各肢の理由と単一正答を検証した独自設問。 独立再点検：設問の診断確度と演出を一致させ、未発症の疾患・不明な病変位置を断定しない表示を確認。",
+      "effect": {
+        "name": "気管支喘息",
+        "detail": "気道に炎症があり、狭くなることで呼吸症状を生じます。",
+        "disease": true,
+        "avatarClasses": "affected-airway",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-ADL-022",
+      "category": "成人看護学",
+      "topic": "COPDと禁煙",
+      "question": "COPDと診断された喫煙者が『今やめても遅い』と言う。適切な説明はどれか。",
+      "choices": [
+        "診断後の禁煙に意味はない",
+        "禁煙は今後の肺障害の進行を抑えるため重要である",
+        "減らさず軽い銘柄へ替えれば同じ効果がある",
+        "喫煙を増やすと痰が出て改善する"
+      ],
+      "answer": 2,
+      "notes": [
+        "禁煙は診断後も重要な治療の一部である。",
+        "残った肺機能を守るため禁煙支援を行う。",
+        "銘柄変更だけでは喫煙の有害性を解消しない。",
+        "喫煙は気道・肺への障害を続ける。"
+      ],
+      "reference_keys": [
+        "ADL_copd"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "COPDと禁煙の病態・観察・対応を参照資料で照合し、各肢の理由と単一正答を検証した独自設問。",
+      "effect": {
+        "name": "COPD",
+        "detail": "気道や肺の障害によって、空気を吐き出しにくくなります。",
+        "disease": true,
+        "avatarClasses": "affected-lungs",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-ADL-023",
+      "category": "成人看護学",
+      "topic": "COPDの検査",
+      "question": "COPDの診断で気流閉塞を評価する基本的な検査はどれか。",
+      "choices": [
+        "胸部聴診のみ",
+        "安静時のSpO₂測定のみ",
+        "スパイロメトリー",
+        "喀痰の細菌培養のみ"
+      ],
+      "answer": 3,
+      "notes": [
+        "聴診は重要だが、気流閉塞を定量評価するには呼吸機能検査が必要である。",
+        "SpO₂は酸素化の情報であり、気流閉塞の程度を直接測定しない。",
+        "1秒量や努力性肺活量などを測定し、気流閉塞を評価する。",
+        "培養は感染の評価に用いるが、閉塞性換気障害の測定ではない。"
+      ],
+      "reference_keys": [
+        "ADL_copd",
+        "ADL_copd_diagnosis"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "COPDの検査の病態・観察・対応を参照資料で照合し、各肢の理由と単一正答を検証した独自設問。",
+      "effect": {
+        "name": "COPD",
+        "detail": "気道や肺の障害によって、空気を吐き出しにくくなります。",
+        "disease": true,
+        "avatarClasses": "affected-lungs",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-ADL-024",
+      "category": "成人看護学",
+      "topic": "COPDの呼吸リハビリ",
+      "question": "安定期のCOPD患者に呼吸リハビリが勧められた。目的として適切なのはどれか。",
+      "choices": [
+        "失われた肺胞が必ず全て再生する",
+        "呼吸器の薬を必ず不要にする",
+        "息切れがあっても無制限に運動させる",
+        "運動・呼吸法・生活調整で活動能力を支える"
+      ],
+      "answer": 4,
+      "notes": [
+        "肺の損傷が全て元に戻ることを保証しない。",
+        "必要な薬物療法と組み合わせる。",
+        "安全な負荷を個別に決める必要がある。",
+        "限られた肺機能でも生活しやすくすることを目指す。"
+      ],
+      "reference_keys": [
+        "ADL_copd"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "COPDの呼吸リハビリの病態・観察・対応を参照資料で照合し、各肢の理由と単一正答を検証した独自設問。",
+      "effect": {
+        "name": "COPD",
+        "detail": "気道や肺の障害によって、空気を吐き出しにくくなります。",
+        "disease": true,
+        "avatarClasses": "affected-lungs",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-ADL-025",
+      "category": "成人看護学",
+      "topic": "COPDの変化の記録",
+      "question": "COPD患者の普段の状態からの悪化を捉える情報はどれか。",
+      "choices": [
+        "息切れ、咳、痰の普段との違い",
+        "一年前の呼吸機能検査だけ",
+        "定期薬の名称だけ",
+        "喫煙を始めた年齢だけ"
+      ],
+      "answer": 1,
+      "notes": [
+        "症状の増加や痰の変化は増悪や感染の手掛かりになる。",
+        "過去の検査だけでは現在の急な悪化を把握できない。",
+        "薬の確認に加えて、実際の症状と身体所見の変化を観察する。",
+        "喫煙歴は背景情報だが、増悪の判断には現在の変化が必要である。"
+      ],
+      "reference_keys": [
+        "ADL_copd"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "COPDの変化の記録の病態・観察・対応を参照資料で照合し、各肢の理由と単一正答を検証した独自設問。",
+      "effect": {
+        "name": "COPD",
+        "detail": "気道や肺の障害によって、空気を吐き出しにくくなります。",
+        "disease": true,
+        "avatarClasses": "affected-lungs",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-ADL-026",
+      "category": "成人看護学",
+      "topic": "肺炎の治療継続",
+      "question": "細菌性肺炎で抗菌薬を内服中、熱が下がった患者への説明はどれか。",
+      "choices": [
+        "解熱した時点で自己中止する",
+        "指示された期間を守り、悪化や副作用は相談する",
+        "残薬を家族へ分ける",
+        "症状が戻ったときだけ倍量を飲む"
+      ],
+      "answer": 2,
+      "notes": [
+        "症状改善だけで治療完了とは限らない。",
+        "有効な治療と安全性を保つため処方に従う。",
+        "抗菌薬は他者へ流用しない。",
+        "独断の増減は不適切な投与となる。"
+      ],
+      "reference_keys": [
+        "ADL_pneumonia"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "肺炎の治療継続の病態・観察・対応を参照資料で照合し、各肢の理由と単一正答を検証した独自設問。",
+      "effect": {
+        "name": "肺炎",
+        "detail": "肺の感染・炎症で、呼吸状態の観察が必要です。",
+        "disease": true,
+        "avatarClasses": "affected-lungs",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-ADL-027",
+      "category": "成人看護学",
+      "topic": "肺炎の重症化",
+      "question": "肺炎で療養中の成人に新たな混乱と強い呼吸困難が出た。適切なのはどれか。",
+      "choices": [
+        "発熱がなければ重症ではないとする",
+        "食事を増やすだけにする",
+        "低酸素や敗血症などを考えて緊急評価する",
+        "翌週の受診まで待つ"
+      ],
+      "answer": 3,
+      "notes": [
+        "体温だけで重症度を否定できない。",
+        "栄養だけでは急変に対応できない。",
+        "意識・呼吸の変化は重症化の重要な徴候である。",
+        "悪化時は速やかな医療対応が必要である。"
+      ],
+      "reference_keys": [
+        "ADL_pneumonia"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "肺炎の重症化の病態・観察・対応を参照資料で照合し、各肢の理由と単一正答を検証した独自設問。",
+      "effect": {
+        "name": "肺炎",
+        "detail": "肺の感染・炎症で、呼吸状態の観察が必要です。",
+        "disease": true,
+        "avatarClasses": "affected-lungs",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-ADL-028",
+      "category": "成人看護学",
+      "topic": "結核の服薬支援",
+      "question": "肺結核患者が『咳が減ったから薬をやめたい』と言う。適切なのはどれか。",
+      "choices": [
+        "咳が止まれば治療完了と説明する",
+        "残りは半量にするよう勧める",
+        "全薬を週1回にまとめる",
+        "中断理由を確認し、指示された治療完遂を支える"
+      ],
+      "answer": 4,
+      "notes": [
+        "症状改善と菌の排除は同じではない。",
+        "不十分な服薬は治療失敗につながり得る。",
+        "投与間隔を独断で変更しない。",
+        "再燃や耐性化を防ぐため困り事を解決し継続を助ける。"
+      ],
+      "reference_keys": [
+        "ADL_tb"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "結核の服薬支援の病態・観察・対応を参照資料で照合し、各肢の理由と単一正答を検証した独自設問。 独立再点検：設問の診断確度と演出を一致させ、未発症の疾患・不明な病変位置を断定しない表示を確認。",
+      "effect": {
+        "name": "結核",
+        "detail": "結核菌による感染症で、病状に応じた治療と感染対策が必要です。",
+        "disease": true,
+        "avatarClasses": "affected-lungs",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-ADL-029",
+      "category": "成人看護学",
+      "topic": "活動性結核と潜在感染",
+      "question": "潜在性結核感染と活動性肺結核の違いとして適切なのはどれか。",
+      "choices": [
+        "潜在感染では通常症状がなく他者へ感染させない",
+        "潜在感染は必ず毎日喀血する",
+        "潜在感染なら将来の発病は絶対にない",
+        "活動性肺結核でも感染性の評価は不要である"
+      ],
+      "answer": 1,
+      "notes": [
+        "菌を保有していても活動性でない状態で、発病予防が検討される。",
+        "喀血は潜在感染の通常の所見ではない。",
+        "免疫低下などで活動性へ進む場合がある。",
+        "感染性を評価し必要な対策をとる。"
+      ],
+      "reference_keys": [
+        "ADL_tb"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "活動性結核と潜在感染の病態・観察・対応を参照資料で照合し、各肢の理由と単一正答を検証した独自設問。 独立再点検：設問の診断確度と演出を一致させ、未発症の疾患・不明な病変位置を断定しない表示を確認。"
+    },
+    {
+      "id": "ORG-ADL-030",
+      "category": "成人看護学",
+      "topic": "低血糖時の経口摂取",
+      "question": "糖尿病患者の血糖値が58mg/dLで、意識清明、嚥下可能である。個別指示に沿った初期対応はどれか。",
+      "choices": [
+        "運動して糖を消費する",
+        "速やかに吸収される糖を摂り、一定時間後に再測定する",
+        "インスリンを追加する",
+        "次の食事まで何も摂らない"
+      ],
+      "answer": 2,
+      "notes": [
+        "運動はさらに血糖を下げることがある。",
+        "ブドウ糖などで補い、改善を確認する。",
+        "追加インスリンは低血糖を悪化させる。",
+        "低血糖は速やかに補正する必要がある。"
+      ],
+      "reference_keys": [
+        "ADL_hypo"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "低血糖時の経口摂取の病態・観察・対応を参照資料で照合し、各肢の理由と単一正答を検証した独自設問。 独立再点検：設問の診断確度と演出を一致させ、未発症の疾患・不明な病変位置を断定しない表示を確認。",
+      "effect": {
+        "name": "低血糖",
+        "detail": "血糖が低下し、脳などへのエネルギー供給に影響します。表示は全身への注意を象徴し、病変の位置を示すものではありません。",
+        "disease": true,
+        "avatarClasses": "affected-systemic",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-ADL-031",
+      "category": "成人看護学",
+      "topic": "重症低血糖の安全確保",
+      "question": "インスリン使用中の患者が意識を失い、低血糖が確認された。適切な対応はどれか。",
+      "choices": [
+        "口に飴を入れる",
+        "水を大量に飲ませる",
+        "応援を呼び、指示された注射などによる救急処置を進める",
+        "回復するまで一人にする"
+      ],
+      "answer": 3,
+      "notes": [
+        "意識がない状態の飴は窒息や誤嚥を招く。",
+        "嚥下を確認できず、水の経口投与は危険である。",
+        "重症低血糖では経口摂取を避け、グルカゴンや静注ブドウ糖などの救急処置につなぐ。",
+        "低血糖が続くと脳障害を招くため、放置しない。"
+      ],
+      "reference_keys": [
+        "ADL_hypo"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "重症低血糖の安全確保の病態・観察・対応を参照資料で照合し、各肢の理由と単一正答を検証した独自設問。 独立再点検：設問の診断確度と演出を一致させ、未発症の疾患・不明な病変位置を断定しない表示を確認。",
+      "effect": {
+        "name": "低血糖",
+        "detail": "血糖が低下し、脳などへのエネルギー供給に影響します。表示は全身への注意を象徴し、病変の位置を示すものではありません。",
+        "disease": true,
+        "avatarClasses": "affected-systemic",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-ADL-032",
+      "category": "成人看護学",
+      "topic": "低血糖の自覚低下",
+      "question": "低血糖を繰り返す患者が『最近は血糖が低くても動悸がしない』と話した。適切な説明はどれか。",
+      "choices": [
+        "症状がなければ測定は不要である",
+        "低血糖は完全に治った",
+        "薬が効かなくなった証拠である",
+        "低血糖を自覚しにくくなることがあり、治療と測定方法の見直しが必要である"
+      ],
+      "answer": 4,
+      "notes": [
+        "無自覚の低血糖を見逃すため、測定を省略しない。",
+        "症状の消失だけでは低血糖の改善を判断できない。",
+        "動悸がないことから薬効の消失は判断できない。",
+        "反復する低血糖では警告症状が弱まり、重症化を防ぐ計画が必要となる。"
+      ],
+      "reference_keys": [
+        "ADL_hypo"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "低血糖の自覚低下の病態・観察・対応を参照資料で照合し、各肢の理由と単一正答を検証した独自設問。 独立再点検：設問の診断確度と演出を一致させ、未発症の疾患・不明な病変位置を断定しない表示を確認。",
+      "effect": {
+        "name": "低血糖",
+        "detail": "血糖が低下し、脳などへのエネルギー供給に影響します。表示は全身への注意を象徴し、病変の位置を示すものではありません。",
+        "disease": true,
+        "avatarClasses": "affected-systemic",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-ADL-033",
+      "category": "成人看護学",
+      "topic": "シックデイのインスリン",
+      "question": "1型糖尿病の患者が発熱し、食欲が低下した。自己管理の説明として適切なのはどれか。",
+      "choices": [
+        "インスリンを自己判断で中止せず、血糖を確認して療養指示に従う",
+        "食べなければ血糖は必ず正常になる",
+        "水分摂取を完全にやめる",
+        "血糖測定は解熱後に再開する"
+      ],
+      "answer": 1,
+      "notes": [
+        "感染時には必要インスリン量が増えることもあり、中断を避け個別の指示を確認する。",
+        "食事量が減ってもストレスホルモンなどで血糖が上がりうる。",
+        "脱水は病態を悪化させるため、可能な水分摂取と受診判断が必要である。",
+        "発熱中こそ血糖の変動を把握する必要がある。"
+      ],
+      "reference_keys": [
+        "ADL_dka",
+        "ADL_review_sickday"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "シックデイのインスリンの病態・観察・対応を参照資料で照合し、各肢の理由と単一正答を検証した独自設問。 独立再点検：設問の診断確度と演出を一致させ、未発症の疾患・不明な病変位置を断定しない表示を確認。",
+      "effect": {
+        "name": "1型糖尿病のシックデイ",
+        "detail": "発熱と食欲低下があるため、血糖やケトン体を確認し、治療計画に沿って対応します。表示は全身への注意を象徴し、病変の位置を示すものではありません。",
+        "disease": true,
+        "avatarClasses": "affected-systemic",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-ADL-034",
+      "category": "成人看護学",
+      "topic": "糖尿病性ケトアシドーシス",
+      "question": "1型糖尿病の患者がインスリンを中断し、口渇、嘔吐、深い呼吸を呈している。優先する対応はどれか。",
+      "choices": [
+        "運動で血糖を下げる",
+        "緊急に医療評価へつなぐ",
+        "翌週まで食事記録だけをつける",
+        "呼吸を浅くするよう強く指示する"
+      ],
+      "answer": 2,
+      "notes": [
+        "ケトアシドーシスが疑われる状態の運動は危険である。",
+        "インスリン不足に伴うケトアシドーシスが疑われ、輸液やインスリンなどの治療を急ぐ。",
+        "脱水や意識障害が進むおそれがあり、評価を先延ばしにしない。",
+        "深い呼吸は代謝性アシドーシスへの反応であり、呼吸だけを抑えようとしない。"
+      ],
+      "reference_keys": [
+        "ADL_dka",
+        "ADL_review_sickday"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "糖尿病性ケトアシドーシスの病態・観察・対応を参照資料で照合し、各肢の理由と単一正答を検証した独自設問。 独立再点検：設問の診断確度と演出を一致させ、未発症の疾患・不明な病変位置を断定しない表示を確認。",
+      "effect": {
+        "name": "糖尿病性ケトアシドーシスの疑い",
+        "detail": "インスリン中断後の口渇、嘔吐、深い呼吸があり、緊急評価が必要です。表示は全身への注意を象徴し、病変の位置を示すものではありません。",
+        "disease": true,
+        "avatarClasses": "affected-systemic",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-ADL-035",
+      "category": "成人看護学",
+      "topic": "糖尿病足病変の観察",
+      "question": "足底の感覚が低下した糖尿病患者への指導で適切なのはどれか。",
+      "choices": [
+        "痛みが出てから足を確認する",
+        "足底は見えなければ観察を省く",
+        "鏡などを使い、足底と趾の間を毎日確認する",
+        "胼胝を自分で刃物で削る"
+      ],
+      "answer": 3,
+      "notes": [
+        "知覚低下では傷があっても痛みに気づかないことがある。",
+        "見えない部分も鏡や家族の協力で確認する。",
+        "小さな傷や発赤を早期に発見し、潰瘍の悪化を防ぐために役立つ。",
+        "自分で削ると皮膚を傷つけ感染や潰瘍の原因となる。"
+      ],
+      "reference_keys": [
+        "ADL_foot"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "糖尿病足病変の観察の病態・観察・対応を参照資料で照合し、各肢の理由と単一正答を検証した独自設問。 独立再点検：設問の診断確度と演出を一致させ、未発症の疾患・不明な病変位置を断定しない表示を確認。",
+      "effect": {
+        "name": "糖尿病の足病変予防",
+        "detail": "足底の感覚低下に関連する部位を示します。足の傷が発生していると断定するものではありません。",
+        "disease": true,
+        "avatarClasses": "sim-foot",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-ADL-036",
+      "category": "成人看護学",
+      "topic": "糖尿病患者の足浴温度",
+      "question": "末梢神経障害のある糖尿病患者が足を洗う。熱傷予防として適切なのはどれか。",
+      "choices": [
+        "足の感覚だけで湯温を決める",
+        "熱い湯に長時間浸す",
+        "湯たんぽを足に直接当てる",
+        "温度計などで熱くない湯温を確かめる"
+      ],
+      "answer": 4,
+      "notes": [
+        "知覚低下があるため、足では高温を判断できない場合がある。",
+        "高温や長時間の浸漬は熱傷や皮膚障害につながる。",
+        "直接の加温は気づかないうちに熱傷を起こしうる。",
+        "温度を客観的に確認することで、温度感覚低下による熱傷を予防する。"
+      ],
+      "reference_keys": [
+        "ADL_foot"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "糖尿病患者の足浴温度の病態・観察・対応を参照資料で照合し、各肢の理由と単一正答を検証した独自設問。 独立再点検：設問の診断確度と演出を一致させ、未発症の疾患・不明な病変位置を断定しない表示を確認。",
+      "effect": {
+        "name": "糖尿病の足病変予防",
+        "detail": "末梢神経障害に関連する足の部位を示します。実際に熱傷が生じていると断定するものではありません。",
+        "disease": true,
+        "avatarClasses": "sim-foot",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-ADL-037",
+      "category": "成人看護学",
+      "topic": "足の保湿",
+      "question": "糖尿病患者の足の手入れで適切なのはどれか。",
+      "choices": [
+        "洗浄後は趾間を乾かし、保湿剤は趾間を避けて塗る",
+        "趾間を常に湿らせる",
+        "傷のある部位を強くこする",
+        "靴の中を確認せずに履く"
+      ],
+      "answer": 1,
+      "notes": [
+        "趾間の湿潤を避けつつ、乾燥した皮膚の亀裂を予防する。",
+        "趾間の過度な湿潤は皮膚障害や感染の誘因となる。",
+        "強い摩擦は創傷を悪化させるため避ける。",
+        "異物があっても気づきにくいため、靴の内部も確認する。"
+      ],
+      "reference_keys": [
+        "ADL_foot"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "足の保湿の病態・観察・対応を参照資料で照合し、各肢の理由と単一正答を検証した独自設問。 独立再点検：設問の診断確度と演出を一致させ、未発症の疾患・不明な病変位置を断定しない表示を確認。"
+    },
+    {
+      "id": "ORG-ADL-038",
+      "category": "成人看護学",
+      "topic": "甲状腺機能亢進の症状",
+      "question": "甲状腺機能亢進症の患者に認めやすい組合せはどれか。",
+      "choices": [
+        "寒がりと徐脈",
+        "暑がりと体重減少",
+        "便秘と体重増加",
+        "皮膚乾燥と動作緩慢"
+      ],
+      "answer": 2,
+      "notes": [
+        "寒がりと徐脈は代謝が低下する状態でみられやすい。",
+        "甲状腺ホルモン過剰により代謝が亢進し、暑がりや体重減少を生じる。",
+        "便秘と体重増加は甲状腺機能低下症でみられやすい。",
+        "皮膚乾燥と動作緩慢は代謝低下を示す症状として考える。"
+      ],
+      "reference_keys": [
+        "ADL_hyper"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "甲状腺機能亢進の症状の病態・観察・対応を参照資料で照合し、各肢の理由と単一正答を検証した独自設問。 独立再点検：設問の診断確度と演出を一致させ、未発症の疾患・不明な病変位置を断定しない表示を確認。",
+      "effect": {
+        "name": "甲状腺機能亢進症",
+        "detail": "甲状腺に関連する部位を示します。ホルモンの過剰による全身への影響を扱う問題です。",
+        "disease": true,
+        "avatarClasses": "sim-thyroid",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-ADL-039",
+      "category": "成人看護学",
+      "topic": "甲状腺機能低下症の治療",
+      "question": "甲状腺機能低下症でレボチロキシンを開始した患者への説明で適切なのはどれか。",
+      "choices": [
+        "甲状腺を破壊する薬である",
+        "体調がよい日は倍量を飲む",
+        "不足する甲状腺ホルモンを補い、検査で量を調整する",
+        "一度飲めば長期間の服薬は不要である"
+      ],
+      "answer": 3,
+      "notes": [
+        "レボチロキシンは甲状腺を破壊する治療薬ではない。",
+        "過剰投与を避けるため、自己判断で増量しない。",
+        "ホルモンを補充する治療であり、血液検査と症状により適量を確認する。",
+        "原因により継続的な補充を要し、一回で治療が完了するものではない。"
+      ],
+      "reference_keys": [
+        "ADL_hypothyroid"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "甲状腺機能低下症の治療の病態・観察・対応を参照資料で照合し、各肢の理由と単一正答を検証した独自設問。 独立再点検：設問の診断確度と演出を一致させ、未発症の疾患・不明な病変位置を断定しない表示を確認。",
+      "effect": {
+        "name": "甲状腺機能低下症",
+        "detail": "甲状腺に関連する部位を示します。病変の大きさや重症度を表すものではありません。",
+        "disease": true,
+        "avatarClasses": "sim-thyroid",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-ADL-040",
+      "category": "成人看護学",
+      "topic": "副腎皮質ホルモン補充",
+      "question": "Addison病でステロイド補充療法中の患者への説明として適切なのはどれか。",
+      "choices": [
+        "症状が消えれば突然中止する",
+        "感染しても服用量の相談は不要である",
+        "補充薬は痛い時だけ服用する",
+        "自己中断せず、発熱や手術時の対応を事前に確認する"
+      ],
+      "answer": 4,
+      "notes": [
+        "突然の中断は急性副腎不全を招くおそれがある。",
+        "感染時は必要量が変化するため、対応を確認する。",
+        "副腎機能不足を補う薬であり、鎮痛薬のような頓用ではない。",
+        "ストレス時には追加投与などが必要になるため、個別の計画を共有する。"
+      ],
+      "reference_keys": [
+        "ADL_adrenal"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "副腎皮質ホルモン補充の病態・観察・対応を参照資料で照合し、各肢の理由と単一正答を検証した独自設問。 独立再点検：設問の診断確度と演出を一致させ、未発症の疾患・不明な病変位置を断定しない表示を確認。",
+      "effect": {
+        "name": "副腎皮質機能低下症",
+        "detail": "副腎皮質ホルモンの不足を補う治療が必要です。表示は全身への注意を象徴し、病変の位置を示すものではありません。",
+        "disease": true,
+        "avatarClasses": "affected-systemic",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-ADL-041",
+      "category": "成人看護学",
+      "topic": "副腎クリーゼの疑い",
+      "question": "Addison病の患者が嘔吐で薬を飲めず、強い脱力と血圧低下を呈した。適切な対応はどれか。",
+      "choices": [
+        "副腎クリーゼを疑い緊急対応につなぐ",
+        "翌朝まで食事だけ調整する",
+        "降圧薬の追加を勧める",
+        "歩行して血圧を上げる"
+      ],
+      "answer": 1,
+      "notes": [
+        "補充不足とストレスによる急性副腎不全が疑われ、注射による補充や循環管理が必要となる。",
+        "急速に悪化する可能性があり、対応を先延ばしにしない。",
+        "すでに血圧が低く、降圧薬の追加は状態を悪化させうる。",
+        "循環が不安定な状態で歩行させると転倒や失神の危険がある。"
+      ],
+      "reference_keys": [
+        "ADL_adrenal"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "副腎クリーゼの疑いの病態・観察・対応を参照資料で照合し、各肢の理由と単一正答を検証した独自設問。 独立再点検：設問の診断確度と演出を一致させ、未発症の疾患・不明な病変位置を断定しない表示を確認。",
+      "effect": {
+        "name": "副腎皮質機能低下症",
+        "detail": "副腎皮質ホルモンの不足を補う治療が必要です。表示は全身への注意を象徴し、病変の位置を示すものではありません。",
+        "disease": true,
+        "avatarClasses": "affected-systemic",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-ADL-042",
+      "category": "成人看護学",
+      "topic": "慢性腎臓病の早期発見",
+      "question": "自覚症状がない高血圧患者が『症状がないので腎臓の検査は不要』と言う。適切な説明はどれか。",
+      "choices": [
+        "慢性腎臓病は必ず強い腰痛から始まる",
+        "早期は症状に乏しく、血液や尿の検査で確認する",
+        "むくみがなければ腎機能は正常である",
+        "尿が透明なら検査は不要である"
+      ],
+      "answer": 2,
+      "notes": [
+        "慢性腎臓病は必ずしも痛みを伴わず、腰痛だけでは判断しない。",
+        "進行するまで気づきにくいため、腎機能と尿所見の評価が重要である。",
+        "浮腫がない段階でも腎障害が存在することがある。",
+        "尿の見た目だけでは腎機能や蛋白尿を評価できない。"
+      ],
+      "reference_keys": [
+        "ADL_ckd"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "慢性腎臓病の早期発見の病態・観察・対応を参照資料で照合し、各肢の理由と単一正答を検証した独自設問。 独立再点検：設問の診断確度と演出を一致させ、未発症の疾患・不明な病変位置を断定しない表示を確認。"
+    },
+    {
+      "id": "ORG-ADL-043",
+      "category": "成人看護学",
+      "topic": "腎機能の評価指標",
+      "question": "慢性腎臓病の患者の腎機能を把握する指標として適切なのはどれか。",
+      "choices": [
+        "HbA1c",
+        "1秒率",
+        "推算糸球体濾過量〈eGFR〉",
+        "左室駆出率"
+      ],
+      "answer": 3,
+      "notes": [
+        "HbA1cは一定期間の血糖管理を評価する指標である。",
+        "1秒率は閉塞性換気障害などを評価する呼吸機能の指標である。",
+        "eGFRは腎臓の濾過機能を推定し、腎機能低下の程度を評価する。",
+        "左室駆出率は主に心臓の収縮機能を評価する指標である。"
+      ],
+      "reference_keys": [
+        "ADL_ckd"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "腎機能の評価指標の病態・観察・対応を参照資料で照合し、各肢の理由と単一正答を検証した独自設問。",
+      "effect": {
+        "name": "慢性腎臓病",
+        "detail": "腎臓の働きの低下や尿の異常を継続して評価します。",
+        "disease": true,
+        "avatarClasses": "affected-kidneys",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-ADL-044",
+      "category": "成人看護学",
+      "topic": "腎臓病と市販薬",
+      "question": "慢性腎臓病の患者が市販の鎮痛薬を買いたいと相談した。適切な対応はどれか。",
+      "choices": [
+        "市販薬なら腎臓への影響はないと伝える",
+        "痛ければ複数の鎮痛薬を重ねるよう勧める",
+        "腎機能の情報は薬剤師に伝えなくてよいと説明する",
+        "腎機能と現在の薬を伝え、使用前に医師や薬剤師へ確認する"
+      ],
+      "answer": 4,
+      "notes": [
+        "市販のNSAIDsなどでも腎機能へ悪影響を及ぼす場合がある。",
+        "同種の薬の重複は副作用の危険を高める。",
+        "腎機能は薬剤選択や用量判断に関わる重要な情報である。",
+        "腎機能低下では注意が必要な薬があり、安全な選択を確認する。"
+      ],
+      "reference_keys": [
+        "ADL_ckd"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "腎臓病と市販薬の病態・観察・対応を参照資料で照合し、各肢の理由と単一正答を検証した独自設問。",
+      "effect": {
+        "name": "慢性腎臓病",
+        "detail": "腎臓の働きの低下や尿の異常を継続して評価します。",
+        "disease": true,
+        "avatarClasses": "affected-kidneys",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-ADL-045",
+      "category": "成人看護学",
+      "topic": "急性腎障害の誘因",
+      "question": "激しい下痢が続いた患者の尿量が減り、クレアチニンが上昇した。原因としてまず考えるのはどれか。",
+      "choices": [
+        "脱水による腎血流の低下",
+        "水分過剰による腎血流の増加",
+        "鉄不足による造血低下のみ",
+        "甲状腺ホルモン不足のみ"
+      ],
+      "answer": 1,
+      "notes": [
+        "下痢で水分を失い、循環血液量と腎血流が減少して急性腎障害を起こすことがある。",
+        "下痢による喪失が続く経過では、まず脱水と循環血液量低下を評価する。",
+        "鉄欠乏性貧血だけでは下痢後の急な乏尿を説明しにくい。",
+        "甲状腺機能低下だけと決めつけず、体液喪失と急な腎機能変化を評価する。"
+      ],
+      "reference_keys": [
+        "ADL_aki"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "急性腎障害の誘因の病態・観察・対応を参照資料で照合し、各肢の理由と単一正答を検証した独自設問。",
+      "effect": {
+        "name": "急性腎障害",
+        "detail": "腎臓の働きが急に低下し、尿量や血液検査の変化がみられます。",
+        "disease": true,
+        "avatarClasses": "affected-kidneys",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-ADL-046",
+      "category": "成人看護学",
+      "topic": "尿路閉塞と腎障害",
+      "question": "排尿困難のある患者で急性腎障害を認めた。評価が必要な病態はどれか。",
+      "choices": [
+        "腎動脈血流の増加のみ",
+        "尿の流出路の閉塞",
+        "肝臓のアルブミン合成低下のみ",
+        "赤血球の破壊のみ"
+      ],
+      "answer": 2,
+      "notes": [
+        "排尿困難があるため、血流だけでなく尿の排出経路を評価する。",
+        "尿路が閉塞すると腎臓に圧がかかり、腎機能が低下することがある。",
+        "アルブミン低下だけでは排尿困難を直接説明できない。",
+        "溶血だけでは排尿困難の原因を説明できず、閉塞の有無を確認する。"
+      ],
+      "reference_keys": [
+        "ADL_aki"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "尿路閉塞と腎障害の病態・観察・対応を参照資料で照合し、各肢の理由と単一正答を検証した独自設問。",
+      "effect": {
+        "name": "急性腎障害",
+        "detail": "腎臓の働きが急に低下し、尿量や血液検査の変化がみられます。",
+        "disease": true,
+        "avatarClasses": "affected-kidneys",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-ADL-047",
+      "category": "成人看護学",
+      "topic": "尿路結石の疼痛",
+      "question": "尿管結石の患者の疼痛の特徴として適切なのはどれか。",
+      "choices": [
+        "必ず両側の肩だけが痛む",
+        "痛みがあれば血尿は起こらない",
+        "側腹部から鼠径部へ広がる強い痛みを生じうる",
+        "痛みは常に食後の胸やけだけである"
+      ],
+      "answer": 3,
+      "notes": [
+        "尿管結石では側腹部などが痛むことがあり、肩だけに限定されない。",
+        "結石による刺激で疼痛と血尿が同時にみられることがある。",
+        "尿管の閉塞や刺激により疝痛が起こり、部位に応じて痛みが放散する。",
+        "食後の胸やけだけでは尿管結石に特徴的な疼痛ではない。"
+      ],
+      "reference_keys": [
+        "ADL_stone",
+        "ADL_stone_symptoms"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "尿路結石の疼痛の病態・観察・対応を参照資料で照合し、各肢の理由と単一正答を検証した独自設問。",
+      "effect": {
+        "name": "尿路結石",
+        "detail": "腎臓や尿管にできた結石が、痛みや閉塞を起こすことがあります。",
+        "disease": true,
+        "avatarClasses": "affected-kidneys",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-ADL-048",
+      "category": "成人看護学",
+      "topic": "透析シャントの観察",
+      "question": "血液透析患者が『いつものシャントの振動が触れない』と話した。適切な対応はどれか。",
+      "choices": [
+        "次回透析まで経過を見る",
+        "強く揉んで振動を戻す",
+        "きつい包帯で巻く",
+        "速やかに透析担当へ連絡する"
+      ],
+      "answer": 4,
+      "notes": [
+        "血流障害が疑われるため、次回まで放置しない。",
+        "強い揉みほぐしを自己判断で行うと血管を傷めるおそれがある。",
+        "圧迫は血流をさらに妨げるおそれがある。",
+        "振動の消失は閉塞などの可能性があり、早急な評価が必要である。"
+      ],
+      "reference_keys": [
+        "ADL_hd"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "透析シャントの観察の病態・観察・対応を参照資料で照合し、各肢の理由と単一正答を検証した独自設問。"
+    },
+    {
+      "id": "ORG-ADL-049",
+      "category": "成人看護学",
+      "topic": "透析中の血圧低下",
+      "question": "血液透析中の患者がめまいと悪心を訴えた。優先して確認するのはどれか。",
+      "choices": [
+        "血圧などの循環状態",
+        "一週間の総摂取蛋白量のみ",
+        "シャント造設時の説明の理解度のみ",
+        "次回受診までの服薬残数のみ"
+      ],
+      "answer": 1,
+      "notes": [
+        "透析では急な血圧低下が起こりうるため、症状と循環状態を速やかに評価する。",
+        "栄養情報も必要だが、急に出現した症状への対応が先である。",
+        "理解度の評価より、現在の循環の安定を確認する。",
+        "服薬残数は継続支援の情報であり、今の急変評価を優先する。"
+      ],
+      "reference_keys": [
+        "ADL_hd"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "透析中の血圧低下の病態・観察・対応を参照資料で照合し、各肢の理由と単一正答を検証した独自設問。"
+    },
+    {
+      "id": "ORG-ADL-050",
+      "category": "成人看護学",
+      "topic": "ドライウエイトの意味",
+      "question": "血液透析のドライウエイトについて適切な説明はどれか。",
+      "choices": [
+        "入院前の最大体重のこと",
+        "余分な水分がない状態を目安とした体重のこと",
+        "衣服を含めた最も重い体重のこと",
+        "すべての患者で同じ体重のこと"
+      ],
+      "answer": 2,
+      "notes": [
+        "過去の最大体重ではなく、体液状態などから個別に設定する。",
+        "過剰な水分を除いた適切な体重の目安として、除水の調整に用いる。",
+        "衣服の重さを増やして決める値ではない。",
+        "体格や栄養状態などが異なるため、患者ごとに設定する。"
+      ],
+      "reference_keys": [
+        "ADL_hd"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "ドライウエイトの意味の病態・観察・対応を参照資料で照合し、各肢の理由と単一正答を検証した独自設問。"
+    },
+    {
+      "id": "ORG-ADL-051",
+      "category": "成人看護学",
+      "topic": "腹膜透析の感染予防",
+      "question": "腹膜透析液の交換を自宅で行う患者への指導で適切なのはどれか。",
+      "choices": [
+        "接続部に触れた後だけ手を洗う",
+        "使用前の液の混濁は確認しない",
+        "接続前に手指衛生を行い、教わった清潔な手順を守る",
+        "風の強い屋外で交換する"
+      ],
+      "answer": 3,
+      "notes": [
+        "接続操作の前から手指を清潔にする必要がある。",
+        "使用前の液も異常がないか観察する。",
+        "接続時の細菌侵入を防ぐことが腹膜炎予防に重要である。",
+        "環境中の汚染を避け、清潔な交換場所を用意する。"
+      ],
+      "reference_keys": [
+        "ADL_pd"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "腹膜透析の感染予防の病態・観察・対応を参照資料で照合し、各肢の理由と単一正答を検証した独自設問。 独立再点検：設問の診断確度と演出を一致させ、未発症の疾患・不明な病変位置を断定しない表示を確認。"
+    },
+    {
+      "id": "ORG-ADL-052",
+      "category": "成人看護学",
+      "topic": "腹膜透析排液の異常",
+      "question": "腹膜透析患者の排液が白く濁り、腹痛と発熱を認めた。適切な対応はどれか。",
+      "choices": [
+        "正常な除水のサインと説明する",
+        "一週間後に報告する",
+        "接続回数だけ増やして様子を見る",
+        "腹膜炎を疑って速やかに担当へ連絡する"
+      ],
+      "answer": 4,
+      "notes": [
+        "排液混濁と腹痛・発熱は正常な除水では説明できない。",
+        "感染の悪化を防ぐため早急な評価が必要である。",
+        "自己判断で交換回数を増やしても感染評価の代わりにはならない。",
+        "腹膜炎の徴候であり、排液の評価や抗菌薬治療につなぐ。"
+      ],
+      "reference_keys": [
+        "ADL_pd",
+        "ADL_review_peritonitis"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "腹膜透析排液の異常の病態・観察・対応を参照資料で照合し、各肢の理由と単一正答を検証した独自設問。 独立再点検：設問の診断確度と演出を一致させ、未発症の疾患・不明な病変位置を断定しない表示を確認。",
+      "effect": {
+        "name": "腹膜炎の疑い",
+        "detail": "腹膜透析の排液混濁、腹痛、発熱があり、速やかな評価が必要です。表示は全身状態への注意を象徴します。",
+        "disease": true,
+        "avatarClasses": "affected-systemic",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-ADL-053",
+      "category": "成人看護学",
+      "topic": "上部消化管出血の徴候",
+      "question": "胃潰瘍の患者がコーヒー残渣様の物を吐き、ふらついている。適切な対応はどれか。",
+      "choices": [
+        "出血を疑い、循環状態を確認して速やかに報告する",
+        "食べ物の色と決めつける",
+        "歩かせて気分転換する",
+        "予定の食事を勧める"
+      ],
+      "answer": 1,
+      "notes": [
+        "胃内で変化した血液の可能性があり、循環血液量の低下も評価する。",
+        "色だけで食物と決めつけず、消化管出血を考える。",
+        "ふらつきがあり、歩行は転倒や循環不全の危険を高める。",
+        "出血の評価を優先し、自己判断で経口摂取を勧めない。"
+      ],
+      "reference_keys": [
+        "ADL_ulcer"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "上部消化管出血の徴候の病態・観察・対応を参照資料で照合し、各肢の理由と単一正答を検証した独自設問。",
+      "effect": {
+        "name": "胃潰瘍",
+        "detail": "胃の粘膜に潰瘍が生じ、出血などの合併症に注意します。",
+        "disease": true,
+        "avatarClasses": "affected-stomach",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-ADL-054",
+      "category": "成人看護学",
+      "topic": "潰瘍患者の便の変化",
+      "question": "胃潰瘍治療中の患者が黒く粘つく便を排泄した。まず確認する可能性はどれか。",
+      "choices": [
+        "胆汁分泌の完全な停止",
+        "上部消化管からの出血",
+        "尿管の閉塞だけ",
+        "肺胞の炎症だけ"
+      ],
+      "answer": 2,
+      "notes": [
+        "胆汁が腸へ届かないと灰白色便の原因になり、黒色便とは異なる。",
+        "消化された血液によるタール便の可能性があるため、出血徴候を確認する。",
+        "尿管閉塞だけではタール状の便を説明できない。",
+        "肺胞炎症だけでは黒く粘つく便を説明できない。"
+      ],
+      "reference_keys": [
+        "ADL_ulcer"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "潰瘍患者の便の変化の病態・観察・対応を参照資料で照合し、各肢の理由と単一正答を検証した独自設問。",
+      "effect": {
+        "name": "胃潰瘍",
+        "detail": "胃の粘膜に潰瘍が生じ、出血などの合併症に注意します。",
+        "disease": true,
+        "avatarClasses": "affected-stomach",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-ADL-055",
+      "category": "成人看護学",
+      "topic": "Crohn病の経過",
+      "question": "Crohn病の患者が『症状が軽くなったので通院はやめたい』と話した。適切な説明はどれか。",
+      "choices": [
+        "一度軽快すれば再燃しない",
+        "腹痛がなければ薬をまとめて中止する",
+        "寛解と再燃を繰り返すことがあり、継続して状態を確認する",
+        "感染した人と接触しなければ再燃しない"
+      ],
+      "answer": 3,
+      "notes": [
+        "症状が落ち着いても再燃する可能性がある。",
+        "自己中断を避け、治療継続について担当と相談する。",
+        "慢性の炎症性腸疾患であり、寛解維持と合併症の観察が必要である。",
+        "一般的な接触感染だけで再燃を説明する病気ではない。"
+      ],
+      "reference_keys": [
+        "ADL_crohn"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "Crohn病の経過の病態・観察・対応を参照資料で照合し、各肢の理由と単一正答を検証した独自設問。",
+      "effect": {
+        "name": "Crohn病",
+        "detail": "消化管に慢性の炎症が起こる病気です。",
+        "disease": true,
+        "avatarClasses": "affected-intestine",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-ADL-056",
+      "category": "成人看護学",
+      "topic": "Crohn病と食事支援",
+      "question": "Crohn病の食事相談で適切な対応はどれか。",
+      "choices": [
+        "全員に同じ食品だけを食べさせる",
+        "症状と無関係に全食品群を除去する",
+        "体重が減っても食事内容を確認しない",
+        "病状や栄養状態を踏まえ、管理栄養士と個別に検討する"
+      ],
+      "answer": 4,
+      "notes": [
+        "病変や症状に個人差があり、画一的な食事は適切でない。",
+        "過度の制限は栄養不足を招くおそれがある。",
+        "体重減少は栄養評価が必要な所見である。",
+        "耐容性と必要栄養量を踏まえ、治療方針に合わせて支援する。"
+      ],
+      "reference_keys": [
+        "ADL_crohn"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "Crohn病と食事支援の病態・観察・対応を参照資料で照合し、各肢の理由と単一正答を検証した独自設問。",
+      "effect": {
+        "name": "Crohn病",
+        "detail": "消化管に慢性の炎症が起こる病気です。",
+        "disease": true,
+        "avatarClasses": "affected-intestine",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-ADL-057",
+      "category": "成人看護学",
+      "topic": "潰瘍性大腸炎の排便",
+      "question": "潰瘍性大腸炎の活動性を把握するために特に確認する排便情報はどれか。",
+      "choices": [
+        "血液や粘液の混入と排便回数",
+        "排便に使う下剤の商品名だけ",
+        "便器へ移乗する所要時間だけ",
+        "一年前の便の色だけ"
+      ],
+      "answer": 1,
+      "notes": [
+        "血性下痢や粘液、排便回数は炎症の状態を把握する情報となる。",
+        "薬剤情報だけでなく、現在の便の性状と頻度を確認する。",
+        "移乗能力は生活支援に必要だが、腸炎の活動性は便と全身状態で評価する。",
+        "過去の情報だけでは現在の炎症の変化を把握できない。"
+      ],
+      "reference_keys": [
+        "ADL_uc"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "潰瘍性大腸炎の排便の病態・観察・対応を参照資料で照合し、各肢の理由と単一正答を検証した独自設問。",
+      "effect": {
+        "name": "潰瘍性大腸炎",
+        "detail": "大腸の炎症により、血性下痢などを生じる病気です。",
+        "disease": true,
+        "avatarClasses": "affected-intestine",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-ADL-058",
+      "category": "成人看護学",
+      "topic": "潰瘍性大腸炎の悪化",
+      "question": "潰瘍性大腸炎の患者で血性下痢が増え、発熱と頻脈を認める。適切な対応はどれか。",
+      "choices": [
+        "通常の経過として放置する",
+        "重症化の可能性を考え、速やかに全身状態を評価する",
+        "食事の好みの調査だけを行う",
+        "水分を一律に禁止する"
+      ],
+      "answer": 2,
+      "notes": [
+        "全身症状を伴う悪化は重症化を疑う必要がある。",
+        "循環や脱水、腹部所見などを確認し、速やかな診療につなげる。",
+        "嗜好の調査よりも病状悪化への対応を優先する。",
+        "脱水の可能性があり、水分管理は状態と指示に応じて行う。"
+      ],
+      "reference_keys": [
+        "ADL_uc"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "潰瘍性大腸炎の悪化の病態・観察・対応を参照資料で照合し、各肢の理由と単一正答を検証した独自設問。",
+      "effect": {
+        "name": "潰瘍性大腸炎",
+        "detail": "大腸の炎症により、血性下痢などを生じる病気です。",
+        "disease": true,
+        "avatarClasses": "affected-intestine",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-ADL-059",
+      "category": "成人看護学",
+      "topic": "胆石発作の疼痛",
+      "question": "胆石症の患者の症状としてみられうるのはどれか。",
+      "choices": [
+        "排尿時に限る下腹部痛",
+        "運動時に限る下腿痛",
+        "右上腹部や心窩部の持続する強い痛み",
+        "起立時だけの後頭部痛"
+      ],
+      "answer": 3,
+      "notes": [
+        "排尿時の下腹部痛は尿路疾患などを考える所見である。",
+        "運動時の下腿痛は末梢動脈疾患など別の原因を評価する。",
+        "胆道の閉塞により右上腹部や心窩部に強い痛みを生じることがある。",
+        "起立時だけの頭痛は胆石発作に特徴的な疼痛ではない。"
+      ],
+      "reference_keys": [
+        "ADL_gallstone"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "胆石発作の疼痛の病態・観察・対応を参照資料で照合し、各肢の理由と単一正答を検証した独自設問。",
+      "effect": {
+        "name": "胆石症",
+        "detail": "胆石が胆道の流れを妨げると、腹痛などが起こります。",
+        "disease": true,
+        "avatarClasses": "sim-upper-abdomen",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-ADL-060",
+      "category": "成人看護学",
+      "topic": "無症状胆石への理解",
+      "question": "健診で胆石が見つかった患者への説明で適切なのはどれか。",
+      "choices": [
+        "全員にその日の緊急手術が必要である",
+        "胆石があれば必ず激痛がある",
+        "胆石は必ず肺へ移動する",
+        "症状がない場合もあり、症状や検査所見で対応を判断する"
+      ],
+      "answer": 4,
+      "notes": [
+        "無症状の場合もあり、緊急手術が一律に必要なわけではない。",
+        "胆石があっても無症状で経過することがある。",
+        "胆石が肺血管へ移動するという説明は適切でない。",
+        "症状や合併症の有無を踏まえ、治療の必要性を判断する。"
+      ],
+      "reference_keys": [
+        "ADL_gallstone"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "無症状胆石への理解の病態・観察・対応を参照資料で照合し、各肢の理由と単一正答を検証した独自設問。",
+      "effect": {
+        "name": "胆石症",
+        "detail": "胆石が胆道の流れを妨げると、腹痛などが起こります。",
+        "disease": true,
+        "avatarClasses": "sim-upper-abdomen",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-ADL-061",
+      "category": "成人看護学",
+      "topic": "てんかん発作の持続",
+      "question": "全身のけいれん発作が5分以上続いている。適切な対応はどれか。",
+      "choices": [
+        "救急対応を要請する",
+        "必ず自然に止まるので一人で待つ",
+        "口の中に硬い物を入れる",
+        "四肢を力で押さえ続ける"
+      ],
+      "answer": 1,
+      "notes": [
+        "遷延する発作は緊急治療を要するため、救急対応につなげる。",
+        "長く続く発作は危険であり、自然停止だけに期待しない。",
+        "口に物を入れると歯や口腔の損傷、窒息を招く。",
+        "強く押さえると損傷を招くため、安全を確保して観察する。"
+      ],
+      "reference_keys": [
+        "ADL_epilepsy",
+        "ADL_seizure_firstaid",
+        "ADL_review_seizure"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "てんかん発作の持続の病態・観察・対応を参照資料で照合し、各肢の理由と単一正答を検証した独自設問。 独立再点検：設問の診断確度と演出を一致させ、未発症の疾患・不明な病変位置を断定しない表示を確認。",
+      "effect": {
+        "name": "遷延する全身けいれん",
+        "detail": "全身のけいれんが5分以上続いている緊急の状態です。単発の発作だけでてんかんとは断定できません。",
+        "disease": true,
+        "avatarClasses": "affected-brain",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-ADL-062",
+      "category": "成人看護学",
+      "topic": "てんかんの服薬継続",
+      "question": "抗てんかん発作薬を服用中で発作がない患者への説明で適切なのはどれか。",
+      "choices": [
+        "発作がない日は薬を飲まない",
+        "減量や中止は自己判断せず、担当医と相談する",
+        "薬は発作が始まってから飲めばよい",
+        "他人と同じ量に変更する"
+      ],
+      "answer": 2,
+      "notes": [
+        "発作がないことは治療で抑制されている可能性があり、勝手に休薬しない。",
+        "急な変更で発作が起こりうるため、経過を評価して調整する。",
+        "定期内服薬は予防のために使用し、発作時だけの服用とは異なる。",
+        "発作型や体調などで適量は異なり、他人の用量に合わせない。"
+      ],
+      "reference_keys": [
+        "ADL_epilepsy"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "てんかんの服薬継続の病態・観察・対応を参照資料で照合し、各肢の理由と単一正答を検証した独自設問。",
+      "effect": {
+        "name": "てんかん",
+        "detail": "脳の電気的な活動の乱れによって発作が起こります。",
+        "disease": true,
+        "avatarClasses": "affected-brain",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-ADL-063",
+      "category": "成人看護学",
+      "topic": "Parkinson病の運動症状",
+      "question": "Parkinson病の患者でみられやすい症状はどれか。",
+      "choices": [
+        "動作が常に過剰に速くなる",
+        "筋力が必ず突然完全に消失する",
+        "動作緩慢と筋強剛",
+        "片眼の失明だけ"
+      ],
+      "answer": 3,
+      "notes": [
+        "代表的な運動症状には動作の遅さが含まれる。",
+        "突然の完全な筋力消失は典型的な説明ではなく、別の病態の評価も必要である。",
+        "動作緩慢や筋強剛、安静時振戦などがみられる。",
+        "片眼失明だけはParkinson病の代表的な運動症状ではない。"
+      ],
+      "reference_keys": [
+        "ADL_parkinson"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "Parkinson病の運動症状の病態・観察・対応を参照資料で照合し、各肢の理由と単一正答を検証した独自設問。",
+      "effect": {
+        "name": "Parkinson病",
+        "detail": "脳の神経の働きが変化し、動作緩慢などを生じます。",
+        "disease": true,
+        "avatarClasses": "affected-brain",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-ADL-064",
+      "category": "成人看護学",
+      "topic": "Parkinson病の生活支援",
+      "question": "動作が遅くなったParkinson病患者の生活支援で適切なのはどれか。",
+      "choices": [
+        "すべての動作を禁止する",
+        "急ぐよう繰り返し責める",
+        "残存能力を確認せず全介助にする",
+        "理学療法士や作業療法士と動作や環境を調整する"
+      ],
+      "answer": 4,
+      "notes": [
+        "活動を一律に禁止すると生活機能の低下につながる。",
+        "心理的負担を増やすだけで、動作障害への支援にはならない。",
+        "できる動作を評価し、能力を生かして介助する。",
+        "運動症状に応じたリハビリと生活上の工夫で自立を支える。"
+      ],
+      "reference_keys": [
+        "ADL_parkinson"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "Parkinson病の生活支援の病態・観察・対応を参照資料で照合し、各肢の理由と単一正答を検証した独自設問。",
+      "effect": {
+        "name": "Parkinson病",
+        "detail": "脳の神経の働きが変化し、動作緩慢などを生じます。",
+        "disease": true,
+        "avatarClasses": "affected-brain",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-ADL-065",
+      "category": "成人看護学",
+      "topic": "一過性脳虚血発作",
+      "question": "片腕の力が入りにくく言葉が出にくかったが、今は消失した。適切な対応はどれか。",
+      "choices": [
+        "症状が消えても緊急に医療評価を受ける",
+        "消失したので記録も受診も不要とする",
+        "再発するまで数か月待つ",
+        "睡眠不足だけと決めつける"
+      ],
+      "answer": 1,
+      "notes": [
+        "一過性脳虚血発作の可能性があり、脳卒中予防のためにも急いで評価する。",
+        "症状が一時的でも脳血管障害の警告である可能性がある。",
+        "早期の脳卒中リスクがあるため、長期間待たない。",
+        "局所的な神経症状を睡眠不足だけで説明して放置しない。"
+      ],
+      "reference_keys": [
+        "ADL_tia"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "一過性脳虚血発作の病態・観察・対応を参照資料で照合し、各肢の理由と単一正答を検証した独自設問。",
+      "effect": {
+        "name": "一過性脳虚血発作の疑い",
+        "detail": "一時的な神経症状でも、速やかな脳血管の評価が必要です。",
+        "disease": true,
+        "avatarClasses": "affected-brain",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-ADL-066",
+      "category": "成人看護学",
+      "topic": "好中球減少時の発熱",
+      "question": "抗がん薬治療後で好中球が減少した患者が38.2℃の発熱を認めた。適切な対応はどれか。",
+      "choices": [
+        "解熱薬だけで翌日まで待つ",
+        "感染を疑い速やかに治療担当へ連絡する",
+        "発熱は効果の証拠と説明する",
+        "体温記録をやめる"
+      ],
+      "answer": 2,
+      "notes": [
+        "解熱薬で症状を隠すと感染の評価が遅れる可能性がある。",
+        "好中球減少時の感染は重篤になりうるため、早急な評価と治療につなぐ。",
+        "発熱だけを治療効果の証拠として扱ってはならない。",
+        "体温と全身症状の観察は感染の早期発見に重要である。"
+      ],
+      "reference_keys": [
+        "ADL_neutropenia"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "好中球減少時の発熱の病態・観察・対応を参照資料で照合し、各肢の理由と単一正答を検証した独自設問。 独立再点検：設問の診断確度と演出を一致させ、未発症の疾患・不明な病変位置を断定しない表示を確認。",
+      "effect": {
+        "name": "好中球減少",
+        "detail": "感染を防ぐ好中球が減り、感染症への早急な対応が必要です。表示は全身への注意を象徴し、病変の位置を示すものではありません。",
+        "disease": true,
+        "avatarClasses": "affected-systemic",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-ADL-067",
+      "category": "成人看護学",
+      "topic": "がん治療中の感染予防",
+      "question": "抗がん薬治療で感染リスクが高い患者への指導で適切なのはどれか。",
+      "choices": [
+        "手指衛生は本人だけが行えばよい",
+        "発熱した友人との近距離の面会を勧める",
+        "食事前の手洗いや食品の十分な加熱を心がける",
+        "口内の傷は観察しない"
+      ],
+      "answer": 3,
+      "notes": [
+        "周囲の人の手指衛生も感染予防に役立つ。",
+        "感染症状のある人との接触は避けるよう調整する。",
+        "接触や食品を介した病原体への曝露を減らす行動である。",
+        "口腔は感染の入り口となりうるため、傷や変化を観察する。"
+      ],
+      "reference_keys": [
+        "ADL_neutropenia"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "がん治療中の感染予防の病態・観察・対応を参照資料で照合し、各肢の理由と単一正答を検証した独自設問。 独立再点検：設問の診断確度と演出を一致させ、未発症の疾患・不明な病変位置を断定しない表示を確認。"
+    },
+    {
+      "id": "ORG-ADL-068",
+      "category": "成人看護学",
+      "topic": "血小板減少時の整容",
+      "question": "抗がん薬治療で血小板が減少した患者の髭剃りで適切なのはどれか。",
+      "choices": [
+        "深剃り用の刃で強く剃る",
+        "出血しても剃り続ける",
+        "皮膚をこすって赤くする",
+        "電気シェーバーなど傷を作りにくい方法を選ぶ"
+      ],
+      "answer": 4,
+      "notes": [
+        "皮膚を切ると止血しにくい可能性がある。",
+        "出血時は中断して止血と評価を行う。",
+        "摩擦で皮膚損傷や出血を招くため避ける。",
+        "出血リスクが高いため、皮膚損傷を減らす工夫が必要である。"
+      ],
+      "reference_keys": [
+        "ADL_platelet"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "血小板減少時の整容の病態・観察・対応を参照資料で照合し、各肢の理由と単一正答を検証した独自設問。 独立再点検：設問の診断確度と演出を一致させ、未発症の疾患・不明な病変位置を断定しない表示を確認。",
+      "effect": {
+        "name": "血小板減少",
+        "detail": "血小板が減少し、止血しにくくなることがあります。表示は全身への注意を象徴し、病変の位置を示すものではありません。",
+        "disease": true,
+        "avatarClasses": "affected-systemic",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-ADL-069",
+      "category": "成人看護学",
+      "topic": "血小板減少の観察",
+      "question": "血小板が減少している患者に速やかな報告を勧める症状はどれか。",
+      "choices": [
+        "止まりにくい鼻出血や血尿",
+        "いつもどおりの食欲",
+        "通常と同じ睡眠時間",
+        "変化のない爪の長さ"
+      ],
+      "answer": 1,
+      "notes": [
+        "止血機能低下による出血の可能性があり、程度と全身状態を評価する。",
+        "普段どおりの食欲だけは出血を示す症状ではない。",
+        "睡眠時間が同じという情報だけで出血を疑うわけではない。",
+        "爪の長さが変わらないことは血小板減少による出血徴候ではない。"
+      ],
+      "reference_keys": [
+        "ADL_platelet"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "血小板減少の観察の病態・観察・対応を参照資料で照合し、各肢の理由と単一正答を検証した独自設問。 独立再点検：設問の診断確度と演出を一致させ、未発症の疾患・不明な病変位置を断定しない表示を確認。",
+      "effect": {
+        "name": "血小板減少",
+        "detail": "血小板が減少し、止血しにくくなることがあります。表示は全身への注意を象徴し、病変の位置を示すものではありません。",
+        "disease": true,
+        "avatarClasses": "affected-systemic",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-ADL-070",
+      "category": "成人看護学",
+      "topic": "口腔粘膜炎と食事",
+      "question": "抗がん薬による口腔粘膜炎で口内が痛い患者の食事で適切なのはどれか。",
+      "choices": [
+        "硬く乾いた食品を優先する",
+        "やわらかく湿り気があり刺激の少ない食品を選ぶ",
+        "刺激の強い香辛料を追加する",
+        "熱い料理で粘膜を刺激する"
+      ],
+      "answer": 2,
+      "notes": [
+        "硬く乾いた食品は傷ついた粘膜に刺激となる。",
+        "粘膜への刺激と嚥下時の負担を減らし、栄養摂取を支える。",
+        "香辛料は粘膜への刺激を強めることがある。",
+        "高温は痛みや粘膜障害を悪化させるため避ける。"
+      ],
+      "reference_keys": [
+        "ADL_mouth"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "口腔粘膜炎と食事の病態・観察・対応を参照資料で照合し、各肢の理由と単一正答を検証した独自設問。 独立再点検：設問の診断確度と演出を一致させ、未発症の疾患・不明な病変位置を断定しない表示を確認。",
+      "effect": {
+        "name": "口腔粘膜炎",
+        "detail": "設問で示された口腔粘膜の痛みに関連する部位を示します。",
+        "disease": true,
+        "avatarClasses": "sim-mouth",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-ADL-071",
+      "category": "成人看護学",
+      "topic": "口腔粘膜炎の観察",
+      "question": "がん治療中に口内痛で水分も飲めなくなった患者への対応で適切なのはどれか。",
+      "choices": [
+        "我慢できるまで歯磨きを強く行う",
+        "食事が再開するまで相談しない",
+        "疼痛と摂取量を評価して治療担当へ相談する",
+        "うがいをすれば脱水の評価は不要である"
+      ],
+      "answer": 3,
+      "notes": [
+        "強い摩擦は粘膜を傷つけ、痛みを悪化させる。",
+        "摂取困難は脱水や低栄養につながり、早めの対応が必要である。",
+        "粘膜障害と水分・栄養不足を評価し、鎮痛や補給方法を調整する。",
+        "口腔ケアに加えて全身の水分状態も確認する。"
+      ],
+      "reference_keys": [
+        "ADL_mouth"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "口腔粘膜炎の観察の病態・観察・対応を参照資料で照合し、各肢の理由と単一正答を検証した独自設問。 独立再点検：設問の診断確度と演出を一致させ、未発症の疾患・不明な病変位置を断定しない表示を確認。",
+      "effect": {
+        "name": "口腔の痛み",
+        "detail": "設問で示された口内痛に関連する部位を示します。原因や重症度を断定するものではありません。",
+        "disease": true,
+        "avatarClasses": "sim-mouth",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-ADL-072",
+      "category": "成人看護学",
+      "topic": "外部放射線照射と家族",
+      "question": "外部放射線照射を受ける患者が『治療後は家族に放射線が当たるのか』と心配している。適切な説明はどれか。",
+      "choices": [
+        "治療後も体から強い放射線が出続ける",
+        "家族との会話を禁止する",
+        "家の食器は必ず廃棄する",
+        "外部照射によって体が放射性になることはない"
+      ],
+      "answer": 4,
+      "notes": [
+        "外部照射では放射線源が体内に残るわけではない。",
+        "外部照射後の会話で家族が被曝することはない。",
+        "外部照射だけを理由に食器を廃棄する必要はない。",
+        "外から照射する治療であり、通常の家族との接触を避ける必要はない。"
+      ],
+      "reference_keys": [
+        "ADL_radiation"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "外部放射線照射と家族の病態・観察・対応を参照資料で照合し、各肢の理由と単一正答を検証した独自設問。"
+    },
+    {
+      "id": "ORG-ADL-073",
+      "category": "成人看護学",
+      "topic": "放射線治療中の体位",
+      "question": "外部放射線照射中の患者への説明で適切なのはどれか。",
+      "choices": [
+        "位置合わせ後はできるだけ体を動かさず、苦痛があれば知らせる",
+        "照射中は自由に寝返りする",
+        "息を止める指示がなくても必ず全時間息を止める",
+        "苦しくても終了まで知らせない"
+      ],
+      "answer": 1,
+      "notes": [
+        "予定した部位へ正確に照射するため体位を保ち、異常時はスタッフへ伝える。",
+        "照射部位がずれるため、自己判断の体動を避ける。",
+        "通常の呼吸でよい場合もあり、個別の呼吸指示に従う。",
+        "スタッフは監視しており、苦痛があるときは知らせて調整する。"
+      ],
+      "reference_keys": [
+        "ADL_radiation"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "放射線治療中の体位の病態・観察・対応を参照資料で照合し、各肢の理由と単一正答を検証した独自設問。"
+    },
+    {
+      "id": "ORG-ADL-074",
+      "category": "成人看護学",
+      "topic": "関節リウマチの病態",
+      "question": "関節リウマチの病態として適切なのはどれか。",
+      "choices": [
+        "関節内に必ず細菌が繁殖する病気",
+        "自己免疫の異常によって関節の炎症が起こる病気",
+        "筋肉の使いすぎだけで起こる病気",
+        "加齢による骨の摩耗だけで起こる病気"
+      ],
+      "answer": 2,
+      "notes": [
+        "感染性関節炎とは異なり、必ず細菌感染が原因となるわけではない。",
+        "免疫系が自己の関節組織を攻撃し、炎症と関節破壊を引き起こす。",
+        "使いすぎだけでは自己免疫性の炎症を説明できない。",
+        "単なる加齢変化とは異なり、免疫の異常が関与する。"
+      ],
+      "reference_keys": [
+        "ADL_ra"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "関節リウマチの病態の病態・観察・対応を参照資料で照合し、各肢の理由と単一正答を検証した独自設問。",
+      "effect": {
+        "name": "関節リウマチ",
+        "detail": "関節の自己免疫性の炎症が、痛みや機能低下を起こします。",
+        "disease": true,
+        "avatarClasses": "affected-joints",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-ADL-075",
+      "category": "成人看護学",
+      "topic": "関節リウマチの早期治療",
+      "question": "関節リウマチの診断後、早期に治療を進める主な目的はどれか。",
+      "choices": [
+        "すべての関節を動かなくする",
+        "痛みが消えた時点で通院を終える",
+        "炎症を抑えて関節の損傷と機能低下を減らす",
+        "感染を家族へ広げないよう隔離する"
+      ],
+      "answer": 3,
+      "notes": [
+        "治療の目的は関節機能を守ることであり、固定し続けることではない。",
+        "症状が軽快しても病状を継続的に評価する必要がある。",
+        "早期から病勢を抑えることで、長期の関節障害を減らすことを目指す。",
+        "関節リウマチは家族へ接触感染する病気ではない。"
+      ],
+      "reference_keys": [
+        "ADL_ra"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "関節リウマチの早期治療の病態・観察・対応を参照資料で照合し、各肢の理由と単一正答を検証した独自設問。",
+      "effect": {
+        "name": "関節リウマチ",
+        "detail": "関節の自己免疫性の炎症が、痛みや機能低下を起こします。",
+        "disease": true,
+        "avatarClasses": "affected-joints",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-ADL-076",
+      "category": "成人看護学",
+      "topic": "変形性膝関節症の運動",
+      "question": "変形性膝関節症で体重過多の患者への支援で適切なのはどれか。",
+      "choices": [
+        "痛みの程度によらず走り込みを強制する",
+        "一生ベッド上で過ごすよう伝える",
+        "筋力維持は不要と説明する",
+        "状態に合う運動と体重管理を相談する"
+      ],
+      "answer": 4,
+      "notes": [
+        "強い負荷を一律に課すと症状を悪化させる場合がある。",
+        "過度の不活動は筋力や生活機能の低下につながる。",
+        "関節を支える筋力の維持は重要である。",
+        "負担に配慮した運動と適切な体重管理は疼痛や機能の改善に役立つ。"
+      ],
+      "reference_keys": [
+        "ADL_oa"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "変形性膝関節症の運動の病態・観察・対応を参照資料で照合し、各肢の理由と単一正答を検証した独自設問。",
+      "effect": {
+        "name": "変形性膝関節症",
+        "detail": "膝の関節の変化により、痛みや動作への支障が生じます。",
+        "disease": true,
+        "avatarClasses": "affected-joints",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-ADL-077",
+      "category": "成人看護学",
+      "topic": "コンパートメント症候群の疑い",
+      "question": "下腿の外傷後、腫脹が強くなり、筋を伸ばすと激痛を訴える。適切な対応はどれか。",
+      "choices": [
+        "急性コンパートメント症候群を疑い、直ちに報告する",
+        "翌週の外来まで待つ",
+        "きつい包帯を追加する",
+        "痛みは必ず心理的と判断する"
+      ],
+      "answer": 1,
+      "notes": [
+        "筋区画内圧の上昇による血流障害が疑われ、緊急の評価と減圧につなぐ。",
+        "組織障害が進む可能性があり、先延ばしにしない。",
+        "さらなる圧迫は血流障害を悪化させうる。",
+        "外傷後の強い痛みや腫脹を心理面だけで説明してはならない。"
+      ],
+      "reference_keys": [
+        "ADL_compartment"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "コンパートメント症候群の疑いの病態・観察・対応を参照資料で照合し、各肢の理由と単一正答を検証した独自設問。 独立再点検：設問の診断確度と演出を一致させ、未発症の疾患・不明な病変位置を断定しない表示を確認。",
+      "effect": {
+        "name": "急性コンパートメント症候群の疑い",
+        "detail": "下腿外傷後の強い腫脹と伸展時痛があり、筋区画内圧上昇の緊急評価が必要です。",
+        "disease": true,
+        "avatarClasses": "sim-leg-vessels",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-ADL-078",
+      "category": "成人看護学",
+      "topic": "コンパートメント症候群の治療目的",
+      "question": "下腿の急性コンパートメント症候群で筋膜切開を行う主な目的はどれか。",
+      "choices": [
+        "筋肉の圧をさらに上げる",
+        "区画内の圧を下げて血流を改善する",
+        "関節の軟骨を増やす",
+        "血液の酸素を減らす"
+      ],
+      "answer": 2,
+      "notes": [
+        "圧を上げると虚血が悪化するため、治療目的とは逆である。",
+        "筋膜を切開して圧迫を解除し、筋や神経の血流障害を軽減する。",
+        "軟骨の増生を直接目的とする手術ではない。",
+        "酸素供給を確保するための処置であり、血中酸素を減らす目的ではない。"
+      ],
+      "reference_keys": [
+        "ADL_compartment"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "コンパートメント症候群の治療目的の病態・観察・対応を参照資料で照合し、各肢の理由と単一正答を検証した独自設問。 独立再点検：設問の診断確度と演出を一致させ、未発症の疾患・不明な病変位置を断定しない表示を確認。",
+      "effect": {
+        "name": "コンパートメント症候群",
+        "detail": "筋区画内の圧が高まり、筋や神経の血流を妨げます。",
+        "disease": true,
+        "avatarClasses": "sim-leg-vessels",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-ADL-079",
+      "category": "成人看護学",
+      "topic": "敗血症を疑う変化",
+      "question": "感染症治療中の患者が急に反応に乏しくなり、呼吸が速く、尿量も減っている。適切な対応はどれか。",
+      "choices": [
+        "眠気だけと考えて観察を終える",
+        "次の定時検温まで待つ",
+        "敗血症などを疑い緊急に全身状態を評価する",
+        "歩行練習を優先する"
+      ],
+      "answer": 3,
+      "notes": [
+        "意識状態の変化を単なる眠気と決めつけない。",
+        "複数の臓器障害を示す可能性があり、評価を遅らせない。",
+        "感染に伴う重篤な全身状態の悪化が疑われ、速やかな対応が必要である。",
+        "呼吸や循環が不安定な可能性があり、運動を優先しない。"
+      ],
+      "reference_keys": [
+        "ADL_sepsis"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "敗血症を疑う変化の病態・観察・対応を参照資料で照合し、各肢の理由と単一正答を検証した独自設問。 独立再点検：設問の診断確度と演出を一致させ、未発症の疾患・不明な病変位置を断定しない表示を確認。",
+      "effect": {
+        "name": "敗血症の疑い",
+        "detail": "感染症治療中に反応、呼吸、尿量が悪化しており、緊急評価が必要です。",
+        "disease": true,
+        "avatarClasses": "affected-systemic",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-ADL-080",
+      "category": "成人看護学",
+      "topic": "敗血症と体温",
+      "question": "敗血症について適切なのはどれか。",
+      "choices": [
+        "高熱がなければ否定できる",
+        "発熱の高さだけで重症度が決まる",
+        "体温測定だけで臓器障害を評価できる",
+        "低体温や意識変化を伴う場合もあり、全身の所見で考える"
+      ],
+      "answer": 4,
+      "notes": [
+        "敗血症では必ず高熱が出るわけではない。",
+        "呼吸、循環、意識、尿量なども重症度の判断に必要である。",
+        "体温だけでは臓器機能を十分に評価できない。",
+        "発熱が目立たない場合も含め、感染と全身の変化を総合して捉える。"
+      ],
+      "reference_keys": [
+        "ADL_sepsis"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "敗血症と体温の病態・観察・対応を参照資料で照合し、各肢の理由と単一正答を検証した独自設問。",
+      "effect": {
+        "name": "敗血症",
+        "detail": "感染に伴って全身状態や臓器機能が悪化する危険な状態です。",
+        "disease": true,
+        "avatarClasses": "affected-systemic",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-ADL-081",
+      "category": "成人看護学",
+      "topic": "アナフィラキシーの対応",
+      "question": "食物摂取後に全身のじんま疹と息苦しさが出た。本人は処方されたアドレナリン自己注射薬を持っている。適切な対応はどれか。",
+      "choices": [
+        "アナフィラキシーを疑い、緊急要請と自己注射薬の使用を助ける",
+        "皮疹が消えるまで一人で待たせる",
+        "歩いて遠方の病院へ行かせる",
+        "水を飲ませることだけで対応する"
+      ],
+      "answer": 1,
+      "notes": [
+        "呼吸症状を伴う重篤なアレルギー反応が疑われ、アドレナリンと救急対応を急ぐ。",
+        "気道や循環が急に悪化することがあり、放置しない。",
+        "歩行は循環悪化の危険があり、救急搬送につなげる。",
+        "飲水だけでは気道・循環への影響を治療できない。"
+      ],
+      "reference_keys": [
+        "ADL_anaphylaxis"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "アナフィラキシーの対応の病態・観察・対応を参照資料で照合し、各肢の理由と単一正答を検証した独自設問。",
+      "effect": {
+        "name": "アナフィラキシー",
+        "detail": "急なアレルギー反応が、呼吸や循環に影響することがあります。",
+        "disease": true,
+        "avatarClasses": "affected-systemic",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-ADL-082",
+      "category": "成人看護学",
+      "topic": "アナフィラキシー改善後",
+      "question": "アナフィラキシーでアドレナリン自己注射後に楽になった患者への対応で適切なのはどれか。",
+      "choices": [
+        "医療評価は不要として帰す",
+        "症状が軽快しても救急の医療評価につなぐ",
+        "直ちに一人で走らせる",
+        "次の食事で原因食物を試す"
+      ],
+      "answer": 2,
+      "notes": [
+        "一時的な改善だけでは安全を確定できず、継続した評価が必要である。",
+        "再び症状が現れる可能性もあるため、改善後も医療機関で評価する。",
+        "急な起立や運動は循環状態を悪化させうる。",
+        "原因が疑われる食物を自己判断で再摂取するのは危険である。"
+      ],
+      "reference_keys": [
+        "ADL_anaphylaxis"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "アナフィラキシー改善後の病態・観察・対応を参照資料で照合し、各肢の理由と単一正答を検証した独自設問。",
+      "effect": {
+        "name": "アナフィラキシー",
+        "detail": "急なアレルギー反応が、呼吸や循環に影響することがあります。",
+        "disease": true,
+        "avatarClasses": "affected-systemic",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-ADL-083",
+      "category": "成人看護学",
+      "topic": "鉄欠乏性貧血の原因検索",
+      "question": "成人男性で鉄欠乏性貧血が判明した。看護師の説明として適切なのはどれか。",
+      "choices": [
+        "鉄を飲めば原因の確認は必要ない",
+        "食事だけが唯一の原因である",
+        "消化管出血など、鉄が不足した原因も調べる",
+        "貧血は必ず睡眠不足から起こる"
+      ],
+      "answer": 3,
+      "notes": [
+        "補充に加えて、鉄の喪失や摂取不足などの原因を評価する。",
+        "消化管出血など、食事以外の原因もある。",
+        "慢性的な出血が隠れていることもあり、原因の検索が重要である。",
+        "睡眠不足だけが鉄欠乏性貧血の原因ではない。"
+      ],
+      "reference_keys": [
+        "ADL_anemia"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "鉄欠乏性貧血の原因検索の病態・観察・対応を参照資料で照合し、各肢の理由と単一正答を検証した独自設問。 独立再点検：設問の診断確度と演出を一致させ、未発症の疾患・不明な病変位置を断定しない表示を確認。",
+      "effect": {
+        "name": "鉄欠乏性貧血",
+        "detail": "鉄不足によって赤血球での酸素運搬に影響します。表示は全身への注意を象徴し、病変の位置を示すものではありません。",
+        "disease": true,
+        "avatarClasses": "affected-systemic",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-ADL-084",
+      "category": "成人看護学",
+      "topic": "鉄剤の副作用への相談",
+      "question": "鉄欠乏性貧血で鉄剤を飲み始め、便秘を訴える患者への対応で適切なのはどれか。",
+      "choices": [
+        "全員で治療失敗の証拠と説明する",
+        "自分で倍量にするよう伝える",
+        "今後は検査も通院もやめるよう伝える",
+        "副作用の可能性を評価し、服用方法などを担当と相談する"
+      ],
+      "answer": 4,
+      "notes": [
+        "便秘は鉄剤で起こりうる副作用であり、治療失敗とは限らない。",
+        "増量すると副作用が強まる可能性があり、自己調整しない。",
+        "効果と副作用を確認しながら治療を継続・調整する。",
+        "症状を確認し、必要に応じて飲み方や薬剤の調整を相談する。"
+      ],
+      "reference_keys": [
+        "ADL_anemia"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "鉄剤の副作用への相談の病態・観察・対応を参照資料で照合し、各肢の理由と単一正答を検証した独自設問。 独立再点検：設問の診断確度と演出を一致させ、未発症の疾患・不明な病変位置を断定しない表示を確認。",
+      "effect": {
+        "name": "鉄欠乏性貧血",
+        "detail": "鉄不足によって赤血球での酸素運搬に影響します。表示は全身への注意を象徴し、病変の位置を示すものではありません。",
+        "disease": true,
+        "avatarClasses": "affected-systemic",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-ADL-085",
+      "category": "成人看護学",
+      "topic": "肝硬変と意識変化",
+      "question": "肝硬変の患者が急に会話のつじつまが合わなくなった。適切な対応はどれか。",
+      "choices": [
+        "肝性脳症などを含めて速やかに評価につなぐ",
+        "年齢だけが原因と断定する",
+        "本人の性格として記録しない",
+        "外出させて様子を見る"
+      ],
+      "answer": 1,
+      "notes": [
+        "肝硬変では脳機能への影響が生じることがあり、他の原因も含め緊急に確認する。",
+        "急な変化を加齢だけで説明してはならない。",
+        "意識や認知の変化は重要な所見であり、具体的に記録する。",
+        "安全確保と原因評価が必要で、一人で外出させない。"
+      ],
+      "reference_keys": [
+        "ADL_cirrhosis"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "肝硬変と意識変化の病態・観察・対応を参照資料で照合し、各肢の理由と単一正答を検証した独自設問。",
+      "effect": {
+        "name": "肝硬変",
+        "detail": "慢性の肝障害によって、腹水や意識変化などが起こることがあります。",
+        "disease": true,
+        "avatarClasses": "affected-liver",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-ADL-086",
+      "category": "成人看護学",
+      "topic": "肝硬変と腹部膨満",
+      "question": "肝硬変の患者で腹部が張り、体重と腹囲が増えている。考えられる状態はどれか。",
+      "choices": [
+        "骨格筋量が短期間に増えた",
+        "腹水が増えている可能性",
+        "皮下脂肪が数時間で大幅に増えた",
+        "胆汁の量だけが腹腔内で増えた"
+      ],
+      "answer": 2,
+      "notes": [
+        "短期間の腹囲増加を筋肉の増加だけと判断しない。",
+        "肝硬変では腹腔内に水分がたまることがあり、体液状態と症状を評価する。",
+        "短時間の体重や腹囲変化では、脂肪増加より体液変化も考える。",
+        "腹水は胆汁そのものの単純な貯留とは異なる。"
+      ],
+      "reference_keys": [
+        "ADL_cirrhosis"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "肝硬変と腹部膨満の病態・観察・対応を参照資料で照合し、各肢の理由と単一正答を検証した独自設問。",
+      "effect": {
+        "name": "肝硬変",
+        "detail": "慢性の肝障害によって、腹水や意識変化などが起こることがあります。",
+        "disease": true,
+        "avatarClasses": "affected-liver",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-ADL-087",
+      "category": "成人看護学",
+      "topic": "肝硬変の生活指導",
+      "question": "肝硬変患者への生活指導で適切なのはどれか。",
+      "choices": [
+        "薬草なら使用前の相談は不要である",
+        "酒の種類を変えれば飲酒制限は不要である",
+        "飲酒を避け、薬や健康食品は使用前に確認する",
+        "肝臓病では予防接種を一律に禁止する"
+      ],
+      "answer": 3,
+      "notes": [
+        "薬草や健康食品にも肝臓への影響があり、確認が必要である。",
+        "酒の種類よりアルコールそのものの負担が問題となる。",
+        "肝障害の悪化を避けるため、飲酒と薬剤の使用に注意する。",
+        "適応のある予防接種は感染予防に役立ち、一律に禁止しない。"
+      ],
+      "reference_keys": [
+        "ADL_cirrhosis"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "肝硬変の生活指導の病態・観察・対応を参照資料で照合し、各肢の理由と単一正答を検証した独自設問。",
+      "effect": {
+        "name": "肝硬変",
+        "detail": "慢性の肝障害によって、腹水や意識変化などが起こることがあります。",
+        "disease": true,
+        "avatarClasses": "affected-liver",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-ADL-088",
+      "category": "成人看護学",
+      "topic": "急性膵炎の原因",
+      "question": "急性膵炎の代表的な原因の組合せはどれか。",
+      "choices": [
+        "花粉曝露と接触性皮膚炎",
+        "鉄欠乏と葉酸欠乏",
+        "変形性関節症と骨粗鬆症",
+        "胆石と多量の飲酒"
+      ],
+      "answer": 4,
+      "notes": [
+        "これらは主にアレルギーや皮膚の病態に関係し、膵炎の代表的原因ではない。",
+        "これらは貧血の原因であり、急性膵炎の主な原因の組合せではない。",
+        "これらは骨・関節の病態であり、膵炎の代表的な原因ではない。",
+        "胆石による流出障害や多量の飲酒は急性膵炎の主要な原因である。"
+      ],
+      "reference_keys": [
+        "ADL_pancreas"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "急性膵炎の原因の病態・観察・対応を参照資料で照合し、各肢の理由と単一正答を検証した独自設問。",
+      "effect": {
+        "name": "急性膵炎",
+        "detail": "膵臓に急な炎症が生じ、強い腹痛などを起こします。",
+        "disease": true,
+        "avatarClasses": "sim-upper-abdomen",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-ADL-089",
+      "category": "成人看護学",
+      "topic": "急性膵炎の疼痛観察",
+      "question": "急性膵炎の患者の疼痛で確認する情報として適切なのはどれか。",
+      "choices": [
+        "上腹部痛が背部へ広がるか",
+        "痛みの訴えが医療者に好印象か",
+        "他の患者より我慢しているか",
+        "家族が痛みに慣れているか"
+      ],
+      "answer": 1,
+      "notes": [
+        "急性膵炎では上腹部から背部へ放散する痛みがみられることがある。",
+        "医療者の印象ではなく、部位や強さ、経過を具体的に評価する。",
+        "他人との我慢比べでは、その人の疼痛を正確に評価できない。",
+        "家族の慣れだけで本人の痛みを判断しない。"
+      ],
+      "reference_keys": [
+        "ADL_pancreas"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "急性膵炎の疼痛観察の病態・観察・対応を参照資料で照合し、各肢の理由と単一正答を検証した独自設問。",
+      "effect": {
+        "name": "急性膵炎",
+        "detail": "膵臓に急な炎症が生じ、強い腹痛などを起こします。",
+        "disease": true,
+        "avatarClasses": "sim-upper-abdomen",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-ADL-090",
+      "category": "成人看護学",
+      "topic": "急性膵炎の再発予防",
+      "question": "飲酒が関連した急性膵炎で退院する患者への支援として適切なのはどれか。",
+      "choices": [
+        "退院後は多量飲酒を再開する",
+        "飲酒を避けるための具体的な支援につなぐ",
+        "腹痛がなければ飲酒量を倍にする",
+        "再発は絶対にないと伝える"
+      ],
+      "answer": 2,
+      "notes": [
+        "飲酒の再開は再発の危険があり、原因への対応が必要である。",
+        "原因となった飲酒への支援を行い、再発防止を図る。",
+        "痛みの有無だけで飲酒の安全性を判断しない。",
+        "急性膵炎は再発することがあり、予防が重要である。"
+      ],
+      "reference_keys": [
+        "ADL_pancreas"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "急性膵炎の再発予防の病態・観察・対応を参照資料で照合し、各肢の理由と単一正答を検証した独自設問。",
+      "effect": {
+        "name": "急性膵炎",
+        "detail": "膵臓に急な炎症が生じ、強い腹痛などを起こします。",
+        "disease": true,
+        "avatarClasses": "sim-upper-abdomen",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-ADL-091",
+      "category": "成人看護学",
+      "topic": "HbA1cの捉え方",
+      "question": "糖尿病患者へのHbA1cの説明として適切なのはどれか。",
+      "choices": [
+        "採血時の一瞬の血糖だけを示す",
+        "前日の夕食内容だけを示す",
+        "過去数か月の平均的な血糖状態を反映する",
+        "血糖とは関係なく腎臓の形を示す"
+      ],
+      "answer": 3,
+      "notes": [
+        "一時点の血糖値とは異なる情報を示す。",
+        "前日の一食だけで決まる検査値ではない。",
+        "ヘモグロビンの糖化の程度から、一定期間の血糖管理を評価する。",
+        "腎臓の形を画像化する検査ではない。"
+      ],
+      "reference_keys": [
+        "ADL_diabetes"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "HbA1cの捉え方の病態・観察・対応を参照資料で照合し、各肢の理由と単一正答を検証した独自設問。 独立再点検：設問の診断確度と演出を一致させ、未発症の疾患・不明な病変位置を断定しない表示を確認。",
+      "effect": {
+        "name": "糖尿病",
+        "detail": "血糖の調節に異常があり、全身の合併症予防が重要です。表示は全身への注意を象徴し、病変の位置を示すものではありません。",
+        "disease": true,
+        "avatarClasses": "affected-systemic",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-ADL-092",
+      "category": "成人看護学",
+      "topic": "血糖自己測定の記録",
+      "question": "糖尿病患者が血糖測定結果を受診時に持参する。治療調整に役立つ記録はどれか。",
+      "choices": [
+        "数値だけを日付なしで並べる",
+        "低かった数値だけ消す",
+        "毎日同じ値を書き写す",
+        "測定日時、数値、食事や運動との関係を記す"
+      ],
+      "answer": 4,
+      "notes": [
+        "日時がないと食事や薬との関連を評価しにくい。",
+        "低血糖の情報も安全な治療調整に重要である。",
+        "実際の測定結果を記録しなければ病状を評価できない。",
+        "値が変化した背景を共有することで、食事や薬などの調整に役立つ。"
+      ],
+      "reference_keys": [
+        "ADL_diabetes"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "血糖自己測定の記録の病態・観察・対応を参照資料で照合し、各肢の理由と単一正答を検証した独自設問。 独立再点検：設問の診断確度と演出を一致させ、未発症の疾患・不明な病変位置を断定しない表示を確認。",
+      "effect": {
+        "name": "糖尿病",
+        "detail": "血糖の調節に異常があり、全身の合併症予防が重要です。表示は全身への注意を象徴し、病変の位置を示すものではありません。",
+        "disease": true,
+        "avatarClasses": "affected-systemic",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-ADL-093",
+      "category": "成人看護学",
+      "topic": "糖尿病の心血管リスク",
+      "question": "糖尿病患者の合併症予防について適切なのはどれか。",
+      "choices": [
+        "血糖に加えて血圧や脂質、喫煙も評価する",
+        "血糖が良ければ高血圧は放置してよい",
+        "脂質と血管障害は無関係である",
+        "禁煙は糖尿病患者には不要である"
+      ],
+      "answer": 1,
+      "notes": [
+        "複数の危険因子を管理することが心血管障害の予防につながる。",
+        "高血圧も心臓や腎臓などの障害に関わるため管理する。",
+        "脂質異常は動脈硬化の危険因子となる。",
+        "喫煙は血管障害の危険を高めるため、禁煙支援が重要である。"
+      ],
+      "reference_keys": [
+        "ADL_diabetes"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "糖尿病の心血管リスクの病態・観察・対応を参照資料で照合し、各肢の理由と単一正答を検証した独自設問。 独立再点検：設問の診断確度と演出を一致させ、未発症の疾患・不明な病変位置を断定しない表示を確認。",
+      "effect": {
+        "name": "糖尿病",
+        "detail": "血糖の調節に異常があり、全身の合併症予防が重要です。表示は全身への注意を象徴し、病変の位置を示すものではありません。",
+        "disease": true,
+        "avatarClasses": "affected-systemic",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-ADL-094",
+      "category": "成人看護学",
+      "topic": "糖尿病療養と費用の問題",
+      "question": "糖尿病患者が費用を理由に薬を間引いていた。看護師の対応として適切なのはどれか。",
+      "choices": [
+        "叱責して相談を終える",
+        "困難を聞き、医療チームや相談窓口と継続可能な方法を検討する",
+        "今後も自己判断で半量にするよう勧める",
+        "費用は療養に関係しないと伝える"
+      ],
+      "answer": 2,
+      "notes": [
+        "叱責だけでは背景の問題が解決せず、相談もしにくくなる。",
+        "経済的事情も療養継続に影響し、具体的な支援へつなぐ必要がある。",
+        "無断の減量は血糖管理を悪化させる可能性がある。",
+        "費用は薬の入手や治療継続に影響する重要な要因である。"
+      ],
+      "reference_keys": [
+        "ADL_diabetes"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "糖尿病療養と費用の問題の病態・観察・対応を参照資料で照合し、各肢の理由と単一正答を検証した独自設問。 独立再点検：設問の診断確度と演出を一致させ、未発症の疾患・不明な病変位置を断定しない表示を確認。",
+      "effect": {
+        "name": "糖尿病",
+        "detail": "血糖の調節に異常があり、全身の合併症予防が重要です。表示は全身への注意を象徴し、病変の位置を示すものではありません。",
+        "disease": true,
+        "avatarClasses": "affected-systemic",
+        "kind": "condition"
+      }
+    },
+    {
+      "id": "ORG-ADL-095",
+      "category": "成人看護学",
+      "topic": "尿路結石の再発予防",
+      "question": "尿路結石が排出され、水分制限の指示がない患者への指導で適切なのはどれか。",
+      "choices": [
+        "水分を極端に減らす",
+        "発汗時も飲水を避ける",
+        "脱水を避けるよう日常の水分摂取を確保する",
+        "一度排石すれば再発しないと説明する"
+      ],
+      "answer": 3,
+      "notes": [
+        "尿が濃縮すると結石形成につながりやすくなる。",
+        "発汗で失う水分を考慮し、脱水を防ぐ必要がある。",
+        "十分な尿量の確保は結石予防に役立ち、個別の指示に合わせる。",
+        "結石は再発することがあり、予防が必要である。"
+      ],
+      "reference_keys": [
+        "ADL_stone"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "尿路結石の再発予防の病態・観察・対応を参照資料で照合し、各肢の理由と単一正答を検証した独自設問。 独立再点検：設問の診断確度と演出を一致させ、未発症の疾患・不明な病変位置を断定しない表示を確認。"
+    },
+    {
+      "id": "ORG-ADL-096",
+      "category": "成人看護学",
+      "topic": "てんかんの入浴時の安全",
+      "question": "意識を失うてんかん発作が最近もある成人が、退院後の入浴方法を相談した。適切な提案はどれか。",
+      "choices": [
+        "浴室の鍵をかけ、家族には入浴後に知らせる",
+        "浴槽の湯を浅くすれば、自宅に一人のときでも入浴できる",
+        "発作で倒れないよう、熱めの湯で短時間の入浴にする",
+        "家族が在宅するときに声をかけ、排水を確保してシャワーを使う"
+      ],
+      "answer": 4,
+      "notes": [
+        "施錠すると発作時に家族が入れず、救助が遅れる。プライバシーを守りつつ入浴中と分かる工夫をする。",
+        "浅い湯でも意識を失って顔が水につかれば溺水につながる。一人での浴槽入浴を安全とはいえない。",
+        "湯を熱くしても発作や転倒を防げず、意識を失ったときの熱傷リスクが高まる。",
+        "浴槽に湯をためる方法より、排水できるシャワーを選ぶ。家族の在宅と声かけにより異変への対応を助ける。"
+      ],
+      "reference_keys": [
+        "ADL_review_bath"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "Epilepsy Foundationの医師執筆Safety at Homeの浴室安全を確認。浴槽よりシャワー、排水確保、在宅者への連絡、施錠回避、熱傷防止を各肢と照合。小児の発作型の問と異なる成人の退院生活支援を問う独自設問。"
+    },
+    {
+      "id": "ORG-ADL-097",
+      "category": "成人看護学",
+      "topic": "放射線治療の目印",
+      "question": "放射線治療のため皮膚に描いた目印が薄くなった。適切な対応はどれか。",
+      "choices": [
+        "自分で描き直さず、担当スタッフに伝える",
+        "記憶を頼りに別の場所へ描く",
+        "強くこすって全部消す",
+        "目印は治療と無関係なので黙っている"
+      ],
+      "answer": 1,
+      "notes": [
+        "正確な位置合わせに必要なため、専門のスタッフに確認する。",
+        "位置のずれにつながるため、自己判断で描き直さない。",
+        "治療計画に沿った目印を不用意に消さない。",
+        "再現性のある照射位置を決める重要な目印である。"
+      ],
+      "reference_keys": [
+        "ADL_radiation"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "放射線治療の目印の病態・観察・対応を参照資料で照合し、各肢の理由と単一正答を検証した独自設問。"
+    }
+  ]
+}

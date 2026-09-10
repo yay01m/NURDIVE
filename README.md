@@ -47,7 +47,7 @@ QUICK 10問・STANDARD 20問・SURVIVAL 30問、分野別演習、必修、今�
 
 `official-bank.js` はゲーム用変換と採点を担当します。生成された `official-questions.js` は直接編集しないでください。Service Workerは旧版の問題キャッシュを破棄します。
 
-タイトル画面で「過去問／オリジナル問題」を選択できます。オリジナル問題は未収録のため開始できません。問題数の追加・旧問題の復元はしていません。
+タイトル画面で「過去問／オリジナル問題」を選択できます。現在のオリジナル問題については末尾の説明を参照してください。
 
 
 ## 解説データ
@@ -94,3 +94,13 @@ QUICK 10問・STANDARD 20問・SURVIVAL 30問、分野別演習、必修、今�
 全1,125問の表示用データは `scripts/build_question_presentations.py` から `question-presentations.js` に生成します。`question-presentation.js` が問題入力との一致を確認して画面に使用します。原本の問題・選択肢・正答とシミュレーターの照合用データは変更しません。
 
 前問コンテキスト189件は `data/display-contexts-*.json` で経過本文と問いかけを個別に切り分けています。症例と設問は別表示にし、英語注記は374問で折りたたみ欄へ移動。PDFの行末折り返しを整理し、検査値・単位は本文に保持します。111-PM-029の表崩れと113-PM-099の経過欠落は原本画像で照合した表示補正を `data/display-text-replacements.json` に記録しています。集計・入力ハッシュは `data/question-presentation-report.json` を参照してください。
+
+## オリジナル問題
+
+国試対策用の独自作成問題を9分野それぞれ100問、合計900問収録しています。全3,600選択肢に解説があります。前回の20問はID・問題・正答・解説を保持しています。タイトルの「オリジナル問題」から選択でき、分野選択にも収録数を表示します。人体の構造と機能、基礎、成人、老年、小児、母性、精神、地域・在宅、統合を扱います。
+
+編集元は `data/original/` の分野別JSONです。執筆基準は同フォルダの `AUTHORING.md`、既存20問は `seed-20.json` に保存しています。`python scripts/build_original_questions.py --require-complete` で件数・ID・4択・解説・資料参照等を検査し、問題JSON、ゲーム用 `original-questions.js`、閲覧用 `data/original-questions-all.md`、資料照合記録と集計を生成します。`--check-only` を付けると表示用データを更新せず検査できます。`scripts/build_original_seed.py` は初回20問の履歴で、現在の更新には使用しません。
+
+問題・解説はAIによる独自執筆・資料照合であり、医療専門職の監修はありません。根拠URLは編集記録に保存し、ゲーム画面には表示しません。類似する設問の確認候補は `python scripts/audit_original_similarity.py` で抽出します。数値や語尾の置換による問題の増量は行いません。
+
+対戦と「今日の1問」は従来の公式過去問を使用します。今回のオリジナル問題は1人用の出題・分野選択・回答履歴・復習に対応しています。`scripts/test_original_questions.cjs` で検証します。

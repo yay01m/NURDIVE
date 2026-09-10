@@ -1,0 +1,22 @@
+{
+  "verified_at": "2026-09-10",
+  "total_questions": 900,
+  "categories": 9,
+  "questions_per_category": 100,
+  "option_explanations": 3600,
+  "condition_effect_questions": 216,
+  "original_bank_sha256": "fd4998e90d403a75785935b8a45e15334f945aa068fe08cc9778715f913a403a",
+  "passed": [
+    "canonical export and seed 20 preservation",
+    "all 3600 answer decisions and invalid selections",
+    "independent arithmetic checks",
+    "all 900 correct and incorrect browser flows",
+    "9 category filters and original/past source switching",
+    "20-question session and incorrect-answer review",
+    "all condition hotspots and specific foot/thyroid/mouth/pelvis markers",
+    "reduced-motion setting",
+    "mobile and desktop title visual inspection",
+    "no browser page errors"
+  ],
+  "content_review": "AIによる執筆・一次資料照合および内容の見直し。医療専門職による監修ではない。"
+}

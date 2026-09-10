@@ -34,7 +34,7 @@ const {chromium}=require('C:/Users/sa1j0/.cache/codex-runtimes/codex-primary-run
  await a.screenshot({path:'tmp/battle-lobby-mobile.png',fullPage:true});await a.click('[data-battle="start"]');
  for(let round=0;round<10;round++){
   if(round>0){await db.query("update recare_battle_rooms set review_until=clock_timestamp()-interval '1 second' where code=$1",[code]);await a.waitForFunction(round=>document.querySelector('.battle-round')?.textContent.includes(`第 ${round+1} 問`),round);}
-  await db.query("update recare_battle_rooms set round_started_at=clock_timestamp()-interval '1 second',deadline_at=clock_timestamp()+interval '119 seconds' where code=$1",[code]);
+  await db.query("update recare_battle_rooms set round_started_at=clock_timestamp()-interval '1 second',deadline_at=clock_timestamp()+interval '149 seconds' where code=$1",[code]);
   await Promise.all([a,b].map(p=>p.waitForSelector('[data-battle-choice]:not([disabled])')));
   assert.equal(await a.locator('.battle-question').innerText(),await b.locator('.battle-question').innerText());
   const row=(await db.query('select q.* from recare_battle_rooms r join recare_battle_questions q on q.id=r.question_ids[r.round_index+1] where r.code=$1',[code])).rows[0];const correct=row.answer_sets[0];
@@ -49,7 +49,7 @@ const {chromium}=require('C:/Users/sa1j0/.cache/codex-runtimes/codex-primary-run
   if(round===0){await a.screenshot({path:'tmp/battle-review-mobile.png',fullPage:true});assert(await a.locator('#battleScreen').evaluate(e=>e.scrollWidth<=e.clientWidth));}
  }
  await db.query("update recare_battle_rooms set review_until=clock_timestamp()-interval '1 second' where code=$1",[code]);await Promise.all([a,b].map(p=>p.waitForSelector('.battle-result')));
- assert((await a.locator('.battle-result>h2').innerText()).includes('あなたの勝ち'));assert((await b.locator('.battle-result>h2').innerText()).includes('相手の勝ち'));assert.equal(await a.locator('.battle-history>details').count(),10);
+ assert((await a.locator('.battle-result>h2').innerText()).includes('あなたの勝ち'));assert((await b.locator('.battle-result>h2').innerText()).includes('あなたは2位'));assert.equal(await a.locator('.battle-history>details').count(),10);
  await a.screenshot({path:'tmp/battle-result-mobile.png',fullPage:true});assert.equal(await a.evaluate(()=>state.score),0);assert.deepEqual(errors,[]);
  await a.click('[data-battle="exit"]');assert(await a.locator('#titleScreen').isVisible());console.log('PASS: two browser clients, real SQL, shared ten questions, score/result, reveal, reconnect before/after answer, 10 review entries, no solo-state contamination.');
  }finally{await browser.close();await db.close()}

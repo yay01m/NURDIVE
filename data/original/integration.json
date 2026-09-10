@@ -1,0 +1,2730 @@
+{
+  "category": "看護の統合と実践",
+  "sources": {
+    "int_sbar": {
+      "title": "AHRQ: SBAR",
+      "url": "https://www.ahrq.gov/teamstepps-program/curriculum/communication/tools/sbar.html",
+      "checked_at": "2026-09-10"
+    },
+    "int_checkback": {
+      "title": "AHRQ: Check-Back",
+      "url": "https://www.ahrq.gov/teamstepps-program/curriculum/communication/tools/checkback.html",
+      "checked_at": "2026-09-10"
+    },
+    "int_handoff": {
+      "title": "AHRQ: Handoff",
+      "url": "https://www.ahrq.gov/teamstepps-program/curriculum/communication/tools/handoff.html",
+      "checked_at": "2026-09-10"
+    },
+    "int_teachback": {
+      "title": "AHRQ: Teach-Back",
+      "url": "https://www.ahrq.gov/teamstepps-program/curriculum/communication/tools/teachback.html",
+      "checked_at": "2026-09-10"
+    },
+    "int_huddle": {
+      "title": "AHRQ: Huddle",
+      "url": "https://www.ahrq.gov/teamstepps-program/curriculum/team/tools/huddle.html",
+      "checked_at": "2026-09-10"
+    },
+    "int_debrief": {
+      "title": "AHRQ: Debrief",
+      "url": "https://www.ahrq.gov/teamstepps-program/curriculum/team/tools/debrief.html",
+      "checked_at": "2026-09-10"
+    },
+    "int_cus": {
+      "title": "AHRQ: CUS",
+      "url": "https://www.ahrq.gov/teamstepps-program/curriculum/mutual/tools/cus.html",
+      "checked_at": "2026-09-10"
+    },
+    "int_team": {
+      "title": "AHRQ: TeamSTEPPS tools",
+      "url": "https://www.ahrq.gov/teamstepps-program/resources/modules/index.html",
+      "checked_at": "2026-09-10"
+    },
+    "int_ethics": {
+      "title": "日本看護協会：看護職の倫理綱領",
+      "url": "https://www.nurse.or.jp/nursing/rinri/rinri_yoko/index.html",
+      "checked_at": "2026-09-10"
+    },
+    "int_aide": {
+      "title": "日本看護協会：看護補助者との協働",
+      "url": "https://www.nurse.or.jp/nursing/shift_n_share/nurse_aide/index.html",
+      "checked_at": "2026-09-10"
+    },
+    "int_privacy": {
+      "title": "個人情報保護委員会：医療・介護ガイダンス",
+      "url": "https://www.ppc.go.jp/personalinfo/legal/iryoukaigo_guidance/",
+      "checked_at": "2026-09-10"
+    },
+    "int_bcp": {
+      "title": "厚生労働省：医療施設の事業継続計画",
+      "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou/infulenza/kenkyu_00001.html",
+      "checked_at": "2026-09-10"
+    },
+    "int_disaster": {
+      "title": "厚生労働省：災害医療",
+      "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000089060.html",
+      "checked_at": "2026-09-10"
+    },
+    "int_research": {
+      "title": "厚生労働省：生命科学・医学系研究倫理指針",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00012250&dataType=0",
+      "checked_at": "2026-09-10"
+    },
+    "int_systems": {
+      "title": "AHRQ PSNet: Systems Approach",
+      "url": "https://psnet.ahrq.gov/primer/systems-approach",
+      "checked_at": "2026-09-10"
+    },
+    "int_rca": {
+      "title": "AHRQ: Root Cause Analysis",
+      "url": "https://www.ahrq.gov/evidencenow/tools/root-cause-analysis.html",
+      "checked_at": "2026-09-10"
+    },
+    "int_fmea": {
+      "title": "AHRQ: Failure Mode and Effects Analysis",
+      "url": "https://digital.ahrq.gov/health-it-tools-and-resources/evaluation-resources/workflow-assessment-health-it-toolkit/all-workflow-tools/fmea-analysis",
+      "checked_at": "2026-09-10"
+    },
+    "int_surgery": {
+      "title": "WHO: Surgical Safety Checklist implementation manual",
+      "url": "https://www.who.int/publications/i/item/9789241598590",
+      "checked_at": "2026-09-10"
+    },
+    "int_match": {
+      "title": "AHRQ: Medication Reconciliation MATCH",
+      "url": "https://www.ahrq.gov/patient-safety/settings/hospital/match/intro.html",
+      "checked_at": "2026-09-10"
+    },
+    "int_oralorder": {
+      "title": "日本医療機能評価機構：口頭指示による薬剤量間違い",
+      "url": "https://www.med-safe.jp/pdf/report_2014_4_T004.pdf",
+      "checked_at": "2026-09-10"
+    },
+    "int_lookalike": {
+      "title": "厚生労働省：外観類似薬の取り違え",
+      "url": "https://www.mhlw.go.jp/topics/bukyoku/isei/i-anzen/1/syukei12/kijyutsu08.html",
+      "checked_at": "2026-09-10"
+    },
+    "int_sustained": {
+      "title": "PMDA：徐放性製剤の粉砕投与",
+      "url": "https://www.pmda.go.jp/files/000267468.pdf",
+      "checked_at": "2026-09-10"
+    },
+    "int_devices": {
+      "title": "PMDA：医療安全情報",
+      "url": "https://www.pmda.go.jp/safety/info-services/medical-safety-info/0009.html",
+      "checked_at": "2026-09-10"
+    },
+    "int_record": {
+      "title": "日本看護協会：看護記録に関する指針",
+      "url": "https://www.nurse.or.jp/nursing/home/publication/pdf/guideline/nursing_record.pdf",
+      "checked_at": "2026-09-10"
+    },
+    "int_study": {
+      "title": "CDC: Designing and Conducting Analytic Studies",
+      "url": "https://www.cdc.gov/field-epi-manual/php/chapters/design-conduct-analyze-field-studies.html",
+      "checked_at": "2026-09-10"
+    },
+    "int_analysis": {
+      "title": "CDC: Analyzing and Interpreting Data",
+      "url": "https://www.cdc.gov/field-epi-manual/php/chapters/analyze-interpret-data.html",
+      "checked_at": "2026-09-10"
+    },
+    "int_epidemiology": {
+      "title": "CDC: Principles of Epidemiology",
+      "url": "https://archive.cdc.gov/www_cdc_gov/csels/dsepd/ss1978/SS1978.pdf",
+      "checked_at": "2026-09-10"
+    },
+    "int_night": {
+      "title": "日本看護協会：夜勤・交代制勤務の負担軽減",
+      "url": "https://www.nurse.or.jp/nursing/shuroanzen/yakinkotai/index.html",
+      "checked_at": "2026-09-10"
+    },
+    "int_lifting": {
+      "title": "厚生労働省：職場における腰痛予防対策",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00tb9484&dataType=1",
+      "checked_at": "2026-09-10"
+    },
+    "int_triage": {
+      "title": "日本赤十字社和歌山医療センター：START方式",
+      "url": "https://www.wakayama-med.jrc.or.jp/webmagazine/detail.php?seq=26",
+      "checked_at": "2026-09-10"
+    },
+    "int_pfa": {
+      "title": "WHO: Psychological first aid",
+      "url": "https://www.who.int/publications/i/item/9789241548205",
+      "checked_at": "2026-09-10"
+    },
+    "int_delivery": {
+      "title": "日本看護学会誌：看護提供方式の記述",
+      "url": "https://jsn.nurse.or.jp/wp-content/uploads/2025/11/34d2cabf42a0217ffb97d8000f6db239.pdf",
+      "checked_at": "2026-09-10"
+    },
+    "int_emis": {
+      "title": "厚生労働省：EMISサービス概要",
+      "url": "https://www.emis.mhlw.go.jp/public/s/service",
+      "checked_at": "2026-09-10"
+    },
+    "int_allergy": {
+      "title": "厚生労働省：避難所でのアレルギー対応",
+      "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000122165.html",
+      "checked_at": "2026-09-10"
+    },
+    "int_food": {
+      "title": "厚生労働省：災害時の食中毒予防",
+      "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000212536_00004.html",
+      "checked_at": "2026-09-10"
+    },
+    "int_nutrition": {
+      "title": "厚生労働省：避難生活での栄養・食生活支援",
+      "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000123298.html",
+      "checked_at": "2026-09-10"
+    },
+    "int_collaboration": {
+      "title": "厚生労働省：医療スタッフの協働・連携によるチーム医療",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00tb6110&dataType=1&pageNo=1",
+      "checked_at": "2026-09-10"
+    },
+    "int_msw": {
+      "title": "厚生労働省職業情報：医療ソーシャルワーカー",
+      "url": "https://shigoto.mhlw.go.jp/Occupation/Detail?occupationId=408",
+      "checked_at": "2026-09-10"
+    },
+    "int_dvt": {
+      "title": "日本赤十字社：避難生活での健康課題",
+      "url": "https://www.jrc.or.jp/press/2026/0730_054604.html",
+      "checked_at": "2026-09-10"
+    },
+    "int_infection": {
+      "title": "厚生労働省：医療機関における院内感染対策",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00tc0640&dataType=1&pageNo=1",
+      "checked_at": "2026-09-10"
+    },
+    "int_identification": {
+      "title": "WHO Patient Safety Solutions: Patient Identification",
+      "url": "https://www.who.int/docs/default-source/integrated-health-services-%28ihs%29/psf/patient-safety-solutions/ps-solution2-patient-identification.pdf",
+      "checked_at": "2026-09-10"
+    },
+    "int_independent": {
+      "title": "ISMP: Independent Double Checks",
+      "url": "https://home.ecri.org/blogs/ismp-alerts-and-articles-library/independent-double-checks-worth-the-effort-if-used-judiciously-and-properly",
+      "checked_at": "2026-09-10"
+    },
+    "int_routes": {
+      "title": "FDA: Examples of Medical Device Misconnections",
+      "url": "https://www.fda.gov/medical-devices/medical-device-connectors/examples-medical-device-misconnections",
+      "checked_at": "2026-09-10"
+    },
+    "int_postfall": {
+      "title": "AHRQ: Preventing Falls in Hospitals (postfall assessment)",
+      "url": "https://www.ahrq.gov/sites/default/files/publications/files/fallpxtoolkit.pdf",
+      "checked_at": "2026-09-10"
+    },
+    "int_pdca": {
+      "title": "ASQ: Plan-Do-Check-Act Cycle",
+      "url": "https://asq.org/quality-resources/pdca-cycle",
+      "checked_at": "2026-09-10"
+    },
+    "int_sharps": {
+      "title": "CDC/NIOSH: Bloodborne Infectious Disease Risk Factors",
+      "url": "https://www.cdc.gov/niosh/healthcare/risk-factors/bloodborne-infectious-diseases.html",
+      "checked_at": "2026-09-10"
+    },
+    "int_disaster_bcp": {
+      "title": "厚生労働省：医療施設の事業継続計画(BCP)",
+      "url": "https://www.mhlw.go.jp/stf/newpage_61878.html",
+      "checked_at": "2026-09-10"
+    }
+  },
+  "questions": [
+    {
+      "id": "ORG-INT-001",
+      "category": "看護の統合と実践",
+      "topic": "SBARのアセスメント",
+      "question": "患者の状態変化をSBARで報告する。「Assessment」に当たる内容はどれか。",
+      "choices": [
+        "現在の所見から循環状態が悪化していると考えたこと",
+        "患者の入院日と手術歴",
+        "報告者の氏名と所属",
+        "医師に求める診察の時期"
+      ],
+      "answer": 1,
+      "notes": [
+        "Aは観察や背景情報を踏まえた評価である。判断の根拠も簡潔に添える。",
+        "入院日や手術歴は背景情報に当たり、主にBに整理する。",
+        "報告者の自己紹介は連絡の冒頭に必要だが、患者の評価そのものではない。",
+        "必要な対応や時期の要請はRに当たる。"
+      ],
+      "reference_keys": [
+        "int_sbar"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "SBAR各要素をAHRQの定義に照合。"
+    },
+    {
+      "id": "ORG-INT-002",
+      "category": "看護の統合と実践",
+      "topic": "復唱と確認",
+      "question": "緊急時の口頭連絡を受けた看護師が内容を復唱した。閉じた確認の流れを完成させる行為はどれか。",
+      "choices": [
+        "受信者が記録するだけで終える",
+        "送り手が復唱内容の一致を確認する",
+        "別の患者の情報を付け加える",
+        "受信者が心の中で再確認する"
+      ],
+      "answer": 2,
+      "notes": [
+        "記録は必要だが、誤って聞き取った内容のまま残る可能性がある。",
+        "送り手が復唱を確認し、相違があれば訂正することで理解の一致を確かめる。",
+        "他の患者の情報を混ぜると対象や指示を取り違えやすい。",
+        "内心の確認だけでは送り手と認識のずれを共有できない。"
+      ],
+      "reference_keys": [
+        "int_checkback"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "送信・復唱・送信者確認の三段階を照合。"
+    },
+    {
+      "id": "ORG-INT-003",
+      "category": "看護の統合と実践",
+      "topic": "未完了事項の申し送り",
+      "question": "勤務交代時、採取済みの検体結果がまだ出ていない。申し送りに含めるべき内容はどれか。",
+      "choices": [
+        "検査名だけを伝えて終了する",
+        "結果が正常だった場合の記録だけ先に作る",
+        "結果確認の担当と、異常時の連絡先・対応を明確にする",
+        "交代後は前勤務者だけが責任を持つと伝える"
+      ],
+      "answer": 3,
+      "notes": [
+        "検査名だけでは誰がいつ確認するかが不明確になる。",
+        "未判明の結果を正常と記録してはいけない。",
+        "未完了事項と責任の引継ぎを具体化すると、結果の見落としを防ぎやすい。",
+        "交代後の確認責任を曖昧にせず、引き受ける側と合意する。"
+      ],
+      "reference_keys": [
+        "int_handoff"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "handoffの責任移譲・行動事項・質問機会を照合。"
+    },
+    {
+      "id": "ORG-INT-004",
+      "category": "看護の統合と実践",
+      "topic": "ティーチバック",
+      "question": "退院後の創処置を説明した看護師が、理解を確認したい。最も適切なのはどれか。",
+      "choices": [
+        "「説明は分かりましたか」とだけ尋ねる",
+        "説明資料を渡したことをもって理解済みとする",
+        "説明文を暗記できたか採点する",
+        "患者自身の言葉と動作で手順を示してもらう"
+      ],
+      "answer": 4,
+      "notes": [
+        "「はい」という返事だけでは実際の理解を確認しにくい。",
+        "資料の受け取りと理解は同じではない。",
+        "患者を試験するのではなく、説明が伝わったかを確認する方法である。",
+        "自分の言葉や実演で理解を確かめ、不明点は説明方法を変えて補う。"
+      ],
+      "reference_keys": [
+        "int_teachback"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "AHRQ Teach-Backの患者自身の言葉と実演を照合。"
+    },
+    {
+      "id": "ORG-INT-005",
+      "category": "看護の統合と実践",
+      "topic": "ハドル",
+      "question": "予定外の入院が重なり、担当者の業務量が偏った。短時間で集まり、役割と優先順位を調整する場はどれか。",
+      "choices": [
+        "ハドル",
+        "年度末の人事評価",
+        "研究倫理審査",
+        "事故後の根本原因分析"
+      ],
+      "answer": 1,
+      "notes": [
+        "ハドルは状況の変化に合わせ、現在の計画や業務配分を修正する短い打合せである。",
+        "人事評価は個人の評価等を扱うもので、今の業務調整の代わりにはならない。",
+        "研究倫理審査は研究計画を扱い、その場の病棟業務の再配分とは異なる。",
+        "根本原因分析は事象の背景を詳しく分析する手法で、即時の調整会議とは異なる。"
+      ],
+      "reference_keys": [
+        "int_huddle"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "計画変更・業務量再配分の用途を照合。"
+    },
+    {
+      "id": "ORG-INT-006",
+      "category": "看護の統合と実践",
+      "topic": "デブリーフィング",
+      "question": "急変対応の終了後、チームで短く振り返る目的として適切なのはどれか。",
+      "choices": [
+        "最も経験の少ない職員の責任を決める",
+        "うまくいった点と改善点を共有し、次の対応に生かす",
+        "対応中の記録を全て破棄する",
+        "今後は個別判断だけで行動すると決める"
+      ],
+      "answer": 2,
+      "notes": [
+        "個人を責めることが主目的になると、安全上の情報を出しにくくなる。",
+        "出来事とチームの行動を振り返り、良かった点と改善策を次の実践に結び付ける。",
+        "記録は経過や検証に必要であり、振り返りのために破棄しない。",
+        "協働を改善する場であり、共通の計画を不要にするものではない。"
+      ],
+      "reference_keys": [
+        "int_debrief"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "AHRQの事後レビューの目的と非難回避を照合。"
+    },
+    {
+      "id": "ORG-INT-007",
+      "category": "看護の統合と実践",
+      "topic": "安全への懸念の表明",
+      "question": "経験の浅い看護師が処置の患者確認に疑問を持ったが、先輩は作業を続けている。適切なのはどれか。",
+      "choices": [
+        "経験年数の差があるので黙って見守る",
+        "処置後まで疑問を伝えない",
+        "安全上の懸念を明確に伝え、確認が済むまで中断を求める",
+        "同僚との私的な会話だけで不満を述べる"
+      ],
+      "answer": 3,
+      "notes": [
+        "経験にかかわらず安全上の懸念を発信することが重要である。",
+        "実施前に防げる危険を処置後まで先送りしない。",
+        "懸念・不安・安全の問題を明確に伝え、必要なら責任者へつなぐ。",
+        "その場の安全確保につながる相手へ伝える必要がある。"
+      ],
+      "reference_keys": [
+        "int_cus"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "CUSによる懸念の明示を患者確認場面へ適用。"
+    },
+    {
+      "id": "ORG-INT-008",
+      "category": "看護の統合と実践",
+      "topic": "指示先の明確化",
+      "question": "蘇生チームでリーダーが「誰か応援を呼んで」と言ったが、誰も動かなかった。改善策はどれか。",
+      "choices": [
+        "声量だけを上げる",
+        "同じ言葉を繰り返すだけにする",
+        "すべてのメンバーが別々に同じ連絡をする",
+        "担当者を指名し、受諾と実施結果の報告を確認する"
+      ],
+      "answer": 4,
+      "notes": [
+        "声の大きさだけでは誰が実行するかが決まらない。",
+        "指示先が不明なままでは同じ問題が残る。",
+        "重複連絡が必要な役割を妨げることがある。",
+        "担当を明確にし、受け取ったことと完了を共有すると抜けを防ぎやすい。"
+      ],
+      "reference_keys": [
+        "int_checkback"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "閉じたコミュニケーションと担当明確化に照合。"
+    },
+    {
+      "id": "ORG-INT-009",
+      "category": "看護の統合と実践",
+      "topic": "ブリーフィング",
+      "question": "多職種が初めて一緒に行う処置の開始前に、共有する情報として最も適切なのはどれか。",
+      "choices": [
+        "目標・各自の役割・起こり得る問題への備え",
+        "終了後の成功率だけ",
+        "個人の私生活の詳細",
+        "処置と無関係な過去の失敗の評価"
+      ],
+      "answer": 1,
+      "notes": [
+        "開始前に計画や役割、予測される問題を共有すると協働しやすい。",
+        "まだ終了しておらず、成功率だけでは行動計画を共有できない。",
+        "チームの安全な処置に必要な情報を中心にする。",
+        "個人を評価する会議ではなく、これからの行動をそろえる場である。"
+      ],
+      "reference_keys": [
+        "int_team"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "TeamSTEPPSのBriefと役割共有に照合。"
+    },
+    {
+      "id": "ORG-INT-010",
+      "category": "看護の統合と実践",
+      "topic": "援助要請",
+      "question": "受持ち患者の急変と時間指定の処置が重なった。安全な業務調整として適切なのはどれか。",
+      "choices": [
+        "すべてを一人で行い、遅れを報告しない",
+        "優先する対応を伝え、具体的な業務の応援を求める",
+        "時間指定の処置を全て独断で中止する",
+        "急変患者の状態を確認せず定時業務を優先する"
+      ],
+      "answer": 2,
+      "notes": [
+        "一人で抱え込むと必要な対応が遅れ、周囲も支援しにくい。",
+        "患者の緊急性と未実施業務を共有し、担当を調整する。",
+        "処置の中止は適切な確認が必要で、単に繁忙を理由に独断で行わない。",
+        "優先順位は予定時刻だけでなく患者の状態から判断する。"
+      ],
+      "reference_keys": [
+        "int_huddle"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "状況変化時の業務再配分と相互支援に照合。"
+    },
+    {
+      "id": "ORG-INT-011",
+      "category": "看護の統合と実践",
+      "topic": "患者確認",
+      "question": "同姓の患者が同じ病棟にいる。処置前の本人確認として適切なのはどれか。",
+      "choices": [
+        "病室とベッドの位置だけで判断する",
+        "「田中さんですね」と呼び、うなずきを待つ",
+        "本人に氏名・生年月日等を名乗ってもらい、2つ以上の識別情報を指示・リストバンドと照合する",
+        "顔を覚えている職員の記憶だけに頼る"
+      ],
+      "answer": 3,
+      "notes": [
+        "病室やベッドは移動するため、本人識別の根拠として不十分である。",
+        "誘導的な問いかけには別人が反応する場合がある。",
+        "氏名と生年月日等の2つ以上の識別情報を照合する。名乗れない場合も施設の代替手順で確認する。",
+        "記憶だけでは取り違えを確実に防げない。識別情報の照合が必要である。"
+      ],
+      "reference_keys": [
+        "int_identification"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "WHO患者識別資料で、少なくとも2つの識別情報を用い病室番号を使わない原則を独立照合。"
+    },
+    {
+      "id": "ORG-INT-012",
+      "category": "看護の統合と実践",
+      "topic": "患者からの違和感の訴え",
+      "question": "服薬直前、患者が「いつもの薬と形が違う」と話した。最も適切なのはどれか。",
+      "choices": [
+        "処方があるので説明せず服用を促す",
+        "外観が似た別薬を探して交換する",
+        "後発品への変更だと確認せず説明する",
+        "服用をいったん止め、処方・調剤内容・患者を確認する"
+      ],
+      "answer": 4,
+      "notes": [
+        "患者の気付きは誤りの発見につながる。訴えを無視しない。",
+        "外観だけで薬剤を選び直すと新たな取り違えを起こす。",
+        "変更の事実を確かめる前に理由を決めつけない。",
+        "変更が正しい場合もあるが、照合して疑問を解消してから投与する。"
+      ],
+      "reference_keys": [
+        "int_match",
+        "int_lookalike"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "薬剤照合と外観だけで判断しない安全原則を適用。"
+    },
+    {
+      "id": "ORG-INT-013",
+      "category": "看護の統合と実践",
+      "topic": "外観類似薬の保管",
+      "question": "同じ棚にある似た外箱の薬剤が取り違えられそうになった。再発予防として適切なのはどれか。",
+      "choices": [
+        "配置と表示を見直し、薬剤名・規格で確認する",
+        "全員に外箱の色を覚えるよう指導する",
+        "包装を全て外して一つの容器に入れる",
+        "慣れた職員だけが使えばよいとする"
+      ],
+      "answer": 1,
+      "notes": [
+        "保管環境と確認方法の両方を改善する。色や形だけを識別根拠にしない。",
+        "外観が似ているという要因が残るため、色の暗記だけでは弱い。",
+        "薬剤名や規格などの識別情報が失われる。",
+        "経験があっても取り違えは起こり得る。仕組みの改善が必要である。"
+      ],
+      "reference_keys": [
+        "int_lookalike"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "厚労省の外観類似薬に対する配置・表示改善策を照合。"
+    },
+    {
+      "id": "ORG-INT-014",
+      "category": "看護の統合と実践",
+      "topic": "口頭指示の単位",
+      "question": "やむを得ず口頭で薬剤指示を受ける緊急場面で、量の単位が聞き取れなかった。適切なのはどれか。",
+      "choices": [
+        "通常量だろうと推測する",
+        "薬剤名・量・単位・経路等を確認し、復唱する",
+        "聞こえた数字だけを記録して投与する",
+        "前の患者への指示を参考に量を決める"
+      ],
+      "answer": 2,
+      "notes": [
+        "通常量の推測では患者や製剤ごとの差を見逃す。",
+        "数字だけでなく単位や経路まで明確にし、指示者と一致を確認する。",
+        "同じ数字でもmgとmLでは意味が異なる。",
+        "他の患者の指示は代わりにならず、対象患者の指示を確かめる。"
+      ],
+      "reference_keys": [
+        "int_oralorder"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "薬剤名・mg・mL等を省略せず伝達・復唱する対策を照合。"
+    },
+    {
+      "id": "ORG-INT-015",
+      "category": "看護の統合と実践",
+      "topic": "入院時の薬剤確認",
+      "question": "入院時の薬剤情報を集める対象として適切なのはどれか。",
+      "choices": [
+        "今回の病院が処方した薬だけ",
+        "内服薬だけで点眼薬は除く",
+        "処方薬に加え、市販薬・サプリメント・外用薬なども含める",
+        "患者が薬と思っているものだけでよい"
+      ],
+      "answer": 3,
+      "notes": [
+        "他院処方との重複や相互作用も確認する必要がある。",
+        "点眼薬なども薬剤情報に含め、内服以外を除外しない。",
+        "処方の有無や剤形にかかわらず、実際に使用しているものを把握する。",
+        "本人が薬と認識していない製品もあるため、具体的に尋ねる。"
+      ],
+      "reference_keys": [
+        "int_match"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "MATCHのOTC・supplement・eye drops等の対象を照合。"
+    },
+    {
+      "id": "ORG-INT-016",
+      "category": "看護の統合と実践",
+      "topic": "薬剤アレルギー情報",
+      "question": "患者が「以前、抗菌薬で具合が悪くなった」と話した。追加で確認する情報として最も適切なのはどれか。",
+      "choices": [
+        "薬を受け取った曜日だけ",
+        "薬袋の色だけ",
+        "家族の好き嫌いだけ",
+        "薬剤名、現れた症状、発現時期と対応"
+      ],
+      "answer": 4,
+      "notes": [
+        "曜日だけでは副作用やアレルギー反応を評価できない。",
+        "袋の色は反応した薬剤や症状を特定する十分な情報ではない。",
+        "本人の薬剤反応の評価には直接結び付かない。",
+        "具体的な経過を確認して記録・共有し、安全な薬剤選択に役立てる。"
+      ],
+      "reference_keys": [
+        "int_match"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "正確な薬歴の検証原則をアレルギー情報の整理に適用。"
+    },
+    {
+      "id": "ORG-INT-017",
+      "category": "看護の統合と実践",
+      "topic": "退院時の薬剤変更",
+      "question": "退院時、入院前からの薬が一つ中止になった。説明として適切なのはどれか。",
+      "choices": [
+        "中止薬と継続薬を区別し、手元の残薬の扱いも確認する",
+        "新しい薬の名前だけ説明する",
+        "以前の薬は全て追加で飲むよう勧める",
+        "次の外来まで変更を知らせない"
+      ],
+      "answer": 1,
+      "notes": [
+        "薬剤の変更を明示し、退院後の重複服用や中止薬の再開を防ぐ。",
+        "新薬だけでは以前の薬の継続・中止が不明になる。",
+        "中止された薬まで再開するおそれがある。",
+        "退院直後の服薬に関わるため、その時点で共有する。"
+      ],
+      "reference_keys": [
+        "int_match"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "入院前薬と退院指示の差異確認・患者への説明を照合。"
+    },
+    {
+      "id": "ORG-INT-018",
+      "category": "看護の統合と実践",
+      "topic": "徐放性製剤",
+      "question": "嚥下しにくい患者の薬に「徐放性製剤」が含まれていた。看護師の対応として適切なのはどれか。",
+      "choices": [
+        "全ての錠剤を一律に粉砕する",
+        "粉砕せず、製剤特性を確認して薬剤師・処方医に相談する",
+        "半量に減らせば粉砕できると判断する",
+        "熱湯に長時間入れて崩す"
+      ],
+      "answer": 2,
+      "notes": [
+        "放出の仕組みを壊すと急速に成分が放出される危険がある。",
+        "粉砕の可否や代替製剤を確認し、適切な投与方法を検討する。",
+        "減量だけで放出特性の変化による危険を解決できない。",
+        "自己判断の加熱や溶解も製剤特性を変える可能性がある。"
+      ],
+      "reference_keys": [
+        "int_sustained"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "徐放性製剤の粉砕で急速放出が起こるリスクを照合。"
+    },
+    {
+      "id": "ORG-INT-019",
+      "category": "看護の統合と実践",
+      "topic": "独立したダブルチェック",
+      "question": "高リスク薬の計算結果について、施設が定めた独立したダブルチェックを2人で行う。適切な手順はどれか。",
+      "choices": [
+        "先に一方の答えを読み上げ、他方が同意する",
+        "計算した本人が時間を置いて2回署名する",
+        "それぞれ指示から計算し、その後結果を照合する",
+        "片方は患者名だけ、片方は計算だけを見て終了する"
+      ],
+      "answer": 3,
+      "notes": [
+        "先に答えを聞くと、その答えに引きずられて確認する可能性がある。",
+        "本人の再確認は有用でも、2人による独立した確認ではない。",
+        "各自が独立して確認した結果を照合し、不一致なら原因を確認する。",
+        "独立した同じ項目の確認が行われず、計算の相違を検出できない。"
+      ],
+      "reference_keys": [
+        "int_independent"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "ISMPの独立ダブルチェックの定義と、先に相手の結果を見ずに計算する説明を独立照合。全ての高リスク薬に一律に要求する意味にはしない。"
+    },
+    {
+      "id": "ORG-INT-020",
+      "category": "看護の統合と実践",
+      "topic": "輸液ポンプの単位",
+      "question": "流量を設定するとき、指示にはmL/時、計算メモにはmL/分と記載されている。適切なのはどれか。",
+      "choices": [
+        "数値が小さい方を入力する",
+        "ポンプの前回値を使う",
+        "単位は無視して数値を転記する",
+        "単位をそろえて指示と設定値を照合する"
+      ],
+      "answer": 4,
+      "notes": [
+        "小さい数値を選ぶだけでは正しい投与速度にならない。",
+        "前回値は別の指示や患者の設定かもしれない。",
+        "分と時間を取り違えると60倍の差が生じ得る。",
+        "同じ単位で比較し、機器の表示と指示を照合する。"
+      ],
+      "reference_keys": [
+        "int_oralorder"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "投与速度の単位換算と指示単位確認を照合。"
+    },
+    {
+      "id": "ORG-INT-021",
+      "category": "看護の統合と実践",
+      "topic": "機器アラームへの対応",
+      "question": "輸液ポンプの閉塞アラームが鳴った。適切な対応はどれか。",
+      "choices": [
+        "患者とルートを確認し、原因に応じて機器の手順に沿って対応する",
+        "消音だけして病室を離れる",
+        "閉塞圧設定を最大にして続行する",
+        "確認せず強くフラッシュする"
+      ],
+      "answer": 1,
+      "notes": [
+        "機器だけでなく患者の状態、刺入部、屈曲等を確認し、安全な解除方法に従う。",
+        "消音だけでは閉塞の原因も患者への影響も解決しない。",
+        "設定の変更で警報を回避すると異常を見逃すおそれがある。",
+        "抵抗の原因を確かめない加圧操作は危険である。"
+      ],
+      "reference_keys": [
+        "int_devices"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "機器の安全使用原則に基づき原因確認を優先。製品固有の操作は指定しない。"
+    },
+    {
+      "id": "ORG-INT-022",
+      "category": "看護の統合と実践",
+      "topic": "投与経路の確認",
+      "question": "患者に複数のチューブが接続されている。薬剤を投与する直前の確認として適切なのはどれか。",
+      "choices": [
+        "コネクタの色だけを見る",
+        "患者側から経路をたどり、指示された経路と照合する",
+        "手元に一番近い接続口を使う",
+        "接続できることを正しい経路の証拠とする"
+      ],
+      "answer": 2,
+      "notes": [
+        "色だけに頼らず、実際の接続先と指示を確認する。",
+        "チューブ全体のつながりを確認して、経路の取り違えを防ぐ。",
+        "位置の近さは適切な投与経路の根拠にならない。",
+        "物理的に接続可能でも、使用目的が異なる場合がある。"
+      ],
+      "reference_keys": [
+        "int_routes"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "FDAの誤接続事例と、接続前に患者から接続元まで全経路をたどる推奨を独立照合。"
+    },
+    {
+      "id": "ORG-INT-023",
+      "category": "看護の統合と実践",
+      "topic": "転倒発見後の優先行動",
+      "question": "病室で患者が床に座り込んでいるのを発見した。明らかな危険物はない。最初に優先するのはどれか。",
+      "choices": [
+        "インシデント報告書を完成させる",
+        "直ちに一人で抱え上げる",
+        "意識・呼吸・疼痛などを確認し、必要な応援を求める",
+        "見た人がいないので記録しない"
+      ],
+      "answer": 3,
+      "notes": [
+        "報告書の前に患者の状態と安全を確認する。",
+        "外傷や状態を確認しない移動は悪化を招くおそれがある。",
+        "まず患者への影響を評価し、緊急性に応じて応援や医師につなぐ。",
+        "目撃者の有無にかかわらず発見時の事実と対応を記録する。"
+      ],
+      "reference_keys": [
+        "int_postfall",
+        "int_record"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "AHRQ転倒後評価の循環・気道・呼吸および外傷評価を独立照合。報告書や未評価の移動を先行させない。"
+    },
+    {
+      "id": "ORG-INT-024",
+      "category": "看護の統合と実践",
+      "topic": "ヒヤリ・ハットの共有",
+      "question": "誤った薬剤が準備されたが、投与前の確認で発見され患者への投与はなかった。対応として適切なのはどれか。",
+      "choices": [
+        "実害がないので報告の対象にならない",
+        "発見者だけの秘密にする",
+        "間違えた人の名前を私的SNSへ出す",
+        "施設の基準に沿って報告し、背景と防止策を共有する"
+      ],
+      "answer": 4,
+      "notes": [
+        "未然に止まった事例も安全改善の重要な情報となる。",
+        "個人内にとどめると同じ条件で再発する危険を共有できない。",
+        "個人情報の不適切な公開は再発防止の方法ではない。",
+        "患者に到達しなかった経緯も含めて報告し、防御が働いた点も学ぶ。"
+      ],
+      "reference_keys": [
+        "int_systems"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "未然事例からシステム改善を学ぶ安全原則を照合。"
+    },
+    {
+      "id": "ORG-INT-025",
+      "category": "看護の統合と実践",
+      "topic": "システムとしての安全対策",
+      "question": "同じ入力間違いが複数の職員に起きている。改善に向けた見方として適切なのはどれか。",
+      "choices": [
+        "画面設計、手順、業務量など共通の条件を調べる",
+        "全員の注意力が低いと結論する",
+        "最初の職員だけを再教育して終了する",
+        "入力者を替えれば原因調査は不要とする"
+      ],
+      "answer": 1,
+      "notes": [
+        "個人だけでなく複数の人に共通する環境や仕組みを確認する。",
+        "注意力だけに原因を求めると構造的な要因を見逃す。",
+        "複数人に起きている以上、個人教育だけでは同じ条件が残る。",
+        "担当を替えても画面や手順の問題は残り得る。"
+      ],
+      "reference_keys": [
+        "int_systems"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "システムアプローチの環境・手順への着目を照合。"
+    },
+    {
+      "id": "ORG-INT-026",
+      "category": "看護の統合と実践",
+      "topic": "根本原因分析",
+      "question": "実際に起きた薬剤誤投与について、時間経過や作業環境を調べ、背景要因を分析する手法はどれか。",
+      "choices": [
+        "無作為割付",
+        "根本原因分析（RCA）",
+        "一次予防接種",
+        "費用の単純集計"
+      ],
+      "answer": 2,
+      "notes": [
+        "無作為割付は比較研究で群に割り付ける方法である。",
+        "RCAは起きた事象の背景を系統的に調べ、再発防止につなげる。",
+        "予防接種は感染症予防の手段で、事故の分析手法ではない。",
+        "費用だけでは発生過程や背景要因を分析できない。"
+      ],
+      "reference_keys": [
+        "int_rca"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "RCAの事後的な背景要因分析を照合。"
+    },
+    {
+      "id": "ORG-INT-027",
+      "category": "看護の統合と実践",
+      "topic": "FMEA",
+      "question": "新しい注射薬準備手順を導入する前に、各工程で起こり得る失敗と影響を予測する。対応する手法はどれか。",
+      "choices": [
+        "過去の事故のみを扱うRCA",
+        "個人の性格検査",
+        "FMEA",
+        "患者満足度の単純平均"
+      ],
+      "answer": 3,
+      "notes": [
+        "RCAは主に発生した事象から背景を調べる。導入前の工程の失敗予測とは目的が異なる。",
+        "性格だけでは工程全体の失敗と影響を評価できない。",
+        "FMEAは工程ごとの潜在的な故障・失敗とその影響を前もって検討する。",
+        "満足度の平均だけでは工程上のリスクを列挙・評価できない。"
+      ],
+      "reference_keys": [
+        "int_fmea"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "前向きの失敗モードと影響の分析という定義を照合。"
+    },
+    {
+      "id": "ORG-INT-028",
+      "category": "看護の統合と実践",
+      "topic": "改善サイクルの評価",
+      "question": "転倒予防の新手順を試行した後、実施率と転倒率を導入前と比較した。PDCAのどの段階に当たるか。",
+      "choices": [
+        "Plan",
+        "Do",
+        "Act",
+        "Check"
+      ],
+      "answer": 4,
+      "notes": [
+        "Planは目標や方法を立てる段階である。",
+        "Doは計画を実施する段階である。",
+        "Actは評価を踏まえた修正や標準化の段階である。",
+        "Checkは結果を目標や導入前と照合して評価する段階である。"
+      ],
+      "reference_keys": [
+        "int_pdca"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "ASQのPDCA定義でCheckが試行結果の分析・評価であることを独立照合。RCA一般資料から直接根拠に変更。"
+    },
+    {
+      "id": "ORG-INT-029",
+      "category": "看護の統合と実践",
+      "topic": "発生率の分母",
+      "question": "入院患者数の異なる2病棟の転倒発生状況を比較したい。件数に加えて必要な情報はどれか。",
+      "choices": [
+        "観察期間中の延べ入院患者日数",
+        "病棟名の文字数",
+        "職員の血液型",
+        "報告書用紙の枚数だけ"
+      ],
+      "answer": 1,
+      "notes": [
+        "転倒率を患者日数当たりで表すと、患者数や在院期間の違いを考慮しやすい。",
+        "名称の文字数は転倒の曝露量と関係しない。",
+        "職員の血液型は発生率の分母にはならない。",
+        "用紙の枚数は患者が転倒リスクにさらされた量を表さない。"
+      ],
+      "reference_keys": [
+        "int_analysis"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "率の比較には対応する曝露人口・時間の分母が必要という原則を照合。"
+    },
+    {
+      "id": "ORG-INT-030",
+      "category": "看護の統合と実践",
+      "topic": "安全対策の副次的影響",
+      "question": "転倒予防策を導入して転倒率が下がったが、患者の歩行機会も大きく減った。評価として適切なのはどれか。",
+      "choices": [
+        "転倒件数だけで成功と決める",
+        "活動性や自立度への影響も調べ、対策を見直す",
+        "全患者の離床を一律禁止する",
+        "歩行機会は安全評価と無関係とする"
+      ],
+      "answer": 2,
+      "notes": [
+        "一つの指標の改善が別の不利益を生む場合がある。",
+        "安全と活動・生活機能を合わせて評価し、過度な制限を避ける。",
+        "一律の離床禁止は廃用や自立度低下につながり得る。",
+        "歩行機会は看護の質と生活機能の重要な評価項目である。"
+      ],
+      "reference_keys": [
+        "int_systems",
+        "int_ethics"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "対策をシステム全体の影響と尊厳・生活の視点で評価。"
+    },
+    {
+      "id": "ORG-INT-031",
+      "category": "看護の統合と実践",
+      "topic": "研修効果の確認",
+      "question": "新しい患者確認手順の研修を行った。実践への定着を確かめる方法として最も適切なのはどれか。",
+      "choices": [
+        "研修案内の配布枚数だけを数える",
+        "受講者の年齢だけを集計する",
+        "実際の確認行動を観察し、手順の実施状況を評価する",
+        "教材のページ数が増えたことを成果とする"
+      ],
+      "answer": 3,
+      "notes": [
+        "案内の配布は研修実施の過程であり、実際の行動変化を示さない。",
+        "年齢だけでは手順が定着したかは評価できない。",
+        "学んだ内容が現場で実施されているかを直接確認し、必要な支援を検討する。",
+        "教材の量と実践の改善は同じではない。"
+      ],
+      "reference_keys": [
+        "int_team",
+        "int_systems"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "研修を行動と安全改善につなげる評価原則に照合。"
+    },
+    {
+      "id": "ORG-INT-032",
+      "category": "看護の統合と実践",
+      "topic": "手術のタイムアウト",
+      "question": "皮膚切開の直前に行うタイムアウトで適切なのはどれか。",
+      "choices": [
+        "手術終了後に看護師だけで署名する",
+        "麻酔科だけが記録を確認する",
+        "患者の退院先だけを確認する",
+        "チームで患者・術式・部位などを声に出して確認する"
+      ],
+      "answer": 4,
+      "notes": [
+        "切開前にチームが確認する場であり、終了後の署名だけでは代用できない。",
+        "関係するチームメンバーが共通認識を持つことが重要である。",
+        "退院先の検討は必要でも、切開直前の確認の中心ではない。",
+        "患者・術式・部位などをチームで確認し、懸念があれば解決してから進む。"
+      ],
+      "reference_keys": [
+        "int_surgery"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "WHOチェックリストの切開前タイムアウトに照合。"
+    },
+    {
+      "id": "ORG-INT-033",
+      "category": "看護の統合と実践",
+      "topic": "手術器材のカウント不一致",
+      "question": "手術終了時、使用したガーゼの数が合わない。適切な対応はどれか。",
+      "choices": [
+        "直ちにチームへ知らせ、手順に従い再確認・検索する",
+        "記録の数字だけを合わせる",
+        "患者退室後まで誰にも伝えない",
+        "不足分を未使用品で補って一致とする"
+      ],
+      "answer": 1,
+      "notes": [
+        "遺残の可能性を考え、直ちに共有して施設の検索・確認手順を進める。",
+        "数の書き換えでは不一致の原因も遺残の危険も解消しない。",
+        "退室前に問題を明確にし、解決に必要な対応を取る。",
+        "未使用品を足しても使用した物品の行方は確認できない。"
+      ],
+      "reference_keys": [
+        "int_surgery"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "sign outの器材・ガーゼ確認と不一致時の対応を照合。"
+    },
+    {
+      "id": "ORG-INT-034",
+      "category": "看護の統合と実践",
+      "topic": "術後の引継ぎ",
+      "question": "手術室から病棟へ移る患者の引継ぎで、継続した観察につながる情報はどれか。",
+      "choices": [
+        "手術室の室温だけ",
+        "実施処置、現在の状態、ドレーン類、注意点と未完了事項",
+        "手術スタッフの私的な評価だけ",
+        "術式の略称だけ"
+      ],
+      "answer": 2,
+      "notes": [
+        "室温だけでは患者に必要な観察や処置を引き継げない。",
+        "移動後に必要な評価・対応を具体的に伝え、受け手の確認機会を設ける。",
+        "個人的評価より患者の安全な継続ケアに必要な事実を共有する。",
+        "略称だけでは現在の状態や特別な注意点が不明になる。"
+      ],
+      "reference_keys": [
+        "int_handoff"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "患者移動時の重要情報・責任の受渡しを照合。"
+    },
+    {
+      "id": "ORG-INT-035",
+      "category": "看護の統合と実践",
+      "topic": "同意後の疑問",
+      "question": "手術同意書に署名した患者が、直前に「手術の必要性がまだ分からない」と話した。適切なのはどれか。",
+      "choices": [
+        "署名済みなので説明は終了したと伝える",
+        "本人の疑問を家族の判断で打ち切る",
+        "疑問を確認し、説明担当者と再び話す機会を整える",
+        "看護師が独断で別の術式を勧める"
+      ],
+      "answer": 3,
+      "notes": [
+        "署名は理解や納得が続いていることを保証しない。",
+        "本人の意思決定を支えるため、本人の疑問を扱う必要がある。",
+        "理解不足や迷いを共有し、十分な説明と意思確認につなぐ。",
+        "治療選択を独断で決めず、担当者と本人の話合いを支援する。"
+      ],
+      "reference_keys": [
+        "int_ethics"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "本人の意向尊重と十分な話合いによる合意形成を照合。"
+    },
+    {
+      "id": "ORG-INT-036",
+      "category": "看護の統合と実践",
+      "topic": "治療を拒否する患者",
+      "question": "意思決定能力があり、緊急性のない処置を拒否している成人患者への対応はどれか。",
+      "choices": [
+        "拒否の理由を聞かず実施する",
+        "家族の了承だけで本人の拒否を無視する",
+        "拒否したことを罰として必要なケアを減らす",
+        "理由と理解を確認し、利益・不利益を説明する機会を設けて意思を尊重する"
+      ],
+      "answer": 4,
+      "notes": [
+        "意思を表明できる本人の拒否を無視しない。",
+        "家族の意見は本人の意思を自動的に置き換えない。",
+        "拒否を理由に必要な看護を不利益に扱わない。",
+        "必要な情報と話合いを提供し、本人の価値観を踏まえた判断を支える。"
+      ],
+      "reference_keys": [
+        "int_ethics"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "自律尊重・情報に基づく選択への支援を照合。"
+    },
+    {
+      "id": "ORG-INT-037",
+      "category": "看護の統合と実践",
+      "topic": "アドボカシー",
+      "question": "カンファレンスで家族の希望だけが話題になり、本人が看護師に伝えた希望が共有されていない。看護師の役割はどれか。",
+      "choices": [
+        "本人の意向を確認したうえで、話合いに反映されるよう支援する",
+        "家族の希望が常に本人より優先されるとする",
+        "自分の価値観を本人の希望として伝える",
+        "本人の希望を聞かなかったことにする"
+      ],
+      "answer": 1,
+      "notes": [
+        "本人の声が適切に扱われるよう支えることは権利擁護に当たる。",
+        "家族の意見を尊重しても、本人の意向を除外してよいわけではない。",
+        "看護師自身の価値観と本人の希望を区別する。",
+        "本人の意思を把握したなら、同意や状況に配慮して必要な共有を行う。"
+      ],
+      "reference_keys": [
+        "int_ethics"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "尊厳と権利の擁護、意向の尊重に照合。"
+    },
+    {
+      "id": "ORG-INT-038",
+      "category": "看護の統合と実践",
+      "topic": "ケア中のプライバシー",
+      "question": "多床室で清拭する際、尊厳とプライバシーを守る行動はどれか。",
+      "choices": [
+        "効率を優先し全身を常に露出する",
+        "説明し、カーテン等で視線を遮り必要部位だけを出す",
+        "同室者にも観察してもらう",
+        "本人の羞恥心は病院では考慮しない"
+      ],
+      "answer": 2,
+      "notes": [
+        "不要な露出は羞恥や不安を強める可能性がある。",
+        "必要なケアを行いながら露出や他者の視線を最小限にする。",
+        "本人の同意なく同室者へ見せることはプライバシー侵害となる。",
+        "療養中でも羞恥心や尊厳への配慮が必要である。"
+      ],
+      "reference_keys": [
+        "int_ethics"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "人の尊厳を看護場面で保護する原則に照合。"
+    },
+    {
+      "id": "ORG-INT-039",
+      "category": "看護の統合と実践",
+      "topic": "会話による情報漏えい",
+      "question": "エレベーター内で患者の治療内容について同僚と話し始めた。適切なのはどれか。",
+      "choices": [
+        "氏名を小声にすればそのまま話してよい",
+        "職員同士なら場所を問わない",
+        "会話を止め、必要な情報は周囲に聞かれない場所で共有する",
+        "部屋番号だけなら必ず匿名になる"
+      ],
+      "answer": 3,
+      "notes": [
+        "小声でも周囲に聞こえ、情報が特定される可能性がある。",
+        "職務上の共有でも場所や範囲に配慮する。",
+        "情報の必要性と安全な共有環境を確認する。",
+        "病室番号や病状等から個人が推定される場合がある。"
+      ],
+      "reference_keys": [
+        "int_privacy"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "個人情報の漏えい防止と必要な安全管理措置に照合。"
+    },
+    {
+      "id": "ORG-INT-040",
+      "category": "看護の統合と実践",
+      "topic": "SNSと患者情報",
+      "question": "看護師が珍しい症例を私的SNSへ投稿したいと考えた。氏名を削除した場合の説明として適切なのはどれか。",
+      "choices": [
+        "氏名がなければ常に自由に投稿できる",
+        "病院名を残せば公益目的となる",
+        "友人限定なら守秘は不要になる",
+        "経過や日時などの組合せでも本人が特定され得る"
+      ],
+      "answer": 4,
+      "notes": [
+        "氏名だけを除いても識別可能な情報が残る場合がある。",
+        "病院名の記載によって投稿が自動的に適法・適切になるわけではない。",
+        "閲覧範囲が限定されても守秘義務や情報管理は必要である。",
+        "他の情報との組合せで特定されることがあり、私的な投稿は慎重に扱う。"
+      ],
+      "reference_keys": [
+        "int_privacy"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "識別可能性と第三者提供・安全管理の原則を照合。"
+    },
+    {
+      "id": "ORG-INT-041",
+      "category": "看護の統合と実践",
+      "topic": "電子記録のアカウント",
+      "question": "同僚が「ログインできないので、あなたのIDを貸して」と頼んだ。適切な対応はどれか。",
+      "choices": [
+        "共有せず、正規の復旧・代替手順を案内する",
+        "忙しい時間だけ貸す",
+        "パスワードを病棟の壁に掲示する",
+        "共通IDに統一して操作履歴を不要にする"
+      ],
+      "answer": 1,
+      "notes": [
+        "誰が操作したかを追跡できるよう個別管理し、権限のある手順で復旧する。",
+        "短時間でも不正操作や記録の作成者不明につながる。",
+        "不特定の人がアクセスできる危険を高める。",
+        "共用で追跡を不要にすることは安全管理に反する。"
+      ],
+      "reference_keys": [
+        "int_privacy"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "アクセス管理・従業者の適切な監督に照合。"
+    },
+    {
+      "id": "ORG-INT-042",
+      "category": "看護の統合と実践",
+      "topic": "記録の訂正",
+      "question": "看護記録の誤入力に気付いた。適切な訂正はどれか。",
+      "choices": [
+        "原記録を跡形なく消す",
+        "施設の手順に従い、訂正者・時点・内容を追跡できるように直す",
+        "別人の名義で書き直す",
+        "誤りを知っていてもそのままにする"
+      ],
+      "answer": 2,
+      "notes": [
+        "履歴がなくなると何が起きたかを追跡できなくなる。",
+        "正確性を確保するとともに、訂正経緯が確認できる形にする。",
+        "作成・訂正の責任の所在が不明となる。",
+        "既知の誤りを放置すると後の判断を誤らせる可能性がある。"
+      ],
+      "reference_keys": [
+        "int_record"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "日本看護協会「看護記録に関する指針」の訂正者・内容・日時を確認可能にする注意点を独立照合。"
+    },
+    {
+      "id": "ORG-INT-043",
+      "category": "看護の統合と実践",
+      "topic": "事実と評価の区別",
+      "question": "患者の行動について客観的な記録として適切なのはどれか。",
+      "choices": [
+        "わがままで協力的でない",
+        "いつも大げさである",
+        "「今は歩きたくない」と話し、離床の提案を断った",
+        "性格が悪いため拒否した"
+      ],
+      "answer": 3,
+      "notes": [
+        "価値判断の表現だけでは具体的な行動や経過が伝わらない。",
+        "一般化した評価であり、その時点の事実を示していない。",
+        "発言と観察された行動を記載しており、後から状況を検討できる。",
+        "原因を性格と決めつけず、確認できた事実と評価を分ける。"
+      ],
+      "reference_keys": [
+        "int_record",
+        "int_ethics"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "日本看護協会の記録の正確性・客観性と事実を扱う原則を独立照合。"
+    },
+    {
+      "id": "ORG-INT-044",
+      "category": "看護の統合と実践",
+      "topic": "遅れて行う記録",
+      "question": "急変対応を優先し、1時間後に経過を入力することになった。適切なのはどれか。",
+      "choices": [
+        "現在の時刻を全ての処置時刻とする",
+        "時刻を推測して確定した事実として書く",
+        "記録していないため対応自体を書かない",
+        "実際の出来事の時刻と後から入力したことが分かるように記録する"
+      ],
+      "answer": 4,
+      "notes": [
+        "入力時刻と実施時刻を混同すると経過を誤って伝える。",
+        "不確かな情報はそのことを区別して扱う。",
+        "対応の経過は継続ケアと検証に必要である。",
+        "出来事の経過と記載時点を区別し、正確性と追跡可能性を保つ。"
+      ],
+      "reference_keys": [
+        "int_record"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "日本看護協会の記載日時・作成者・追記箇所を明らかにする原則を独立照合。"
+    },
+    {
+      "id": "ORG-INT-045",
+      "category": "看護の統合と実践",
+      "topic": "業務上必要な閲覧",
+      "question": "以前担当した知人が別病棟に入院した。今は診療・看護に関与していない。記録閲覧として適切なのはどれか。",
+      "choices": [
+        "個人的な興味だけで閲覧しない",
+        "知人なので全記録を閲覧する",
+        "閲覧できる権限があれば目的を問わない",
+        "内容を他の知人へ知らせるため閲覧する"
+      ],
+      "answer": 1,
+      "notes": [
+        "技術的に閲覧可能でも、業務上の必要性と利用目的の範囲を守る。",
+        "知人であることは診療情報の閲覧理由にならない。",
+        "アクセス権限と許される利用目的は別に確認する必要がある。",
+        "本人の情報を私的に共有するための閲覧は不適切である。"
+      ],
+      "reference_keys": [
+        "int_privacy"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "利用目的の範囲と安全管理に照合。"
+    },
+    {
+      "id": "ORG-INT-046",
+      "category": "看護の統合と実践",
+      "topic": "研究参加の自由",
+      "question": "担当看護師が入院患者に研究協力を依頼する。自発性を守る説明はどれか。",
+      "choices": [
+        "断ればケアを減らすと伝える",
+        "断っても通常の診療・看護で不利益を受けないと説明する",
+        "担当者との関係があるので参加は義務とする",
+        "説明は同意書に署名した後だけ行う"
+      ],
+      "answer": 2,
+      "notes": [
+        "ケアを条件にすると自由な判断を妨げる。",
+        "参加しない選択を保障し、診療・看護との違いを説明する。",
+        "療養上の関係を使って参加を強制しない。",
+        "研究の情報を理解したうえで判断できるよう、同意前に説明する。"
+      ],
+      "reference_keys": [
+        "int_research"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "研究対象者の自由意思・拒否による不利益回避を照合。"
+    },
+    {
+      "id": "ORG-INT-047",
+      "category": "看護の統合と実践",
+      "topic": "研究同意の撤回",
+      "question": "研究参加に同意した患者が、後日「参加をやめたい」と申し出た。適切なのはどれか。",
+      "choices": [
+        "署名済みなので認めない",
+        "理由を述べるまで受け付けない",
+        "撤回の意思を受け止め、計画と指針に沿う対応やデータの扱いを説明する",
+        "通常の治療も自動的に中止する"
+      ],
+      "answer": 3,
+      "notes": [
+        "同意後も撤回の意思に対応する必要がある。",
+        "理由の表明を撤回受付の一律の条件にしない。",
+        "撤回に応じた措置を行い、既解析データなど対応の限界がある場合も説明する。",
+        "研究参加の中止と通常診療の中止は同じではない。"
+      ],
+      "reference_keys": [
+        "int_research"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "撤回・拒否に対する措置と説明の規定を照合。"
+    },
+    {
+      "id": "ORG-INT-048",
+      "category": "看護の統合と実践",
+      "topic": "倫理審査の時期",
+      "question": "倫理審査が必要な患者対象研究を計画した。適切な進め方はどれか。",
+      "choices": [
+        "データ収集後に初めて審査を依頼する",
+        "同僚が賛成すれば開始する",
+        "研究者一人の判断だけで開始する",
+        "開始前に必要な倫理審査と機関の手続きを済ませる"
+      ],
+      "answer": 4,
+      "notes": [
+        "開始後の審査では事前の対象者保護を確保できない。",
+        "同僚の賛成は必要な倫理審査や機関の許可の代わりにならない。",
+        "研究者の判断だけで必要な手続きを省略しない。",
+        "計画の倫理性・科学的妥当性を確認する所定の手続きを経て開始する。"
+      ],
+      "reference_keys": [
+        "int_research"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "研究計画・倫理審査委員会・機関の長の手続きを照合。"
+    },
+    {
+      "id": "ORG-INT-049",
+      "category": "看護の統合と実践",
+      "topic": "研究データの識別情報",
+      "question": "研究データから氏名を除き番号に置き換えたが、番号と氏名の対応表を保管している。適切な扱いはどれか。",
+      "choices": [
+        "対応表を分離し、アクセスを制限して管理する",
+        "氏名が本文になければ対応表を公開できる",
+        "番号にした時点で再識別は不可能とする",
+        "私用端末なら管理手順は不要とする"
+      ],
+      "answer": 1,
+      "notes": [
+        "対応表によって本人と結び付けられるため、分離と適切なアクセス管理が必要である。",
+        "対応表の公開は本人を特定できる危険を生む。",
+        "対応表があれば再び本人に結び付けられる。",
+        "保管先にかかわらず所定の安全管理が必要である。"
+      ],
+      "reference_keys": [
+        "int_research",
+        "int_privacy"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "研究情報の保管・識別可能性・安全管理に照合。"
+    },
+    {
+      "id": "ORG-INT-050",
+      "category": "看護の統合と実践",
+      "topic": "利益相反",
+      "question": "研究に使う機器の企業から研究者が報酬を受けている。適切な対応はどれか。",
+      "choices": [
+        "結果に影響しないと自己判断して隠す",
+        "所定の方法で申告し、組織的な管理を受ける",
+        "企業の意向に合う結果だけを公表する",
+        "利益相反があれば必ず全研究が違法になるとする"
+      ],
+      "answer": 2,
+      "notes": [
+        "自己判断だけで隠すと研究の透明性が損なわれる。",
+        "経済的関係を明らかにし、研究の公正さを守る管理を行う。",
+        "都合のよい結果だけを出すことは研究の信頼性を損なう。",
+        "利益相反の存在と不正は同義ではなく、適切な申告・管理が重要である。"
+      ],
+      "reference_keys": [
+        "int_research"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "指針の利益相反管理を照合。"
+    },
+    {
+      "id": "ORG-INT-051",
+      "category": "看護の統合と実践",
+      "topic": "無作為割付",
+      "question": "二つの看護介入を比較する研究で、対象者を無作為に群へ割り付ける主な目的はどれか。",
+      "choices": [
+        "全員の背景を完全に同一にする",
+        "必ず有意差を出す",
+        "群間の背景因子の偏りを減らす",
+        "測定を不要にする"
+      ],
+      "answer": 3,
+      "notes": [
+        "無作為化しても有限の標本で背景が完全一致する保証はない。",
+        "介入に効果がなければ有意差が出ないこともある。",
+        "既知・未知の背景因子が群へ偏る可能性を減らし、比較しやすくする。",
+        "割付方法が適切でも結果の測定は必要である。"
+      ],
+      "reference_keys": [
+        "int_study"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "無作為化比較研究の交絡低減という目的を照合。"
+    },
+    {
+      "id": "ORG-INT-052",
+      "category": "看護の統合と実践",
+      "topic": "横断研究",
+      "question": "ある日に病棟の看護師へ、睡眠時間と現在の疲労感を同時に質問した。研究デザインはどれか。",
+      "choices": [
+        "無作為化比較試験",
+        "将来の発症を追うコホート研究",
+        "過去の曝露を比較する症例対照研究",
+        "横断研究"
+      ],
+      "answer": 4,
+      "notes": [
+        "介入の無作為割付を行っていない。",
+        "追跡して新しい発症を観察する設計ではない。",
+        "結果の有無で選び、過去の曝露を比較した設計ではない。",
+        "一時点で曝露と状態を同時に測定している。時間的な前後関係の解釈には限界がある。"
+      ],
+      "reference_keys": [
+        "int_study",
+        "int_analysis"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "一時点で曝露・アウトカムを測る横断設計に照合。"
+    },
+    {
+      "id": "ORG-INT-053",
+      "category": "看護の統合と実践",
+      "topic": "コホート研究",
+      "question": "転倒していない高齢者を運動習慣の有無で分け、1年間の新たな転倒を観察した。研究デザインはどれか。",
+      "choices": [
+        "コホート研究",
+        "横断研究",
+        "症例報告",
+        "無作為化比較試験"
+      ],
+      "answer": 1,
+      "notes": [
+        "曝露の違いに基づく集団を追跡し、結果の発生を比較している。",
+        "一時点だけの測定ではなく、時間を追っている。",
+        "一つの症例の詳細な報告ではなく複数の集団を比較している。",
+        "研究者が運動習慣を無作為に割り付けたとは示されていない。"
+      ],
+      "reference_keys": [
+        "int_study"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "曝露による群の追跡と観察研究の区別を照合。"
+    },
+    {
+      "id": "ORG-INT-054",
+      "category": "看護の統合と実践",
+      "topic": "因果関係の解釈",
+      "question": "ある調査で「夜勤が多い人ほど疲労得点が高い」という関連を認めた。適切な解釈はどれか。",
+      "choices": [
+        "関連があれば必ず夜勤だけが原因である",
+        "勤務年数や睡眠など他の要因も考慮する",
+        "関連があるので個人差は存在しない",
+        "調査結果を全ての集団へ無条件に一般化する"
+      ],
+      "answer": 2,
+      "notes": [
+        "観察された関連だけで単独の原因を断定できない。",
+        "交絡や研究方法の限界を検討して解釈する。",
+        "集団の関連があっても個人ごとの違いは残る。",
+        "対象集団や測定法が異なれば適用可能性を検討する必要がある。"
+      ],
+      "reference_keys": [
+        "int_analysis"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "交絡因子と研究結果の解釈を照合。"
+    },
+    {
+      "id": "ORG-INT-055",
+      "category": "看護の統合と実践",
+      "topic": "交絡因子",
+      "question": "運動習慣と疾患発生の関連を調べるとき、年齢が運動習慣にも疾患発生にも関係していた。年齢として考える役割はどれか。",
+      "choices": [
+        "研究参加者の識別番号",
+        "必ず介入の結果だけを表す指標",
+        "交絡因子の候補",
+        "結果に一切関係しない誤差"
+      ],
+      "answer": 3,
+      "notes": [
+        "年齢は識別番号ではなく対象者の特性である。",
+        "年齢は通常、運動介入によって生じる結果ではない。",
+        "曝露と結果の双方に関連する背景因子は交絡の候補として検討する。",
+        "設問では疾患発生にも関連すると示されており無関係ではない。"
+      ],
+      "reference_keys": [
+        "int_analysis"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "交絡の候補となる第三因子の関係を照合。"
+    },
+    {
+      "id": "ORG-INT-056",
+      "category": "看護の統合と実践",
+      "topic": "感度",
+      "question": "疾患がある100人のうち、検査陽性が90人だった。この情報から計算できる感度はどれか。",
+      "choices": [
+        "10%",
+        "50%",
+        "100%",
+        "90%"
+      ],
+      "answer": 4,
+      "notes": [
+        "10%はこの集団で陰性となった割合である。",
+        "50%となる根拠は示されていない。",
+        "疾患のある全員が陽性ではないため100%ではない。",
+        "感度は疾患のある人のうち陽性となる割合で、90÷100＝90%である。"
+      ],
+      "reference_keys": [
+        "int_epidemiology"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "感度の定義と90/100の計算を照合。"
+    },
+    {
+      "id": "ORG-INT-057",
+      "category": "看護の統合と実践",
+      "topic": "特異度",
+      "question": "疾患がない200人のうち、検査陰性が180人だった。特異度はどれか。",
+      "choices": [
+        "90%",
+        "10%",
+        "80%",
+        "180%"
+      ],
+      "answer": 1,
+      "notes": [
+        "特異度は疾患のない人のうち陰性となる割合で、180÷200＝90%である。",
+        "10%はこの集団で偽陽性となった割合である。",
+        "180/200の計算結果は80%ではない。",
+        "割合の分母を無視して人数を百分率にできない。"
+      ],
+      "reference_keys": [
+        "int_epidemiology"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "特異度の定義と180/200の算術を照合。"
+    },
+    {
+      "id": "ORG-INT-058",
+      "category": "看護の統合と実践",
+      "topic": "相対危険",
+      "question": "曝露群の発症リスクが10%、非曝露群が5%だった。相対危険はどれか。",
+      "choices": [
+        "0.5",
+        "2",
+        "5",
+        "15"
+      ],
+      "answer": 2,
+      "notes": [
+        "0.5は比較の方向を逆にした値である。",
+        "相対危険は曝露群リスク÷非曝露群リスクで、10%÷5%＝2となる。",
+        "5は両群の差を百分率ポイントで表した数値で、比ではない。",
+        "両群の百分率を足しても相対危険にはならない。"
+      ],
+      "reference_keys": [
+        "int_analysis"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "リスク比の定義と計算を照合。"
+    },
+    {
+      "id": "ORG-INT-059",
+      "category": "看護の統合と実践",
+      "topic": "結果の一般化",
+      "question": "一つの施設の希望者だけで行った研修調査の結果を読む際、注意する点はどれか。",
+      "choices": [
+        "希望者は必ず全看護師を代表する",
+        "人数が少なくても誤差はない",
+        "参加者の特性や施設の違いから一般化の限界を検討する",
+        "統計結果があれば研究方法を読まなくてよい"
+      ],
+      "answer": 3,
+      "notes": [
+        "希望して参加した人には関心や経験の偏りがあり得る。",
+        "少人数の結果には不確実性がある。",
+        "どの対象に結果を当てはめられるか、選択や環境の違いを確認する。",
+        "数値の解釈には対象選択・測定・分析方法の理解が必要である。"
+      ],
+      "reference_keys": [
+        "int_study",
+        "int_analysis"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "標本選択と外的妥当性に関わる解釈を照合。"
+    },
+    {
+      "id": "ORG-INT-060",
+      "category": "看護の統合と実践",
+      "topic": "記述統計の中央値",
+      "question": "待ち時間が5分、7分、8分、10分、40分の5人について、中央値はどれか。",
+      "choices": [
+        "5分",
+        "14分",
+        "40分",
+        "8分"
+      ],
+      "answer": 4,
+      "notes": [
+        "5分は最小値であり中央の値ではない。",
+        "14分は合計70分を5人で割った平均値である。",
+        "40分は最大値である。",
+        "小さい順に並べた5個の中央、3番目の8分が中央値である。"
+      ],
+      "reference_keys": [],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "5値を昇順に並べ3番目を選ぶ算術検証。平均14分との区別も計算確認。"
+    },
+    {
+      "id": "ORG-INT-061",
+      "category": "看護の統合と実践",
+      "topic": "プライマリーナーシング",
+      "question": "一人の看護師が中心となり、入院から退院まで患者の看護計画の立案・評価に継続して責任を持つ方式はどれか。",
+      "choices": [
+        "プライマリーナーシング",
+        "検温・注射等で作業を分ける機能別看護",
+        "単なる勤務表の時間割",
+        "患者の割当てを毎回抽選する方法"
+      ],
+      "answer": 1,
+      "notes": [
+        "担当看護師を中心に、継続した計画と評価を担う方式である。不在時には他の看護師と連携する。",
+        "機能別看護は業務の種類ごとに分担する方式である。",
+        "勤務時間の設定だけでは患者への継続責任の方式を示さない。",
+        "毎回の抽選は継続した受持ちを示すものではない。"
+      ],
+      "reference_keys": [
+        "int_delivery"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "看護学会誌のプライマリーナーシングの定義に照合。"
+    },
+    {
+      "id": "ORG-INT-062",
+      "category": "看護の統合と実践",
+      "topic": "固定チームナーシング",
+      "question": "病棟でチームのメンバーとリーダーを一定期間固定し、患者群の看護を担当する方式はどれか。",
+      "choices": [
+        "全員が単独で判断する方式",
+        "固定チームナーシング",
+        "単一業務だけを全患者に実施する方式",
+        "一人が24時間休まず全て担当する方式"
+      ],
+      "answer": 2,
+      "notes": [
+        "チームで計画・共有して実践するため、単独判断のみの方式ではない。",
+        "固定したチームを単位に継続して患者群を受け持つ。",
+        "単一の業務単位の分担は機能別看護の考え方に近い。",
+        "継続性はチームで確保し、一人の連続勤務で実現するものではない。"
+      ],
+      "reference_keys": [
+        "int_delivery"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "固定したメンバーとリーダーによる継続した受持ちに照合。"
+    },
+    {
+      "id": "ORG-INT-063",
+      "category": "看護の統合と実践",
+      "topic": "ペアでの看護実践",
+      "question": "能力や経験の異なる看護師二人が対等に組み、お互いの強みを生かして複数患者のケアを進める。適切な協働はどれか。",
+      "choices": [
+        "経験者だけが全て決め、相手は発言しない",
+        "各自が相手の行動を知らないまま進める",
+        "互いに評価と計画を共有し、確認・補完し合う",
+        "一人が実施すればもう一人は患者確認を省く"
+      ],
+      "answer": 3,
+      "notes": [
+        "対等な協働では双方の観察や意見を生かす。",
+        "行動や判断を共有しなければ補完や確認が働きにくい。",
+        "強みを生かし、弱い部分を補いながら安全に実践する。",
+        "ペアであっても患者確認などの基本手順は必要である。"
+      ],
+      "reference_keys": [
+        "int_delivery"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "PNSに記載された相互補完・対等な協力の考え方に照合。"
+    },
+    {
+      "id": "ORG-INT-064",
+      "category": "看護の統合と実践",
+      "topic": "受持ちの配分",
+      "question": "夜勤の受持ちを決める際、安全な配分として適切なのはどれか。",
+      "choices": [
+        "人数だけを完全に等しくする",
+        "病室番号だけで機械的に分ける",
+        "経験を考慮せず重症者を一人に集める",
+        "重症度、必要ケア、職員の能力と支援体制を考慮する"
+      ],
+      "answer": 4,
+      "notes": [
+        "人数が同じでも必要な観察やケア量は異なる。",
+        "位置だけでは業務の負担や必要能力を判断できない。",
+        "集中した負担を支える能力や体制の確認が必要である。",
+        "患者の必要性とスタッフの条件を合わせ、偏りがあれば調整する。"
+      ],
+      "reference_keys": [
+        "int_aide",
+        "int_huddle"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "業務の分担判断と業務量の再配分原則を照合。"
+    },
+    {
+      "id": "ORG-INT-065",
+      "category": "看護の統合と実践",
+      "topic": "看護補助者との協働",
+      "question": "看護補助者へ安定した患者の移送を依頼する前に、看護師が行うことはどれか。",
+      "choices": [
+        "患者の状態・移送方法・注意点を評価し、報告が必要な変化を伝える",
+        "患者の状態の判断を全て補助者に任せる",
+        "安全確認をせず、空いている人に依頼する",
+        "依頼後の結果確認は不要とする"
+      ],
+      "answer": 1,
+      "notes": [
+        "業務を任せる前に看護師が適否を判断し、実施と報告を具体的に共有する。",
+        "専門的な状態判断を補助者だけに委ねない。",
+        "余裕があることだけでは安全に実施できる根拠にならない。",
+        "依頼後も必要な報告や結果の確認を行う。"
+      ],
+      "reference_keys": [
+        "int_aide"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "補助者との業務分担と看護師の判断責任を照合。"
+    },
+    {
+      "id": "ORG-INT-066",
+      "category": "看護の統合と実践",
+      "topic": "専門的判断と業務分担",
+      "question": "看護補助者との分担で、看護師が専門的判断として担う内容はどれか。",
+      "choices": [
+        "環境整備用物品の補充だけ",
+        "新たな呼吸苦の評価と看護計画の変更",
+        "使用済みリネンの所定の回収だけ",
+        "書類の決められた場所への搬送だけ"
+      ],
+      "answer": 2,
+      "notes": [
+        "物品補充は施設の手順で補助者と分担できる業務の一例である。",
+        "状態変化の評価や計画変更は看護の専門的判断を要する。",
+        "回収方法などの教育・手順を整えて分担を検討できる。",
+        "機密保持等に配慮した定型的な搬送は分担を検討できる。"
+      ],
+      "reference_keys": [
+        "int_aide"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "看護の専門性を要する判断と周辺業務の区別を照合。"
+    },
+    {
+      "id": "ORG-INT-067",
+      "category": "看護の統合と実践",
+      "topic": "新人への指導",
+      "question": "新人看護師が未経験の処置を初めて行う。適切な支援はどれか。",
+      "choices": [
+        "手順書の所在だけ伝え、その後は見ない",
+        "一度説明したので能力評価は不要とする",
+        "知識・技術の準備状況を確認し、必要な監督下で実施する",
+        "失敗を経験させるため相談を禁じる"
+      ],
+      "answer": 3,
+      "notes": [
+        "資料は重要だが、初回実施の能力や安全性も確認する。",
+        "説明を受けたことと安全に実施できることは同じではない。",
+        "実施可能な範囲と支援を確認し、患者の安全と学習を両立する。",
+        "患者を危険にさらす学習方法は適切ではない。"
+      ],
+      "reference_keys": [
+        "int_ethics",
+        "int_aide"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "自らの能力の範囲と安全な役割分担の原則を照合。"
+    },
+    {
+      "id": "ORG-INT-068",
+      "category": "看護の統合と実践",
+      "topic": "継続学習",
+      "question": "新しい医療機器が導入された。専門職として適切なのはどれか。",
+      "choices": [
+        "旧機種と同じだと推測して使う",
+        "操作に慣れた同僚の記憶だけを根拠にする",
+        "警報の違いは確認しない",
+        "教育と手順の確認を受け、自分の習熟を確かめる"
+      ],
+      "answer": 4,
+      "notes": [
+        "外観が似ても操作や安全機能が異なることがある。",
+        "製品の手順や正式な教育を確認し、記憶だけに依存しない。",
+        "警報の意味と対応は安全使用に必要である。",
+        "変化する知識・技術を学び、実施できる範囲を確認する。"
+      ],
+      "reference_keys": [
+        "int_devices",
+        "int_ethics"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "機器の適正使用と専門職の能力維持を照合。"
+    },
+    {
+      "id": "ORG-INT-069",
+      "category": "看護の統合と実践",
+      "topic": "夜勤者の疲労",
+      "question": "夜勤後に強い眠気が続く職員が増えている。管理者の対応として適切なのはどれか。",
+      "choices": [
+        "勤務編成・休息・業務負担を確認し、負担軽減を検討する",
+        "本人の気合だけの問題として扱う",
+        "眠気の申告を評価上の不利益にする",
+        "休憩を減らして早く業務を終える方針にする"
+      ],
+      "answer": 1,
+      "notes": [
+        "個人の工夫だけでなく勤務と休息の条件を見直す。",
+        "疲労は労働条件や交代制勤務の影響も受ける。",
+        "申告しにくい環境では安全上の問題を把握できない。",
+        "休息を減らすと疲労の蓄積につながり得る。"
+      ],
+      "reference_keys": [
+        "int_night"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "夜勤・交代制勤務の負担軽減を組織的に行う考え方に照合。"
+    },
+    {
+      "id": "ORG-INT-070",
+      "category": "看護の統合と実践",
+      "topic": "針刺し後の職員対応",
+      "question": "使用済み針で職員が受傷した。適切なのはどれか。",
+      "choices": [
+        "傷が小さければ翌月まで報告しない",
+        "直ちに所定の洗浄等を行い、施設の曝露対応窓口へ連絡して評価を受ける",
+        "感染症が判明するまで一切対応しない",
+        "誰にも知らせず市販薬だけを使う"
+      ],
+      "answer": 2,
+      "notes": [
+        "予防措置の判断には時間が関係するため、早期に評価につなぐ。",
+        "所定の初期対応と速やかな報告・医学的評価を行う。",
+        "感染状況が不明な段階から評価する必要がある。",
+        "個人の判断だけで済ませず、曝露後対応の体制を利用する。"
+      ],
+      "reference_keys": [
+        "int_sharps"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "CDC/NIOSHの針刺し直後の洗浄・報告・医療評価を独立照合。"
+    },
+    {
+      "id": "ORG-INT-071",
+      "category": "看護の統合と実践",
+      "topic": "個人防護具の選択",
+      "question": "飛散する血液に顔面がさらされるおそれがある処置を計画している。準備として適切なのはどれか。",
+      "choices": [
+        "患者の感染症診断だけで防護具を決める",
+        "手袋だけで顔面も保護できるとする",
+        "予測される曝露に応じて眼・鼻・口を守る防護具も用意する",
+        "マスクがあれば手指衛生は省く"
+      ],
+      "answer": 3,
+      "notes": [
+        "防護具は感染症診断だけでなく予測される曝露から選ぶ。",
+        "手袋は手を保護するが眼や口の飛散防護にはならない。",
+        "飛散のリスクに合わせ、マスクと眼の防護等を組み合わせる。",
+        "個人防護具は手指衛生の代わりにはならない。"
+      ],
+      "reference_keys": [
+        "int_infection"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "標準予防策の曝露に応じた個人防護具の選択に照合。"
+    },
+    {
+      "id": "ORG-INT-072",
+      "category": "看護の統合と実践",
+      "topic": "物品不足時の安全確保",
+      "question": "必要な防護具が不足し、安全に予定処置を行えないことに気付いた。適切なのはどれか。",
+      "choices": [
+        "不足を隠して通常どおり行う",
+        "個人の自費購入だけに任せる",
+        "不要と決めつけて防護具を省く",
+        "責任者へ報告し、緊急性を踏まえて調達や安全な代替策を調整する"
+      ],
+      "answer": 4,
+      "notes": [
+        "不足の共有がなければ患者・職員への危険が続く。",
+        "安全な供給は組織的な対応が必要である。",
+        "曝露リスクの評価をせず防護を省略しない。",
+        "リスクと処置の必要性を共有し、実施可能な安全策を整える。"
+      ],
+      "reference_keys": [
+        "int_infection",
+        "int_huddle"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "防護具配備と状況変化時の計画調整を照合。"
+    },
+    {
+      "id": "ORG-INT-073",
+      "category": "看護の統合と実践",
+      "topic": "腰痛予防と移乗",
+      "question": "全介助を要する患者をベッドから車椅子へ移す。職員の腰痛予防として適切なのはどれか。",
+      "choices": [
+        "患者の状態に合うリフト等を活用し、人力の抱え上げを減らす",
+        "一人で素早く抱え上げる",
+        "腰をひねって距離を短くする",
+        "痛みが出るまで用具を使わない"
+      ],
+      "answer": 1,
+      "notes": [
+        "全介助の抱上げでは負担が大きい。適合する福祉用具と手順を用いる。",
+        "速さだけでは腰への大きな負担を解消できない。",
+        "ひねりや無理な姿勢は腰への負担を増やす。",
+        "痛みが出る前から予防的に環境と方法を整える。"
+      ],
+      "reference_keys": [
+        "int_lifting"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "厚労省の全介助時リフト活用・人力抱上げ回避を照合。"
+    },
+    {
+      "id": "ORG-INT-074",
+      "category": "看護の統合と実践",
+      "topic": "職員の心理的安全性",
+      "question": "ミスを指摘した職員が毎回責められ、報告が減っている。管理者の対応はどれか。",
+      "choices": [
+        "報告が減ったので安全になったと判断する",
+        "報告しやすい環境を整え、事実と仕組みの改善を重視する",
+        "報告者の名前を全員に掲示する",
+        "報告の受付時間をさらに制限する"
+      ],
+      "answer": 2,
+      "notes": [
+        "報告減少は出来事の減少ではなく、申告の抑制かもしれない。",
+        "安全上の懸念を話せる環境をつくり、背景要因から改善する。",
+        "さらし上げは報告を抑制する可能性がある。",
+        "受付を狭めると重要な情報が届きにくくなる。"
+      ],
+      "reference_keys": [
+        "int_systems",
+        "int_debrief"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "非難ではなく学習に結び付く報告文化を照合。"
+    },
+    {
+      "id": "ORG-INT-075",
+      "category": "看護の統合と実践",
+      "topic": "災害現場の安全",
+      "question": "地震直後、倒壊の危険がある建物で救援を求める声がした。医療者の行動として適切なのはどれか。",
+      "choices": [
+        "単独で安全確認せず突入する",
+        "医療者なら危険区域の規制を無視できる",
+        "現場の安全と指揮系統を確認し、救助機関と連携する",
+        "自分の安全を確かめることは救援の放棄と考える"
+      ],
+      "answer": 3,
+      "notes": [
+        "二次被害で救援者も被災する危険がある。",
+        "資格によって危険がなくなるわけではない。",
+        "安全を確保し、役割に応じて関係機関と協働する。",
+        "救援を継続するためにも支援者の安全は必要である。"
+      ],
+      "reference_keys": [
+        "int_pfa",
+        "int_disaster"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "安全を確認して支援する災害対応の原則を照合。"
+    },
+    {
+      "id": "ORG-INT-076",
+      "category": "看護の統合と実践",
+      "topic": "BCPの目的",
+      "question": "病院の事業継続計画（BCP）の中心的な目的はどれか。",
+      "choices": [
+        "全業務を必ず平常時と同じ順で行う",
+        "災害後の広報文だけを作る",
+        "建物の被害だけを記録する",
+        "限られた資源で重要業務を継続・早期復旧できるよう備える"
+      ],
+      "answer": 4,
+      "notes": [
+        "資源制約時は重要度に応じた優先付けが必要である。",
+        "広報も一部になり得るが、計画の中心は業務の継続である。",
+        "被害把握に加え、実際に機能を維持・回復する方針が必要である。",
+        "優先業務、必要資源、代替方法などを事前に定める。"
+      ],
+      "reference_keys": [
+        "int_disaster_bcp"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "自然災害を含む厚生労働省の医療施設BCP資料へ直接根拠を変更。"
+    },
+    {
+      "id": "ORG-INT-077",
+      "category": "看護の統合と実践",
+      "topic": "DMATの役割",
+      "question": "災害派遣医療チーム（DMAT）の説明として適切なのはどれか。",
+      "choices": [
+        "災害時に機動的に医療活動を行うため訓練されたチーム",
+        "通常の病院事務だけを代行する集団",
+        "災害時の建物修理だけを担当する集団",
+        "医療機関と連携せず独自の指揮だけで活動する集団"
+      ],
+      "answer": 1,
+      "notes": [
+        "災害時の医療活動を担う訓練されたチームで、調整の仕組みの中で活動する。",
+        "事務代行だけを目的とするものではない。",
+        "建物修理の専門隊ではなく医療支援を行う。",
+        "地域や他チームと情報を共有し調整して活動する。"
+      ],
+      "reference_keys": [
+        "int_disaster"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "日本DMAT活動要領の医療支援チームの位置付けを照合。"
+    },
+    {
+      "id": "ORG-INT-078",
+      "category": "看護の統合と実践",
+      "topic": "災害医療情報の共有",
+      "question": "災害時、病院の受入れ可否やライフラインの状況を広域で共有する仕組みとして適切なのはどれか。",
+      "choices": [
+        "個人用の買物アプリ",
+        "EMIS",
+        "職員の私的な日記",
+        "患者満足度調査票だけ"
+      ],
+      "answer": 2,
+      "notes": [
+        "買物アプリは災害医療機関情報の共有システムではない。",
+        "EMISは医療機関の被災・受入れ等の情報を共有し医療資源の調整を支える。",
+        "私的な日記だけでは関係機関へ必要な情報を共有できない。",
+        "満足度調査だけでは医療機関の稼働状況を共有できない。"
+      ],
+      "reference_keys": [
+        "int_emis"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "厚労省EMISの目的・共有情報に照合。"
+    },
+    {
+      "id": "ORG-INT-079",
+      "category": "看護の統合と実践",
+      "topic": "トリアージの再評価",
+      "question": "多数傷病者への初回トリアージ後、待機中の患者の呼吸状態が悪化した。適切なのはどれか。",
+      "choices": [
+        "最初の色を搬送まで絶対に変えない",
+        "年齢だけで分類を変える",
+        "状態を再評価し、必要に応じて優先度を更新する",
+        "一度判定したので観察を終了する"
+      ],
+      "answer": 3,
+      "notes": [
+        "状態や資源は変化し、初回判定だけで固定しない。",
+        "優先度は状態や所定の基準で判断する。",
+        "変化を把握し、再評価して治療・搬送の優先順位へ反映する。",
+        "待機中にも悪化があり得るため観察が必要である。"
+      ],
+      "reference_keys": [
+        "int_triage"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "トリアージが治療・搬送優先度を定める状態評価であることを適用。"
+    },
+    {
+      "id": "ORG-INT-080",
+      "category": "看護の統合と実践",
+      "topic": "トリアージの赤区分",
+      "question": "多数傷病者のトリアージで、一般に赤色が示す優先度はどれか。",
+      "choices": [
+        "歩行できる軽症者",
+        "治療の必要がない者",
+        "状態が安定し長時間待機可能な者",
+        "生命に関わり直ちに処置を要する最優先群"
+      ],
+      "answer": 4,
+      "notes": [
+        "歩行可能な軽症者は一般に緑の群として扱う。",
+        "赤は治療不要の意味ではない。",
+        "比較的安定し待機可能な群とは区別される。",
+        "赤は重篤で一刻も早い治療を要する最優先の群を示す。"
+      ],
+      "reference_keys": [
+        "int_triage"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "START紹介の色区分の意味に照合。"
+    },
+    {
+      "id": "ORG-INT-081",
+      "category": "看護の統合と実践",
+      "topic": "トリアージと尊厳",
+      "question": "救命が困難と判定された傷病者への配慮として適切なのはどれか。",
+      "choices": [
+        "状況に応じた苦痛への配慮と尊厳の保持を続ける",
+        "治療優先度が低いので人として扱わない",
+        "家族への説明を常に拒否する",
+        "判定後は状態変化を考慮しない"
+      ],
+      "answer": 1,
+      "notes": [
+        "資源に基づく優先順位と、人の尊厳や苦痛への配慮は両立して考える。",
+        "優先度の分類は尊厳を失わせるものではない。",
+        "安全と状況に配慮しつつ、家族への説明や支援を検討する。",
+        "状況の変化に応じた再評価が必要となる場合がある。"
+      ],
+      "reference_keys": [
+        "int_triage",
+        "int_ethics"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "トリアージの目的と尊厳尊重を区別して適用。"
+    },
+    {
+      "id": "ORG-INT-082",
+      "category": "看護の統合と実践",
+      "topic": "傷病者の追跡",
+      "question": "多数傷病者を複数の搬送先へ送る。情報の連続性を保つ方法はどれか。",
+      "choices": [
+        "搬送先は運転者の記憶だけに任せる",
+        "識別情報、状態、処置、搬送先を対応させて記録・共有する",
+        "搬送のたびに番号を無記録で変更する",
+        "氏名が分からない人には記録を作らない"
+      ],
+      "answer": 2,
+      "notes": [
+        "記憶だけでは後の所在や処置経過を確認しにくい。",
+        "個々の傷病者と情報を結び、継続する医療へ引き継ぐ。",
+        "番号の対応が失われると患者と情報を取り違えるおそれがある。",
+        "氏名不明でも仮識別等を用いて追跡できるようにする。"
+      ],
+      "reference_keys": [
+        "int_handoff",
+        "int_disaster"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "責任・識別情報の引継ぎを災害搬送へ適用。"
+    },
+    {
+      "id": "ORG-INT-083",
+      "category": "看護の統合と実践",
+      "topic": "医療依存度の高い患者の避難",
+      "question": "酸素療法を継続する患者を安全な場所へ移す計画で重要なのはどれか。",
+      "choices": [
+        "移動距離だけを見て決める",
+        "酸素装置は搬送先で探せばよいとする",
+        "必要な酸素供給、移送方法、受入れ先への引継ぎを調整する",
+        "患者の状態を確認せず歩いて移動させる"
+      ],
+      "answer": 3,
+      "notes": [
+        "距離だけでなく治療の継続や患者の移動能力を考える。",
+        "途中の供給中断を防ぐ備えが必要である。",
+        "移動中と到着後の治療をつなげるため、資源と情報を事前に確認する。",
+        "患者の状態に応じた移送手段を選択する。"
+      ],
+      "reference_keys": [
+        "int_disaster_bcp",
+        "int_handoff"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "医療施設BCPの患者移送・医療機能継続と引継ぎの原則を独立照合。"
+    },
+    {
+      "id": "ORG-INT-084",
+      "category": "看護の統合と実践",
+      "topic": "停電への備え",
+      "question": "停電時に生命維持管理装置を継続使用するため、平時に確認する内容はどれか。",
+      "choices": [
+        "非常電源の存在だけで十分とする",
+        "充電状態は停電してから初めて確認する",
+        "全てのコンセントが同じ電源だと考える",
+        "非常電源の接続先・作動、機器の持続時間、代替手順を確かめる"
+      ],
+      "answer": 4,
+      "notes": [
+        "電源があっても実際に必要な機器へ供給できるか確認する。",
+        "停電後に不足が分かると対応が間に合わないおそれがある。",
+        "電源の種類や供給範囲は設備で異なる。",
+        "必要な機能の継続時間と切替・代替手順を訓練しておく。"
+      ],
+      "reference_keys": [
+        "int_disaster_bcp",
+        "int_devices"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "非常用電源と必要な医療機能の継続に備える災害BCP資料を追加。"
+    },
+    {
+      "id": "ORG-INT-085",
+      "category": "看護の統合と実践",
+      "topic": "避難所の食中毒予防",
+      "question": "避難所で弁当が配られたが、冷蔵設備が使えない。食中毒予防として適切なのはどれか。",
+      "choices": [
+        "保管条件と配付時間を確認し、長時間常温に置いた食品を避ける",
+        "配られた食品は何日でも安全と説明する",
+        "においがなければ必ず安全と判断する",
+        "手洗いは水の節約のため全て省く"
+      ],
+      "answer": 1,
+      "notes": [
+        "低温保存が難しいときは配付後の時間や衛生状態に特に注意する。",
+        "配付物でも時間・温度等の条件で安全性は変わる。",
+        "原因菌の増殖が見た目やにおいで分からない場合がある。",
+        "調理や食事前の手指衛生を可能な方法で確保する。"
+      ],
+      "reference_keys": [
+        "int_food"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "ライフライン寸断時の食品保管と手洗いの注意を照合。"
+    },
+    {
+      "id": "ORG-INT-086",
+      "category": "看護の統合と実践",
+      "topic": "災害時の服薬継続",
+      "question": "避難してきた患者が常用薬を持ち出せなかった。看護師の対応として適切なのはどれか。",
+      "choices": [
+        "全ての薬を一律に中止させる",
+        "薬の内容・残量等を確認し、薬剤師や医療班へつなぐ",
+        "同じ病気の人の薬を分けてもらう",
+        "外観が似た薬を選んで渡す"
+      ],
+      "answer": 2,
+      "notes": [
+        "中断の影響は薬剤・病状で異なり、個別評価が必要である。",
+        "お薬手帳なども活用し、必要な治療の継続を調整する。",
+        "同じ病名でも薬剤や量が異なり、安全な代用にならない。",
+        "外観だけでは薬剤や適切な量を識別できない。"
+      ],
+      "reference_keys": [
+        "int_match",
+        "int_disaster"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "薬剤照合と災害時の医療継続を組み合わせて確認。"
+    },
+    {
+      "id": "ORG-INT-087",
+      "category": "看護の統合と実践",
+      "topic": "災害情報の伝達",
+      "question": "避難所の連絡を音声放送だけで行っている。聴覚障害のある人にも伝える工夫はどれか。",
+      "choices": [
+        "放送回数だけを増やす",
+        "他の避難者が気付くことだけに頼る",
+        "掲示や文字など複数の方法を用い、伝わったか確認する",
+        "必要な情報を本人に知らせない"
+      ],
+      "answer": 3,
+      "notes": [
+        "音声を聞き取りにくい人には回数を増やすだけでは届かない。",
+        "偶然の伝達に頼らず確実に届く方法を整える。",
+        "本人の情報取得の方法に合わせ、複数の手段を用いる。",
+        "情報を得る機会を確保する必要がある。"
+      ],
+      "reference_keys": [
+        "int_pfa",
+        "int_ethics"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "支援対象者の能力・必要に合わせた実際的支援に照合。"
+    },
+    {
+      "id": "ORG-INT-088",
+      "category": "看護の統合と実践",
+      "topic": "車中泊と血栓予防",
+      "question": "避難生活で車内に長時間座っている人へ、血栓予防のために勧める内容はどれか。",
+      "choices": [
+        "水分を常に控える",
+        "脚を動かさず同じ姿勢を続ける",
+        "きつい姿勢を我慢すれば慣れると説明する",
+        "無理のない範囲で体や足を動かし、適切な水分を取る"
+      ],
+      "answer": 4,
+      "notes": [
+        "水分不足は血栓形成を助長することがあり、個別の制限がなければ適切に補給する。",
+        "長時間の不動は脚の静脈血流を滞らせる。",
+        "楽な姿勢や運動の機会を確保する。",
+        "可能な運動と適切な水分摂取等で静脈うっ滞や脱水を防ぐ。片脚の腫れ・急な息苦しさは医療者へ伝える。"
+      ],
+      "reference_keys": [
+        "int_dvt"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "日赤の避難生活・長時間不動と血栓予防の説明を照合。"
+    },
+    {
+      "id": "ORG-INT-089",
+      "category": "看護の統合と実践",
+      "topic": "避難所の食物アレルギー",
+      "question": "配給食の原材料が不明で、食物アレルギーのある子どもがいる。適切な対応はどれか。",
+      "choices": [
+        "原材料を確認し、安全に食べられる代替食を支援者と調整する",
+        "原因食品を少量なら試すよう勧める",
+        "表面から除けば必ず安全とする",
+        "食べられないことを本人のわがままと扱う"
+      ],
+      "answer": 1,
+      "notes": [
+        "原因食品や混入の可能性を確認し、必要な食事を確保する。",
+        "少量でも反応することがあり、避難所で安易に試さない。",
+        "混入している場合は表面を除くだけでは安全にできない。",
+        "アレルギーは健康被害につながる医療上の必要性である。"
+      ],
+      "reference_keys": [
+        "int_allergy",
+        "int_nutrition"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "避難所でのアレルギー疾患への食事対応を照合。"
+    },
+    {
+      "id": "ORG-INT-090",
+      "category": "看護の統合と実践",
+      "topic": "災害時の心理的応急処置",
+      "question": "被災直後の人が話したがらず、毛布と家族への連絡を求めている。適切な支援はどれか。",
+      "choices": [
+        "体験を詳細に語るまで支援しない",
+        "無理に語らせず、安心と実際の必要を支える",
+        "全員に同じ体験談を発表させる",
+        "「すぐ忘れればよい」と話を終える"
+      ],
+      "answer": 2,
+      "notes": [
+        "話すことを支援の条件にしない。",
+        "安全・安心を確かめ、本人の必要に沿った実際的な援助とつながりを支える。",
+        "強制的な体験の共有は心理的負担となり得る。",
+        "つらさを否定せず、必要な援助を確認する。"
+      ],
+      "reference_keys": [
+        "int_pfa"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "PFAの尊厳尊重と実際的・支持的援助に照合。"
+    },
+    {
+      "id": "ORG-INT-091",
+      "category": "看護の統合と実践",
+      "topic": "災害訓練の評価",
+      "question": "病院の避難訓練が終わった。次の備えに生かす対応はどれか。",
+      "choices": [
+        "参加人数だけ記録して終了する",
+        "問題点は士気が下がるため残さない",
+        "連絡・移送・物資等の課題を整理し、計画を修正して再確認する",
+        "訓練したのでBCPは以後見直さない"
+      ],
+      "answer": 3,
+      "notes": [
+        "人数は一つの情報だが、手順が機能したかも確認する。",
+        "問題点を記録・共有しなければ改善につながらない。",
+        "訓練で見つかった実行上の課題を計画や次の訓練に反映する。",
+        "設備や人員の変化もあり継続した見直しが必要である。"
+      ],
+      "reference_keys": [
+        "int_disaster_bcp",
+        "int_debrief"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "災害BCPの訓練・計画改善とチームでの振返りに根拠を合わせた。"
+    },
+    {
+      "id": "ORG-INT-092",
+      "category": "看護の統合と実践",
+      "topic": "管理栄養士との連携",
+      "question": "複数の食事制限があり、食欲低下もある患者の退院支援で、専門的な栄養評価・献立調整の相談先はどれか。",
+      "choices": [
+        "診療情報管理士",
+        "放射線技師",
+        "臨床工学技士",
+        "管理栄養士"
+      ],
+      "answer": 4,
+      "notes": [
+        "診療情報管理を担う職種で、専門的な献立調整の主な相談先ではない。",
+        "画像検査等を担い、栄養評価を主業務とする職種ではない。",
+        "生命維持管理装置等に関わる職種で、食事調整の主な相談先とは異なる。",
+        "病態・摂取状況・生活条件を踏まえた栄養評価や指導を専門とする。"
+      ],
+      "reference_keys": [
+        "int_collaboration"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "通知の管理栄養士の栄養評価・指導の役割に照合。"
+    },
+    {
+      "id": "ORG-INT-093",
+      "category": "看護の統合と実践",
+      "topic": "薬剤師との連携",
+      "question": "複数の診療科から薬が処方され、重複や相互作用が心配される。専門的な薬剤確認で連携する職種はどれか。",
+      "choices": [
+        "薬剤師",
+        "歯科技工士",
+        "診療放射線技師",
+        "義肢装具士"
+      ],
+      "answer": 1,
+      "notes": [
+        "処方・薬歴を照合し、重複や相互作用などの薬学的評価を行う。",
+        "歯科補綴物等の製作を担い、薬剤評価の主な専門職ではない。",
+        "放射線検査等を担う職種で、薬剤照合の主担当とは異なる。",
+        "義肢や装具を扱い、薬学的評価を主業務としない。"
+      ],
+      "reference_keys": [
+        "int_match",
+        "int_collaboration"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "薬剤照合における薬剤師の役割を照合。"
+    },
+    {
+      "id": "ORG-INT-094",
+      "category": "看護の統合と実践",
+      "topic": "理学療法士との連携",
+      "question": "退院に向け、歩行能力と杖の適合、階段移動を専門的に評価したい。主に連携する職種はどれか。",
+      "choices": [
+        "診療情報管理士",
+        "理学療法士",
+        "臨床検査技師",
+        "歯科技工士"
+      ],
+      "answer": 2,
+      "notes": [
+        "診療情報の管理を中心に担う職種である。",
+        "基本的な動作や移動機能への評価・訓練を専門とする。",
+        "検体や生理機能検査を中心に担い、歩行訓練の主な職種ではない。",
+        "歯科補綴物等の製作を担う職種である。"
+      ],
+      "reference_keys": [
+        "int_collaboration"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "チーム医療における理学療法の役割に照合。"
+    },
+    {
+      "id": "ORG-INT-095",
+      "category": "看護の統合と実践",
+      "topic": "医療ソーシャルワーカーとの連携",
+      "question": "患者が退院後の医療費と収入の減少を心配している。制度利用や社会的課題の相談で連携する職種はどれか。",
+      "choices": [
+        "臨床工学技士",
+        "診療放射線技師",
+        "医療ソーシャルワーカー",
+        "視能訓練士"
+      ],
+      "answer": 3,
+      "notes": [
+        "医療機器等を主に扱い、社会制度の相談の主な担当とは異なる。",
+        "画像検査等を専門とする職種である。",
+        "経済・社会的な課題を整理し、制度や関係機関の利用を支援する。",
+        "視機能検査・訓練等を主に担当する。"
+      ],
+      "reference_keys": [
+        "int_msw"
+      ],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "厚労省職業情報の経済的・社会的課題への支援を照合。"
+    },
+    {
+      "id": "ORG-INT-096",
+      "category": "看護の統合と実践",
+      "topic": "検査の陽性的中率",
+      "question": "ある検査で陽性となった100人のうち、確定検査で疾患があると判定されたのは80人であった。この検査の陽性的中率（陽性者のうち実際に疾患がある人の割合）はどれか。",
+      "choices": [
+        "20%",
+        "40%",
+        "60%",
+        "80%"
+      ],
+      "answer": 4,
+      "notes": [
+        "20%は陽性者のうち疾患がなかった20人の割合である。",
+        "陽性者100人のうち80人なので40%にはならない。",
+        "分母は検査陽性者100人、分子は疾患がある80人である。",
+        "80÷100×100＝80%。疾患がある人全体を分母とする感度とは異なる。"
+      ],
+      "reference_keys": [],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "計算検証：80/100×100=80%。陽性的中率を設問内で定義し、感度との混同を避けた。"
+    },
+    {
+      "id": "ORG-INT-097",
+      "category": "看護の統合と実践",
+      "topic": "絶対リスク減少",
+      "question": "転倒予防策の評価で、対策前の転倒者割合は10%、対策後は6%だった。単純な絶対リスク減少（前後の割合の差）はどれか。",
+      "choices": [
+        "4パーセントポイント",
+        "6パーセントポイント",
+        "16パーセントポイント",
+        "40パーセントポイント"
+      ],
+      "answer": 1,
+      "notes": [
+        "10%−6%＝4パーセントポイント。前後の割合の差を求める。",
+        "6%は対策後の割合であり、前後の差ではない。",
+        "10%と6%を足した値で、リスクの減少ではない。",
+        "40%は（10−6）÷10×100で求める相対的な減少率であり、絶対差とは異なる。"
+      ],
+      "reference_keys": [],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "算術検証：10−6=4パーセントポイント。因果効果を断定せず単純な割合の差を問う。"
+    },
+    {
+      "id": "ORG-INT-098",
+      "category": "看護の統合と実践",
+      "topic": "実施率の集計",
+      "question": "病棟で120人が退院した。このうち100人が退院指導の実施対象で、対象者90人に指導を実施した。対象者を分母とする実施率はどれか。",
+      "choices": [
+        "75%",
+        "90%",
+        "83.3%",
+        "120%"
+      ],
+      "answer": 2,
+      "notes": [
+        "90÷120は退院者全体に対する割合で、設問が指定する対象者を分母にしていない。",
+        "対象者100人のうち90人へ実施したため、90÷100×100＝90%である。",
+        "100÷120は退院者中の実施対象者の割合で、実施率ではない。",
+        "実施者数90人は対象者100人を超えておらず、120%にはならない。"
+      ],
+      "reference_keys": [],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "計算検証：対象者分母90/100×100=90%。対象外20人を分母に含めない。"
+    },
+    {
+      "id": "ORG-INT-099",
+      "category": "看護の統合と実践",
+      "topic": "患者日数当たりの発生率",
+      "question": "ある病棟の1か月の延べ入院患者日数は2,000患者日、転倒件数は6件であった。1,000患者日当たりの転倒発生率はどれか。",
+      "choices": [
+        "0.3件",
+        "1.2件",
+        "3件",
+        "6件"
+      ],
+      "answer": 3,
+      "notes": [
+        "6÷2000×100の値で、設問の1,000患者日当たりへ換算できていない。",
+        "6÷2000×1000を計算すると3となり、1.2件ではない。",
+        "6÷2000×1000＝3件/1,000患者日となる。",
+        "6件は観察期間の件数そのもので、患者日数による換算前の値である。"
+      ],
+      "reference_keys": [],
+      "questionType": "一般問題",
+      "review_status": "checked",
+      "review_note": "計算検証：6/2000×1000=3件/1,000患者日。延べ患者日数と発生件数を明示。"
+    }
+  ]
+}

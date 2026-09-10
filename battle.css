@@ -3,3 +3,6 @@
 @media(max-width:600px){.battle-screen{padding:16px}.battle-header{gap:10px;padding:10px 0 18px}.battle-header h1{font-size:20px}.battle-header .battle-kicker{font-size:8px}.battle-header .battle-quiet{font-size:11px;padding:8px 10px}.battle-entry-grid{grid-template-columns:1fr}.battle-intro h2{font-size:25px}.battle-card{padding:20px}.battle-scoreboard{gap:10px}.battle-scoreboard article{padding:14px}.battle-question-card{padding:18px 14px}.battle-question{font-size:18px}.battle-choice{padding:14px 12px;font-size:14px}.battle-launch{padding:20px}.battle-launch h2{font-size:22px}.battle-code{font-size:40px}.battle-result>h2{font-size:28px}}
 
 .battle-history{text-align:left;margin:24px 0}.battle-history>details{margin:12px 0;padding:16px;background:white;border:1px solid #cedfd5;border-radius:10px}.battle-history summary{cursor:pointer;line-height:1.8}.battle-history summary small{display:block;font-size:11px;color:#5a7a6c}.battle-history article{padding:12px 0;border-top:1px solid #d5e3db;font-size:14px;line-height:1.8}
+
+.battle-rank{display:block;margin-top:10px;color:#116a55;font-size:18px}
+@media(min-width:760px){.battle-scoreboard{grid-template-columns:repeat(auto-fit,minmax(130px,1fr))}}
