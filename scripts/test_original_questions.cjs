@@ -8,7 +8,7 @@ const {chromium}=require('C:/Users/sa1j0/.cache/codex-runtimes/codex-primary-run
  await context.route('**/*',r=>new URL(r.request().url()).hostname==='127.0.0.1'?r.continue():r.abort());
  const page=await context.newPage(),errors=[];page.on('pageerror',e=>errors.push(e.message));
  await page.goto('http://127.0.0.1:8765');
- await page.check('[name=questionSource][value=original]');
+ await page.locator('#shiftSetup').evaluate(e=>e.open=true);await page.check('[name=questionSource][value=original]');
  const catalog=await page.evaluate(()=>({count:window.ORIGINAL_BANK.length,categories:window.ORIGINAL_BANK.reduce((out,q)=>(out[q.category]=(out[q.category]||0)+1,out),{})}));
  assert.equal(catalog.count,900);assert.equal(Object.keys(catalog.categories).length,9);assert(Object.values(catalog.categories).every(n=>n===100));
  assert((await page.locator('.question-source').innerText()).includes('9分野 · 900問'));
@@ -37,7 +37,7 @@ const {chromium}=require('C:/Users/sa1j0/.cache/codex-runtimes/codex-primary-run
  await page.click('#resultHomeButton');await page.check('[name=questionSource][value=past]');
  assert.equal(await page.locator('#examYear').isEnabled(),true);await page.selectOption('#examYear','115');await page.click('#startGame');
  assert(await page.evaluate(()=>QUESTION_BANK.every(q=>q.official&&q.exam===115)));
- await page.evaluate(()=>showTitle());await page.check('[name=questionSource][value=original]');await page.selectOption('#premiumCategory','母性看護学');await page.click('#startGame');
+ await page.evaluate(()=>showTitle());await page.locator('#shiftSetup').evaluate(e=>e.open=true);await page.check('[name=questionSource][value=original]');await page.selectOption('#premiumCategory','母性看護学');await page.click('#startGame');
  assert.equal(await page.evaluate(()=>QUESTION_BANK.length),20);
  for(let i=0;i<4;i++){
    const answer=await page.evaluate(()=>QUESTION_BANK[state.index].acceptedAnswerSets[0][0]);await page.locator('#choices .choice').nth((answer+1)%4).click();await page.click('#submitButton');await page.click('#nextButton');
@@ -77,3 +77,4 @@ const {chromium}=require('C:/Users/sa1j0/.cache/codex-runtimes/codex-primary-run
  assert.deepEqual(errors,[]);console.log(`PASS: 900 original questions, 3600 explanations, all-question correct/incorrect scoring, 9 category filters, 20-question session, mobile UI, source/year switching, incorrect-answer review, ${effects} simulator effects; no browser errors.`);
  }finally{await browser.close()}
 })().catch(e=>{console.error(e);process.exitCode=1});
+

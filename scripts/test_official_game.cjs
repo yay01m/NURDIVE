@@ -13,7 +13,7 @@ const {chromium}=require('C:/Users/sa1j0/.cache/codex-runtimes/codex-primary-run
  await ctx.addInitScript(()=>{localStorage.setItem('recare-active-user','test');localStorage.setItem('recare-local-accounts',JSON.stringify({test:{name:'test'}}));localStorage.setItem('recare-profile-v1:test',JSON.stringify({xp:0,answered:0,correct:0,stats:{},bookmarks:[],achievements:[],history:[{id:'old-original',category:'旧分類',question:'旧問題'}]}))});
  const page=await ctx.newPage(),errors=[];page.on('pageerror',e=>errors.push(e.message));
  await page.goto('http://127.0.0.1:8765');
- await page.waitForSelector('#premiumCategory');
+ await page.locator('#shiftSetup').evaluate(e=>e.open=true);await page.waitForSelector('#premiumCategory');
  let dailyId;
  assert.equal(await page.locator('.premium-setup #startDailyChallenge').count(),0);
  for(const exam of ['111','114','115']){
@@ -82,3 +82,4 @@ const {chromium}=require('C:/Users/sa1j0/.cache/codex-runtimes/codex-primary-run
  assert.deepEqual(errors,[]);console.log(JSON.stringify({passed:true,...counts,...result,browserErrors:errors},null,2));
  }finally{await browser.close()}
 })().catch(error=>{console.error(error);process.exitCode=1});
+

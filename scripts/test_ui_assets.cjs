@@ -1,0 +1,11 @@
+const fs=require('node:fs'),path=require('node:path'),assert=require('node:assert/strict');
+const root=path.resolve(__dirname,'..'),html=fs.readFileSync(path.join(root,'index.html'),'utf8');
+const linked=[...html.matchAll(/(?:src|href)="([^"#]+)"/g)].map(m=>m[1]).filter(v=>!/^https?:/.test(v));
+const precached=[...fs.readFileSync(path.join(root,'sw.js'),'utf8').matchAll(/"(\.\/[^"?]*)(?:\?[^\"]*)?"/g)].map(m=>m[1]);
+for(const file of [...linked,...precached])assert(fs.existsSync(path.join(root,file.split('?')[0])),`Missing asset: ${file}`);
+for(const file of linked.filter(f=>/\.(css|js)(\?|$)/.test(f)))assert(precached.includes('./'+file.split('?')[0]),`Missing precache asset: ${file}`);
+const rootAssets=fs.readdirSync(root).filter(f=>/\.(css|js|svg)$/.test(f)&&f!=='sw.js');
+const unused=rootAssets.filter(f=>!linked.some(v=>v.split('?')[0]===f));
+assert.deepEqual(unused,[],'Review root files absent from entry point');
+for(const file of rootAssets.filter(f=>f.endsWith('.js')))new (require('node:vm').Script)(fs.readFileSync(path.join(root,file),'utf8'),{filename:file});
+console.log(`PASS: ${rootAssets.length} runtime files referenced; all local entry-point and service-worker paths resolve; JavaScript syntax valid. No provably unused root assets to remove.`);

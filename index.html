@@ -2,7 +2,7 @@
 <html lang="ja">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
   <meta name="description" content="判断ミスが自分の症状として返ってくる、看護師国家試験対策ゲーム">
   <meta name="theme-color" content="#071b20">
   <link rel="manifest" href="manifest.webmanifest">
@@ -23,8 +23,8 @@
   <link rel="stylesheet" href="luxury-ui.css">
   <link rel="stylesheet" href="question-source.css?v=72">
   <link rel="stylesheet" href="projection.css">
-  <link rel="stylesheet" href="ui-polish.css?v=74">
   <link rel="stylesheet" href="battle.css?v=75">
+  <link rel="stylesheet" href="ui-polish.css?v=76">
 </head>
 <body>
   <div class="noise"></div>
@@ -36,7 +36,7 @@
         <p class="title-kicker"><i></i> NURSING EXAM × SURVIVAL</p>
         <h1><span>RE:</span>CARE</h1><p class="title-jp">逆流病棟</p>
         <p class="title-lead">患者の状況を、自分に投影してしまう看護師。<br>正しい判断で、自分を見失わずに夜勤を終えろ。</p>
-        <div class="title-actions"><button class="start-btn" id="startGame"><small>NEW SHIFT</small>夜勤を開始する <b>→</b></button><button class="how-btn" id="howButton">遊び方・ご利用上の注意</button></div>
+        <div class="title-actions"><button class="start-btn" id="startGame"><small>START / NEW SHIFT</small>夜勤を開始する <b>→</b></button><button class="how-btn" id="howButton">遊び方・ご利用上の注意</button></div>
         <div class="last-result" id="lastResult"><span>LAST RECORD</span><b>記録なし</b></div>
       </div>
       <div class="title-visual">
@@ -211,13 +211,14 @@
   <script src="cloud-sync.js?v=69"></script>
   <script src="auth.js"></script>
   <script src="premium.js?v=72"></script>
-  <script src="polish.js"></script>
+  <script src="polish.js?v=76"></script>
   <script src="mypage.js?v=72"></script>
   <script src="admin-play.js?v=72"></script>
   <script src="shift-navigation.js"></script>
   <script src="challenge-modes.js"></script>
   <script src="question-source.js?v=74"></script>
-  <script src="ui-polish.js"></script>
   <script src="battle.js?v=75"></script>
+  <script src="ui-polish.js?v=76"></script>
 </body>
 </html>
+
